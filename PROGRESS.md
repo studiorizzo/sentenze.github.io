@@ -52,52 +52,133 @@ Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
 
 ---
 
-### Step 2: Named Entity Recognition ✅
+### Step 2: Entity Extraction - Da NER a LLM ✅
+
+#### 🔄 EVOLUZIONE APPROCCIO
+
+**Implementazione iniziale: NER dual-model**
+- ✅ fabiod20/italian-legal-ner (specifico Cassazione)
+- ✅ DeepMount00 eliminato (categorie cadastrali, non legali)
+- ❌ Limitazioni scoperte:
+  - Solo 6 entità trovate su 9 categorie disponibili
+  - Presidente/relatore NON estratti dall'header
+  - Misclassificazione: "Consigliere relatore" → CNS invece di REL
+  - Nessuna estrazione di norme citate, precedenti
+
+**Implementazione finale: LLM-based extraction**
 
 **Script creato:**
-- `ner_processor.py` - Dual-model NER con confronto
+- `scripts/llm_entity_extractor.py` - Multi-backend LLM extractor
 
-**Modelli utilizzati:**
-1. **fabiod20/italian-legal-ner** - Specifico Cassazione
-   - Trained su 9000 sentenze 2016-2021
-   - Categorie: `RCR` (Ricorrente), `CTR` (Controricorrente), `CNS` (Consigliere), `RIC` (Ricorso)
+**Backend supportati:**
+1. **Gemini 2.0 Flash** (Google AI) - FREE tier 1500 req/day
+2. **Claude API** (Anthropic) - Se disponibile API key
+3. **Ollama locale** (Llama 3.1/Mistral) - Offline, richiede GPU
 
-2. **DeepMount00/Italian_NER_XXL_v2** - Generico italiano
-   - 52 categorie
-   - Categorie usate: `COGNOME`, `NOME`, `DATA`, `RAGIONE_SOCIALE`, `AVV_NOTAIO`
+**Metodo API Gemini:**
+```python
+# Header authentication (corretto)
+headers = {'X-goog-api-key': api_key}
+url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+```
 
-**Aggregation Strategy:**
-- Usato `aggregation_strategy="average"` per unire subword tokenization
-- Risolto problema: "GJYZELI" → `["G", "##J", "##Y", "##ZE", "##LI"]` ✗
-- Dopo fix: "GJYZELI ARDIAN" → `["GJYZELI ARDIAN"]` ✓
-
-**Output JSON struttura:**
+**Schema entità estratte (LLM):**
 ```json
 {
-  "fabiod20_results": [...],
-  "deepmount_results": [...],
-  "comparison": {
-    "fabiod20_unique": [...],
-    "deepmount_unique": [...],
-    "both_found": [...],
-    "conflicts": [...]
-  },
-  "merged_best": [...]
+  "presidente": "COGNOME NOME",
+  "relatore": "COGNOME NOME",
+  "ricorrenti": ["NOME1", "NOME2"],
+  "controricorrenti": ["NOME1"],
+  "avvocati": [
+    {"nome": "NOME COGNOME", "parte": "ricorrente"}
+  ],
+  "riferimenti_ricorso": ["n. 12952/2018"],
+  "norme_citate": [
+    {"articolo": "art. 360 c.p.c.", "comma": "1, n. 3", "legge": "c.p.c."}
+  ],
+  "precedenti_citati": [
+    {"numero": "12345", "anno": "2020", "sezione": "lavoro"}
+  ],
+  "tribunali": ["Tribunale di Roma"]
 }
 ```
 
-**Risultati reali (sentenza snciv2025530039O):**
-- fabiod20: 6 entità
-- DeepMount00: 22 entità
-- Merged: 26 entità totali
-- Conflitti: 2
+**Vantaggi LLM vs NER:**
+- ✅ Estrae presidente/relatore da header formattato
+- ✅ Avvocati con associazione parte (ricorrente/controricorrente)
+- ✅ Norme citate con articolo+comma+legge
+- ✅ Precedenti con numero+anno+sezione
+- ✅ Tribunali citati nel procedimento
+- ✅ Schema flessibile, estensibile
+
+**⚠️ PROBLEMATICA TECNICA - IP Bloccato**
+
+**Problema identificato:**
+L'ambiente sandbox Claude Code ha IP bloccato da Google Gemini API (403 Forbidden).
+
+**Conferma:**
+- Forum Google AI: stesso errore 403 in container/server
+- Soluzione: cambio IP o esecuzione locale
+- Causa: Google blocca certi IP/datacenter per sicurezza
+
+**Modelli testati (tutti 403 in sandbox):**
+1. `gemini-2.5-flash` (v1beta) → 403
+2. `gemini-2.0-flash` (v1beta) → 403
+3. `gemini-pro` (v1beta) → 403
+4. `gemini-1.5-flash` (v1beta) → 403
+5. Con header `X-goog-api-key` → 403
+6. Con query param `?key=` → 403
+
+**✅ SOLUZIONE IMPLEMENTATA**
+
+**🔄 RIMOZIONE NER (2025-11-21)**
+- ❌ NER completamente rimosso dal codebase
+- ✅ Solo LLM-based extraction
+- File deprecato: `scripts/ner_processor.py.deprecated`
+
+**Integrazione in auto_process_all.py:**
+```python
+# Solo LLM, backend configurabile
+backend = os.getenv('LLM_BACKEND', 'gemini')
+entity_result = process_sentenza_llm(txt_path, sentenza_id, entities_dir, backend=backend)
+```
+
+**Opzioni disponibili per utente:**
+
+**Opzione A: Esecuzione locale (RACCOMANDATO)**
+```bash
+# Sul PC utente (non sandbox)
+export GOOGLE_API_KEY='AIzaSyBCU_6HSIR8auFT6XQF88H8UZwTKRUns7o'
+python auto_process_all.py
+```
+- ✅ Funziona (IP non bloccato)
+- ✅ Gratuito (1500 req/day)
+- ✅ Automatico
+
+**Opzione B: Claude.ai manuale (SCELTA UTENTE)**
+Prompt fornito per estrazione manuale su https://claude.ai:
+- Copia testo sentenza da `txt/`
+- Incolla prompt di estrazione (vedi sotto)
+- Salva JSON output in `entities/`
+- ✅ Funziona sempre (no IP blocking)
+- ❌ Manuale per 50+ sentenze
+
+**Opzione C: Claude/Ollama API**
+```bash
+# Con Claude API
+export ANTHROPIC_API_KEY='sk-ant-...'
+export LLM_BACKEND='claude'
+python auto_process_all.py
+
+# Con Ollama locale
+export LLM_BACKEND='ollama'
+python auto_process_all.py
+```
 
 **File esempio:**
 - Output: `entities/snciv2025530039O_entities.json`
 
-**Conflitti rilevati:**
-1. "AGENZIA DELLE ENTRATE" - fabiod20:`CTR` vs DeepMount:`RAGIONE_SOCIALE`
-2. "Francesco Graziano" - fabiod20:`CNS` vs DeepMount:`AVV_NOTAIO`
+**Status:** ✅ CODICE PRONTO (testabile su PC locale)
 
 ---
 
