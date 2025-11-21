@@ -99,7 +99,8 @@ class EmbeddingsGenerator:
 
 
 def process_sentenza_embeddings(chunks_path: Path, sentenza_id: str,
-                                output_dir: Path, use_both: bool = False) -> Dict:
+                                output_dir: Path, use_both: bool = False,
+                                force_regenerate: bool = False) -> Dict:
     """
     Processa una sentenza e genera embeddings
 
@@ -108,16 +109,37 @@ def process_sentenza_embeddings(chunks_path: Path, sentenza_id: str,
         sentenza_id: ID sentenza
         output_dir: Directory output
         use_both: Se True usa semantic+fixed chunks
+        force_regenerate: Se True rigenera anche se embeddings esistono
 
     Returns:
         Statistiche embeddings
     """
+    output_path = output_dir / f"{sentenza_id}_embeddings.npz"
+
+    # CHECK TIMESTAMP: Rigenera se chunks più recente di embeddings
+    if output_path.exists() and not force_regenerate:
+        chunks_mtime = chunks_path.stat().st_mtime
+        embeddings_mtime = output_path.stat().st_mtime
+
+        if chunks_mtime <= embeddings_mtime:
+            print(f"⏭️  Embeddings già aggiornati per {sentenza_id} (skip)")
+            return {
+                'sentenza_id': sentenza_id,
+                'num_chunks': 'N/A',
+                'embedding_dim': 768,
+                'model_name': 'cached',
+                'output_file': str(output_path),
+                'file_size': output_path.stat().st_size,
+                'status': 'cached'
+            }
+        else:
+            print(f"⚠️  Chunks modificati dopo embeddings - RIGENERAZIONE necessaria")
+
     # Genera embeddings
     generator = EmbeddingsGenerator()
     results = generator.generate_embeddings(chunks_path, use_both=use_both)
 
     # Salva
-    output_path = output_dir / f"{sentenza_id}_embeddings.npz"
     generator.save_embeddings(results, output_path)
 
     return {
@@ -126,7 +148,8 @@ def process_sentenza_embeddings(chunks_path: Path, sentenza_id: str,
         'embedding_dim': results['embedding_dim'],
         'model_name': results['model_name'],
         'output_file': str(output_path),
-        'file_size': output_path.stat().st_size
+        'file_size': output_path.stat().st_size,
+        'status': 'generated'
     }
 
 
