@@ -187,8 +187,13 @@ Rispondi SOLO con il JSON, senza altre spiegazioni."""
 
     def _extract_gemini(self, prompt: str) -> str:
         """Estrae usando Gemini REST API"""
-        # Usa v1beta come da documentazione ufficiale
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={self.api_key}"
+        # API key va nell'header X-goog-api-key, non nell'URL
+        url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+
+        headers = {
+            'Content-Type': 'application/json',
+            'X-goog-api-key': self.api_key
+        }
 
         payload = {
             "contents": [{
@@ -196,7 +201,7 @@ Rispondi SOLO con il JSON, senza altre spiegazioni."""
             }]
         }
 
-        response = self.client.post(url, json=payload)
+        response = self.client.post(url, headers=headers, json=payload)
         response.raise_for_status()
 
         result = response.json()
