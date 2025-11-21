@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <judgment name="sentenza">
+    <meta>
+      <identification source="#source">
+        <FRBRWork>
+          <FRBRthis value="/akn/it/judgment/cassazione/2025/30039/ita@"/>
+          <FRBRuri value="/akn/it/judgment/cassazione/2025/30039/ita@"/>
+          <FRBRdate date="2025-11-13" name="decisione"/>
+          <FRBRauthor href="#cassazione"/>
+          <FRBRcountry value="it"/>
+        </FRBRWork>
+      </identification>
+      <publication date="2025-11-13" name="Pubblicazione" number="30039"/>
+      <references source="#source">
+        <TLCOrganization eId="cassazione" href="/ontology/organization/it/cassazione" showAs="Corte Suprema di Cassazione"/>
+        <TLCPerson eId="fuochi_tinarelli_giuseppe" href="/ontology/person/it/fuochi_tinarelli_giuseppe" showAs="FUOCHI TINARELLI GIUSEPPE"/>
+        <TLCPerson eId="graziano_francesco" href="/ontology/person/it/graziano_francesco" showAs="GRAZIANO FRANCESCO"/>
+        <TLCPerson eId="ricorrente_gjyzeli_ardian" href="/ontology/person/it/gjyzeli_ardian" showAs="GJYZELI ARDIAN"/>
+        <TLCPerson eId="controricorrente_agenzia_delle_entrate" href="/ontology/agenzia_delle_entrate" showAs="AGENZIA DELLE ENTRATE"/>
+      </references>
+    </meta>
+    <header>
+      <court refersTo="#cassazione">Corte Suprema di Cassazione</court>
+      <section>Sezione 5</section>
+      <judges>
+        <judge refersTo="#fuochi_tinarelli_giuseppe" as_="#presidente">FUOCHI TINARELLI GIUSEPPE</judge>
+        <judge refersTo="#graziano_francesco" as_="#relatore">GRAZIANO FRANCESCO</judge>
+      </judges>
+      <parties>
+        <party refersTo="#ricorrente_gjyzeli_ardian" as_="#ricorrente">GJYZELI ARDIAN</party>
+      </parties>
+      <docketNumber>R.G. n. 12952/2018</docketNumber>
+    </header>
+    <judgmentBody>
+      <introduction>
+        <p>FATTI DI CAUSA
+1.- In punto di fatto e limitando l’esposizione alle sole circostanze
+rilevanti in questa sede, si osserva che l’Agenzia delle Entrate emetteva
+avviso di accertamento per l’anno d’imposta 2007, a carico del
+contribuente Gjyzeli Ardian, che svolge attività di lavori di completamento
+e finitura di edifici, accertando un maggior reddito per imposte dirette e
+IVA. Nel ricorso introduttivo del giudizio di primo grado, dunque, il
+contribuente contestava il mancato riconoscimento dell’IV...</p>
+      </introduction>
+      <motivation>
+        <point>
+          <p>RAGIONI DELLA DECISIONE
+1.- Con il primo motivo, il ricorrente denuncia, ai sensi dell’art. 360,
+comma 1, n. 4), c.p.c., la nullità della sentenza impugnata, per la sua
+motivazione apparente, deducendo la violazione dell’art. 36 del d.lgs. n.
+546 del 1992 e dell’art. 112 c.p.c.
+Sostiene, in particolare, che nella motivazione della sentenza
+impugnata mancherebbero l’indicazione dei fatti rilevanti, l’esplicazione
+della pretesa impositiva e delle contestazioni della controparte e
+3
+
+--- Pagina 4 -...</p>
+        </point>
+      </motivation>
+      <decision>
+        <p>P.Q.M.
+La Corte Suprema di Cassazione
+Rigetta il ricorso e condanna il ricorrente al pagamento, in favore della
+controricorrente, delle spese del presente giudizio di legittimità, che si
+liquidano in complessivi €. 5.900,00 (euro cinquemilanovecento/00), oltre
+spese prenotate a debito.
+Ai sensi dell’art. 13, comma 1-quater, del d.P.R. n. 115 del 2002, dà
+atto della sussistenza dei presupposti processuali per il versamento, da
+parte del ricorrente, di un ulteriore importo a titolo di contributo unificato
+pari a quello previsto per il ricorso a norma del comma 1-bis dello stesso
+art. 13, se dovuto.
+Così deciso in Roma, in data 8 luglio 2025.
+Il Presidente
+Giuseppe Fuochi Tinarelli
+12</p>
+      </decision>
+    </judgmentBody>
+    <conclusions>
+      <signature refersTo="#graziano_francesco">GRAZIANO FRANCESCO</signature>
+      <location>Roma</location>
+      <date date="2025-11-13">13/11/2025</date>
+    </conclusions>
+  </judgment>
+</akomaNtoso>
