@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 PROCESSORE AUTOMATICO COMPLETO
-Pipeline completa: HTML → Metadata → TXT → NER → XML → Chunks → Embeddings → Markdown
+Pipeline completa: HTML → Metadata → TXT → LLM Entities → XML → Chunks → Embeddings → Markdown
 """
 
 import sys
@@ -9,11 +9,12 @@ sys.path.insert(0, 'scripts')
 
 from pathlib import Path
 import json
+import os
 
 # Import step processors
 from html_metadata_extractor import process_all_html, extract_sentenze_from_html
 from final_pdf_extractor import process_single_pdf
-from ner_processor import process_sentenza_ner
+from llm_entity_extractor import process_sentenza_llm
 from akoma_ntoso_generator import process_sentenza_akoma_ntoso
 from chunking_processor import process_sentenza_chunking
 from embeddings_generator import process_sentenza_embeddings
@@ -24,6 +25,26 @@ def main():
     print("="*80)
     print("PROCESSORE AUTOMATICO COMPLETO - Pipeline 7 Steps")
     print("="*80)
+    print()
+
+    # Determina backend LLM per estrazione entità
+    backend = os.getenv('LLM_BACKEND', 'gemini')
+    has_api_key = bool(os.getenv('GOOGLE_API_KEY') or os.getenv('ANTHROPIC_API_KEY') or backend == 'ollama')
+
+    print(f"🤖 Metodo estrazione entità: LLM")
+    print(f"   Backend: {backend}")
+
+    if not has_api_key:
+        print()
+        print("⚠️  ATTENZIONE: Nessuna API key configurata!")
+        print("   Per usare l'estrazione automatica, configura:")
+        print("     - Gemini:  export GOOGLE_API_KEY='...'")
+        print("     - Claude:  export ANTHROPIC_API_KEY='sk-ant-...'")
+        print("     - Ollama:  export LLM_BACKEND='ollama' (locale)")
+        print()
+        print("   Puoi comunque estrarre entità manualmente con Claude.ai")
+        print("   usando il prompt in PROGRESS.md")
+        print()
     print()
 
     # Directory
@@ -106,12 +127,12 @@ def main():
             txt_result = process_single_pdf(str(matching_pdf), sentenza_id, str(Path.cwd()))
             txt_path = Path(txt_result['txt_file'])
 
-            # Step 2: TXT → NER
-            print(f"   → Step 2: NER extraction...")
-            ner_result = process_sentenza_ner(txt_path, sentenza_id, entities_dir)
-            entities_path = Path(ner_result['output_file'])
+            # Step 2: TXT → Entities (LLM)
+            print(f"   → Step 2: LLM entity extraction...")
+            entity_result = process_sentenza_llm(txt_path, sentenza_id, entities_dir, backend=backend)
+            entities_path = Path(entity_result['output_file'])
 
-            # Step 3: TXT + NER → Akoma Ntoso XML
+            # Step 3: TXT + Entities → Akoma Ntoso XML
             print(f"   → Step 3: Akoma Ntoso XML...")
             xml_result = process_sentenza_akoma_ntoso(txt_path, entities_path, sentenza_id, akoma_dir)
 
@@ -124,7 +145,7 @@ def main():
             print(f"   → Step 5: Embeddings...")
             embeddings_result = process_sentenza_embeddings(chunks_path, sentenza_id, embeddings_dir, use_both=False)
 
-            # Step 7: TXT + NER + Chunks → Markdown AI
+            # Step 7: TXT + Entities + Chunks → Markdown AI
             print(f"   → Step 7: Markdown AI...")
             markdown_result = process_sentenza_markdown(txt_path, entities_path, chunks_path, sentenza_id, markdown_dir)
 
