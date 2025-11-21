@@ -187,7 +187,8 @@ Rispondi SOLO con il JSON, senza altre spiegazioni."""
 
     def _extract_gemini(self, prompt: str) -> str:
         """Estrae usando Gemini REST API"""
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={self.api_key}"
+        # Usa il nome modello aggiornato: gemini-flash-latest
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={self.api_key}"
 
         payload = {
             "contents": [{
