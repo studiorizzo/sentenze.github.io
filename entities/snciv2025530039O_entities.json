@@ -1,54 +1,13 @@
 {
-  "model": "fabiod20/italian-legal-ner",
-  "entities": [
-    {
-      "entity_group": "RIC",
-      "score": 0.7901154160499573,
-      "word": "iscritto al n. 12952 / 2018",
-      "start": 440,
-      "end": 465,
-      "label_extended": "Riferimento Ricorso"
-    },
-    {
-      "entity_group": "RCR",
-      "score": 0.9981436729431152,
-      "word": "GJYZELI ARDIAN",
-      "start": 485,
-      "end": 499,
-      "label_extended": "Ricorrente"
-    },
-    {
-      "entity_group": "AVV",
-      "score": 0.9990845918655396,
-      "word": "Paolo Maria Federico Candida",
-      "start": 576,
-      "end": 604,
-      "label_extended": "Avvocato"
-    },
-    {
-      "entity_group": "CTR",
-      "score": 0.9985234141349792,
-      "word": "AGENZIA DELLE ENTRATE",
-      "start": 661,
-      "end": 682,
-      "label_extended": "Controricorrente"
-    },
-    {
-      "entity_group": "AVV",
-      "score": 0.9992443323135376,
-      "word": "Avvocatura Generale dello Stato",
-      "start": 780,
-      "end": 811,
-      "label_extended": "Avvocato"
-    },
-    {
-      "entity_group": "CNS",
-      "score": 0.9958075881004333,
-      "word": "Francesco Graziano",
-      "start": 1195,
-      "end": 1213,
-      "label_extended": "Consigliere/Giudice"
-    }
-  ],
-  "count": 6
+  "presidente": null,
+  "relatore": null,
+  "ricorrenti": [],
+  "controricorrenti": [],
+  "avvocati": [],
+  "riferimenti_ricorso": [],
+  "norme_citate": [],
+  "precedenti_citati": [],
+  "tribunali": [],
+  "extraction_method": "llm_gemini_failed",
+  "count": 0
 }

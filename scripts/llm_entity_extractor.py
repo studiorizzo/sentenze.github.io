@@ -56,23 +56,20 @@ class LLMEntityExtractor:
             raise ImportError("Installa: pip install anthropic")
 
     def _init_gemini(self):
-        """Inizializza Gemini API (FREE tier: 1500 req/day)"""
-        try:
-            import google.generativeai as genai
-            api_key = os.getenv("GOOGLE_API_KEY")
-            if not api_key:
-                print("\n⚠️  GOOGLE_API_KEY non trovata!")
-                print("Per usare Gemini FREE tier:")
-                print("1. Vai su https://makersuite.google.com/app/apikey")
-                print("2. Crea API key gratuita")
-                print("3. Export: export GOOGLE_API_KEY='...'")
-                raise ValueError("GOOGLE_API_KEY richiesta")
+        """Inizializza Gemini API (FREE tier: 1500 req/day) usando REST API"""
+        import requests
+        api_key = os.getenv("GOOGLE_API_KEY")
+        if not api_key:
+            print("\n⚠️  GOOGLE_API_KEY non trovata!")
+            print("Per usare Gemini FREE tier:")
+            print("1. Vai su https://aistudio.google.com/app/apikey")
+            print("2. Crea API key gratuita")
+            print("3. Export: export GOOGLE_API_KEY='...'")
+            raise ValueError("GOOGLE_API_KEY richiesta")
 
-            genai.configure(api_key=api_key)
-            self.client = genai.GenerativeModel('gemini-1.5-flash')
-            print("  → Gemini 1.5 Flash (FREE tier: 1500 req/day)")
-        except ImportError:
-            raise ImportError("Installa: pip install google-generativeai")
+        self.api_key = api_key
+        self.client = requests.Session()  # Usa HTTP REST diretto
+        print("  → Gemini 1.5 Flash REST API (FREE tier: 1500 req/day)")
 
     def _init_ollama(self):
         """Inizializza Ollama locale"""
@@ -189,9 +186,20 @@ Rispondi SOLO con il JSON, senza altre spiegazioni."""
         return message.content[0].text
 
     def _extract_gemini(self, prompt: str) -> str:
-        """Estrae usando Gemini API"""
-        response = self.client.generate_content(prompt)
-        return response.text
+        """Estrae usando Gemini REST API"""
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={self.api_key}"
+
+        payload = {
+            "contents": [{
+                "parts": [{"text": prompt}]
+            }]
+        }
+
+        response = self.client.post(url, json=payload)
+        response.raise_for_status()
+
+        result = response.json()
+        return result['candidates'][0]['content']['parts'][0]['text']
 
     def _extract_ollama(self, prompt: str) -> str:
         """Estrae usando Ollama locale"""
