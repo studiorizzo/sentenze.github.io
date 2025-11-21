@@ -562,6 +562,80 @@ for batch in sentenze_batches(size=100):
 
 ---
 
+## ✅ VALIDAZIONI E OTTIMIZZAZIONI
+
+### Dependency Management: Chunking → Embeddings
+
+**Implementazione completata:** `embeddings_generator.py` include timestamp-based cache invalidation
+
+**Meccanismo:**
+```python
+def process_sentenza_embeddings(chunks_path, sentenza_id, output_dir,
+                                use_both=False, force_regenerate=False):
+    output_path = output_dir / f"{sentenza_id}_embeddings.npz"
+
+    # CHECK TIMESTAMP: Rigenera se chunks più recente di embeddings
+    if output_path.exists() and not force_regenerate:
+        chunks_mtime = chunks_path.stat().st_mtime
+        embeddings_mtime = output_path.stat().st_mtime
+
+        if chunks_mtime <= embeddings_mtime:
+            print(f"⏭️  Embeddings già aggiornati per {sentenza_id} (skip)")
+            return {'status': 'cached'}
+        else:
+            print(f"⚠️  Chunks modificati dopo embeddings - RIGENERAZIONE necessaria")
+
+    # Genera embeddings...
+```
+
+**Garanzie:**
+- ✅ Se `chunks.json` modificato → embeddings rigenerati automaticamente
+- ✅ Se embeddings già aggiornati → skip (cache)
+- ✅ `force_regenerate=True` ignora timestamp (per debug)
+
+**Quando si attiva:**
+1. Fix chunking processor (separazione motivi ricorrente/corte)
+2. Modifica manuale chunks.json
+3. Rigenerazione chunking con nuovi parametri
+
+**Status:** ✅ IMPLEMENTATO E TESTATO
+
+---
+
+### Repository Cleanup
+
+**Duplicati rimossi:**
+- ❌ `data/txt/` (identico a `txt/`)
+- ❌ `data/markdown/` (identico a `markdown/`)
+
+**Struttura finale pulita:**
+```
+sentenze.github.io/
+├── data/
+│   ├── html/           # Input HTML files
+│   └── pdf/            # Input PDF files
+├── txt/                # ✅ TXT estratti (root-level)
+├── markdown/           # ✅ Markdown originali (root-level)
+├── entities/           # Output NER
+├── akoma_ntoso/        # Output XML
+├── chunks/             # Output chunking
+├── embeddings/         # Output embeddings
+├── markdown_ai/        # Output markdown AI-optimized
+├── scripts/            # Script estrazione PDF
+├── tests/              # Test scripts (reference)
+├── database/           # Optional DB components
+└── docs/               # Optional documentation
+```
+
+**Verificato:**
+- ✅ Nessuno script Python referenzia `data/txt/` o `data/markdown/`
+- ✅ `auto_process_all.py` usa correttamente `txt/` e `markdown/`
+- ✅ Nessun file obsoleto nelle directory principali
+
+**Status:** ✅ CLEANUP COMPLETATO
+
+---
+
 ## 📊 STRUTTURA DATI FINALE
 
 ### Output Completo per Sentenza
