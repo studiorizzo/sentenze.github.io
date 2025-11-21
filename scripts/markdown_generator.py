@@ -103,11 +103,11 @@ class MarkdownGenerator:
                 metadata['oggetto'] = line.split('Oggetto:')[1].strip()
 
         # Estrai parti da entities
-        merged = entities.get('merged_best', [])
-        for entity in merged:
+        entity_list = entities.get('entities', [])
+        for entity in entity_list:
             if entity['entity_group'] == 'RCR':
                 metadata['ricorrente'] = entity['word']
-            elif entity['entity_group'] in ['CTR', 'RAGIONE_SOCIALE']:
+            elif entity['entity_group'] == 'CTR':
                 metadata['controricorrente'] = entity['word']
 
         # Estrai esito dal dispositivo
@@ -267,26 +267,25 @@ class MarkdownGenerator:
             lines.append("## 🎯 Dispositivo\n")
             lines.append(dispositivo_chunk['content'] + "\n")
 
-        # Entità estratte - COMPLETO CON TUTTE LE CATEGORIE
+        # Entità estratte (fabiod20 legal-specific)
         lines.append("## 🔗 Entità Estratte (NER)\n")
 
-        merged = entities.get('merged_best', [])
+        entity_list = entities.get('entities', [])
 
-        # Raggruppa per tipo - TUTTE LE CATEGORIE
+        # Raggruppa per tipo (solo categorie fabiod20)
         entity_groups = {
             'RCR': [],
             'CTR': [],
             'AVV': [],
             'CNS': [],
-            'COGNOME': [],
-            'NOME': [],
-            'RAGIONE_SOCIALE': [],
-            'DATA': [],
             'RIC': [],
-            'AVV_NOTAIO': []
+            'GIU': [],
+            'PRE': [],
+            'REL': [],
+            'TRI': []
         }
 
-        for e in merged:
+        for e in entity_list:
             entity_type = e['entity_group']
             if entity_type in entity_groups:
                 entity_groups[entity_type].append(e['word'])
@@ -296,27 +295,26 @@ class MarkdownGenerator:
             lines.append(f"**Ricorrente**: {', '.join(set(entity_groups['RCR']))}  ")
 
         if entity_groups['CTR']:
-            lines.append(f"**Controricorrente (Parte)**: {', '.join(set(entity_groups['CTR']))}  ")
-
-        if entity_groups['RAGIONE_SOCIALE']:
-            lines.append(f"**Organizzazioni**: {', '.join(set(entity_groups['RAGIONE_SOCIALE']))}  ")
+            lines.append(f"**Controricorrente**: {', '.join(set(entity_groups['CTR']))}  ")
 
         if entity_groups['AVV']:
             lines.append(f"**Avvocati**: {', '.join(set(entity_groups['AVV']))}  ")
 
-        # Giudici (da CNS o COGNOME+NOME)
-        giudici = list(set(entity_groups['CNS'] + entity_groups['COGNOME'] + entity_groups['NOME']))
-        if giudici:
-            lines.append(f"**Giudici/Consiglieri**: {', '.join(giudici[:10])}  ")
+        if entity_groups['CNS'] or entity_groups['GIU']:
+            giudici = list(set(entity_groups['CNS'] + entity_groups['GIU']))
+            lines.append(f"**Giudici/Consiglieri**: {', '.join(giudici)}  ")
 
-        if entity_groups['DATA']:
-            lines.append(f"**Date rilevanti**: {', '.join(set(entity_groups['DATA']))}  ")
+        if entity_groups['PRE']:
+            lines.append(f"**Presidente**: {', '.join(set(entity_groups['PRE']))}  ")
+
+        if entity_groups['REL']:
+            lines.append(f"**Relatore**: {', '.join(set(entity_groups['REL']))}  ")
 
         if entity_groups['RIC']:
             lines.append(f"**Riferimenti registro**: {', '.join(set(entity_groups['RIC']))}  ")
 
-        if entity_groups['AVV_NOTAIO']:
-            lines.append(f"**Avv./Notai**: {', '.join(set(entity_groups['AVV_NOTAIO']))}  ")
+        if entity_groups['TRI']:
+            lines.append(f"**Tribunali**: {', '.join(set(entity_groups['TRI']))}  ")
 
         lines.append("\n---\n")
         lines.append("*Documento generato automaticamente | Fonte: Corte Suprema di Cassazione*")
