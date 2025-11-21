@@ -103,21 +103,80 @@ Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
 
 ## 🔄 STEP IN CORSO
 
-### Step 3: Akoma Ntoso XML (versione PRAGMATICA)
+### Step 3: Akoma Ntoso XML ✅
 
-**Livello scelto:** MEDIO (bilanciato)
+**Script creato:**
+- `akoma_ntoso_generator.py` - Generatore XML standard OASIS LegalDocML v3.0
 
-**Elementi da implementare:**
-- ✅ Meta/Identification: FRBRWork base con URI
-- ✅ References: entità principali (giudici, parti, corti)
-- ✅ Header: court, judges, parties, docket number
-- ✅ JudgmentBody: introduction + motivation + decision
-- ⚠️ Lifecycle: solo se date certe
-- ⚠️ Classification: solo se keywords chiare
-- ⚠️ Citations: solo precedenti con alta confidenza
+**Livello implementato:** MEDIO (bilanciato)
 
-**Output atteso:**
-- `akoma_ntoso/{nome}_akoma_ntoso.xml`
+**Elementi implementati:**
+- ✅ Meta/Identification: FRBRWork base con URI `/akn/it/judgment/cassazione/ANNO/NUMERO`
+- ✅ Publication: data + numero sentenza
+- ✅ References: TLCPerson (giudici, parti), TLCOrganization (Cassazione, enti)
+- ✅ Header completo: court, section, judges, parties, docket number
+- ✅ JudgmentBody: introduction (fatti), motivation (ragioni), decision (P.Q.M.)
+- ✅ Conclusions: signature, location, date
+
+**Elementi SCARTATI (per implementazione futura):**
+
+1. **FRBRExpression + FRBRManifestation** (Meta/Identification)
+   - Expression: versione linguistica/temporale con data
+   - Manifestation: formato fisico (.xml, .pdf)
+   - Motivo: Complessità FRBR alta, utilità limitata per AI
+   - Quando: Se necessario per interoperabilità europea
+
+2. **Classification + Keywords** (Meta)
+   - Keywords estratte: materia, topics, categorie
+   - Motivo: Richiede topic extraction ML separato
+   - Quando: **Step 7** (con embeddings per keywords automatiche)
+
+3. **Lifecycle** (Meta - eventi processuali)
+   - Eventi: generation (udienza), publication, efficacy
+   - Motivo: Date non sempre chiare, rischio errori
+   - Quando: Se necessario per timeline processuale
+
+4. **TLCConcept - Norme citate** (References)
+   - Articoli: `art. 360, comma 1, n. 5), c.p.c.`
+   - Leggi/DPR: `d.P.R. n. 633/1972`
+   - Motivo: Citation extraction complessa, alto rischio errori
+   - Quando: **Step 6** (Knowledge Graph - citations)
+
+5. **Precedenti citati con URI** (References)
+   - Citazioni: `Cass. Sez. 5, n. 25182/2020`
+   - URI: `/akn/it/judgment/cassazione/2020/25182`
+   - Motivo: Pattern matching sofisticato, mapping a DB
+   - Quando: **Step 6** (Knowledge Graph - precedenti)
+
+6. **Background** (JudgmentBody)
+   - Sezione: Svolgimento del processo
+   - Motivo: Difficile distinguere da "Fatti", non sempre presente
+   - Quando: Solo se euristica migliora
+
+**Euristica sezioni implementata:**
+- `FATTI DI CAUSA` → introduction
+- `RAGIONI DELLA DECISIONE` / `MOTIVI DELLA DECISIONE` → motivation
+- `P.Q.M.` → decision
+
+**File esempio:**
+- Output: `akoma_ntoso/snciv2025530039O_akoma_ntoso.xml` (3,592 bytes)
+- Validazione: ✅ Valid XML (xmllint)
+
+**Struttura XML generata:**
+```xml
+<akomaNtoso>
+  <judgment>
+    <meta>
+      <identification>FRBRWork</identification>
+      <publication/>
+      <references>5 entità</references>
+    </meta>
+    <header>court, judges, parties, docket</header>
+    <judgmentBody>intro, motivation, decision</judgmentBody>
+    <conclusions>signature, location, date</conclusions>
+  </judgment>
+</akomaNtoso>
+```
 
 ---
 
