@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 PROCESSORE AUTOMATICO COMPLETO
-Pipeline completa: HTML → Metadata → TXT → NER → XML → Chunks → Embeddings → Markdown
+Pipeline completa: HTML → Metadata → TXT → LLM/NER → XML → Chunks → Embeddings → Markdown
 """
 
 import sys
@@ -9,11 +9,13 @@ sys.path.insert(0, 'scripts')
 
 from pathlib import Path
 import json
+import os
 
 # Import step processors
 from html_metadata_extractor import process_all_html, extract_sentenze_from_html
 from final_pdf_extractor import process_single_pdf
 from ner_processor import process_sentenza_ner
+from llm_entity_extractor import process_sentenza_llm
 from akoma_ntoso_generator import process_sentenza_akoma_ntoso
 from chunking_processor import process_sentenza_chunking
 from embeddings_generator import process_sentenza_embeddings
@@ -24,6 +26,16 @@ def main():
     print("="*80)
     print("PROCESSORE AUTOMATICO COMPLETO - Pipeline 7 Steps")
     print("="*80)
+    print()
+
+    # Determina metodo estrazione entità
+    use_llm = bool(os.getenv('GOOGLE_API_KEY') or os.getenv('ANTHROPIC_API_KEY') or os.getenv('LLM_BACKEND') == 'ollama')
+    entity_method = "LLM" if use_llm else "NER"
+
+    print(f"🤖 Metodo estrazione entità: {entity_method}")
+    if use_llm:
+        backend = os.getenv('LLM_BACKEND', 'gemini')
+        print(f"   Backend: {backend}")
     print()
 
     # Directory
@@ -106,10 +118,16 @@ def main():
             txt_result = process_single_pdf(str(matching_pdf), sentenza_id, str(Path.cwd()))
             txt_path = Path(txt_result['txt_file'])
 
-            # Step 2: TXT → NER
-            print(f"   → Step 2: NER extraction...")
-            ner_result = process_sentenza_ner(txt_path, sentenza_id, entities_dir)
-            entities_path = Path(ner_result['output_file'])
+            # Step 2: TXT → Entities (LLM o NER)
+            if use_llm:
+                print(f"   → Step 2: LLM entity extraction...")
+                backend = os.getenv('LLM_BACKEND', 'gemini')
+                entity_result = process_sentenza_llm(txt_path, sentenza_id, entities_dir, backend=backend)
+            else:
+                print(f"   → Step 2: NER extraction...")
+                entity_result = process_sentenza_ner(txt_path, sentenza_id, entities_dir)
+
+            entities_path = Path(entity_result['output_file'])
 
             # Step 3: TXT + NER → Akoma Ntoso XML
             print(f"   → Step 3: Akoma Ntoso XML...")
