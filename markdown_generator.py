@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Markdown Generator - Step 7
-Genera Markdown AI-optimized con frontmatter YAML
+Markdown Generator - Step 7 (FIXED)
+Genera Markdown AI-optimized con frontmatter YAML - TESTO COMPLETO
 """
 
 import json
@@ -118,8 +118,11 @@ class MarkdownGenerator:
         else:
             metadata['esito'] = 'altro'
 
-        # Estrai spese
+        # Estrai spese (UTF-8 safe)
         spese_match = re.search(r'€\.\s*([\d.,]+)', text)
+        if not spese_match:
+            # Alternative pattern without dot
+            spese_match = re.search(r'€\s*([\d.,]+)', text)
         if spese_match:
             metadata['spese'] = f"€ {spese_match.group(1)}"
 
@@ -203,7 +206,7 @@ class MarkdownGenerator:
 
     def _build_body(self, metadata: Dict, chunks_data: Dict,
                     entities: Dict, text: str) -> str:
-        """Costruisce corpo Markdown"""
+        """Costruisce corpo Markdown - TESTO COMPLETO"""
 
         lines = []
 
@@ -228,59 +231,92 @@ class MarkdownGenerator:
             lines.append(f"**Controricorrente**: {metadata['controricorrente']}  ")
         lines.append("")
 
-        # Fatti di causa
+        # Fatti di causa - TESTO COMPLETO
         fatti_chunk = next((c for c in chunks_data['semantic_chunks'] if c['type'] == 'fatti'), None)
         if fatti_chunk:
             lines.append("## 📖 Fatti di Causa\n")
-            # Limita lunghezza per leggibilità
-            fatti_text = fatti_chunk['content'][:1500]
-            if len(fatti_chunk['content']) > 1500:
-                fatti_text += "...\n\n*[continua nel testo completo]*"
-            lines.append(fatti_text + "\n")
+            lines.append(fatti_chunk['content'] + "\n")
 
-        # Motivi del ricorso
+        # Motivi del ricorso - TESTO COMPLETO
         motivi_chunks = [c for c in chunks_data['semantic_chunks']
                         if c['type'].startswith('motivo_') and c['type'] != 'motivo']
 
         if motivi_chunks:
             lines.append("## ⚖️ Motivi e Valutazioni\n")
 
-            # TODO: Dopo fix chunking, dividere ricorrente/corte
-            # Per ora: ogni chunk come blocco unico
+            # Raggruppa per numero motivo se possibile
             for i, chunk in enumerate(motivi_chunks, 1):
                 motivo_num = chunk['type'].split('_')[-1]
-                lines.append(f"### Blocco Motivo {motivo_num}\n")
 
-                # Preview (primi 500 char)
-                content_preview = chunk['content'][:500]
-                if len(chunk['content']) > 500:
-                    content_preview += "...\n\n*[continua nel testo completo]*"
+                # Determina se è ricorrente o giudice (analisi euristica)
+                content_lower = chunk['content'][:200].lower()
+                if 'con il' in content_lower and 'motivo' in content_lower:
+                    tipo = "Motivo Ricorrente"
+                elif any(phrase in content_lower for phrase in ['la censura', 'il motivo', 'la doglianza', 'infondat', 'fondat']):
+                    tipo = "Valutazione Corte"
+                else:
+                    tipo = "Blocco"
 
-                lines.append(content_preview + "\n")
+                lines.append(f"### {tipo} {motivo_num}\n")
+                lines.append(chunk['content'] + "\n")
 
-        # Dispositivo
+        # Dispositivo - TESTO COMPLETO
         dispositivo_chunk = next((c for c in chunks_data['semantic_chunks']
                                  if c['type'] == 'dispositivo'), None)
         if dispositivo_chunk:
             lines.append("## 🎯 Dispositivo\n")
             lines.append(dispositivo_chunk['content'] + "\n")
 
-        # Precedenti citati (se presenti in frontmatter)
-        # (già nel YAML, opzionale ripeterli qui)
-
-        # Entità estratte
+        # Entità estratte - COMPLETO CON TUTTE LE CATEGORIE
         lines.append("## 🔗 Entità Estratte (NER)\n")
 
         merged = entities.get('merged_best', [])
 
-        # Raggruppa per tipo
-        giudici = [e['word'] for e in merged if e['entity_group'] in ['CNS', 'COGNOME', 'NOME']]
-        org = [e['word'] for e in merged if e['entity_group'] in ['RAGIONE_SOCIALE', 'CTR']]
+        # Raggruppa per tipo - TUTTE LE CATEGORIE
+        entity_groups = {
+            'RCR': [],
+            'CTR': [],
+            'AVV': [],
+            'CNS': [],
+            'COGNOME': [],
+            'NOME': [],
+            'RAGIONE_SOCIALE': [],
+            'DATA': [],
+            'RIC': [],
+            'AVV_NOTAIO': []
+        }
 
+        for e in merged:
+            entity_type = e['entity_group']
+            if entity_type in entity_groups:
+                entity_groups[entity_type].append(e['word'])
+
+        # Componi sezioni
+        if entity_groups['RCR']:
+            lines.append(f"**Ricorrente**: {', '.join(set(entity_groups['RCR']))}  ")
+
+        if entity_groups['CTR']:
+            lines.append(f"**Controricorrente (Parte)**: {', '.join(set(entity_groups['CTR']))}  ")
+
+        if entity_groups['RAGIONE_SOCIALE']:
+            lines.append(f"**Organizzazioni**: {', '.join(set(entity_groups['RAGIONE_SOCIALE']))}  ")
+
+        if entity_groups['AVV']:
+            lines.append(f"**Avvocati**: {', '.join(set(entity_groups['AVV']))}  ")
+
+        # Giudici (da CNS o COGNOME+NOME)
+        giudici = list(set(entity_groups['CNS'] + entity_groups['COGNOME'] + entity_groups['NOME']))
         if giudici:
-            lines.append(f"**Giudici/Persone**: {', '.join(set(giudici[:5]))}  ")
-        if org:
-            lines.append(f"**Organizzazioni**: {', '.join(set(org[:3]))}  ")
+            lines.append(f"**Giudici/Consiglieri**: {', '.join(giudici[:10])}  ")
+
+        if entity_groups['DATA']:
+            lines.append(f"**Date rilevanti**: {', '.join(set(entity_groups['DATA']))}  ")
+
+        if entity_groups['RIC']:
+            lines.append(f"**Riferimenti registro**: {', '.join(set(entity_groups['RIC']))}  ")
+
+        if entity_groups['AVV_NOTAIO']:
+            lines.append(f"**Avv./Notai**: {', '.join(set(entity_groups['AVV_NOTAIO']))}  ")
 
         lines.append("\n---\n")
         lines.append("*Documento generato automaticamente | Fonte: Corte Suprema di Cassazione*")
@@ -288,7 +324,7 @@ class MarkdownGenerator:
         return '\n'.join(lines)
 
     def save_markdown(self, markdown: str, output_path: Path):
-        """Salva Markdown"""
+        """Salva Markdown con encoding UTF-8"""
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(markdown)
         print(f"✓ Salvato: {output_path}")
@@ -330,7 +366,7 @@ def process_sentenza_markdown(txt_path: Path, entities_path: Path,
 
 if __name__ == '__main__':
     print("="*80)
-    print("MARKDOWN GENERATOR - Step 7 (AI-Optimized)")
+    print("MARKDOWN GENERATOR - Step 7 (FIXED - TESTO COMPLETO)")
     print("="*80)
     print()
 
@@ -370,7 +406,7 @@ if __name__ == '__main__':
             print(parts[1])
 
     print("\n" + "="*80)
-    print("PREVIEW BODY (primi 800 char):")
+    print("PREVIEW BODY (primi 1000 char):")
     print("="*80)
     body_start = content.find('---', 4) + 4
-    print(content[body_start:body_start+800] + "...")
+    print(content[body_start:body_start+1000] + "...")
