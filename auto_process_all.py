@@ -1,144 +1,163 @@
 #!/usr/bin/env python3
 """
-Script COMPLETAMENTE AUTOMATICO
-Processa tutti gli HTML e i PDF disponibili su GitHub
+PROCESSORE AUTOMATICO COMPLETO
+Pipeline completa: HTML → Metadata → TXT → NER → XML → Chunks → Embeddings → Markdown
 """
 
 import sys
 sys.path.insert(0, 'scripts')
 
 from pathlib import Path
-from bs4 import BeautifulSoup
-from final_pdf_extractor import process_single_pdf
 import json
 
-def extract_sentenze_from_html(html_path):
-    """Estrae metadata e link PDF dall'HTML"""
+# Import step processors
+from html_metadata_extractor import process_all_html, extract_sentenze_from_html
+from final_pdf_extractor import process_single_pdf
+from ner_processor import process_sentenza_ner
+from akoma_ntoso_generator import process_sentenza_akoma_ntoso
+from chunking_processor import process_sentenza_chunking
+from embeddings_generator import process_sentenza_embeddings
+from markdown_generator import process_sentenza_markdown
 
-    with open(html_path, 'r', encoding='utf-8') as f:
-        html_content = f.read()
-
-    soup = BeautifulSoup(html_content, 'html.parser')
-    cards = soup.find_all('div', class_='card')
-
-    sentenze = []
-    for card in cards:
-        # Estrai ID
-        id_elem = card.find('span', {'data-role': 'content', 'data-arg': 'id'})
-        if not id_elem:
-            continue
-
-        sentenza_id = id_elem.text.strip()
-
-        # Estrai PDF URL
-        pdf_elem = card.find('img', class_='pdf')
-        if not pdf_elem or 'data-arg' not in pdf_elem.attrs:
-            continue
-
-        pdf_path = pdf_elem['data-arg']
-        # Estrai il nome file dal path
-        # Es: /xway/.../snciv@s50@a2025@n30039@tO.clean.pdf
-        pdf_filename = pdf_path.split('/')[-1].replace('.clean.pdf', '')
-
-        sentenze.append({
-            'id': sentenza_id,
-            'pdf_filename': pdf_filename,
-        })
-
-    return sentenze
 
 def main():
     print("="*80)
-    print("PROCESSORE AUTOMATICO COMPLETO")
+    print("PROCESSORE AUTOMATICO COMPLETO - Pipeline 7 Steps")
     print("="*80)
     print()
 
     # Directory
     html_dir = Path('data/html')
     pdf_dir = Path('data/pdf')
+    metadata_dir = Path('metadata')
     txt_dir = Path('txt')
-    md_dir = Path('markdown')
+    entities_dir = Path('entities')
+    akoma_dir = Path('akoma_ntoso')
+    chunks_dir = Path('chunks')
+    embeddings_dir = Path('embeddings')
+    markdown_dir = Path('markdown_ai')
 
-    txt_dir.mkdir(exist_ok=True)
-    md_dir.mkdir(exist_ok=True)
+    # Crea directory output
+    for dir_path in [metadata_dir, txt_dir, entities_dir, akoma_dir,
+                      chunks_dir, embeddings_dir, markdown_dir]:
+        dir_path.mkdir(exist_ok=True)
 
-    # Trova tutti gli HTML
-    html_files = sorted(html_dir.glob('*.html'))
-    print(f"📂 Trovati {len(html_files)} file HTML")
+    # STEP 0: Estrai metadata da HTML
+    print("📋 STEP 0: Estrazione Metadata da HTML")
+    print("-"*80)
 
-    # Trova tutti i PDF disponibili
-    pdf_files = {p.stem: p for p in pdf_dir.glob('*.pdf')}
-    print(f"📂 Trovati {len(pdf_files)} file PDF disponibili")
+    metadata_stats = process_all_html(html_dir, metadata_dir)
+    print(f"✅ {metadata_stats['total_sentenze']} metadata estratti\n")
+
+    # Carica metadata
+    metadata_file = metadata_dir / "_all_sentenze.json"
+    with open(metadata_file, 'r', encoding='utf-8') as f:
+        all_sentenze = json.load(f)
+
+    # Trova PDFs disponibili
+    pdf_files = {p.stem.replace('_20251113_', '').replace('.clean', ''): p
+                 for p in pdf_dir.glob('*.pdf')}
+
+    print(f"📂 {len(all_sentenze)} sentenze con metadata")
+    print(f"📂 {len(pdf_files)} PDFs disponibili")
     print()
 
     # Contatori
-    total_sentenze = 0
     processed = 0
     skipped = 0
     errors = 0
+    no_pdf = 0
 
-    # Processa ogni HTML
-    for html_file in html_files:
-        print(f"📄 Processando HTML: {html_file.name}")
+    # PROCESSA ogni sentenza
+    print("="*80)
+    print("PROCESSING PIPELINE")
+    print("="*80)
+    print()
 
-        sentenze = extract_sentenze_from_html(html_file)
-        total_sentenze += len(sentenze)
+    for sentenza_meta in all_sentenze:
+        sentenza_id = sentenza_meta['id']
+        print(f"📄 {sentenza_id}")
 
-        print(f"   → {len(sentenze)} sentenze trovate")
+        # Controlla se già processata
+        markdown_path = markdown_dir / f"{sentenza_id}.md"
+        if markdown_path.exists():
+            print(f"   ⏭️  Già processata (skip)")
+            skipped += 1
+            continue
 
-        # Processa ogni sentenza
-        for sentenza in sentenze:
-            sentenza_id = sentenza['id']
+        # Cerca PDF
+        pdf_filename_key = sentenza_meta.get('pdf_filename', '').replace('.clean.pdf', '')
+        matching_pdf = None
 
-            # Controlla se già processata
-            txt_path = txt_dir / f"{sentenza_id}.txt"
-            md_path = md_dir / f"{sentenza_id}.md"
+        for pdf_key, pdf_path in pdf_files.items():
+            if pdf_filename_key in pdf_key or sentenza_id.lower() in pdf_key.lower():
+                matching_pdf = pdf_path
+                break
 
-            if txt_path.exists() and md_path.exists():
-                print(f"   ⏭️  {sentenza_id} - già processata")
-                skipped += 1
-                continue
+        if not matching_pdf:
+            print(f"   ⚠️  PDF non disponibile")
+            no_pdf += 1
+            continue
 
-            # Cerca il PDF
-            # Il nome del PDF potrebbe essere diverso, cerchiamo per pattern
-            matching_pdfs = [
-                pdf_path for pdf_name, pdf_path in pdf_files.items()
-                if sentenza_id.lower() in pdf_name.lower() or
-                   sentenza['pdf_filename'] in pdf_name
-            ]
+        # PIPELINE COMPLETA
+        try:
+            # Step 1: PDF → TXT
+            print(f"   → Step 1: PDF extraction...")
+            txt_result = process_single_pdf(str(matching_pdf), sentenza_id, str(Path.cwd()))
+            txt_path = Path(txt_result['txt_file'])
 
-            if not matching_pdfs:
-                print(f"   ⚠️  {sentenza_id} - PDF non disponibile")
-                skipped += 1
-                continue
+            # Step 2: TXT → NER
+            print(f"   → Step 2: NER extraction...")
+            ner_result = process_sentenza_ner(txt_path, sentenza_id, entities_dir)
+            entities_path = Path(ner_result['output_file'])
 
-            pdf_path = matching_pdfs[0]
+            # Step 3: TXT + NER → Akoma Ntoso XML
+            print(f"   → Step 3: Akoma Ntoso XML...")
+            xml_result = process_sentenza_akoma_ntoso(txt_path, entities_path, sentenza_id, akoma_dir)
 
-            # Processa
-            try:
-                result = process_single_pdf(str(pdf_path), sentenza_id, str(Path.cwd()))
-                processed += 1
-                print(f"   ✅ {sentenza_id} - OK ({result['txt_length']:,} char)")
-            except Exception as e:
-                errors += 1
-                print(f"   ❌ {sentenza_id} - ERRORE: {e}")
+            # Step 4: TXT → Chunks
+            print(f"   → Step 4: Chunking...")
+            chunks_result = process_sentenza_chunking(txt_path, sentenza_id, chunks_dir, use_both=True)
+            chunks_path = Path(chunks_result['output_file'])
+
+            # Step 5: Chunks → Embeddings
+            print(f"   → Step 5: Embeddings...")
+            embeddings_result = process_sentenza_embeddings(chunks_path, sentenza_id, embeddings_dir, use_both=False)
+
+            # Step 7: TXT + NER + Chunks → Markdown AI
+            print(f"   → Step 7: Markdown AI...")
+            markdown_result = process_sentenza_markdown(txt_path, entities_path, chunks_path, sentenza_id, markdown_dir)
+
+            print(f"   ✅ Completata ({txt_result['txt_length']:,} char)")
+            processed += 1
+
+        except Exception as e:
+            errors += 1
+            print(f"   ❌ ERRORE: {e}")
 
         print()
 
-    # Riepilogo
+    # RIEPILOGO FINALE
     print("="*80)
-    print("RIEPILOGO")
+    print("RIEPILOGO FINALE")
     print("="*80)
-    print(f"Totale sentenze trovate: {total_sentenze}")
-    print(f"  ✅ Processate:         {processed}")
-    print(f"  ⏭️  Già processate:     {skipped}")
-    print(f"  ❌ Errori:             {errors}")
+    print(f"Sentenze totali:       {len(all_sentenze)}")
+    print(f"  ✅ Processate:       {processed}")
+    print(f"  ⏭️  Già processate:  {skipped}")
+    print(f"  ⚠️  Senza PDF:        {no_pdf}")
+    print(f"  ❌ Errori:           {errors}")
     print("="*80)
 
     if processed > 0:
         print("\n✅ PROCESSO COMPLETATO!")
-        print(f"   TXT salvati in: {txt_dir}/")
-        print(f"   Markdown salvati in: {md_dir}/")
+        print(f"   Metadata:    metadata/")
+        print(f"   TXT:         txt/")
+        print(f"   Entities:    entities/")
+        print(f"   XML:         akoma_ntoso/")
+        print(f"   Chunks:      chunks/")
+        print(f"   Embeddings:  embeddings/")
+        print(f"   Markdown:    markdown_ai/")
+
 
 if __name__ == '__main__':
     main()
