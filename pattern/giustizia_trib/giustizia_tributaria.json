@@ -1,0 +1,168 @@
+{
+  "materie": [
+    {
+      "codice": "D040",
+      "descrizione": "Accertamento imposte"
+    },
+    {
+      "codice": "E020",
+      "descrizione": "Accise armonizzate - Alcole"
+    },
+    {
+      "codice": "E010",
+      "descrizione": "Accise armonizzate - Prodotti energetici ed elettricità"
+    },
+    {
+      "codice": "E030",
+      "descrizione": "Accise non armonizzate"
+    },
+    {
+      "codice": "D010",
+      "descrizione": "Agevolazioni"
+    },
+    {
+      "codice": "B050",
+      "descrizione": "Bollo"
+    },
+    {
+      "codice": "H010",
+      "descrizione": "Catasto"
+    },
+    {
+      "codice": "B060",
+      "descrizione": "Concessioni governative"
+    },
+    {
+      "codice": "D070",
+      "descrizione": "Condono"
+    },
+    {
+      "codice": "D060",
+      "descrizione": "Contenzioso"
+    },
+    {
+      "codice": "C050",
+      "descrizione": "Cosap"
+    },
+    {
+      "codice": "G010",
+      "descrizione": "Demanio"
+    },
+    {
+      "codice": "B140",
+      "descrizione": "Diritti e tributi indiretti vari"
+    },
+    {
+      "codice": "F010",
+      "descrizione": "Dogane"
+    },
+    {
+      "codice": "C080",
+      "descrizione": "Iciap"
+    },
+    {
+      "codice": "A030",
+      "descrizione": "Ilor"
+    },
+    {
+      "codice": "B130",
+      "descrizione": "Imposta erariale di trascrizione"
+    },
+    {
+      "codice": "B070",
+      "descrizione": "Imposta sulle assicurazioni"
+    },
+    {
+      "codice": "C020",
+      "descrizione": "Imu ex Ici"
+    },
+    {
+      "codice": "B090",
+      "descrizione": "Intrattenimenti"
+    },
+    {
+      "codice": "C070",
+      "descrizione": "Invim"
+    },
+    {
+      "codice": "B030",
+      "descrizione": "Ipotecarie e catastali"
+    },
+    {
+      "codice": "C010",
+      "descrizione": "Irap"
+    },
+    {
+      "codice": "A020",
+      "descrizione": "Ires (ex Irpeg)"
+    },
+    {
+      "codice": "A010",
+      "descrizione": "Irpef"
+    },
+    {
+      "codice": "B010",
+      "descrizione": "Iva"
+    },
+    {
+      "codice": "C030",
+      "descrizione": "Pubblicità e pubbliche affissioni"
+    },
+    {
+      "codice": "H030",
+      "descrizione": "Pubblicità immobiliare"
+    },
+    {
+      "codice": "B110",
+      "descrizione": "Radiodiffusioni"
+    },
+    {
+      "codice": "D080",
+      "descrizione": "Rapporti con l'AF"
+    },
+    {
+      "codice": "B020",
+      "descrizione": "Registro"
+    },
+    {
+      "codice": "D030",
+      "descrizione": "Rimborsi"
+    },
+    {
+      "codice": "D020",
+      "descrizione": "Riscossione"
+    },
+    {
+      "codice": "H020",
+      "descrizione": "Servizi estimativi (OMI)"
+    },
+    {
+      "codice": "B040",
+      "descrizione": "Successioni e donazioni"
+    },
+    {
+      "codice": "C040",
+      "descrizione": "Tarsu"
+    },
+    {
+      "codice": "B080",
+      "descrizione": "Tassa sui contratti di borsa"
+    },
+    {
+      "codice": "B100",
+      "descrizione": "Tasse automobilistiche"
+    },
+    {
+      "codice": "C060",
+      "descrizione": "Tosap"
+    },
+    {
+      "codice": "C090",
+      "descrizione": "Tributi locali vari"
+    },
+    {
+      "codice": "D050",
+      "descrizione": "Violazioni e sanzioni"
+    }
+  ]
+}

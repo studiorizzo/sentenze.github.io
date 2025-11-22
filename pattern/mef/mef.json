@@ -1,0 +1,4626 @@
+{
+  "materie": [
+    {
+      "codice": "D040",
+      "descrizione": "Accertamento imposte",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento analitico",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Accertamento con adesione",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Accertamento d'ufficio",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Accertamento induttivo",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Accertamento sintetico",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Accertamento sulla base di studi di settore",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Accise armonizzate - Alcole",
+          "codiceClassificazione": "4600"
+        },
+        {
+          "descrizioneVC": "Accise armonizzate - Prodotti energetici ed elettricità",
+          "codiceClassificazione": "4500"
+        },
+        {
+          "descrizioneVC": "Accise non armonizzate",
+          "codiceClassificazione": "4700"
+        },
+        {
+          "descrizioneVC": "Assicurazioni",
+          "codiceClassificazione": "3100"
+        },
+        {
+          "descrizioneVC": "Atti di contestazione e di irrogazione immediata di sanzioni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Attività istruttoria",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Autotutela",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Avviso di accertamento",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Bollo",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Catasto",
+          "codiceClassificazione": "4800"
+        },
+        {
+          "descrizioneVC": "Competenze e poteri uffici",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Concessioni governative",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Contratti di borsa",
+          "codiceClassificazione": "3200"
+        },
+        {
+          "descrizioneVC": "Controllo formale delle dichiarazioni",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Cosap",
+          "codiceClassificazione": "4200"
+        },
+        {
+          "descrizioneVC": "Evasione ed elusione",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Giochi e lotterie",
+          "codiceClassificazione": "4900"
+        },
+        {
+          "descrizioneVC": "Imposta erariale di trascrizione",
+          "codiceClassificazione": "3700"
+        },
+        {
+          "descrizioneVC": "Imu",
+          "codiceClassificazione": "3900"
+        },
+        {
+          "descrizioneVC": "Interpello CFC",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Interpello e istanza antielusiva",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Interpello internazionale",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Interpello ordinario",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Intrattenimenti",
+          "codiceClassificazione": "3300"
+        },
+        {
+          "descrizioneVC": "Invim",
+          "codiceClassificazione": "4400"
+        },
+        {
+          "descrizioneVC": "Ipotecarie e catastali",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Irap, Iciap",
+          "codiceClassificazione": "3800"
+        },
+        {
+          "descrizioneVC": "Ires",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Irpef",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Iva",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Notificazioni",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Prodotti finanziari detenuti all'estero",
+          "codiceClassificazione": "5000"
+        },
+        {
+          "descrizioneVC": "Pubblicità e pubbliche affissioni",
+          "codiceClassificazione": "4000"
+        },
+        {
+          "descrizioneVC": "Pubblico insegnamento",
+          "codiceClassificazione": "3600"
+        },
+        {
+          "descrizioneVC": "Radiodiffusioni",
+          "codiceClassificazione": "3500"
+        },
+        {
+          "descrizioneVC": "Registro",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Società di comodo",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Successioni e donazioni",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Tarsu",
+          "codiceClassificazione": "4100"
+        },
+        {
+          "descrizioneVC": "Tasse automobilistiche",
+          "codiceClassificazione": "3400"
+        },
+        {
+          "descrizioneVC": "Tosap",
+          "codiceClassificazione": "4300"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1400"
+        }
+      ]
+    },
+    {
+      "codice": "E020",
+      "descrizione": "Accise armonizzate - Alcole",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e liquidazione",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Adempimenti amministrativo-contabili",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Aliquote",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Cauzioni",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Circolazione dei prodotti",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Esigibilità e pagamento",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Impianti di lavorazione, trasformazione e deposito",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Licenze fiscali",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Momento impositivo",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Perdite e cali",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Rimborsi e abbuoni",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Vigilanza",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni - Contenzioso",
+          "codiceClassificazione": "1600"
+        }
+      ]
+    },
+    {
+      "codice": "E010",
+      "descrizione": "Accise armonizzate - Prodotti energetici ed elettricità",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e liquidazione",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Additivazione e miscelazione",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Adempimenti amministrativo-contabili",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Aliquote",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Cauzioni",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Circolazione dei prodotti",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Esigibilità e pagamento",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Impianti di fabbricazione, lavorazione e deposito",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Licenze fiscali",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Momento impositivo",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Perdite e cali",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Regime di concessione",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Rimborsi e abbuoni",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Vigilanza",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni - Contenzioso",
+          "codiceClassificazione": "1700"
+        }
+      ]
+    },
+    {
+      "codice": "E030",
+      "descrizione": "Accise non armonizzate",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e liquidazione",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Addizionali",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Adempimenti amministrativo-contabili",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Aliquote",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Cauzioni",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Circolazione dei prodotti",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Disposizioni soppresse",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Impianti di lavorazione, trasformazione e deposito",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Licenze fiscali",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Momento impositivo",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Pagamento",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Perdite e cali",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Rimborsi e abbuoni",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Vigilanza",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni - Contenzioso",
+          "codiceClassificazione": "1000"
+        }
+      ]
+    },
+    {
+      "codice": "D010",
+      "descrizione": "Agevolazioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accise armonizzate - Alcole",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Accise armonizzate - Prodotti energetici ed elettricità",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Accise non armonizzate",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Assicurazioni",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Bollo",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Catasto",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Concessioni governative",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Contratti di borsa",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Cosap",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Demanio",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Dogane",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Ici",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Imposta erariale di trascrizione",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Intrattenimenti",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Invim",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Ipotecarie e catastali",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Irap, Ilor, Iciap",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Ires",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Irpef",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Iva",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Prodotti finanziari detenuti all'estero",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Pubblicità e pubbliche affissioni",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Pubblico insegnamento",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Radiodiffusioni",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Registro",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Successioni e donazioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Tarsu",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Tasse automobilistiche",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Tosap",
+          "codiceClassificazione": "2100"
+        }
+      ]
+    },
+    {
+      "codice": "B050",
+      "descrizione": "Bollo",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0700"
+        }
+      ]
+    },
+    {
+      "codice": "H010",
+      "descrizione": "Catasto",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamenti tecnici",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Accertamento e liquidazione",
+          "codiceClassificazione": "3300"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "3100"
+        },
+        {
+          "descrizioneVC": "Commissioni censuarie",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Condono edilizio",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "3500"
+        },
+        {
+          "descrizioneVC": "Convenzioni",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Decentramento",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Denuncia di variazioni - catasto terreni",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Denuncia di variazioni - catasto urbano",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Dichiarazione di nuova costruzione",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Disposizioni generali",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Domande di voltura",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Estimi catastali e classamento - catasto terreni",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Estimi catastali e classamento - catasto urbano",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Estimi catastali e classamento - disposizioni generali",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Fabbricati rurali",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Intestazione dei beni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Libri fondiari",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Mappe catastali",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Particella catastale",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Pubblicazione degli atti",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Punti fiduciali",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Reddito agrario e dominicale",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Rendita catastale",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Rilevamento catastale",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "3200"
+        },
+        {
+          "descrizioneVC": "Servizi informatici",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Territori montani",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Tipo di frazionamento",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Tipo mappale",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Tipo particellare",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Tributi speciali catastali",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "3400"
+        },
+        {
+          "descrizioneVC": "Visure e certificazioni",
+          "codiceClassificazione": "0800"
+        }
+      ]
+    },
+    {
+      "codice": "L020",
+      "descrizione": "Comunicazione e trasporti",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Comunicazione",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Trasporti",
+          "codiceClassificazione": "0200"
+        }
+      ]
+    },
+    {
+      "codice": "B060",
+      "descrizione": "Concessioni governative",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Determinazione e misura dell'imposta",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0700"
+        }
+      ]
+    },
+    {
+      "codice": "D070",
+      "descrizione": "Condono",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Assicurazioni",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Bollo",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Concessioni governative",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Contratti di borsa",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Cosap",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Ici",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Imposta erariale di trascrizione",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Intrattenimenti",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Invim",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Ipotecarie e catastali",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Irap, Ilor",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Ires",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Irpef",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Iva",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Prodotti finanziari detenuti all'estero",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Pubblicità e pubbliche affissioni",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Pubblico insegnamento",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Radiodiffusioni",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Registro",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Successioni e donazioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Tarsu",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Tasse automobilistiche",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Tosap",
+          "codiceClassificazione": "2100"
+        }
+      ]
+    },
+    {
+      "codice": "D060",
+      "descrizione": "Contenzioso",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento ricorsi",
+          "codiceClassificazione": "3900"
+        },
+        {
+          "descrizioneVC": "Assicurazioni",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Atti, notificazioni e comunicazioni",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Bollo",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Catasto",
+          "codiceClassificazione": "3700"
+        },
+        {
+          "descrizioneVC": "Commissioni tributarie",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Concessioni governative",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Conciliazione giudiziale ed extragiudiziale",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Consiglio di presidenza della giustizia tributaria",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Contratti di borsa",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Cosap",
+          "codiceClassificazione": "3400"
+        },
+        {
+          "descrizioneVC": "Esame preliminare del ricorso",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Esecuzione",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Giochi e lotterie",
+          "codiceClassificazione": "4100"
+        },
+        {
+          "descrizioneVC": "Giudice tributario",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Ici",
+          "codiceClassificazione": "3100"
+        },
+        {
+          "descrizioneVC": "Imposta erariale di trascrizione",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Impugnazioni",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Intrattenimenti",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Invim",
+          "codiceClassificazione": "3600"
+        },
+        {
+          "descrizioneVC": "Ipotecarie e catastali",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Irap, Iciap",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Ires",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Irpef",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Istruzione probatoria",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Iva",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Misure cautelari",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Parti",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Personale",
+          "codiceClassificazione": "4000"
+        },
+        {
+          "descrizioneVC": "Prodotti finanziari detenuti all'estero",
+          "codiceClassificazione": "4200"
+        },
+        {
+          "descrizioneVC": "Pubblicità e pubbliche affissioni",
+          "codiceClassificazione": "3200"
+        },
+        {
+          "descrizioneVC": "Pubblico insegnamento",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Radiodiffusioni",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Rapporto tra processo tributario e altri processi",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Registro",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Ricorso",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Riscossione",
+          "codiceClassificazione": "3800"
+        },
+        {
+          "descrizioneVC": "Successioni e donazioni",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Tarsu",
+          "codiceClassificazione": "3300"
+        },
+        {
+          "descrizioneVC": "Tasse automobilistiche",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Tosap",
+          "codiceClassificazione": "3500"
+        },
+        {
+          "descrizioneVC": "Trattazione e decisione",
+          "codiceClassificazione": "0700"
+        }
+      ]
+    },
+    {
+      "codice": "C050",
+      "descrizione": "Cosap",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Denunce",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Determinazione del canone e tariffa",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0900"
+        }
+      ]
+    },
+    {
+      "codice": "G010",
+      "descrizione": "Demanio",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Acquisizione e costruzione dei beni",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Assegnazione e canoni di alloggi",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Attribuzioni e competenze degli uffici",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Beni e servizi in ambito aeroportuale",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Cessione di beni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Cessione in proprietà di alloggi economici e popolari",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Classifica e sclassifica",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Confische dei beni",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Costruzioni di edifici demaniali",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Delimitazioni demaniali",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Demanio idrico",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Demanio marittimo",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Demanio storico-artistico",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Disposizioni generali",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Fitti passivi",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Fuori uso di beni",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Manutenzione dei beni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Manutenzione ordinaria e straordinaria delle sedi ministeriali",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Patrimonio disponibile e indisponibile",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Rapporti patrimoniali relativi a ferrovie in concessione",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Riscossione dei canoni e degli indennizzi",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Utilizzo dei beni",
+          "codiceClassificazione": "0400"
+        }
+      ]
+    },
+    {
+      "codice": "B140",
+      "descrizione": "Diritti e tributi indiretti vari",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Cassa nazionale del notariato",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Cassa previdenza avvocati e procuratori",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Cassa previdenza ufficiali giudiziari e cancellieri",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Contributo di riciclaggio e risanamento ambientale",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Spese di giustizia",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Tassa archivio",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Tassa sulle emissioni di anidride solforosa e ossidi di azoto",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Tributi speciali e compensi",
+          "codiceClassificazione": "0500"
+        }
+      ]
+    },
+    {
+      "codice": "F010",
+      "descrizione": "Dogane",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Ammissione temporanea",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Armi, materiali di armamento e prodotti ad alta tecnologia",
+          "codiceClassificazione": "4400"
+        },
+        {
+          "descrizioneVC": "Cabotaggio e circolazione",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Circolazione bagagli",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Circolazione merci",
+          "codiceClassificazione": "1710"
+        },
+        {
+          "descrizioneVC": "Classificazione doganale delle merci",
+          "codiceClassificazione": "3200"
+        },
+        {
+          "descrizioneVC": "Codice doganale comunitario - Ambito di applicazione e definizioni di base",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Controlli doganali finalizzati",
+          "codiceClassificazione": "5200"
+        },
+        {
+          "descrizioneVC": "Decisioni sull'applicazione della normativa doganale",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Deposito doganale",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Dichiarazione in dogana - Procedura normale - Visita della merce",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Diritto di ricorso",
+          "codiceClassificazione": "3600"
+        },
+        {
+          "descrizioneVC": "Disciplina valutaria",
+          "codiceClassificazione": "4300"
+        },
+        {
+          "descrizioneVC": "Esportazione delle merci",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Franchigie, agevolazioni conseguenti alla applicazione di trattati, accordi e convenzioni internazionali, altre agevolazioni",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Immissione in libera pratica",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Impugnazione e revisione dell'accertamento",
+          "codiceClassificazione": "3500"
+        },
+        {
+          "descrizioneVC": "Informazioni sulla normativa doganale e informazioni tariffarie vincolanti",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Introduzione delle merci nel territorio doganale",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Iva negli scambi comunitari ed extracomunitari",
+          "codiceClassificazione": "4100"
+        },
+        {
+          "descrizioneVC": "Lotta alle frodi e ai traffici illeciti",
+          "codiceClassificazione": "5100"
+        },
+        {
+          "descrizioneVC": "Misure a tutela della salute e della sicurezza dei consumatori, sanitarie, veterinarie e fito-sanitarie",
+          "codiceClassificazione": "4700"
+        },
+        {
+          "descrizioneVC": "Misure e imposizioni istituite nel quadro della politica agricola comune o in quello dei regimi specifici",
+          "codiceClassificazione": "3800"
+        },
+        {
+          "descrizioneVC": "Misure relative alla protezione del patrimonio artistico, ambientale, della fauna e della flora",
+          "codiceClassificazione": "4600"
+        },
+        {
+          "descrizioneVC": "Mutua assistenza amministrativa",
+          "codiceClassificazione": "5000"
+        },
+        {
+          "descrizioneVC": "Obbligazione doganale, diritti doganali, contabilità doganale",
+          "codiceClassificazione": "3300"
+        },
+        {
+          "descrizioneVC": "Organizzazione delle dogane",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Origine delle merci",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Perfezionamento attivo",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Perfezionamento passivo",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Procedure semplificate",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Provviste e dotazioni di bordo",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Rappresentanza in dogana",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Regime comune delle importazioni e delle esportazioni - Sanzioni economiche",
+          "codiceClassificazione": "4500"
+        },
+        {
+          "descrizioneVC": "Regimi doganali economici",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Reintroduzione di merci",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Restituzioni all'esportazione ed alla produzione dei prodotti agricoli",
+          "codiceClassificazione": "4000"
+        },
+        {
+          "descrizioneVC": "Restituzioni o abbuoni all'esportazione di prodotti diversi da quelli agricoli",
+          "codiceClassificazione": "3700"
+        },
+        {
+          "descrizioneVC": "Riesportazione, distruzione e abbandono delle merci",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Rimborso e sgravio dei dazi",
+          "codiceClassificazione": "3400"
+        },
+        {
+          "descrizioneVC": "Risorse proprie",
+          "codiceClassificazione": "4800"
+        },
+        {
+          "descrizioneVC": "Sanzioni",
+          "codiceClassificazione": "5400"
+        },
+        {
+          "descrizioneVC": "Scritture doganali",
+          "codiceClassificazione": "4200"
+        },
+        {
+          "descrizioneVC": "Servizi informatici",
+          "codiceClassificazione": "5300"
+        },
+        {
+          "descrizioneVC": "Spedizione di merci da una dogana all'altra - Transito",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Tariffa doganale",
+          "codiceClassificazione": "3100"
+        },
+        {
+          "descrizioneVC": "Territorio doganale - Convenzioni ed accordi con altri Stati",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Titoli d'importazione e di esportazione relativi ai prodotti agricoli - Tassi di conversione agricoli",
+          "codiceClassificazione": "3900"
+        },
+        {
+          "descrizioneVC": "Transito comunitario, transito comune e regimi doganali di trasporto internazionale",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Trasformazione sotto controllo doganale",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Uscita delle merci dal territorio doganale",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Valore in dogana delle merci",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Vigilanza, controlli e poteri degli organi doganali",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Violazioni e controversie doganali",
+          "codiceClassificazione": "4900"
+        },
+        {
+          "descrizioneVC": "Zone franche, depositi franchi, territori extradoganali e depositi speciali",
+          "codiceClassificazione": "2400"
+        }
+      ]
+    },
+    {
+      "codice": "K010",
+      "descrizione": "Finanza pubblica",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Contabilità nazionale e degli enti pubblici",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Debito pubblico",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Decentramento fiscale",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Finanze comunitarie - gestione",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Finanze comunitarie - risorse",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Finanziamenti comunitari",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Finanziamenti nazionali",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Organi della finanza pubblica",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Sviluppo, programmazione economica e innovazione",
+          "codiceClassificazione": "0900"
+        }
+      ]
+    },
+    {
+      "codice": "J010",
+      "descrizione": "Giochi e lotterie",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Apparecchi da divertimento senza vincita in denaro",
+          "codiceClassificazione": "0530"
+        },
+        {
+          "descrizioneVC": "Bigmatch",
+          "codiceClassificazione": "0340"
+        },
+        {
+          "descrizioneVC": "Bigrace",
+          "codiceClassificazione": "0350"
+        },
+        {
+          "descrizioneVC": "Bingo",
+          "codiceClassificazione": "0810"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Giochi di abilità",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Giochi di sorte al consumo",
+          "codiceClassificazione": "0730"
+        },
+        {
+          "descrizioneVC": "Giochi numerici a totalizzatore",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Ippica internazionale",
+          "codiceClassificazione": "0420"
+        },
+        {
+          "descrizioneVC": "Ippica nazionale",
+          "codiceClassificazione": "0410"
+        },
+        {
+          "descrizioneVC": "Lotterie istantanee",
+          "codiceClassificazione": "0710"
+        },
+        {
+          "descrizioneVC": "Lotterie tradizionali",
+          "codiceClassificazione": "0720"
+        },
+        {
+          "descrizioneVC": "Lotto",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Newslot",
+          "codiceClassificazione": "0510"
+        },
+        {
+          "descrizioneVC": "Rete vendita giochi pubblici e agenzie",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Scommesse a quota fissa",
+          "codiceClassificazione": "0330"
+        },
+        {
+          "descrizioneVC": "Scommesse ippiche in agenzia",
+          "codiceClassificazione": "0430"
+        },
+        {
+          "descrizioneVC": "Totocalcio e Il9",
+          "codiceClassificazione": "0310"
+        },
+        {
+          "descrizioneVC": "Totogol",
+          "codiceClassificazione": "0320"
+        },
+        {
+          "descrizioneVC": "V7",
+          "codiceClassificazione": "0440"
+        },
+        {
+          "descrizioneVC": "Videolotteries",
+          "codiceClassificazione": "0520"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "2200"
+        }
+      ]
+    },
+    {
+      "codice": "C020",
+      "descrizione": "IMU (ex ICI)",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta - Aliquote",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Dichiarazione",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1000"
+        }
+      ]
+    },
+    {
+      "codice": "C080",
+      "descrizione": "Iciap",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile e determinazione dell'imposta",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Dichiarazione",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0900"
+        }
+      ]
+    },
+    {
+      "codice": "A030",
+      "descrizione": "Ilor",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Aliquote",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Deduzioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Doppia imposizione",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Eccedenza d'imposta",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Eredità giacente",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Fusioni di società",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Imposte sostitutive",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Liquidazione coatta e fallimento",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Liquidazione ordinaria",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Periodo d'imposta",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Presupposto dell'imposta",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0601"
+        },
+        {
+          "descrizioneVC": "Scissioni di società",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Trasformazione di società",
+          "codiceClassificazione": "1000"
+        }
+      ]
+    },
+    {
+      "codice": "B130",
+      "descrizione": "Imposta erariale di trascrizione",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Applicazione dell'imposta, registrazione delle formalità e riscossione",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0700"
+        }
+      ]
+    },
+    {
+      "codice": "B070",
+      "descrizione": "Imposta sulle assicurazioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Adempimenti",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Determinazione e misura dell'imposta",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Dichiarazione",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1000"
+        }
+      ]
+    },
+    {
+      "codice": "L010",
+      "descrizione": "Impresa e mercato",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Autorità indipendenti nazionali e internazionali",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Commercio internazionale",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Concorrenza e trasparenza",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Crisi d'impresa procedure",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Finanziamenti comunitari",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Finanziamenti nazionali",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Made in Italy",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Politica dei prezzi",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Sviluppo, programmazione economica e innovazione",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Tutela del consumatore",
+          "codiceClassificazione": "0200"
+        }
+      ]
+    },
+    {
+      "codice": "B090",
+      "descrizione": "Intrattenimenti",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Adempimenti",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Concessione del servizio",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1100"
+        }
+      ]
+    },
+    {
+      "codice": "C070",
+      "descrizione": "Invim",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta - Aliquote",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Dichiarazione",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Invim decennale e imposte straordinarie",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1100"
+        }
+      ]
+    },
+    {
+      "codice": "B030",
+      "descrizione": "Ipotecarie e catastali",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Annotazioni",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Base imponibile e determinazione delle imposte",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Iscrizioni e rinnovazioni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Libri fondiari",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Tasse ipotecarie",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Trascrizioni",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Tributi speciali catastali",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1100"
+        }
+      ]
+    },
+    {
+      "codice": "C010",
+      "descrizione": "Irap",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Dichiarazione",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Presupposto dell'imposta",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1000"
+        }
+      ]
+    },
+    {
+      "codice": "A020",
+      "descrizione": "Ires (ex Irpeg)",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Aliquote",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Conferimenti d'azienda",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Crediti d'imposta",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta - Settori particolari",
+          "codiceClassificazione": "3300"
+        },
+        {
+          "descrizioneVC": "Dichiarazione dei redditi - disposizioni generali",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Dichiarazione dei redditi - società di capitale ed enti non commerciali",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Dichiarazione dei redditi - società di persone ed equiparate",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Doppia imposizione",
+          "codiceClassificazione": "3600"
+        },
+        {
+          "descrizioneVC": "Enti non commerciali",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Imposte sostitutive",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Liquidazione coatta e fallimento",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Liquidazione delle dichiarazioni",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Liquidazione ordinaria",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Operazioni straordinarie - fusioni di società",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Operazioni straordinarie - scissioni di società",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Operazioni straordinarie - trasformazione di società",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Paesi a fiscalità privilegiata",
+          "codiceClassificazione": "3500"
+        },
+        {
+          "descrizioneVC": "Periodo d'imposta",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Presupposto dell'imposta",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Regimi opzionali di tassazione",
+          "codiceClassificazione": "3100"
+        },
+        {
+          "descrizioneVC": "Rimborsi e compensazioni",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Scritture contabili d'impresa - contabilità ordinaria",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Scritture contabili d'impresa - contabilità semplificata",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Società di comodo",
+          "codiceClassificazione": "3200"
+        },
+        {
+          "descrizioneVC": "Società ed enti non residenti",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Sostituto d'imposta",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Trust",
+          "codiceClassificazione": "3400"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "2000"
+        }
+      ]
+    },
+    {
+      "codice": "A010",
+      "descrizione": "Irpef",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Addizionali Irpef",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Aliquote",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "3300"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "3200"
+        },
+        {
+          "descrizioneVC": "Crediti d'imposta",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Detrazioni d'imposta",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Dichiarazione dei redditi - disposizioni generali",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Dichiarazione dei redditi - persone fisiche",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Dichiarazione dei redditi - società di persone ed equiparate",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Doppia imposizione",
+          "codiceClassificazione": "3900"
+        },
+        {
+          "descrizioneVC": "Liquidazione coatta e fallimento",
+          "codiceClassificazione": "3700"
+        },
+        {
+          "descrizioneVC": "Liquidazione delle dichiarazioni",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Liquidazione ordinaria",
+          "codiceClassificazione": "3600"
+        },
+        {
+          "descrizioneVC": "Oneri deducibili",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Presupposto dell'imposta",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Redditi di capitale",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Redditi di impresa (regime ordinario)",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Redditi di impresa (regimi semplificati e regimi particolari)",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Redditi di lavoro autonomo",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Redditi di lavoro dipendente e assimilati",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Redditi diversi",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Redditi fondiari",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Redditi prodotti in forma associata",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Regimi speciali di tassazione",
+          "codiceClassificazione": "3400"
+        },
+        {
+          "descrizioneVC": "Rimborsi e compensazioni",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Ritenute alla fonte",
+          "codiceClassificazione": "3500"
+        },
+        {
+          "descrizioneVC": "Scritture contabili arti e professioni",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Scritture contabili d'impresa - contabilità ordinaria",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Scritture contabili d'impresa - contabilità semplificata",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Società di comodo",
+          "codiceClassificazione": "3800"
+        },
+        {
+          "descrizioneVC": "Soggetti non residenti",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Sostituto d'imposta",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "3100"
+        }
+      ]
+    },
+    {
+      "codice": "B010",
+      "descrizione": "Iva",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "3700"
+        },
+        {
+          "descrizioneVC": "Acquisti e importazioni con plafond",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Agenzie di viaggio e turismo (regime speciale)",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "3300"
+        },
+        {
+          "descrizioneVC": "Agricoltura (regime speciale)",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Aliquote",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Competenze e poteri uffici",
+          "codiceClassificazione": "3600"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "4000"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "3900"
+        },
+        {
+          "descrizioneVC": "Dichiarazione d'imposta",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Dichiarazioni e comunicazioni varie",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Documenti di consegna",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Editoria (regime speciale)",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Enti non commerciali",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Esercizio di più attività",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Fattura",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Frodi Carosello",
+          "codiceClassificazione": "4100"
+        },
+        {
+          "descrizioneVC": "Liquidazioni",
+          "codiceClassificazione": "3200"
+        },
+        {
+          "descrizioneVC": "Momento impositivo",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Operazioni escluse",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Operazioni esenti",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Operazioni imponibili",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Operazioni non imponibili",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Regimi speciali vari",
+          "codiceClassificazione": "3100"
+        },
+        {
+          "descrizioneVC": "Ricevuta e scontrino",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "3500"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "3400"
+        },
+        {
+          "descrizioneVC": "Rivalsa e detrazione d'imposta",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Scambi comunitari ed extracomunitari",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Scritture contabili",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Semplificazione per contribuenti minimi e minori",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Settore immobiliare (regime speciale)",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Società controllanti e controllate",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Spettacoli e giochi (regime speciale)",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Territorialità",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Variazioni dell'imponibile o dell'imposta",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "3800"
+        },
+        {
+          "descrizioneVC": "Volume d'affari",
+          "codiceClassificazione": "1500"
+        }
+      ]
+    },
+    {
+      "codice": "Z270",
+      "descrizione": "NC Accertamento imposte",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z310",
+      "descrizione": "NC Accise armonizzate - Alcole",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z300",
+      "descrizione": "NC Accise armonizzate - Prodotti energetici ed elettricitï¿½",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z320",
+      "descrizione": "NC Accise non armonizzate",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z100",
+      "descrizione": "NC Assicurazioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z080",
+      "descrizione": "NC Bollo",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z360",
+      "descrizione": "NC Catasto",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z090",
+      "descrizione": "NC Concessioni governative",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z280",
+      "descrizione": "NC Contenzioso",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z110",
+      "descrizione": "NC Contratti di borsa",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z350",
+      "descrizione": "NC Demanio",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z170",
+      "descrizione": "NC Diritti e tributi indiretti vari",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z340",
+      "descrizione": "NC Dogane",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z380",
+      "descrizione": "NC Giochi e lotterie",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z190",
+      "descrizione": "NC Ici",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z240",
+      "descrizione": "NC Iciap (soppressa)",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z030",
+      "descrizione": "NC Ilor",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z160",
+      "descrizione": "NC Imposta erariale di trascrizione",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z120",
+      "descrizione": "NC Intrattenimenti",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z230",
+      "descrizione": "NC Invim (soppressa)",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z060",
+      "descrizione": "NC Ipotecaria e catastale",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z180",
+      "descrizione": "NC Irap",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z020",
+      "descrizione": "NC Ires",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z010",
+      "descrizione": "NC Irpef",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z040",
+      "descrizione": "NC Iva",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z370",
+      "descrizione": "NC Personale",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z200",
+      "descrizione": "NC Pubblicitï¿½ e pubbliche affissioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z150",
+      "descrizione": "NC Pubblico insegnamento",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z140",
+      "descrizione": "NC Radiodiffusioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z290",
+      "descrizione": "NC Rapporti con l'AF",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z050",
+      "descrizione": "NC Registro",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z260",
+      "descrizione": "NC Riscossione",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z070",
+      "descrizione": "NC Successioni e donazioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z330",
+      "descrizione": "NC Tabacchi e fiammiferi",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z210",
+      "descrizione": "NC Tarsu",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z130",
+      "descrizione": "NC Tasse automobilistiche",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z220",
+      "descrizione": "NC Tosap",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "Z250",
+      "descrizione": "NC Tributi locali vari",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Documenti non classificati",
+          "codiceClassificazione": "0010"
+        }
+      ]
+    },
+    {
+      "codice": "N020",
+      "descrizione": "PA attività",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accordi e contratti pubblici",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Atto e provvedimento amministrativo",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Principi generali",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Procedimento amministrativo",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Rapporti con la comunità europea",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Responsabilità della P.A.",
+          "codiceClassificazione": "0600"
+        }
+      ]
+    },
+    {
+      "codice": "N010",
+      "descrizione": "PA organizzazione",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Agenzie fiscali - Direzioni regionali e uffici locali",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Agenzie fiscali ed ex AAMS - Direzioni centrali",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Amministrazione statale",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Autorità indipendenti",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Enti locali",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Enti pubblici",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "MEF",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Organi ausiliari",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Regioni",
+          "codiceClassificazione": "0400"
+        }
+      ]
+    },
+    {
+      "codice": "I010",
+      "descrizione": "Personale",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Assenze",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Autorizzazione ad assumere incarichi",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Causa di servizio, equo indennizzo e pensione privilegiata",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Cessazione e risoluzione del rapporto di lavoro",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Concorsi ed assunzioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Controllo presenze e accessi",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Dotazioni di organico",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Ferie e festività",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Formazione",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Inquadramento giuridico",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Lavoratori disabili",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Militari",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Movimento di personale",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Orario di lavoro",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Permessi",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Privacy",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Rapporto di lavoro a tempo indeterminato e determinato",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Rapporto di lavoro a tempo parziale (part time)",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Relazioni sindacali",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Responsabilità - Codice di comportamento - Disciplina",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Retribuzione",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Retribuzione accessoria",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Sicurezza sul posto di lavoro",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Trattamento di quiescenza",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Tutela della maternità",
+          "codiceClassificazione": "1800"
+        }
+      ]
+    },
+    {
+      "codice": "M020",
+      "descrizione": "Politica ambientale",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accordi e convenzioni",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Organi nazionali e internazionali",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Tutela dell'ambiente",
+          "codiceClassificazione": "0300"
+        }
+      ]
+    },
+    {
+      "codice": "M040",
+      "descrizione": "Politica energetica",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accordi e convenzioni",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Energia - trasmissione, distribuzione, produzione",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Organi nazionali e internazionali",
+          "codiceClassificazione": "0900"
+        }
+      ]
+    },
+    {
+      "codice": "M030",
+      "descrizione": "Politica monetaria",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Debito pubblico",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Intermediari bancari e finanziari",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Moneta",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Organi della politica monetaria",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Strumenti di politica monetaria",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Tassi e indici",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Titoli e credito",
+          "codiceClassificazione": "0300"
+        }
+      ]
+    },
+    {
+      "codice": "M010",
+      "descrizione": "Politica sociale",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Assistenza",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Certificazioni per agevolazioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Edilizia",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Istruzione",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Lavoro",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Previdenza",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Sanità",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Sicurezza pubblica",
+          "codiceClassificazione": "0700"
+        }
+      ]
+    },
+    {
+      "codice": "B150",
+      "descrizione": "Prodotti finanziari detenuti all'estero",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0600"
+        }
+      ]
+    },
+    {
+      "codice": "C030",
+      "descrizione": "Pubblicità e pubbliche affissioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Affissioni",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Concessionari - Gestione del servizio",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta e tariffe",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Dichiarazione",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0900"
+        }
+      ]
+    },
+    {
+      "codice": "H030",
+      "descrizione": "Pubblicità immobiliare",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Annotazioni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Cancellazioni d'ufficio",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Certificazioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Contenzioso e volontaria giurisdizione",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Iscrizioni e rinnovazioni",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Ispezioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Libri fondiari",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Servizi informatici",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Tasse ipotecarie",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Trascrizioni",
+          "codiceClassificazione": "0100"
+        }
+      ]
+    },
+    {
+      "codice": "B120",
+      "descrizione": "Pubblico insegnamento",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Determinazione della tassa e riscossione",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0600"
+        }
+      ]
+    },
+    {
+      "codice": "B110",
+      "descrizione": "Radiodiffusioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Determinazione del canone",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0800"
+        }
+      ]
+    },
+    {
+      "codice": "D080",
+      "descrizione": "Rapporti con l'AF",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Agenzie fiscali - Direzioni regionali e uffici locali",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Agenzie fiscali e AAMS - Direzioni centrali",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Anagrafe tributaria",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Analisi fiscali",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Attivazione uffici",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Autotutela",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Centri di assistenza fiscale",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Codice fiscale",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Competenze e poteri uffici",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Consulenza giuridica",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Domicilio fiscale",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Garanzia e diritti del contribuente",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Informatizzazione",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Informazioni ai contribuenti",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Interpello CFC",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Interpello e istanza antielusiva",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Interpello internazionale",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Interpello ordinario",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "MEF",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Mancato o irregolare funzionamento uffici locali",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Prescrizione e decadenza dei diritti",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Rappresentanza ed assistenza davanti agli uffici",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Scambio di informazioni tra l'Anagrafe Tributaria e altri enti",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Segreto d'ufficio",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Soppressione uffici",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Trasparenza e semplificazione",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Tutela delle persone e dei dati personali",
+          "codiceClassificazione": "1700"
+        }
+      ]
+    },
+    {
+      "codice": "B020",
+      "descrizione": "Registro",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Determinazione dell'imposta",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Registrazione degli atti",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1000"
+        }
+      ]
+    },
+    {
+      "codice": "D030",
+      "descrizione": "Rimborsi",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accise armonizzate - Alcole",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Accise armonizzate - Prodotti energetici ed elettricità",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Accise non armonizzate",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Assicurazioni",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Bollo",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Catasto",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Concessioni governative",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Contratti di borsa",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Cosap",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Dogane",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Ici",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Ilor",
+          "codiceClassificazione": "1601"
+        },
+        {
+          "descrizioneVC": "Imposta erariale di trascrizione",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Intrattenimenti",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Invim",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Ipotecarie e catastali",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Irap, Iciap",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Ires",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Irpef",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Iva",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Prodotti finanziari detenuti all'estero",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Pubblicità e pubbliche affissioni",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Pubblico insegnamento",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Radiodiffusioni",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Registro",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Riscossione",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Successioni e donazioni",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Tarsu",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Tasse automobilistiche",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Tosap",
+          "codiceClassificazione": "2100"
+        }
+      ]
+    },
+    {
+      "codice": "D020",
+      "descrizione": "Riscossione",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accise armonizzate - Alcole",
+          "codiceClassificazione": "3800"
+        },
+        {
+          "descrizioneVC": "Accise armonizzate - Prodotti energetici ed elettricità",
+          "codiceClassificazione": "3700"
+        },
+        {
+          "descrizioneVC": "Accise non armonizzate",
+          "codiceClassificazione": "3900"
+        },
+        {
+          "descrizioneVC": "Assicurazioni",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Azioni cautelari e conservative",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Bollo",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Cartella di pagamento",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Concessioni governative",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Conto fiscale",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Contratti di borsa",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Cosap",
+          "codiceClassificazione": "3400"
+        },
+        {
+          "descrizioneVC": "Esazione internazionale",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Ici",
+          "codiceClassificazione": "3100"
+        },
+        {
+          "descrizioneVC": "Intrattenimenti",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Invim",
+          "codiceClassificazione": "3600"
+        },
+        {
+          "descrizioneVC": "Ipotecarie e catastali",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Irap, Iciap",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Ires",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Irpef",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Iva",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Notificazioni",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Prodotti finanziari detenuti all'estero",
+          "codiceClassificazione": "4000"
+        },
+        {
+          "descrizioneVC": "Pubblicità e pubbliche affissioni",
+          "codiceClassificazione": "3200"
+        },
+        {
+          "descrizioneVC": "Quote inesigibili",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Radiodiffusioni",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Registro",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Riscossione coattiva",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Riscossione spontanea mediante ruoli",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Ruoli",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Soggetti incaricati della riscossione",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Sospensione della riscossione",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Successioni e donazioni",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Tarsu",
+          "codiceClassificazione": "3300"
+        },
+        {
+          "descrizioneVC": "Tasse automobilistiche",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Tosap",
+          "codiceClassificazione": "3500"
+        },
+        {
+          "descrizioneVC": "Versamenti diretti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1400"
+        }
+      ]
+    },
+    {
+      "codice": "H020",
+      "descrizione": "Servizi estimativi (OMI)",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Beni perduti all'estero - Indennizzi",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Consulenze tecniche ai fini non fiscali - congruità e collaudi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Consulenze tecniche ai fini non fiscali escluso congruità e collaudi",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Indennità di espropriazione",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Osservatorio del mercato immobiliare",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Servizi estimativi immobiliari",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Servizi informatici",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Stime ai fini fiscali",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Valori agricoli medi",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Valutazioni opere abusive",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Valutazioni per agevolazioni fiscali",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Valutazioni per debiti d'imposta",
+          "codiceClassificazione": "1100"
+        }
+      ]
+    },
+    {
+      "codice": "B040",
+      "descrizione": "Successioni e donazioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Base imponibile",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Determinazione delle imposte",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Dichiarazione di successione",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Divieti e obblighi a carico di terzi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Doppia imposizione",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "1200"
+        }
+      ]
+    },
+    {
+      "codice": "C040",
+      "descrizione": "TARI (ex TARES)",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Determinazione della tassa",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Dichiarazioni",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0900"
+        }
+      ]
+    },
+    {
+      "codice": "E040",
+      "descrizione": "Tabacchi e fiammiferi",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Fiammiferi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Tabacchi",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Tabacchi - Circolazione",
+          "codiceClassificazione": "0120"
+        },
+        {
+          "descrizioneVC": "Tabacchi - Circolazione PLI",
+          "codiceClassificazione": "0130"
+        },
+        {
+          "descrizioneVC": "Tabacchi - Patentini speciali",
+          "codiceClassificazione": "0170"
+        },
+        {
+          "descrizioneVC": "Tabacchi - Prodotti liquidi da inalazione PLI",
+          "codiceClassificazione": "0110"
+        },
+        {
+          "descrizioneVC": "Tabacchi - Rete vendita",
+          "codiceClassificazione": "0140"
+        },
+        {
+          "descrizioneVC": "Tabacchi - Rete vendita PLI",
+          "codiceClassificazione": "0150"
+        },
+        {
+          "descrizioneVC": "Tabacchi - Rilascio patentini",
+          "codiceClassificazione": "0160"
+        }
+      ]
+    },
+    {
+      "codice": "B080",
+      "descrizione": "Tassa sui contratti di borsa",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Determinazione e misura della tassa",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0700"
+        }
+      ]
+    },
+    {
+      "codice": "B100",
+      "descrizione": "Tasse automobilistiche",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Determinazione della tassa",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Disco contrassegno",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0800"
+        }
+      ]
+    },
+    {
+      "codice": "C060",
+      "descrizione": "Tosap",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento e controlli",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Agevolazioni ed esenzioni",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Ambito di applicazione e presupposti",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Concessionari - Gestione del servizio",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Condono, amnistia e concordato",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Contenzioso",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Denunce",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Determinazione della tassa e tariffe",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Rimborsi",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Riscossione e versamento",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Soggetti passivi",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Violazioni e sanzioni",
+          "codiceClassificazione": "0900"
+        }
+      ]
+    },
+    {
+      "codice": "C090",
+      "descrizione": "Tributi locali vari",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Addizionale provinciale all'imposta erariale di trascrizione (APIET) (soppressa)",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Addizionale regionale all'imposta erariale di consumo sul gas metano e imposta sostitutiva sulle utenze esenti (ARISGAM)",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Addizionale regionale all'imposta erariale di trascrizione (ARIET) (soppressa)",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Addizionale sull'energia elettrica",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Canone per raccolta, allontanamento, depurazione e scarico delle acque",
+          "codiceClassificazione": "0200"
+        },
+        {
+          "descrizioneVC": "Contributi consortili",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Diritto annuale CCIAA",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Imposta di scopo per realizzazione opere pubbliche",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Imposta di soggiorno",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Imposta provinciale di trascrizione (IPT)",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Imposta provinciale iscrizione PRA (soppressa)",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Imposta regionale sulla benzina per autotrazione",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Imposta regionale sulle emissioni sonore degli aeromobili",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Imposta sui cani (soppressa)",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Imposta sulle concessioni statali",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Sovrimposta comunale sul reddito dei fabbricati (SOCOF)",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Tassa regionale per l'occupazione di spazi ed aree pubbliche",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Tassa sulle concessioni comunali (soppressa)",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Tassa sulle concessioni regionali",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Tasse automobilistiche regionali",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Ticket sanitari",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Tributo provinciale per l'esercizio delle funzioni di tutela, protezione, igiene dell'ambiente",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Tributo speciale per il deposito in discarica dei rifiuti solidi",
+          "codiceClassificazione": "1000"
+        }
+      ]
+    },
+    {
+      "codice": "D050",
+      "descrizione": "Violazioni e sanzioni",
+      "classificazioni": [
+        {
+          "descrizioneVC": "Accertamento",
+          "codiceClassificazione": "2900"
+        },
+        {
+          "descrizioneVC": "Assicurazioni",
+          "codiceClassificazione": "1400"
+        },
+        {
+          "descrizioneVC": "Atti di contestazione e di irrogazione immediata di sanzioni",
+          "codiceClassificazione": "0400"
+        },
+        {
+          "descrizioneVC": "Bollo",
+          "codiceClassificazione": "1200"
+        },
+        {
+          "descrizioneVC": "Catasto",
+          "codiceClassificazione": "2800"
+        },
+        {
+          "descrizioneVC": "Concessioni governative",
+          "codiceClassificazione": "1300"
+        },
+        {
+          "descrizioneVC": "Contratti di borsa",
+          "codiceClassificazione": "1500"
+        },
+        {
+          "descrizioneVC": "Cosap",
+          "codiceClassificazione": "2500"
+        },
+        {
+          "descrizioneVC": "Giochi e lotterie",
+          "codiceClassificazione": "3000"
+        },
+        {
+          "descrizioneVC": "Ici",
+          "codiceClassificazione": "2200"
+        },
+        {
+          "descrizioneVC": "Imposta erariale di trascrizione",
+          "codiceClassificazione": "2000"
+        },
+        {
+          "descrizioneVC": "Intrattenimenti",
+          "codiceClassificazione": "1600"
+        },
+        {
+          "descrizioneVC": "Invim",
+          "codiceClassificazione": "2700"
+        },
+        {
+          "descrizioneVC": "Ipotecarie e catastali",
+          "codiceClassificazione": "1000"
+        },
+        {
+          "descrizioneVC": "Irap, Iciap",
+          "codiceClassificazione": "2100"
+        },
+        {
+          "descrizioneVC": "Ires",
+          "codiceClassificazione": "0700"
+        },
+        {
+          "descrizioneVC": "Irpef ",
+          "codiceClassificazione": "0600"
+        },
+        {
+          "descrizioneVC": "Iva",
+          "codiceClassificazione": "0800"
+        },
+        {
+          "descrizioneVC": "Prodotti finanziari detenuti all'estero",
+          "codiceClassificazione": "3100"
+        },
+        {
+          "descrizioneVC": "Pubblicità e pubbliche affissioni",
+          "codiceClassificazione": "2300"
+        },
+        {
+          "descrizioneVC": "Pubblico insegnamento",
+          "codiceClassificazione": "1900"
+        },
+        {
+          "descrizioneVC": "Radiodiffusioni",
+          "codiceClassificazione": "1800"
+        },
+        {
+          "descrizioneVC": "Rapporti tra sistema sanzionatorio, amministrativo e penale",
+          "codiceClassificazione": "0500"
+        },
+        {
+          "descrizioneVC": "Registro ",
+          "codiceClassificazione": "0900"
+        },
+        {
+          "descrizioneVC": "Sanzioni amministrative (principi generali)",
+          "codiceClassificazione": "0100"
+        },
+        {
+          "descrizioneVC": "Sanzioni penali",
+          "codiceClassificazione": "0300"
+        },
+        {
+          "descrizioneVC": "Successioni e donazioni",
+          "codiceClassificazione": "1100"
+        },
+        {
+          "descrizioneVC": "Tarsu",
+          "codiceClassificazione": "2400"
+        },
+        {
+          "descrizioneVC": "Tasse automobilistiche",
+          "codiceClassificazione": "1700"
+        },
+        {
+          "descrizioneVC": "Tosap",
+          "codiceClassificazione": "2600"
+        },
+        {
+          "descrizioneVC": "Violazioni (principi generali)",
+          "codiceClassificazione": "0200"
+        }
+      ]
+    }
+  ]
+}
