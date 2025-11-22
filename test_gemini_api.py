@@ -13,7 +13,7 @@ if not api_key:
 print(f"✓ API Key trovata (lunghezza: {len(api_key)} caratteri)")
 print("🔄 Testing Gemini API...")
 
-url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent"
+url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
 
 headers = {
     "Content-Type": "application/json",
