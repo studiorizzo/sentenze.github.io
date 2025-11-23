@@ -1,0 +1,124 @@
+name: Weekly Scraper - CIVILE QUINTA
+
+on:
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: 'Numero di pagine HTML da scaricare'
+        required: false
+        default: '20'
+      max_pdfs:
+        description: 'Numero massimo di PDF da scaricare (0 = tutti)'
+        required: false
+        default: '50'
+  schedule:
+    # Ogni lunedì alle 2:00 AM UTC (3:00 AM CET)
+    - cron: '0 2 * * 1'
+
+jobs:
+  scrape-and-download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2 ore max
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chrome
+        run: |
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install selenium beautifulsoup4 requests lxml
+
+      - name: STEP 1 - Download HTML pages
+        run: |
+          PAGES="${{ github.event.inputs.pages || '20' }}"
+          echo "📥 Downloading $PAGES HTML pages..."
+          python3 scraper/scripts/1_download_html.py --pages $PAGES --output scraper/data/html
+
+      - name: STEP 2 - Parse HTML to JSON
+        run: |
+          echo "🔍 Parsing HTML files to JSON..."
+          python3 scraper/scripts/2_parse_html_to_json.py \
+            --html-dir scraper/data/html \
+            --output metadata/metadata_cassazione.json
+
+      - name: STEP 3 - Download new PDFs
+        run: |
+          MAX_PDFS="${{ github.event.inputs.max_pdfs || '50' }}"
+          echo "📄 Downloading up to $MAX_PDFS new PDFs..."
+
+          if [ "$MAX_PDFS" = "0" ]; then
+            python3 scraper/scripts/3_download_pdfs.py \
+              --json metadata/metadata_cassazione.json \
+              --pdf-dir data/pdf \
+              --delay 1.5
+          else
+            python3 scraper/scripts/3_download_pdfs.py \
+              --json metadata/metadata_cassazione.json \
+              --pdf-dir data/pdf \
+              --max $MAX_PDFS \
+              --delay 1.5
+          fi
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Changes detected"
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No changes to commit"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add files
+          git add scraper/data/html/
+          git add metadata/metadata_cassazione.json
+          git add data/pdf/
+
+          # Commit
+          git commit -m "Auto-scraper: Nuove sentenze CIVILE QUINTA - $(date +'%Y-%m-%d %H:%M UTC')" \
+                     -m "- HTML pages processed" \
+                     -m "- metadata_cassazione.json updated" \
+                     -m "- New PDFs downloaded"
+
+          # Push
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## 📊 Scraper Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f metadata/metadata_cassazione.json ]; then
+            TOTAL=$(python3 -c "import json; data=json.load(open('metadata/metadata_cassazione.json')); print(data['metadata']['total_sentences'])")
+            echo "- **Total sentences in DB**: $TOTAL" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          PDF_COUNT=$(find data/pdf -name "*.pdf" 2>/dev/null | wc -l)
+          echo "- **Total PDFs downloaded**: $PDF_COUNT" >> $GITHUB_STEP_SUMMARY
+
+          HTML_COUNT=$(find scraper/data/html -name "*.html" 2>/dev/null | wc -l)
+          echo "- **HTML pages processed**: $HTML_COUNT" >> $GITHUB_STEP_SUMMARY
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Workflow completed successfully!" >> $GITHUB_STEP_SUMMARY
