@@ -11,6 +11,10 @@ import argparse
 import requests
 from pathlib import Path
 from datetime import datetime
+import urllib3
+
+# Disable SSL warnings (necessario per italgiure.giustizia.it in GitHub Actions)
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def load_metadata(json_path):
@@ -80,7 +84,8 @@ def download_pdf(url, output_path, max_retries=3, timeout=30):
 
     for attempt in range(max_retries):
         try:
-            response = requests.get(url, headers=headers, timeout=timeout, stream=True)
+            # Disable SSL verification for italgiure.giustizia.it (GitHub Actions environment)
+            response = requests.get(url, headers=headers, timeout=timeout, stream=True, verify=False)
 
             if response.status_code == 200:
                 # Verifica che sia effettivamente un PDF
