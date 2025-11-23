@@ -87,13 +87,27 @@ def parse_html_file(html_path):
         return []
 
 
-def parse_all_html_files(html_dir, output_json):
+def load_existing_json(output_json):
+    """Carica JSON esistente se presente"""
+    output_path = Path(output_json)
+    if output_path.exists():
+        try:
+            with open(output_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return data.get('sentences', []), set(s['id'] for s in data.get('sentences', []))
+        except Exception as e:
+            print(f"⚠️  Errore caricamento JSON esistente: {e}")
+    return [], set()
+
+
+def parse_all_html_files(html_dir, output_json, delete_html_after=False):
     """
-    Parsa tutti i file HTML e genera il JSON dei metadata
+    Parsa tutti i file HTML e aggiorna il JSON dei metadata (incrementale)
 
     Args:
         html_dir: Directory contenente i file HTML
         output_json: Percorso del file JSON di output
+        delete_html_after: Se True, cancella gli HTML dopo parsing riuscito
     """
     html_path = Path(html_dir)
     if not html_path.exists():
@@ -106,28 +120,35 @@ def parse_all_html_files(html_dir, output_json):
         print(f"✗ Nessun file HTML trovato in {html_dir}")
         return
 
-    print(f"🚀 Parsing HTML → JSON")
+    print(f"🚀 Parsing HTML → JSON (Aggiornamento Incrementale)")
     print(f"📁 Input:  {html_path.absolute()}")
     print(f"📄 File HTML: {len(html_files)}")
     print(f"💾 Output: {output_json}\n")
 
-    all_sentences = []
-    sentence_ids = set()
+    # Carica sentenze esistenti
+    all_sentences, sentence_ids = load_existing_json(output_json)
+    existing_count = len(all_sentences)
+
+    if existing_count > 0:
+        print(f"📚 Sentenze già presenti in JSON: {existing_count}")
+
+    new_sentences_count = 0
 
     for html_file in html_files:
         print(f"📖 {html_file.name}...", end=" ")
 
         sentences = parse_html_file(html_file)
 
-        # Evita duplicati (può capitare se scarichi la stessa pagina più volte)
+        # Aggiungi solo sentenze nuove (aggiornamento incrementale)
         new_count = 0
         for sent in sentences:
             if sent['id'] not in sentence_ids:
                 all_sentences.append(sent)
                 sentence_ids.add(sent['id'])
                 new_count += 1
+                new_sentences_count += 1
 
-        print(f"✓ {new_count} sentenze")
+        print(f"✓ {len(sentences)} trovate, {new_count} nuove")
 
     # Ordina per ID (che contiene la data e il numero)
     all_sentences.sort(key=lambda x: x['id'], reverse=True)
@@ -136,7 +157,9 @@ def parse_all_html_files(html_dir, output_json):
     output_data = {
         'metadata': {
             'generated_at': datetime.now().isoformat(),
+            'last_update': datetime.now().isoformat(),
             'total_sentences': len(all_sentences),
+            'new_sentences_added': new_sentences_count,
             'html_files_processed': len(html_files),
             'source': 'italgiure.giustizia.it',
             'filters': 'CIVILE - QUINTA SEZIONE'
@@ -152,8 +175,20 @@ def parse_all_html_files(html_dir, output_json):
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
     print(f"\n✅ Parsing completato!")
-    print(f"📊 Sentenze totali: {len(all_sentences)}")
+    print(f"📊 Sentenze totali: {len(all_sentences)} ({existing_count} esistenti + {new_sentences_count} nuove)")
     print(f"💾 JSON salvato in: {output_path.absolute()}")
+
+    # Cancella HTML se richiesto e parsing riuscito
+    if delete_html_after and new_sentences_count >= 0:  # >= 0 per cancellare anche se nessuna nuova
+        print(f"\n🗑️  Cancellazione file HTML...")
+        deleted_count = 0
+        for html_file in html_files:
+            try:
+                html_file.unlink()
+                deleted_count += 1
+            except Exception as e:
+                print(f"   ✗ Errore cancellazione {html_file.name}: {e}")
+        print(f"   ✓ {deleted_count}/{len(html_files)} file HTML cancellati")
 
     # Mostra alcune statistiche
     if all_sentences:
@@ -174,7 +209,7 @@ def parse_all_html_files(html_dir, output_json):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="STEP 2: Parsa HTML e genera JSON dei metadata"
+        description="STEP 2: Parsa HTML e aggiorna JSON dei metadata (incrementale)"
     )
     parser.add_argument(
         "--html-dir",
@@ -185,13 +220,32 @@ def main():
     parser.add_argument(
         "--output",
         type=str,
-        default="metadata/metadata_cassazione.json",
-        help="File JSON di output (default: metadata/metadata_cassazione.json)"
+        default=None,
+        help="File JSON di output (default: metadata/metadata_cassazione_{year}.json se --year, altrimenti metadata/metadata_cassazione.json)"
+    )
+    parser.add_argument(
+        "--year",
+        type=str,
+        default=None,
+        help="Anno specifico per generare metadata_cassazione_{year}.json"
+    )
+    parser.add_argument(
+        "--delete-html",
+        action="store_true",
+        help="Cancella i file HTML dopo parsing riuscito"
     )
 
     args = parser.parse_args()
 
-    parse_all_html_files(args.html_dir, args.output)
+    # Determina output JSON
+    if args.output:
+        output_json = args.output
+    elif args.year:
+        output_json = f"metadata/metadata_cassazione_{args.year}.json"
+    else:
+        output_json = "metadata/metadata_cassazione.json"
+
+    parse_all_html_files(args.html_dir, output_json, delete_html_after=args.delete_html)
 
 
 if __name__ == "__main__":
