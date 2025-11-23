@@ -209,22 +209,11 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         except Exception as e:
             print(f"ℹ️  Filtro QUINTA già applicato o non trovato: {e}")
 
-        # Applica filtro ANNO se specificato
+        # NOTA: Filtro anno NON disponibile via web (selettore non trovato)
+        # Il filtro viene applicato durante il parsing HTML (script 2_parse_html_to_json.py)
+        # Strategia: scarica TUTTI gli HTML, poi filtra per anno durante parsing
         if year:
-            print(f"🔍 Applicazione filtro Anno {year}...")
-            try:
-                # Cerca il filtro anno nella sidebar (tipicamente in data-arg="anno")
-                year_input = driver.find_element(By.CSS_SELECTOR, 'input[data-arg="anno"]')
-                year_input.clear()
-                year_input.send_keys(str(year))
-                time.sleep(1)
-
-                # Clicca su "Ricerca" o equivalente
-                search_btn = driver.find_element(By.CSS_SELECTOR, 'span.button[title="Ricerca"]')
-                driver.execute_script("arguments[0].click();", search_btn)
-                time.sleep(3)
-            except Exception as e:
-                print(f"⚠️  Errore applicazione filtro anno: {e}")
+            print(f"ℹ️  Filtro anno {year} sarà applicato durante parsing (non disponibile via web)")
 
         print(f"\n📥 Inizio download...\n")
 
