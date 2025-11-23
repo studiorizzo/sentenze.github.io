@@ -45,6 +45,19 @@ def wait_for_page_load(driver, timeout=20):
         return False
 
 
+def wait_for_results_update(driver, timeout=10):
+    """Attende che i risultati siano aggiornati dopo l'applicazione dei filtri"""
+    try:
+        # Aspetta che il primo risultato sia visibile e che i dati siano caricati
+        WebDriverWait(driver, timeout).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-role="content"][data-arg="szdec"]'))
+        )
+        time.sleep(2)  # Attesa aggiuntiva per assicurarsi che JavaScript abbia completato
+        return True
+    except TimeoutException:
+        return False
+
+
 def get_current_page_number(driver):
     """Ottiene il numero della pagina corrente"""
     try:
@@ -198,7 +211,13 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             if not is_selected:
                 print("  Applicazione filtro CIVILE...")
                 driver.execute_script("arguments[0].click();", civile_btn)
-                time.sleep(1)
+
+                # Aspetta che i risultati siano aggiornati
+                print("  Attesa aggiornamento risultati...")
+                if not wait_for_results_update(driver):
+                    print("  ⚠️  Timeout aggiornamento risultati")
+
+                print("  ✓ Filtro CIVILE applicato")
             else:
                 print("  ✓ Filtro CIVILE già attivo")
         except Exception as e:
@@ -213,7 +232,12 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             if not is_selected:
                 print("  Applicazione filtro QUINTA SEZIONE...")
                 driver.execute_script("arguments[0].click();", quinta_btn)
-                time.sleep(1)
+
+                # IMPORTANTE: Aspetta che i risultati siano aggiornati
+                print("  Attesa aggiornamento risultati...")
+                if not wait_for_results_update(driver):
+                    print("  ⚠️  Timeout aggiornamento risultati")
+
                 print("  ✓ Filtro QUINTA applicato")
             else:
                 print("  ✓ Filtro QUINTA già attivo")
@@ -238,6 +262,18 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 print("  ✓ QUINTA confermato")
             else:
                 print(f"  ⚠️  ATTENZIONE: QUINTA non attiva! Valore: {szdec_value}")
+
+            # Verifica che il primo risultato visibile sia effettivamente QUINTA
+            try:
+                first_section = driver.find_element(By.CSS_SELECTOR, 'span[data-role="content"][data-arg="szdec"]').text.strip()
+                print(f"  Prima sentenza mostrata: Sezione {first_section}")
+                if first_section == "QUINTA":
+                    print("  ✓ Risultati filtrati correttamente!")
+                else:
+                    print(f"  ⚠️  ERRORE: Prima sentenza NON è QUINTA ma {first_section}!")
+                    print("  ⚠️  I filtri potrebbero non essere stati applicati correttamente")
+            except Exception as e:
+                print(f"  ⚠️  Impossibile verificare prima sentenza: {e}")
         except Exception as e:
             print(f"  ⚠️  Errore verifica filtri: {e}")
 
