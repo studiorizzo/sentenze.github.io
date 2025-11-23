@@ -8,6 +8,7 @@ Usa: settimanalmente per trovare nuove sentenze
 import os
 import time
 import argparse
+import json
 from pathlib import Path
 from datetime import datetime
 from selenium import webdriver
@@ -55,6 +56,52 @@ def get_current_page_number(driver):
         return None
 
 
+def check_for_captcha(driver):
+    """Controlla se è apparso un CAPTCHA"""
+    try:
+        # Cerca elementi comuni di CAPTCHA
+        if driver.find_elements(By.ID, "captcha") or \
+           driver.find_elements(By.CLASS_NAME, "g-recaptcha") or \
+           "captcha" in driver.page_source.lower():
+            return True
+        return False
+    except Exception:
+        return False
+
+
+def get_page_sentence_ids(driver):
+    """Estrae tutti gli ID delle sentenze dalla pagina corrente"""
+    try:
+        # Trova tutti gli span con data-arg="id"
+        id_elements = driver.find_elements(By.CSS_SELECTOR, 'span[data-arg="id"]')
+        ids = [elem.text.strip() for elem in id_elements if elem.text.strip()]
+        return ids
+    except Exception:
+        return []
+
+
+def load_latest_sentence_id(year=None):
+    """Carica l'ultimo ID di sentenza dal JSON esistente"""
+    try:
+        if year:
+            json_path = Path(f"metadata/metadata_cassazione_{year}.json")
+        else:
+            json_path = Path("metadata/metadata_cassazione.json")
+
+        if not json_path.exists():
+            return None
+
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            sentences = data.get('sentences', [])
+            if sentences:
+                # Il primo è l'ultimo (ordinamento inverso per ID)
+                return sentences[0]['id']
+    except Exception as e:
+        print(f"⚠️  Errore caricamento ultimo ID: {e}")
+    return None
+
+
 def click_next_page(driver):
     """Clicca sul pulsante pagina successiva"""
     try:
@@ -93,27 +140,41 @@ def save_page_html(driver, output_dir, timestamp):
         return False
 
 
-def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=True):
+def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=True, year=None, stop_at_id=None, auto_stop=False):
     """
     Scarica le prime N pagine di sentenze CIVILE - QUINTA SEZIONE
 
     Args:
-        num_pages: Numero di pagine da scaricare (default: 10)
+        num_pages: Numero massimo di pagine da scaricare (default: 10)
         output_dir: Directory dove salvare i file HTML
         headless: Esegui in modalità headless (default: True)
+        year: Anno per filtrare le sentenze (opzionale)
+        stop_at_id: ID sentenza dove fermarsi (stop incrementale)
+        auto_stop: Se True, carica automaticamente l'ultimo ID dal JSON e si ferma lì
     """
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
+    # Auto-stop: carica ultimo ID dal JSON
+    if auto_stop and not stop_at_id:
+        stop_at_id = load_latest_sentence_id(year)
+        if stop_at_id:
+            print(f"🔄 Modalità aggiornamento incrementale: stop at ID {stop_at_id}")
+
     print(f"🚀 Download HTML - Sentenze CIVILE QUINTA SEZIONE")
     print(f"📁 Output: {output_path.absolute()}")
-    print(f"📄 Pagine da scaricare: {num_pages}")
+    print(f"📄 Pagine massime: {num_pages}")
+    if year:
+        print(f"📅 Anno filtro: {year}")
+    if stop_at_id:
+        print(f"🛑 Stop at ID: {stop_at_id}")
     print(f"🕐 Timestamp: {timestamp}\n")
 
     driver = None
     downloaded = 0
+    found_stop_id = False
 
     try:
         driver = setup_driver(headless)
@@ -144,34 +205,84 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             # Usa XPath perché l'ID contiene caratteri speciali
             quinta_btn = driver.find_element(By.XPATH, '//tr[@id="4.[szdec]"]')
             driver.execute_script("arguments[0].click();", quinta_btn)
-            time.sleep(3)
+            time.sleep(2)
         except Exception as e:
             print(f"ℹ️  Filtro QUINTA già applicato o non trovato: {e}")
+
+        # Applica filtro ANNO se specificato
+        if year:
+            print(f"🔍 Applicazione filtro Anno {year}...")
+            try:
+                # Cerca il filtro anno nella sidebar (tipicamente in data-arg="anno")
+                year_input = driver.find_element(By.CSS_SELECTOR, 'input[data-arg="anno"]')
+                year_input.clear()
+                year_input.send_keys(str(year))
+                time.sleep(1)
+
+                # Clicca su "Ricerca" o equivalente
+                search_btn = driver.find_element(By.CSS_SELECTOR, 'span.button[title="Ricerca"]')
+                driver.execute_script("arguments[0].click();", search_btn)
+                time.sleep(3)
+            except Exception as e:
+                print(f"⚠️  Errore applicazione filtro anno: {e}")
 
         print(f"\n📥 Inizio download...\n")
 
         # Scarica la prima pagina
+        page_ids = get_page_sentence_ids(driver)
+        if stop_at_id and stop_at_id in page_ids:
+            print(f"🛑 ID {stop_at_id} trovato nella prima pagina - stop incrementale")
+            found_stop_id = True
+
         if save_page_html(driver, output_path, timestamp):
             downloaded += 1
+
+        # Verifica CAPTCHA
+        if check_for_captcha(driver):
+            print("⚠️  CAPTCHA rilevato! Impossibile continuare.")
+            return downloaded
+
+        # Se abbiamo già trovato lo stop ID, fermiamoci
+        if found_stop_id:
+            print(f"✅ Download completato (stop incrementale)")
+            print(f"📊 Pagine scaricate: {downloaded}")
+            print(f"📁 File in: {output_path.absolute()}")
+            return downloaded
 
         # Scarica le pagine successive
         for i in range(2, num_pages + 1):
             if not click_next_page(driver):
-                print(f"✗ Impossibile navigare alla pagina {i}")
+                print(f"✗ Impossibile navigare alla pagina {i} (ultima pagina raggiunta)")
                 break
 
             if not wait_for_page_load(driver):
                 print(f"✗ Timeout pagina {i}")
                 break
 
+            # Controlla se abbiamo trovato lo stop ID
+            if stop_at_id:
+                page_ids = get_page_sentence_ids(driver)
+                if stop_at_id in page_ids:
+                    print(f"🛑 ID {stop_at_id} trovato a pagina {i} - stop incrementale")
+                    # Salva comunque questa pagina (per avere le nuove sentenze prima dello stop ID)
+                    if save_page_html(driver, output_path, timestamp):
+                        downloaded += 1
+                    found_stop_id = True
+                    break
+
             if save_page_html(driver, output_path, timestamp):
                 downloaded += 1
 
+            # Controlla CAPTCHA
+            if check_for_captcha(driver):
+                print("⚠️  CAPTCHA rilevato! Stop download.")
+                break
+
             # Pausa tra le richieste
-            time.sleep(1)
+            time.sleep(1.5)
 
         print(f"\n✅ Download completato!")
-        print(f"📊 Pagine scaricate: {downloaded}/{num_pages}")
+        print(f"📊 Pagine scaricate: {downloaded}{f'/{num_pages}' if not found_stop_id else ' (stop incrementale)'}")
         print(f"📁 File in: {output_path.absolute()}")
 
     except KeyboardInterrupt:
@@ -189,19 +300,36 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
 def main():
     parser = argparse.ArgumentParser(
-        description="STEP 1: Scarica HTML delle prime N pagine di sentenze"
+        description="STEP 1: Scarica HTML delle pagine di sentenze (con stop incrementale)"
     )
     parser.add_argument(
         "--pages",
         type=int,
         default=10,
-        help="Numero di pagine da scaricare (default: 10)"
+        help="Numero massimo di pagine da scaricare (default: 10)"
     )
     parser.add_argument(
         "--output",
         type=str,
         default="scraper/data/html",
         help="Directory di output (default: scraper/data/html)"
+    )
+    parser.add_argument(
+        "--year",
+        type=str,
+        default=None,
+        help="Filtra per anno specifico (es: 2020)"
+    )
+    parser.add_argument(
+        "--stop-at-id",
+        type=str,
+        default=None,
+        help="ID sentenza dove fermarsi (per aggiornamento incrementale)"
+    )
+    parser.add_argument(
+        "--auto-stop",
+        action="store_true",
+        help="Carica automaticamente ultimo ID dal JSON e ferma lì (modalità incrementale)"
     )
     parser.add_argument(
         "--no-headless",
@@ -214,7 +342,10 @@ def main():
     download_html_pages(
         num_pages=args.pages,
         output_dir=args.output,
-        headless=not args.no_headless
+        headless=not args.no_headless,
+        year=args.year,
+        stop_at_id=args.stop_at_id,
+        auto_stop=args.auto_stop
     )
 
 

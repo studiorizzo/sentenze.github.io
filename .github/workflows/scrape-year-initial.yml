@@ -1,0 +1,174 @@
+name: Initial Scraper - Download Anno Specifico
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Anno da scaricare (es: 2020)'
+        required: true
+      max_pages:
+        description: 'Numero massimo pagine (0 = tutte)'
+        required: false
+        default: '0'
+      max_txt:
+        description: 'Numero massimo TXT (0 = tutti)'
+        required: false
+        default: '0'
+      compress_txt:
+        description: 'Comprimi TXT in archivio .tar.gz'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  scrape-year:
+    runs-on: ubuntu-latest
+    timeout-minutes: 480  # 8 ore max per anni grandi
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.branch || github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chrome
+        run: |
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: STEP 1 - Download HTML pages (Anno ${{ github.event.inputs.year }})
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          MAX_PAGES="${{ github.event.inputs.max_pages || '0' }}"
+
+          if [ "$MAX_PAGES" = "0" ]; then
+            echo "📥 Download TUTTE le pagine anno $YEAR..."
+            python3 scraper/scripts/1_download_html.py \
+              --pages 99999 \
+              --output scraper/data/html \
+              --year $YEAR
+          else
+            echo "📥 Download max $MAX_PAGES pagine anno $YEAR..."
+            python3 scraper/scripts/1_download_html.py \
+              --pages $MAX_PAGES \
+              --output scraper/data/html \
+              --year $YEAR
+          fi
+
+      - name: STEP 2 - Parse HTML to JSON (Anno ${{ github.event.inputs.year }})
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          echo "🔍 Parsing HTML → JSON anno $YEAR..."
+          python3 scraper/scripts/2_parse_html_to_json.py \
+            --html-dir scraper/data/html \
+            --year $YEAR \
+            --delete-html
+
+      - name: STEP 3 - Extract TXT from PDFs
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          MAX_TXT="${{ github.event.inputs.max_txt || '0' }}"
+          echo "📝 Estrazione TXT da PDF anno $YEAR..."
+
+          if [ "$MAX_TXT" = "0" ]; then
+            python3 scraper/scripts/4_extract_txt.py \
+              --json metadata/metadata_cassazione_${YEAR}.json \
+              --txt-dir txt \
+              --delay 2.0
+          else
+            python3 scraper/scripts/4_extract_txt.py \
+              --json metadata/metadata_cassazione_${YEAR}.json \
+              --txt-dir txt \
+              --max $MAX_TXT \
+              --delay 2.0
+          fi
+
+      - name: STEP 4 - Compress TXT (Optional)
+        if: github.event.inputs.compress_txt == 'true'
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          echo "🗜️  Compressione TXT anno $YEAR..."
+          python3 scraper/scripts/5_compress_txt_by_year.py compress \
+            --year $YEAR \
+            --txt-dir txt \
+            --output-dir txt_compressed \
+            --delete-after
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Changes detected"
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No changes to commit"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add files
+          git add metadata/metadata_cassazione_${YEAR}.json
+
+          # Add TXT or compressed archive
+          if [ "${{ github.event.inputs.compress_txt }}" = "true" ]; then
+            git add txt_compressed/${YEAR}_sentenze_civile_quinta.tar.gz
+          else
+            git add txt/
+          fi
+
+          # Commit
+          git commit -m "Initial scraper: Anno $YEAR completato - $(date +'%Y-%m-%d %H:%M UTC')" \
+                     -m "- metadata_cassazione_${YEAR}.json creato" \
+                     -m "- File TXT estratti" \
+                     -m "- Anno: $YEAR"
+
+          # Push
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          echo "## 📊 Scraper Summary - Anno $YEAR" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          JSON_FILE="metadata/metadata_cassazione_${YEAR}.json"
+          if [ -f "$JSON_FILE" ]; then
+            TOTAL=$(python3 -c "import json; data=json.load(open('$JSON_FILE')); print(data['metadata']['total_sentences'])")
+            echo "- **Anno**: $YEAR" >> $GITHUB_STEP_SUMMARY
+            echo "- **Sentenze scaricate**: $TOTAL" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          TXT_COUNT=$(find txt -name "*.txt" 2>/dev/null | wc -l)
+          echo "- **File TXT totali**: $TXT_COUNT" >> $GITHUB_STEP_SUMMARY
+
+          if [ "${{ github.event.inputs.compress_txt }}" = "true" ]; then
+            ARCHIVE="txt_compressed/${YEAR}_sentenze_civile_quinta.tar.gz"
+            if [ -f "$ARCHIVE" ]; then
+              SIZE=$(du -h "$ARCHIVE" | cut -f1)
+              echo "- **Archivio compresso**: $SIZE" >> $GITHUB_STEP_SUMMARY
+            fi
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Download anno $YEAR completato!" >> $GITHUB_STEP_SUMMARY
