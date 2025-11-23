@@ -371,13 +371,28 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         # Scarica le pagine successive
         for i in range(2, num_pages + 1):
             try:
+                # Salva il numero di pagina corrente prima del click
+                current_page_before_click = get_current_page_number(driver)
+
                 if not click_next_page(driver):
                     print(f"✗ Impossibile navigare alla pagina {i} (ultima pagina raggiunta)")
                     break
 
+                # Aspetta che la pagina si carichi
                 if not wait_for_page_load(driver):
                     print(f"✗ Timeout pagina {i}")
                     break
+
+                # IMPORTANTE: Verifica che il numero di pagina sia CAMBIATO
+                current_page_after_click = get_current_page_number(driver)
+                if current_page_after_click == current_page_before_click:
+                    print(f"⚠️  Numero pagina non cambiato ({current_page_after_click}), attesa aggiuntiva...")
+                    time.sleep(2)
+                    current_page_after_click = get_current_page_number(driver)
+
+                    if current_page_after_click == current_page_before_click:
+                        print(f"✗ Errore: pagina bloccata su {current_page_after_click}")
+                        break
 
                 # Controlla se abbiamo trovato lo stop ID
                 if stop_at_id:
