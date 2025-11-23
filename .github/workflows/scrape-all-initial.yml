@@ -91,7 +91,12 @@ jobs:
                      -m "- HTML cancellati dopo parsing" \
                      -m "- Prossimo step: STEP 2 per scaricare PDF anno per anno"
 
+          # Pull con rebase prima di pushare (evita conflitti se il branch è stato aggiornato)
+          echo "🔄 Sincronizzazione con remote..."
+          git pull --rebase origin ${{ github.ref_name }} || echo "⚠️  Nessun conflitto da risolvere"
+
           # Push
+          echo "📤 Push al remote..."
           git push
 
       - name: Summary

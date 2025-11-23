@@ -1,0 +1,149 @@
+name: STEP 1b - Recupero Pagine Mancanti
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_page:
+        description: 'Prima pagina da recuperare'
+        required: true
+        default: '3688'
+      end_page:
+        description: 'Ultima pagina da recuperare'
+        required: true
+        default: '4064'
+      year:
+        description: 'Anno per il JSON (es. 2025)'
+        required: true
+        default: '2025'
+
+jobs:
+  recover-pages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180  # 3 ore max (377 pagine potrebbero richiedere tempo)
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chrome
+        run: |
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: STEP 1b - Download missing pages range
+        run: |
+          START="${{ github.event.inputs.start_page }}"
+          END="${{ github.event.inputs.end_page }}"
+          echo "🔄 Recupero pagine mancanti: $START → $END"
+          echo "📦 Range: $(($END - $START + 1)) pagine totali"
+          echo ""
+
+          python3 scraper/scripts/1_download_html_range.py \
+            --start $START \
+            --end $END \
+            --output scraper/data/html
+
+      - name: STEP 2 - Parse HTML and update JSON (incremental)
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          echo "📖 Aggiornamento JSON per anno $YEAR (modalità incrementale)..."
+
+          python3 scraper/scripts/2_parse_html_to_json.py \
+            --html-dir scraper/data/html \
+            --output metadata/metadata_cassazione_${YEAR}.json \
+            --delete-html
+
+      - name: Verify recovery results
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          echo "📊 Verifica risultati recupero..."
+
+          if [ -f metadata/metadata_cassazione_${YEAR}.json ]; then
+            echo "✅ JSON aggiornato correttamente"
+
+            TOTAL=$(python3 -c "import json; data=json.load(open('metadata/metadata_cassazione_${YEAR}.json')); print(data['metadata']['total_sentences'])")
+            NEW=$(python3 -c "import json; data=json.load(open('metadata/metadata_cassazione_${YEAR}.json')); print(data['metadata'].get('new_sentences_added', 0))")
+
+            echo "  - Sentenze totali nel JSON: $TOTAL"
+            echo "  - Nuove sentenze aggiunte: $NEW"
+          else
+            echo "❌ Errore: JSON non trovato!"
+            exit 1
+          fi
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Modifiche rilevate, preparazione commit..."
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  Nessuna modifica da committare"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          YEAR="${{ github.event.inputs.year }}"
+          START="${{ github.event.inputs.start_page }}"
+          END="${{ github.event.inputs.end_page }}"
+          PAGES=$(($END - $START + 1))
+
+          # Add JSON file
+          git add metadata/metadata_cassazione_${YEAR}.json
+
+          # Commit
+          git commit -m "Recupero pagine mancanti $START-$END (anno $YEAR) - $(date +'%Y-%m-%d %H:%M UTC')" \
+                     -m "📦 Recuperate $PAGES pagine mancanti" \
+                     -m "📅 Anno: $YEAR" \
+                     -m "📄 Range: pagine $START → $END" \
+                     -m "💾 JSON aggiornato: metadata_cassazione_${YEAR}.json"
+
+          # Push
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          START="${{ github.event.inputs.start_page }}"
+          END="${{ github.event.inputs.end_page }}"
+          PAGES=$(($END - $START + 1))
+
+          echo "## 📊 Recovery Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🔄 Pagine Recuperate" >> $GITHUB_STEP_SUMMARY
+          echo "- **Range**: $START → $END" >> $GITHUB_STEP_SUMMARY
+          echo "- **Totale pagine**: $PAGES" >> $GITHUB_STEP_SUMMARY
+          echo "- **Anno**: $YEAR" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f metadata/metadata_cassazione_${YEAR}.json ]; then
+            TOTAL=$(python3 -c "import json; data=json.load(open('metadata/metadata_cassazione_${YEAR}.json')); print(data['metadata']['total_sentences'])")
+            NEW=$(python3 -c "import json; data=json.load(open('metadata/metadata_cassazione_${YEAR}.json')); print(data['metadata'].get('new_sentences_added', 0))")
+
+            echo "### 📊 Risultati JSON" >> $GITHUB_STEP_SUMMARY
+            echo "- **Sentenze totali**: $TOTAL" >> $GITHUB_STEP_SUMMARY
+            echo "- **Nuove sentenze aggiunte**: $NEW" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Recupero completato con successo!" >> $GITHUB_STEP_SUMMARY
