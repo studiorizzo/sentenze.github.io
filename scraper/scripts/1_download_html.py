@@ -16,7 +16,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, StaleElementReferenceException
 
 
 def setup_driver(headless=True):
@@ -45,14 +45,14 @@ def wait_for_page_load(driver, timeout=20):
         return False
 
 
-def wait_for_results_update(driver, timeout=10):
+def wait_for_results_update(driver, timeout=15):
     """Attende che i risultati siano aggiornati dopo l'applicazione dei filtri"""
     try:
         # Aspetta che il primo risultato sia visibile e che i dati siano caricati
         WebDriverWait(driver, timeout).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-role="content"][data-arg="szdec"]'))
         )
-        time.sleep(2)  # Attesa aggiuntiva per assicurarsi che JavaScript abbia completato
+        time.sleep(3)  # Attesa più lunga per assicurarsi che JavaScript abbia completato gli aggiornamenti
         return True
     except TimeoutException:
         return False
@@ -82,15 +82,30 @@ def check_for_captcha(driver):
         return False
 
 
-def get_page_sentence_ids(driver):
-    """Estrae tutti gli ID delle sentenze dalla pagina corrente"""
-    try:
-        # Trova tutti gli span con data-arg="id"
-        id_elements = driver.find_elements(By.CSS_SELECTOR, 'span[data-arg="id"]')
-        ids = [elem.text.strip() for elem in id_elements if elem.text.strip()]
-        return ids
-    except Exception:
-        return []
+def get_page_sentence_ids(driver, max_retries=2):
+    """Estrae tutti gli ID delle sentenze dalla pagina corrente con retry automatico"""
+    for attempt in range(max_retries):
+        try:
+            # Trova tutti gli span con data-arg="id"
+            id_elements = driver.find_elements(By.CSS_SELECTOR, 'span[data-arg="id"]')
+            ids = []
+            for elem in id_elements:
+                try:
+                    text = elem.text.strip()
+                    if text:
+                        ids.append(text)
+                except StaleElementReferenceException:
+                    # Elemento singolo stale, continua con gli altri
+                    continue
+            return ids
+        except StaleElementReferenceException:
+            if attempt < max_retries - 1:
+                time.sleep(0.5)
+                continue
+            return []
+        except Exception:
+            return []
+    return []
 
 
 def load_latest_sentence_id(year=None):
@@ -115,19 +130,29 @@ def load_latest_sentence_id(year=None):
     return None
 
 
-def click_next_page(driver):
-    """Clicca sul pulsante pagina successiva"""
-    try:
-        next_btn = driver.find_element(
-            By.CSS_SELECTOR,
-            'span.pager.pagerArrow[title="pagina successiva"]'
-        )
-        driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
-        time.sleep(0.5)
-        driver.execute_script("arguments[0].click();", next_btn)
-        return True
-    except NoSuchElementException:
-        return False
+def click_next_page(driver, max_retries=3):
+    """Clicca sul pulsante pagina successiva con retry automatico per stale element"""
+    for attempt in range(max_retries):
+        try:
+            next_btn = driver.find_element(
+                By.CSS_SELECTOR,
+                'span.pager.pagerArrow[title="pagina successiva"]'
+            )
+            driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
+            time.sleep(0.5)
+            driver.execute_script("arguments[0].click();", next_btn)
+            return True
+        except NoSuchElementException:
+            return False
+        except StaleElementReferenceException:
+            if attempt < max_retries - 1:
+                print(f"  ⚠️  Stale element (tentativo {attempt + 1}/{max_retries}), retry...")
+                time.sleep(1)
+                continue
+            else:
+                print(f"  ✗ Stale element dopo {max_retries} tentativi")
+                raise
+    return False
 
 
 def save_page_html(driver, output_dir, timestamp):
@@ -202,14 +227,20 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
         time.sleep(1)  # Ridotto per velocità
 
-        # Verifica e applica filtro CIVILE solo se non è già selezionato
+        # Verifica e applica filtro CIVILE
         print("🔍 Verifica filtro CIVILE...")
         try:
-            civile_btn = driver.find_element(By.XPATH, '//tr[@id="1.[kind]"]')
-            is_selected = civile_btn.get_attribute("style").find("background-color") != -1
+            # Verifica stato attuale dall'input nascosto
+            kind_input = driver.find_element(By.CSS_SELECTOR, 'input[name="[kind]"]')
+            current_value = kind_input.get_attribute("value") or ""
 
-            if not is_selected:
+            is_civile_selected = 'snciv' in current_value and 'snpen' not in current_value
+
+            if not is_civile_selected:
+                print(f"  Valore corrente [kind]: {current_value if current_value else 'VUOTO'}")
                 print("  Applicazione filtro CIVILE...")
+
+                civile_btn = driver.find_element(By.XPATH, '//tr[@id="1.[kind]"]')
                 driver.execute_script("arguments[0].click();", civile_btn)
 
                 # Aspetta che i risultati siano aggiornati
@@ -217,20 +248,36 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 if not wait_for_results_update(driver):
                     print("  ⚠️  Timeout aggiornamento risultati")
 
-                print("  ✓ Filtro CIVILE applicato")
+                # Verifica che il filtro sia stato applicato
+                new_value = kind_input.get_attribute("value") or ""
+                if 'snciv' in new_value:
+                    print(f"  ✓ Filtro CIVILE applicato (nuovo valore: {new_value})")
+                else:
+                    print(f"  ⚠️  ATTENZIONE: Filtro CIVILE potrebbe non essere attivo! Valore: {new_value}")
             else:
-                print("  ✓ Filtro CIVILE già attivo")
+                print(f"  ✓ Filtro CIVILE già attivo (valore: {current_value})")
         except Exception as e:
             print(f"  ⚠️  Errore filtro CIVILE: {e}")
+            import traceback
+            traceback.print_exc()
 
-        # Verifica e applica filtro QUINTA solo se non è già selezionato
+        # Attesa addizionale tra i due filtri per stabilizzare
+        time.sleep(2)
+
+        # Verifica e applica filtro QUINTA
         print("🔍 Verifica filtro QUINTA SEZIONE...")
         try:
-            quinta_btn = driver.find_element(By.XPATH, '//tr[@id="5.[szdec]"]')
-            is_selected = quinta_btn.get_attribute("style").find("background-color") != -1
+            # Verifica stato attuale dall'input nascosto
+            szdec_input = driver.find_element(By.CSS_SELECTOR, 'input[name="[szdec]"]')
+            current_value = szdec_input.get_attribute("value") or ""
 
-            if not is_selected:
+            is_quinta_selected = '5' in current_value
+
+            if not is_quinta_selected:
+                print(f"  Valore corrente [szdec]: {current_value if current_value else 'VUOTO'}")
                 print("  Applicazione filtro QUINTA SEZIONE...")
+
+                quinta_btn = driver.find_element(By.XPATH, '//tr[@id="5.[szdec]"]')
                 driver.execute_script("arguments[0].click();", quinta_btn)
 
                 # IMPORTANTE: Aspetta che i risultati siano aggiornati
@@ -238,11 +285,18 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 if not wait_for_results_update(driver):
                     print("  ⚠️  Timeout aggiornamento risultati")
 
-                print("  ✓ Filtro QUINTA applicato")
+                # Verifica che il filtro sia stato applicato
+                new_value = szdec_input.get_attribute("value") or ""
+                if '5' in new_value:
+                    print(f"  ✓ Filtro QUINTA applicato (nuovo valore: {new_value})")
+                else:
+                    print(f"  ⚠️  ATTENZIONE: Filtro QUINTA potrebbe non essere attivo! Valore: {new_value}")
             else:
-                print("  ✓ Filtro QUINTA già attivo")
+                print(f"  ✓ Filtro QUINTA già attivo (valore: {current_value})")
         except Exception as e:
             print(f"  ⚠️  Errore filtro QUINTA: {e}")
+            import traceback
+            traceback.print_exc()
 
         # Verifica filtri applicati leggendo gli input nascosti
         print("\n✅ Verifica filtri applicati:")
@@ -308,35 +362,53 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
         # Scarica le pagine successive
         for i in range(2, num_pages + 1):
-            if not click_next_page(driver):
-                print(f"✗ Impossibile navigare alla pagina {i} (ultima pagina raggiunta)")
-                break
-
-            if not wait_for_page_load(driver):
-                print(f"✗ Timeout pagina {i}")
-                break
-
-            # Controlla se abbiamo trovato lo stop ID
-            if stop_at_id:
-                page_ids = get_page_sentence_ids(driver)
-                if stop_at_id in page_ids:
-                    print(f"🛑 ID {stop_at_id} trovato a pagina {i} - stop incrementale")
-                    # Salva comunque questa pagina (per avere le nuove sentenze prima dello stop ID)
-                    if save_page_html(driver, output_path, timestamp):
-                        downloaded += 1
-                    found_stop_id = True
+            try:
+                if not click_next_page(driver):
+                    print(f"✗ Impossibile navigare alla pagina {i} (ultima pagina raggiunta)")
                     break
 
-            if save_page_html(driver, output_path, timestamp):
-                downloaded += 1
+                if not wait_for_page_load(driver):
+                    print(f"✗ Timeout pagina {i}")
+                    break
 
-            # Controlla CAPTCHA
-            if check_for_captcha(driver):
-                print("⚠️  CAPTCHA rilevato! Stop download.")
-                break
+                # Controlla se abbiamo trovato lo stop ID
+                if stop_at_id:
+                    page_ids = get_page_sentence_ids(driver)
+                    if stop_at_id in page_ids:
+                        print(f"🛑 ID {stop_at_id} trovato a pagina {i} - stop incrementale")
+                        # Salva comunque questa pagina (per avere le nuove sentenze prima dello stop ID)
+                        if save_page_html(driver, output_path, timestamp):
+                            downloaded += 1
+                        found_stop_id = True
+                        break
 
-            # Pausa tra le richieste (ridotta per HTML)
-            time.sleep(0.5)
+                if save_page_html(driver, output_path, timestamp):
+                    downloaded += 1
+
+                # Progress report ogni 100 pagine
+                if i % 100 == 0:
+                    print(f"📊 Progresso: {downloaded} pagine scaricate ({i}/{num_pages if num_pages < 99999 else '???'})")
+
+                # Controlla CAPTCHA
+                if check_for_captcha(driver):
+                    print("⚠️  CAPTCHA rilevato! Stop download.")
+                    break
+
+                # Pausa tra le richieste (ridotta per HTML)
+                time.sleep(0.5)
+
+            except StaleElementReferenceException as e:
+                print(f"⚠️  Errore stale element a pagina {i} non gestito: {e}")
+                print(f"💾 Salvati {downloaded} file HTML fino a questo punto")
+                # Continua con la pagina successiva invece di fermarsi
+                time.sleep(2)
+                continue
+            except Exception as e:
+                print(f"⚠️  Errore inaspettato a pagina {i}: {e}")
+                print(f"💾 Salvati {downloaded} file HTML fino a questo punto")
+                # Continua invece di fermarsi completamente
+                time.sleep(2)
+                continue
 
         print(f"\n✅ Download completato!")
         print(f"📊 Pagine scaricate: {downloaded}{f'/{num_pages}' if not found_stop_id else ' (stop incrementale)'}")
