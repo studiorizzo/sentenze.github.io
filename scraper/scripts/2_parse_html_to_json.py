@@ -100,7 +100,7 @@ def load_existing_json(output_json):
     return [], set()
 
 
-def parse_all_html_files(html_dir, output_json, delete_html_after=False):
+def parse_all_html_files(html_dir, output_json, delete_html_after=False, filter_year=None):
     """
     Parsa tutti i file HTML e aggiorna il JSON dei metadata (incrementale)
 
@@ -108,6 +108,7 @@ def parse_all_html_files(html_dir, output_json, delete_html_after=False):
         html_dir: Directory contenente i file HTML
         output_json: Percorso del file JSON di output
         delete_html_after: Se True, cancella gli HTML dopo parsing riuscito
+        filter_year: Se specificato, filtra solo sentenze di quell'anno
     """
     html_path = Path(html_dir)
     if not html_path.exists():
@@ -123,6 +124,8 @@ def parse_all_html_files(html_dir, output_json, delete_html_after=False):
     print(f"🚀 Parsing HTML → JSON (Aggiornamento Incrementale)")
     print(f"📁 Input:  {html_path.absolute()}")
     print(f"📄 File HTML: {len(html_files)}")
+    if filter_year:
+        print(f"🔍 Filtro anno: {filter_year}")
     print(f"💾 Output: {output_json}\n")
 
     # Carica sentenze esistenti
@@ -133,22 +136,28 @@ def parse_all_html_files(html_dir, output_json, delete_html_after=False):
         print(f"📚 Sentenze già presenti in JSON: {existing_count}")
 
     new_sentences_count = 0
+    filtered_count = 0
 
     for html_file in html_files:
         print(f"📖 {html_file.name}...", end=" ")
 
         sentences = parse_html_file(html_file)
 
-        # Aggiungi solo sentenze nuove (aggiornamento incrementale)
+        # Aggiungi solo sentenze nuove (aggiornamento incrementale) con filtro anno
         new_count = 0
         for sent in sentences:
+            # Filtra per anno se specificato
+            if filter_year and sent.get('anno') != filter_year:
+                filtered_count += 1
+                continue
+
             if sent['id'] not in sentence_ids:
                 all_sentences.append(sent)
                 sentence_ids.add(sent['id'])
                 new_count += 1
                 new_sentences_count += 1
 
-        print(f"✓ {len(sentences)} trovate, {new_count} nuove")
+        print(f"✓ {len(sentences)} trovate, {new_count} nuove{f', {len(sentences) - new_count} filtrate' if filter_year else ''}")
 
     # Ordina per ID (che contiene la data e il numero)
     all_sentences.sort(key=lambda x: x['id'], reverse=True)
@@ -245,7 +254,7 @@ def main():
     else:
         output_json = "metadata/metadata_cassazione.json"
 
-    parse_all_html_files(args.html_dir, output_json, delete_html_after=args.delete_html)
+    parse_all_html_files(args.html_dir, output_json, delete_html_after=args.delete_html, filter_year=args.year)
 
 
 if __name__ == "__main__":
