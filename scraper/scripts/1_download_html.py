@@ -39,7 +39,7 @@ def wait_for_page_load(driver, timeout=20):
         WebDriverWait(driver, timeout).until(
             EC.presence_of_element_located((By.CLASS_NAME, "dataset"))
         )
-        time.sleep(0.5)  # Attesa aggiuntiva per JavaScript (ridotto per HTML)
+        time.sleep(1.5)  # Attesa aggiuntiva per JavaScript (aumentato per stabilità)
         return True
     except TimeoutException:
         return False
@@ -139,7 +139,7 @@ def click_next_page(driver, max_retries=3):
                 'span.pager.pagerArrow[title="pagina successiva"]'
             )
             driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
-            time.sleep(0.5)
+            time.sleep(1.0)  # Aumentato per dare tempo al browser
             driver.execute_script("arguments[0].click();", next_btn)
             return True
         except NoSuchElementException:
@@ -385,14 +385,19 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
                 # IMPORTANTE: Verifica che il numero di pagina sia CAMBIATO
                 current_page_after_click = get_current_page_number(driver)
-                if current_page_after_click == current_page_before_click:
-                    print(f"⚠️  Numero pagina non cambiato ({current_page_after_click}), attesa aggiuntiva...")
-                    time.sleep(2)
-                    current_page_after_click = get_current_page_number(driver)
+                retry_count = 0
+                max_page_change_retries = 4
 
-                    if current_page_after_click == current_page_before_click:
-                        print(f"✗ Errore: pagina bloccata su {current_page_after_click}")
-                        break
+                while current_page_after_click == current_page_before_click and retry_count < max_page_change_retries:
+                    print(f"⚠️  Numero pagina non cambiato ({current_page_after_click}), attesa aggiuntiva... (tentativo {retry_count + 1}/{max_page_change_retries})")
+                    time.sleep(4)  # Attesa più lunga per dare tempo al server
+                    current_page_after_click = get_current_page_number(driver)
+                    retry_count += 1
+
+                if current_page_after_click == current_page_before_click:
+                    print(f"✗ Errore: pagina bloccata su {current_page_after_click} dopo {max_page_change_retries} tentativi")
+                    print(f"✗ STOP: Impossibile procedere oltre pagina {current_page_before_click}")
+                    break
 
                 # Controlla se abbiamo trovato lo stop ID
                 if stop_at_id:
@@ -417,21 +422,19 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                     print("⚠️  CAPTCHA rilevato! Stop download.")
                     break
 
-                # Pausa tra le richieste (ridotta per HTML)
-                time.sleep(0.5)
+                # Pausa tra le richieste (aumentata per stabilità e ridurre stress server)
+                time.sleep(2.0)
 
             except StaleElementReferenceException as e:
                 print(f"⚠️  Errore stale element a pagina {i} non gestito: {e}")
                 print(f"💾 Salvati {downloaded} file HTML fino a questo punto")
-                # Continua con la pagina successiva invece di fermarsi
-                time.sleep(2)
-                continue
+                print(f"✗ STOP: Errore critico, interrompo per evitare salti di pagine")
+                break
             except Exception as e:
                 print(f"⚠️  Errore inaspettato a pagina {i}: {e}")
                 print(f"💾 Salvati {downloaded} file HTML fino a questo punto")
-                # Continua invece di fermarsi completamente
-                time.sleep(2)
-                continue
+                print(f"✗ STOP: Errore critico, interrompo per evitare salti di pagine")
+                break
 
         print(f"\n✅ Download completato!")
         print(f"📊 Pagine scaricate: {downloaded}{f'/{num_pages}' if not found_stop_id else ' (stop incrementale)'}")
