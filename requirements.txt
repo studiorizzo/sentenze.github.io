@@ -1,0 +1,4 @@
+# Dipendenze per lo scraping delle sentenze
+selenium>=4.15.0
+
+# Dipendenze esistenti (se presenti, aggiungere qui)

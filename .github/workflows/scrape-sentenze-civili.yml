@@ -1,0 +1,79 @@
+name: Scrape Sentenze CIVILE - QUINTA SEZIONE
+
+on:
+  workflow_dispatch:  # Eseguibile manualmente
+    inputs:
+      start_page:
+        description: 'Pagina iniziale'
+        required: false
+        default: '1'
+      end_page:
+        description: 'Pagina finale (lascia vuoto per tutte)'
+        required: false
+        default: ''
+  schedule:
+    # Esegui ogni giorno alle 2:00 AM UTC (3:00 AM CET)
+    - cron: '0 2 * * *'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+
+      - name: Install Chrome
+        run: |
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install selenium
+
+      - name: Run scraper
+        run: |
+          if [ -n "${{ github.event.inputs.end_page }}" ]; then
+            python3 scripts/scrape_sentenze_civili_quinta.py \
+              --start ${{ github.event.inputs.start_page }} \
+              --end ${{ github.event.inputs.end_page }}
+          else
+            # Per lo schedule, scarica solo le prime 10 pagine (per evitare timeout)
+            if [ "${{ github.event_name }}" = "schedule" ]; then
+              python3 scripts/scrape_sentenze_civili_quinta.py --start 1 --end 10
+            else
+              python3 scripts/scrape_sentenze_civili_quinta.py \
+                --start ${{ github.event.inputs.start_page }}
+            fi
+          fi
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/html/
+          git commit -m "Auto-update: Nuove sentenze CIVILE - QUINTA SEZIONE $(date +'%Y-%m-%d %H:%M')"
+          git push
