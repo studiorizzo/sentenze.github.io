@@ -39,7 +39,7 @@ def wait_for_page_load(driver, timeout=20):
         WebDriverWait(driver, timeout).until(
             EC.presence_of_element_located((By.CLASS_NAME, "dataset"))
         )
-        time.sleep(2)  # Attesa aggiuntiva per JavaScript
+        time.sleep(0.5)  # Attesa aggiuntiva per JavaScript (ridotto per HTML)
         return True
     except TimeoutException:
         return False
@@ -187,7 +187,7 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             print("✗ Errore caricamento pagina iniziale")
             return
 
-        time.sleep(3)
+        time.sleep(1)  # Ridotto per velocità
 
         # Applica filtro CIVILE
         print("🔍 Applicazione filtro CIVILE...")
@@ -195,7 +195,7 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             # Usa XPath perché l'ID contiene caratteri speciali
             civile_btn = driver.find_element(By.XPATH, '//tr[@id="1.[kind]"]')
             driver.execute_script("arguments[0].click();", civile_btn)
-            time.sleep(2)
+            time.sleep(0.5)  # Ridotto per velocità
         except Exception as e:
             print(f"ℹ️  Filtro CIVILE già applicato o non trovato: {e}")
 
@@ -205,7 +205,7 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             # Usa XPath perché l'ID contiene caratteri speciali
             quinta_btn = driver.find_element(By.XPATH, '//tr[@id="4.[szdec]"]')
             driver.execute_script("arguments[0].click();", quinta_btn)
-            time.sleep(2)
+            time.sleep(0.5)  # Ridotto per velocità
         except Exception as e:
             print(f"ℹ️  Filtro QUINTA già applicato o non trovato: {e}")
 
@@ -267,8 +267,8 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 print("⚠️  CAPTCHA rilevato! Stop download.")
                 break
 
-            # Pausa tra le richieste
-            time.sleep(1.5)
+            # Pausa tra le richieste (ridotta per HTML)
+            time.sleep(0.5)
 
         print(f"\n✅ Download completato!")
         print(f"📊 Pagine scaricate: {downloaded}{f'/{num_pages}' if not found_stop_id else ' (stop incrementale)'}")
