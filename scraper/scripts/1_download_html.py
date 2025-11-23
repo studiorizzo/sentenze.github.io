@@ -277,7 +277,9 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 print(f"  Valore corrente [szdec]: {current_value if current_value else 'VUOTO'}")
                 print("  Applicazione filtro QUINTA SEZIONE...")
 
-                quinta_btn = driver.find_element(By.XPATH, '//tr[@id="5.[szdec]"]')
+                # IMPORTANTE: id="4.[szdec]" seleziona la QUINTA (valore interno "5")
+                # NON usare id="5.[szdec]" che seleziona la SESTA (valore interno "6")!
+                quinta_btn = driver.find_element(By.XPATH, '//tr[@id="4.[szdec]"]')
                 driver.execute_script("arguments[0].click();", quinta_btn)
 
                 # IMPORTANTE: Aspetta che i risultati siano aggiornati
@@ -287,10 +289,12 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
                 # Verifica che il filtro sia stato applicato
                 new_value = szdec_input.get_attribute("value") or ""
-                if '5' in new_value:
+                if '5' in new_value and '6' not in new_value:
                     print(f"  ✓ Filtro QUINTA applicato (nuovo valore: {new_value})")
                 else:
                     print(f"  ⚠️  ATTENZIONE: Filtro QUINTA potrebbe non essere attivo! Valore: {new_value}")
+                    if '6' in new_value:
+                        print(f"  ⚠️  ERRORE: Valore '6' indica SESTA sezione, non QUINTA!")
             else:
                 print(f"  ✓ Filtro QUINTA già attivo (valore: {current_value})")
         except Exception as e:
