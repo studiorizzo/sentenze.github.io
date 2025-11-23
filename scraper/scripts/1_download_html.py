@@ -45,14 +45,14 @@ def wait_for_page_load(driver, timeout=20):
         return False
 
 
-def wait_for_results_update(driver, timeout=10):
+def wait_for_results_update(driver, timeout=15):
     """Attende che i risultati siano aggiornati dopo l'applicazione dei filtri"""
     try:
         # Aspetta che il primo risultato sia visibile e che i dati siano caricati
         WebDriverWait(driver, timeout).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'span[data-role="content"][data-arg="szdec"]'))
         )
-        time.sleep(2)  # Attesa aggiuntiva per assicurarsi che JavaScript abbia completato
+        time.sleep(3)  # Attesa più lunga per assicurarsi che JavaScript abbia completato gli aggiornamenti
         return True
     except TimeoutException:
         return False
@@ -227,14 +227,20 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
         time.sleep(1)  # Ridotto per velocità
 
-        # Verifica e applica filtro CIVILE solo se non è già selezionato
+        # Verifica e applica filtro CIVILE
         print("🔍 Verifica filtro CIVILE...")
         try:
-            civile_btn = driver.find_element(By.XPATH, '//tr[@id="1.[kind]"]')
-            is_selected = civile_btn.get_attribute("style").find("background-color") != -1
+            # Verifica stato attuale dall'input nascosto
+            kind_input = driver.find_element(By.CSS_SELECTOR, 'input[name="[kind]"]')
+            current_value = kind_input.get_attribute("value") or ""
 
-            if not is_selected:
+            is_civile_selected = 'snciv' in current_value and 'snpen' not in current_value
+
+            if not is_civile_selected:
+                print(f"  Valore corrente [kind]: {current_value if current_value else 'VUOTO'}")
                 print("  Applicazione filtro CIVILE...")
+
+                civile_btn = driver.find_element(By.XPATH, '//tr[@id="1.[kind]"]')
                 driver.execute_script("arguments[0].click();", civile_btn)
 
                 # Aspetta che i risultati siano aggiornati
@@ -242,20 +248,36 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 if not wait_for_results_update(driver):
                     print("  ⚠️  Timeout aggiornamento risultati")
 
-                print("  ✓ Filtro CIVILE applicato")
+                # Verifica che il filtro sia stato applicato
+                new_value = kind_input.get_attribute("value") or ""
+                if 'snciv' in new_value:
+                    print(f"  ✓ Filtro CIVILE applicato (nuovo valore: {new_value})")
+                else:
+                    print(f"  ⚠️  ATTENZIONE: Filtro CIVILE potrebbe non essere attivo! Valore: {new_value}")
             else:
-                print("  ✓ Filtro CIVILE già attivo")
+                print(f"  ✓ Filtro CIVILE già attivo (valore: {current_value})")
         except Exception as e:
             print(f"  ⚠️  Errore filtro CIVILE: {e}")
+            import traceback
+            traceback.print_exc()
 
-        # Verifica e applica filtro QUINTA solo se non è già selezionato
+        # Attesa addizionale tra i due filtri per stabilizzare
+        time.sleep(2)
+
+        # Verifica e applica filtro QUINTA
         print("🔍 Verifica filtro QUINTA SEZIONE...")
         try:
-            quinta_btn = driver.find_element(By.XPATH, '//tr[@id="5.[szdec]"]')
-            is_selected = quinta_btn.get_attribute("style").find("background-color") != -1
+            # Verifica stato attuale dall'input nascosto
+            szdec_input = driver.find_element(By.CSS_SELECTOR, 'input[name="[szdec]"]')
+            current_value = szdec_input.get_attribute("value") or ""
 
-            if not is_selected:
+            is_quinta_selected = '5' in current_value
+
+            if not is_quinta_selected:
+                print(f"  Valore corrente [szdec]: {current_value if current_value else 'VUOTO'}")
                 print("  Applicazione filtro QUINTA SEZIONE...")
+
+                quinta_btn = driver.find_element(By.XPATH, '//tr[@id="5.[szdec]"]')
                 driver.execute_script("arguments[0].click();", quinta_btn)
 
                 # IMPORTANTE: Aspetta che i risultati siano aggiornati
@@ -263,11 +285,18 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 if not wait_for_results_update(driver):
                     print("  ⚠️  Timeout aggiornamento risultati")
 
-                print("  ✓ Filtro QUINTA applicato")
+                # Verifica che il filtro sia stato applicato
+                new_value = szdec_input.get_attribute("value") or ""
+                if '5' in new_value:
+                    print(f"  ✓ Filtro QUINTA applicato (nuovo valore: {new_value})")
+                else:
+                    print(f"  ⚠️  ATTENZIONE: Filtro QUINTA potrebbe non essere attivo! Valore: {new_value}")
             else:
-                print("  ✓ Filtro QUINTA già attivo")
+                print(f"  ✓ Filtro QUINTA già attivo (valore: {current_value})")
         except Exception as e:
             print(f"  ⚠️  Errore filtro QUINTA: {e}")
+            import traceback
+            traceback.print_exc()
 
         # Verifica filtri applicati leggendo gli input nascosti
         print("\n✅ Verifica filtri applicati:")
