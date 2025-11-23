@@ -277,9 +277,13 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 print(f"  Valore corrente [szdec]: {current_value if current_value else 'VUOTO'}")
                 print("  Applicazione filtro QUINTA SEZIONE...")
 
-                # IMPORTANTE: id="4.[szdec]" seleziona la QUINTA (valore interno "5")
-                # NON usare id="5.[szdec]" che seleziona la SESTA (valore interno "6")!
-                quinta_btn = driver.find_element(By.XPATH, '//tr[@id="4.[szdec]"]')
+                # IMPORTANTE: Cerca per testo "QUINTA" invece di ID posizionale
+                # Gli ID cambiano quando applichi altri filtri!
+                # XPath: trova il <tr> che contiene lo span con testo "QUINTA"
+                quinta_btn = driver.find_element(
+                    By.XPATH,
+                    '//span[text()="QUINTA"]/ancestor::tr[contains(@id, "[szdec]")]'
+                )
                 driver.execute_script("arguments[0].click();", quinta_btn)
 
                 # IMPORTANTE: Aspetta che i risultati siano aggiornati
