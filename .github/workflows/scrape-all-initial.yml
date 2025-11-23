@@ -43,7 +43,7 @@ jobs:
 
           if [ "$MAX_PAGES" = "0" ]; then
             echo "📥 Download TUTTE le pagine (~5591 totali)..."
-            echo "⏱️  Tempo stimato: 2-3 ore con delay 2s"
+            echo "⏱️  Tempo stimato: ~1.5 ore (delay ottimizzato 0.5s/pagina)"
             python3 scraper/scripts/1_download_html.py \
               --pages 99999 \
               --output scraper/data/html
