@@ -60,7 +60,7 @@ console.log(`  Totale: ${totCount?.textContent.trim() || 'N/A'}`);
 console.log("\n✅ XPATH DA USARE NEL CODICE PYTHON:");
 console.log("-".repeat(80));
 console.log('  CIVILE:  \'//tr[@id="1.[kind]"]\'');
-console.log('  QUINTA:  \'//tr[@id="4.[szdec]"]\'');
+console.log('  QUINTA:  \'//tr[@id="5.[szdec]"]\'  (ID=5, non 4!)');
 
 console.log("\n" + "=".repeat(80));
 console.log("✅ Analisi completata!");

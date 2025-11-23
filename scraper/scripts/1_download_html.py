@@ -226,7 +226,7 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         # Verifica e applica filtro QUINTA solo se non è già selezionato
         print("🔍 Verifica filtro QUINTA SEZIONE...")
         try:
-            quinta_btn = driver.find_element(By.XPATH, '//tr[@id="4.[szdec]"]')
+            quinta_btn = driver.find_element(By.XPATH, '//tr[@id="5.[szdec]"]')
             is_selected = quinta_btn.get_attribute("style").find("background-color") != -1
 
             if not is_selected:
