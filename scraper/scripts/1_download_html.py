@@ -131,7 +131,8 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         # Applica filtro CIVILE
         print("🔍 Applicazione filtro CIVILE...")
         try:
-            civile_btn = driver.find_element(By.CSS_SELECTOR, 'tr#1\\.\\[kind\\]')
+            # Usa XPath perché l'ID contiene caratteri speciali
+            civile_btn = driver.find_element(By.XPATH, '//tr[@id="1.[kind]"]')
             driver.execute_script("arguments[0].click();", civile_btn)
             time.sleep(2)
         except Exception as e:
@@ -140,7 +141,8 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         # Applica filtro QUINTA
         print("🔍 Applicazione filtro QUINTA SEZIONE...")
         try:
-            quinta_btn = driver.find_element(By.CSS_SELECTOR, 'tr#4\\.\\[szdec\\]')
+            # Usa XPath perché l'ID contiene caratteri speciali
+            quinta_btn = driver.find_element(By.XPATH, '//tr[@id="4.[szdec]"]')
             driver.execute_script("arguments[0].click();", quinta_btn)
             time.sleep(3)
         except Exception as e:
