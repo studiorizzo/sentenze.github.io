@@ -1,0 +1,135 @@
+name: Estrai TXT da PDF per anno
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Anno da processare (2020, 2021, 2022, etc.)'
+        required: true
+      max_txt:
+        description: 'Numero massimo TXT (0 = tutti)'
+        required: false
+        default: '0'
+
+concurrency:
+  group: txt-extraction-${{ github.event.inputs.year }}
+  cancel-in-progress: false
+
+jobs:
+  extract-txt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 480  # 8 ore max
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify JSON exists
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          JSON_FILE="metadata/metadata_cassazione_${YEAR}.json"
+
+          if [ ! -f "$JSON_FILE" ]; then
+            echo "❌ File $JSON_FILE non trovato!"
+            exit 1
+          fi
+
+          TOTAL=$(python3 -c "import json; data=json.load(open('$JSON_FILE')); print(data['metadata']['total_sentences'])")
+          echo "✅ JSON trovato: $TOTAL sentenze anno $YEAR"
+
+      - name: Extract TXT from PDFs (download → extract → delete)
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          MAX_TXT="${{ github.event.inputs.max_txt || '0' }}"
+
+          echo "📝 Estrazione TXT anno $YEAR..."
+          echo "Flow: Download PDF → Estrai TXT → Cancella PDF"
+
+          if [ "$MAX_TXT" = "0" ]; then
+            python3 scraper/scripts/4_extract_txt.py \
+              --json metadata/metadata_cassazione_${YEAR}.json \
+              --txt-dir txt \
+              --temp-pdf-dir temp_pdf \
+              --delay 1.5
+          else
+            python3 scraper/scripts/4_extract_txt.py \
+              --json metadata/metadata_cassazione_${YEAR}.json \
+              --txt-dir txt \
+              --temp-pdf-dir temp_pdf \
+              --max $MAX_TXT \
+              --delay 1.5
+          fi
+
+      - name: Compress TXT files by year
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          echo "🗜️  Compressione TXT anno $YEAR..."
+
+          python3 scraper/scripts/5_compress_txt_by_year.py compress \
+            --year $YEAR \
+            --txt-dir txt \
+            --output-dir txt_compressed \
+            --metadata-dir metadata \
+            --delete-after
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Changes detected"
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No changes to commit"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add archivio compresso
+          git add txt_compressed/
+
+          # Commit
+          git commit -m "TXT anno $YEAR estratti e compressi - $(date +'%Y-%m-%d %H:%M UTC')" \
+                     -m "- Archivio: ${YEAR}_sentenze_civile_quinta.tar.gz" \
+                     -m "- PDF scaricati → TXT estratti → PDF cancellati" \
+                     -m "- TXT compressi in archivio"
+
+          # Push
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          echo "## 📊 Estrazione TXT - Anno $YEAR" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -d "txt_compressed" ]; then
+            ARCHIVE="txt_compressed/${YEAR}_sentenze_civile_quinta.tar.gz"
+            if [ -f "$ARCHIVE" ]; then
+              SIZE=$(du -h "$ARCHIVE" | cut -f1)
+              echo "- **Anno**: $YEAR" >> $GITHUB_STEP_SUMMARY
+              echo "- **Archivio**: ${YEAR}_sentenze_civile_quinta.tar.gz" >> $GITHUB_STEP_SUMMARY
+              echo "- **Dimensione**: $SIZE" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              echo "✅ Estrazione completata!" >> $GITHUB_STEP_SUMMARY
+            fi
+          fi
