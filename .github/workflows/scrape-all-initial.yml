@@ -3,18 +3,14 @@ name: STEP 1 - Download TUTTO e genera JSON per anni
 on:
   workflow_dispatch:
     inputs:
+      year:
+        description: 'Anno da scaricare (2025, 2024, 2023, 2022, 2021, 2020 o vuoto per tutti)'
+        required: false
+        default: ''
       max_pages:
-        description: 'Numero massimo pagine (0 = tutte le ~5591). Ignorato se usi start_page/end_page'
+        description: 'Numero massimo pagine (0 = tutte, lasciare 0 per download completo)'
         required: false
         default: '0'
-      start_page:
-        description: 'Pagina iniziale (opzionale, per scaricare chunk specifico)'
-        required: false
-        default: ''
-      end_page:
-        description: 'Pagina finale (opzionale, richiede start_page)'
-        required: false
-        default: ''
 
 # Previene conflitti: solo un workflow scraping alla volta
 concurrency:
@@ -50,26 +46,37 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: STEP 1.1 - Download TUTTI gli HTML (CIVILE - QUINTA)
+      - name: STEP 1.1 - Download HTML (CIVILE - QUINTA)
         run: |
-          START_PAGE="${{ github.event.inputs.start_page }}"
-          END_PAGE="${{ github.event.inputs.end_page }}"
+          YEAR="${{ github.event.inputs.year }}"
           MAX_PAGES="${{ github.event.inputs.max_pages || '0' }}"
 
-          # Caso 1: Range specifico (start_page e end_page)
-          if [ -n "$START_PAGE" ] && [ -n "$END_PAGE" ]; then
-            echo "📥 Download range: pagina $START_PAGE → $END_PAGE"
-            NUM_PAGES=$((END_PAGE - START_PAGE + 1))
-            echo "⏱️  Tempo stimato: ~$((NUM_PAGES * 2 / 60)) minuti (delay 2.0s/pagina)"
+          # Caso 1: Anno specifico
+          if [ -n "$YEAR" ]; then
+            echo "📥 Download anno $YEAR (CIVILE - QUINTA SEZIONE)"
+
+            # Calcola pagine stimate per anno
+            case "$YEAR" in
+              2025) EST_PAGES=1156; EST_TIME="~1.2 ore" ;;
+              2024) EST_PAGES=1097; EST_TIME="~1.1 ore" ;;
+              2023) EST_PAGES=1137; EST_TIME="~1.2 ore" ;;
+              2022) EST_PAGES=902; EST_TIME="~1.0 ore" ;;
+              2021) EST_PAGES=1203; EST_TIME="~1.2 ore" ;;
+              2020) EST_PAGES=97; EST_TIME="~10 min" ;;
+              *) EST_PAGES="???"; EST_TIME="???" ;;
+            esac
+
+            echo "⏱️  Tempo stimato: $EST_TIME (~$EST_PAGES pagine)"
             python3 scraper/scripts/1_download_html.py \
-              --start-page $START_PAGE \
-              --end-page $END_PAGE \
+              --year-filter $YEAR \
+              --pages 99999 \
               --output scraper/data/html
 
-          # Caso 2: Tutte le pagine o max_pages
+          # Caso 2: Tutte le pagine (tutti gli anni)
           elif [ "$MAX_PAGES" = "0" ]; then
-            echo "📥 Download TUTTE le pagine (~5591 totali)..."
-            echo "⏱️  Tempo stimato: ~6-7 ore (delay 2.0s/pagina)"
+            echo "📥 Download TUTTI gli anni (~5591 pagine totali)..."
+            echo "⚠️  ATTENZIONE: Supera limite 6 ore GitHub Actions!"
+            echo "ℹ️  Consiglio: usa parametro 'year' per scaricare un anno alla volta"
             python3 scraper/scripts/1_download_html.py \
               --pages 99999 \
               --output scraper/data/html
