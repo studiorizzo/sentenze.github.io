@@ -8,7 +8,7 @@ on:
         required: false
         default: ''
       max_pages:
-        description: 'Numero massimo pagine (0 = tutte, lasciare 0 per download completo)'
+        description: 'Numero massimo pagine (0 = tutte). Funziona anche con year per test limitati'
         required: false
         default: '0'
 
@@ -62,15 +62,25 @@ jobs:
               2023) EST_PAGES=1137; EST_TIME="~1.2 ore" ;;
               2022) EST_PAGES=902; EST_TIME="~1.0 ore" ;;
               2021) EST_PAGES=1203; EST_TIME="~1.2 ore" ;;
-              2020) EST_PAGES=97; EST_TIME="~10 min" ;;
+              2020) EST_PAGES=95; EST_TIME="~10 min" ;;
               *) EST_PAGES="???"; EST_TIME="???" ;;
             esac
 
-            echo "⏱️  Tempo stimato: $EST_TIME (~$EST_PAGES pagine)"
-            python3 scraper/scripts/1_download_html.py \
-              --year-filter $YEAR \
-              --pages 99999 \
-              --output scraper/data/html
+            # Se MAX_PAGES specificato, usa quello, altrimenti tutte
+            if [ "$MAX_PAGES" != "0" ]; then
+              echo "📥 Download $MAX_PAGES pagine per anno $YEAR (test limitato)"
+              echo "⏱️  Tempo stimato: ~$((MAX_PAGES * 2 / 60)) minuti (delay 2.0s/pagina)"
+              python3 scraper/scripts/1_download_html.py \
+                --year-filter $YEAR \
+                --pages $MAX_PAGES \
+                --output scraper/data/html
+            else
+              echo "⏱️  Tempo stimato: $EST_TIME (~$EST_PAGES pagine)"
+              python3 scraper/scripts/1_download_html.py \
+                --year-filter $YEAR \
+                --pages 99999 \
+                --output scraper/data/html
+            fi
 
           # Caso 2: Tutte le pagine (tutti gli anni)
           elif [ "$MAX_PAGES" = "0" ]; then

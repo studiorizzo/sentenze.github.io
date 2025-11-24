@@ -69,6 +69,17 @@ def get_current_page_number(driver):
         return None
 
 
+def get_total_pages(driver):
+    """Ottiene il numero totale di pagine"""
+    try:
+        title = driver.find_element(By.ID, "contentData").get_attribute("title")
+        # Estrae da "pagina X di YYYY"
+        total = int(title.split("di")[1].strip())
+        return total
+    except Exception:
+        return None
+
+
 def check_for_captcha(driver):
     """Controlla se è apparso un CAPTCHA"""
     try:
@@ -130,28 +141,65 @@ def load_latest_sentence_id(year=None):
     return None
 
 
-def click_next_page(driver, max_retries=3):
-    """Clicca sul pulsante pagina successiva con retry automatico per stale element"""
+def click_next_page(driver, max_retries=5):
+    """Clicca sul pulsante pagina successiva con retry automatico per stale element e timing issues"""
     for attempt in range(max_retries):
         try:
-            next_btn = driver.find_element(
-                By.CSS_SELECTOR,
-                'span.pager.pagerArrow[title="pagina successiva"]'
-            )
+            # Prima verifica se esiste il pulsante con attesa esplicita
+            try:
+                wait = WebDriverWait(driver, 10)
+                next_btn = wait.until(
+                    EC.presence_of_element_located((
+                        By.CSS_SELECTOR,
+                        'span.pager.pagerArrow[title="pagina successiva"]'
+                    ))
+                )
+            except TimeoutException:
+                # Se timeout, forse siamo davvero all'ultima pagina, ma proviamo con find_element
+                try:
+                    next_btn = driver.find_element(
+                        By.CSS_SELECTOR,
+                        'span.pager.pagerArrow[title="pagina successiva"]'
+                    )
+                except NoSuchElementException:
+                    if attempt < max_retries - 1:
+                        print(f"  ⚠️  Pulsante next non trovato (tentativo {attempt + 1}/{max_retries}), retry...")
+                        time.sleep(2)
+                        continue
+                    else:
+                        print(f"  ✗ Pulsante next non trovato dopo {max_retries} tentativi")
+                        return False
+
+            # Scroll al pulsante
             driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
-            time.sleep(1.0)  # Aumentato per dare tempo al browser
+            time.sleep(1.5)
+
+            # Verifica che il pulsante sia cliccabile (non disabled)
+            if next_btn.get_attribute("disabled"):
+                print(f"  ⚠️  Pulsante next disabilitato (ultima pagina reale)")
+                return False
+
+            # Click con JavaScript per maggiore affidabilità
             driver.execute_script("arguments[0].click();", next_btn)
             return True
-        except NoSuchElementException:
-            return False
+
         except StaleElementReferenceException:
             if attempt < max_retries - 1:
                 print(f"  ⚠️  Stale element (tentativo {attempt + 1}/{max_retries}), retry...")
-                time.sleep(1)
+                time.sleep(2)
                 continue
             else:
                 print(f"  ✗ Stale element dopo {max_retries} tentativi")
-                raise
+                return False
+        except Exception as e:
+            if attempt < max_retries - 1:
+                print(f"  ⚠️  Errore click next: {e} (tentativo {attempt + 1}/{max_retries}), retry...")
+                time.sleep(2)
+                continue
+            else:
+                print(f"  ✗ Errore click next dopo {max_retries} tentativi: {e}")
+                return False
+
     return False
 
 
@@ -405,11 +453,22 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
         print(f"\n📥 Inizio download...")
 
-        # Scarica la prima pagina
+        # Scarica la prima pagina e rileva il totale delle pagine
         page_ids = get_page_sentence_ids(driver)
         if stop_at_id and stop_at_id in page_ids:
             print(f"🛑 ID {stop_at_id} trovato nella prima pagina - stop incrementale")
             found_stop_id = True
+
+        # Rileva il numero totale di pagine
+        total_pages = get_total_pages(driver)
+        if total_pages:
+            print(f"📄 Totale pagine disponibili: {total_pages}")
+            if num_pages == 99999:
+                print(f"📥 Verranno scaricate TUTTE le {total_pages} pagine")
+            elif num_pages < total_pages:
+                print(f"📥 Verranno scaricate {num_pages} pagine su {total_pages} disponibili")
+        else:
+            print(f"⚠️  Impossibile determinare il numero totale di pagine")
 
         if save_page_html(driver, output_path, timestamp):
             downloaded += 1
@@ -432,8 +491,22 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
                 # Salva il numero di pagina corrente prima del click
                 current_page_before_click = get_current_page_number(driver)
 
+                # Verifica se siamo già all'ultima pagina prima di provare il click
+                if total_pages and current_page_before_click >= total_pages:
+                    print(f"✅ Raggiunta l'ultima pagina disponibile ({total_pages})")
+                    break
+
                 if not click_next_page(driver):
-                    print(f"✗ Impossibile navigare alla pagina {i} (ultima pagina raggiunta)")
+                    # Verifica se siamo davvero all'ultima pagina o se c'è un problema
+                    current_page = get_current_page_number(driver)
+                    if total_pages:
+                        if current_page >= total_pages:
+                            print(f"✅ Raggiunta l'ultima pagina disponibile ({total_pages})")
+                        else:
+                            print(f"⚠️  Errore navigazione: siamo a pagina {current_page} ma dovrebbero essercene {total_pages}")
+                            print(f"⚠️  Mancano {total_pages - current_page} pagine!")
+                    else:
+                        print(f"✗ Impossibile navigare alla pagina {i} (ultima pagina raggiunta)")
                     break
 
                 # Aspetta che la pagina si carichi
