@@ -1,0 +1,115 @@
+name: STEP 1 - Download TUTTO e genera JSON per anni
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: 'Numero massimo pagine (0 = tutte le ~5591)'
+        required: false
+        default: '0'
+
+jobs:
+  scrape-all:
+    runs-on: ubuntu-latest
+    timeout-minutes: 600  # 10 ore max per download completo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.branch || github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chrome
+        run: |
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: STEP 1.1 - Download TUTTI gli HTML (CIVILE - QUINTA)
+        run: |
+          MAX_PAGES="${{ github.event.inputs.max_pages || '0' }}"
+
+          if [ "$MAX_PAGES" = "0" ]; then
+            echo "📥 Download TUTTE le pagine (~5591 totali)..."
+            echo "⏱️  Tempo stimato: ~1.5 ore (delay ottimizzato 0.5s/pagina)"
+            python3 scraper/scripts/1_download_html.py \
+              --pages 99999 \
+              --output scraper/data/html
+          else
+            echo "📥 Download max $MAX_PAGES pagine..."
+            python3 scraper/scripts/1_download_html.py \
+              --pages $MAX_PAGES \
+              --output scraper/data/html
+          fi
+
+      - name: STEP 1.2 - Parse HTML e genera TUTTI i JSON per anno
+        run: |
+          echo "🔍 Parsing HTML → JSON per TUTTI gli anni..."
+          echo "📊 Strategia efficiente: UN download, TUTTI i JSON!"
+          python3 scraper/scripts/2_parse_html_to_json.py \
+            --html-dir scraper/data/html \
+            --all-years \
+            --delete-html
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Changes detected"
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No changes to commit"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add tutti i JSON generati
+          git add metadata/metadata_cassazione_*.json
+
+          # Commit
+          git commit -m "STEP 1 completato: Tutti i JSON per anno generati - $(date +'%Y-%m-%d %H:%M UTC')" \
+                     -m "- Download completo HTML CIVILE - QUINTA" \
+                     -m "- JSON separati per ogni anno: 2020, 2021, 2022, 2023, 2024, 2025" \
+                     -m "- HTML cancellati dopo parsing" \
+                     -m "- Prossimo step: STEP 2 per scaricare PDF anno per anno"
+
+          # Push
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## 📊 STEP 1 - Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### JSON Generati:" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          for json_file in metadata/metadata_cassazione_*.json; do
+            if [ -f "$json_file" ]; then
+              YEAR=$(basename "$json_file" | sed 's/metadata_cassazione_//;s/.json//')
+              TOTAL=$(python3 -c "import json; data=json.load(open('$json_file')); print(data['metadata']['total_sentences'])")
+              echo "- **$YEAR**: $TOTAL sentenze" >> $GITHUB_STEP_SUMMARY
+            fi
+          done
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ STEP 1 completato!" >> $GITHUB_STEP_SUMMARY
+          echo "📝 Prossimo: usa workflow 'STEP 2' per scaricare PDF di un anno specifico" >> $GITHUB_STEP_SUMMARY

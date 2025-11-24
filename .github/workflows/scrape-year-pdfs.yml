@@ -1,0 +1,113 @@
+name: STEP 2 - Download PDFs anno specifico
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Anno da processare (es: 2020)'
+        required: true
+      max_pdfs:
+        description: 'Numero massimo PDF (0 = tutti)'
+        required: false
+        default: '0'
+
+jobs:
+  download-pdfs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 480  # 8 ore max per anni grandi
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.branch || github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify JSON exists
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          JSON_FILE="metadata/metadata_cassazione_${YEAR}.json"
+
+          if [ ! -f "$JSON_FILE" ]; then
+            echo "❌ File $JSON_FILE non trovato!"
+            echo "⚠️  Prima esegui STEP 1 per generare i JSON"
+            exit 1
+          fi
+
+          TOTAL=$(python3 -c "import json; data=json.load(open('$JSON_FILE')); print(data['metadata']['total_sentences'])")
+          echo "✅ JSON trovato: $TOTAL sentenze anno $YEAR"
+
+      - name: STEP 2 - Download PDFs anno ${{ github.event.inputs.year }}
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          MAX_PDFS="${{ github.event.inputs.max_pdfs || '0' }}"
+          echo "📥 Download PDFs anno $YEAR (per estrazione manuale vision)..."
+
+          if [ "$MAX_PDFS" = "0" ]; then
+            python3 scraper/scripts/temp_download_pdfs_only.py \
+              --json metadata/metadata_cassazione_${YEAR}.json \
+              --pdf-dir data/pdf \
+              --delay 2.0
+          else
+            python3 scraper/scripts/temp_download_pdfs_only.py \
+              --json metadata/metadata_cassazione_${YEAR}.json \
+              --pdf-dir data/pdf \
+              --max $MAX_PDFS \
+              --delay 2.0
+          fi
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Changes detected"
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No changes to commit"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add PDF
+          git add data/pdf/
+
+          # Commit
+          git commit -m "STEP 2: PDFs anno $YEAR scaricati - $(date +'%Y-%m-%d %H:%M UTC')" \
+                     -m "- PDF anno $YEAR in data/pdf/" \
+                     -m "- Pronti per estrazione TXT manuale con Claude Code vision"
+
+          # Push
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          YEAR="${{ github.event.inputs.year }}"
+          echo "## 📊 STEP 2 - Summary Anno $YEAR" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          PDF_COUNT=$(find data/pdf -name "*.pdf" 2>/dev/null | wc -l)
+          echo "- **Anno**: $YEAR" >> $GITHUB_STEP_SUMMARY
+          echo "- **PDF scaricati**: $PDF_COUNT" >> $GITHUB_STEP_SUMMARY
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Download PDFs anno $YEAR completato!" >> $GITHUB_STEP_SUMMARY
+          echo "📝 Ora puoi estrarre TXT manualmente con Claude Code vision" >> $GITHUB_STEP_SUMMARY
