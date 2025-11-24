@@ -15,6 +15,11 @@ on:
     # Ogni lunedì alle 2:00 AM UTC (3:00 AM CET)
     - cron: '0 2 * * 1'
 
+# Previene conflitti: solo un workflow scraping alla volta
+concurrency:
+  group: scraping-workflows
+  cancel-in-progress: false  # Aspetta che altri workflow finiscano invece di cancellarli
+
 jobs:
   scrape-and-download:
     runs-on: ubuntu-latest

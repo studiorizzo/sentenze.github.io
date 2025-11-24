@@ -11,6 +11,11 @@ on:
         required: false
         default: '0'
 
+# Previene conflitti: solo un workflow scraping alla volta
+concurrency:
+  group: scraping-workflows
+  cancel-in-progress: false  # Aspetta che altri workflow finiscano invece di cancellarli
+
 jobs:
   download-pdfs:
     runs-on: ubuntu-latest

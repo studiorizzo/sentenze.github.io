@@ -4,9 +4,22 @@ on:
   workflow_dispatch:
     inputs:
       max_pages:
-        description: 'Numero massimo pagine (0 = tutte le ~5591)'
+        description: 'Numero massimo pagine (0 = tutte le ~5591). Ignorato se usi start_page/end_page'
         required: false
         default: '0'
+      start_page:
+        description: 'Pagina iniziale (opzionale, per scaricare chunk specifico)'
+        required: false
+        default: ''
+      end_page:
+        description: 'Pagina finale (opzionale, richiede start_page)'
+        required: false
+        default: ''
+
+# Previene conflitti: solo un workflow scraping alla volta
+concurrency:
+  group: scraping-workflows
+  cancel-in-progress: false  # Nuovi workflow aspettano invece di cancellare quelli in corso
 
 jobs:
   scrape-all:
@@ -39,16 +52,30 @@ jobs:
 
       - name: STEP 1.1 - Download TUTTI gli HTML (CIVILE - QUINTA)
         run: |
+          START_PAGE="${{ github.event.inputs.start_page }}"
+          END_PAGE="${{ github.event.inputs.end_page }}"
           MAX_PAGES="${{ github.event.inputs.max_pages || '0' }}"
 
-          if [ "$MAX_PAGES" = "0" ]; then
+          # Caso 1: Range specifico (start_page e end_page)
+          if [ -n "$START_PAGE" ] && [ -n "$END_PAGE" ]; then
+            echo "📥 Download range: pagina $START_PAGE → $END_PAGE"
+            NUM_PAGES=$((END_PAGE - START_PAGE + 1))
+            echo "⏱️  Tempo stimato: ~$((NUM_PAGES * 2 / 60)) minuti (delay 2.0s/pagina)"
+            python3 scraper/scripts/1_download_html_range.py \
+              --start $START_PAGE \
+              --end $END_PAGE \
+              --output scraper/data/html
+
+          # Caso 2: Tutte le pagine o max_pages
+          elif [ "$MAX_PAGES" = "0" ]; then
             echo "📥 Download TUTTE le pagine (~5591 totali)..."
-            echo "⏱️  Tempo stimato: ~1.5 ore (delay ottimizzato 0.5s/pagina)"
+            echo "⏱️  Tempo stimato: ~6-7 ore (delay 2.0s/pagina)"
             python3 scraper/scripts/1_download_html.py \
               --pages 99999 \
               --output scraper/data/html
           else
             echo "📥 Download max $MAX_PAGES pagine..."
+            echo "⏱️  Tempo stimato: ~$((MAX_PAGES * 2 / 60)) minuti (delay 2.0s/pagina)"
             python3 scraper/scripts/1_download_html.py \
               --pages $MAX_PAGES \
               --output scraper/data/html
