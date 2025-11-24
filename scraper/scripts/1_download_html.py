@@ -178,7 +178,7 @@ def save_page_html(driver, output_dir, timestamp):
         return False
 
 
-def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=True, year=None, stop_at_id=None, auto_stop=False, start_page=1, end_page=None):
+def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=True, year=None, stop_at_id=None, auto_stop=False, year_filter=None):
     """
     Scarica le prime N pagine di sentenze CIVILE - QUINTA SEZIONE
 
@@ -186,11 +186,10 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         num_pages: Numero massimo di pagine da scaricare (default: 10)
         output_dir: Directory dove salvare i file HTML
         headless: Esegui in modalità headless (default: True)
-        year: Anno per filtrare le sentenze (opzionale)
+        year: Anno per filtrare le sentenze durante parsing (opzionale)
         stop_at_id: ID sentenza dove fermarsi (stop incrementale)
         auto_stop: Se True, carica automaticamente l'ultimo ID dal JSON e si ferma lì
-        start_page: Pagina iniziale da cui partire (default: 1)
-        end_page: Pagina finale dove fermarsi (opzionale)
+        year_filter: Anno da filtrare via web (applica filtro anno nel browser)
     """
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
@@ -308,6 +307,59 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             import traceback
             traceback.print_exc()
 
+        # Attesa addizionale per stabilizzare
+        time.sleep(2)
+
+        # Verifica e applica filtro ANNO (se specificato)
+        if year_filter:
+            print(f"\n🔍 Applicazione filtro ANNO {year_filter}...")
+            try:
+                # Mappa anno -> ID riga
+                year_to_id = {
+                    "2025": "1",
+                    "2024": "2",
+                    "2023": "3",
+                    "2022": "4",
+                    "2021": "5",
+                    "2020": "6"
+                }
+
+                row_id = year_to_id.get(str(year_filter))
+                if not row_id:
+                    print(f"  ⚠️  Anno {year_filter} non trovato nel mapping!")
+                else:
+                    # Verifica stato attuale dall'input nascosto
+                    anno_input = driver.find_element(By.CSS_SELECTOR, 'input[name="[anno]"]')
+                    current_value = anno_input.get_attribute("value") or ""
+
+                    is_year_selected = str(year_filter) in current_value
+
+                    if not is_year_selected:
+                        print(f"  Valore corrente [anno]: {current_value if current_value else 'VUOTO'}")
+                        print(f"  Applicazione filtro ANNO {year_filter}...")
+
+                        # Clicca sulla riga anno
+                        anno_btn = driver.find_element(By.XPATH, f'//tr[@id="{row_id}.[anno]"]')
+                        driver.execute_script("arguments[0].click();", anno_btn)
+
+                        # Aspetta che i risultati siano aggiornati
+                        print("  Attesa aggiornamento risultati...")
+                        if not wait_for_results_update(driver):
+                            print("  ⚠️  Timeout aggiornamento risultati")
+
+                        # Verifica che il filtro sia stato applicato
+                        new_value = anno_input.get_attribute("value") or ""
+                        if str(year_filter) in new_value:
+                            print(f"  ✓ Filtro ANNO {year_filter} applicato (nuovo valore: {new_value})")
+                        else:
+                            print(f"  ⚠️  ATTENZIONE: Filtro ANNO potrebbe non essere attivo! Valore: {new_value}")
+                    else:
+                        print(f"  ✓ Filtro ANNO {year_filter} già attivo (valore: {current_value})")
+            except Exception as e:
+                print(f"  ⚠️  Errore filtro ANNO: {e}")
+                import traceback
+                traceback.print_exc()
+
         # Verifica filtri applicati leggendo gli input nascosti
         print("\n✅ Verifica filtri applicati:")
         try:
@@ -315,6 +367,11 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             szdec_value = driver.find_element(By.CSS_SELECTOR, 'input[name="[szdec]"]').get_attribute("value")
             print(f"  ARCHIVIO [kind]: {kind_value}")
             print(f"  SEZIONE [szdec]: {szdec_value}")
+
+            # Verifica anno se filtro applicato
+            if year_filter:
+                anno_value = driver.find_element(By.CSS_SELECTOR, 'input[name="[anno]"]').get_attribute("value")
+                print(f"  ANNO [anno]: {anno_value}")
 
             # Verifica che i filtri siano corretti
             if kind_value and 'snciv' in kind_value:
@@ -341,39 +398,14 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         except Exception as e:
             print(f"  ⚠️  Errore verifica filtri: {e}")
 
-        # NOTA: Filtro anno NON disponibile via web (selettore non trovato)
-        # Il filtro viene applicato durante il parsing HTML (script 2_parse_html_to_json.py)
-        # Strategia: scarica TUTTI gli HTML, poi filtra per anno durante parsing
-        if year:
-            print(f"ℹ️  Filtro anno {year} sarà applicato durante parsing (non disponibile via web)")
+        # NOTA: Filtro anno ora disponibile via web (applicato sopra)
+        # Se year è specificato (senza year_filter), viene applicato durante parsing
+        if year and not year_filter:
+            print(f"ℹ️  Filtro anno {year} sarà applicato durante parsing")
 
-        # Calcola il numero di pagine effettivo se end_page è specificato
-        if end_page:
-            actual_pages = end_page - start_page + 1
-            print(f"\n📥 Range download: pagina {start_page} → {end_page} ({actual_pages} pagine)")
-        else:
-            actual_pages = num_pages
-            if start_page > 1:
-                print(f"\n📥 Inizio download da pagina {start_page} per {num_pages} pagine")
-            else:
-                print(f"\n📥 Inizio download...")
+        print(f"\n📥 Inizio download...")
 
-        # Se start_page > 1, salta le prime pagine cliccando ">" senza salvare
-        if start_page > 1:
-            print(f"\n⏩ Skip pagine 1-{start_page-1}...")
-            for skip_page in range(1, start_page):
-                if not click_next_page(driver):
-                    print(f"✗ Errore skip pagina {skip_page}")
-                    return 0
-                if not wait_for_page_load(driver):
-                    print(f"✗ Timeout skip pagina {skip_page}")
-                    return 0
-                if skip_page % 100 == 0:
-                    print(f"  ⏩ Saltate {skip_page}/{start_page-1} pagine...")
-                time.sleep(0.5)  # Delay minimo per skip
-            print(f"✓ Skip completato, inizio download da pagina {start_page}\n")
-
-        # Scarica la prima pagina (start_page)
+        # Scarica la prima pagina
         page_ids = get_page_sentence_ids(driver)
         if stop_at_id and stop_at_id in page_ids:
             print(f"🛑 ID {stop_at_id} trovato nella prima pagina - stop incrementale")
@@ -395,7 +427,7 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             return downloaded
 
         # Scarica le pagine successive
-        for i in range(2, actual_pages + 1):
+        for i in range(2, num_pages + 1):
             try:
                 # Salva il numero di pagina corrente prima del click
                 current_page_before_click = get_current_page_number(driver)
@@ -441,11 +473,7 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
                 # Progress report ogni 100 pagine
                 if i % 100 == 0:
-                    current_actual_page = start_page + i - 1
-                    if end_page:
-                        print(f"📊 Progresso: {downloaded} pagine scaricate (pagina {current_actual_page}/{end_page})")
-                    else:
-                        print(f"📊 Progresso: {downloaded} pagine scaricate ({i}/{actual_pages if actual_pages < 99999 else '???'})")
+                    print(f"📊 Progresso: {downloaded} pagine scaricate ({i}/{num_pages if num_pages < 99999 else '???'})")
 
                 # Controlla CAPTCHA
                 if check_for_captcha(driver):
@@ -522,16 +550,10 @@ def main():
         help="Mostra il browser durante l'esecuzione"
     )
     parser.add_argument(
-        "--start-page",
-        type=int,
-        default=1,
-        help="Pagina iniziale da cui partire (default: 1)"
-    )
-    parser.add_argument(
-        "--end-page",
-        type=int,
+        "--year-filter",
+        type=str,
         default=None,
-        help="Pagina finale dove fermarsi (opzionale)"
+        help="Applica filtro anno via web (es: 2025, 2024, 2023, 2022, 2021, 2020)"
     )
 
     args = parser.parse_args()
@@ -543,8 +565,7 @@ def main():
         year=args.year,
         stop_at_id=args.stop_at_id,
         auto_stop=args.auto_stop,
-        start_page=args.start_page,
-        end_page=args.end_page
+        year_filter=args.year_filter
     )
 
 
