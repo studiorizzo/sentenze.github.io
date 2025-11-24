@@ -1,0 +1,169 @@
+name: MEF Sentenze Scraper - Ministero Economia e Finanze
+
+on:
+  workflow_dispatch:
+    inputs:
+      anno:
+        description: 'Anno sentenze da scaricare (es: 2022)'
+        required: true
+        default: '2022'
+      solo_massimate:
+        description: 'Solo sentenze massimate? (true/false)'
+        required: false
+        default: 'true'
+      ente:
+        description: 'Autorità emanante'
+        required: false
+        default: 'Corte di Cassazione'
+      download_dettagli:
+        description: 'Scarica anche dettagli completi? (true/false)'
+        required: false
+        default: 'true'
+
+# Workflow indipendente dagli altri
+concurrency:
+  group: mef-scraping
+  cancel-in-progress: false
+
+jobs:
+  scrape-mef:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180  # 3 ore max
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chrome
+        run: |
+          wget -q https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install selenium lxml beautifulsoup4 html5lib
+
+      - name: STEP 1 - Scraping lista sentenze MEF
+        run: |
+          ANNO="${{ github.event.inputs.anno }}"
+          MASSIMATE="${{ github.event.inputs.solo_massimate }}"
+          ENTE="${{ github.event.inputs.ente }}"
+
+          echo "📥 Scraping sentenze MEF anno $ANNO..."
+          echo "   Ente: $ENTE"
+          echo "   Solo massimate: $MASSIMATE"
+
+          python3 scraper/scripts/mef_1_scrape_sentenze.py \
+            --anno "$ANNO" \
+            --ente "$ENTE" \
+            --massimate $([ "$MASSIMATE" = "true" ] && echo "--massimate" || echo "") \
+            --output "scraper/data/mef"
+
+      - name: STEP 2 - Download dettagli sentenze (testo, massime, entities)
+        if: github.event.inputs.download_dettagli == 'true'
+        run: |
+          ANNO="${{ github.event.inputs.anno }}"
+
+          echo "📝 Download dettagli sentenze..."
+
+          python3 scraper/scripts/mef_2_download_dettagli.py \
+            --input "scraper/data/mef/sentenze_lista_$ANNO.json" \
+            --output-json "metadata/metadata_mef_$ANNO.json" \
+            --output-txt "txt/mef" \
+            --delay 2
+
+      - name: STEP 3 - Extract entities da sentenze
+        if: github.event.inputs.download_dettagli == 'true'
+        run: |
+          ANNO="${{ github.event.inputs.anno }}"
+
+          echo "🔗 Estrazione entities..."
+
+          python3 scraper/scripts/mef_3_extract_entities.py \
+            --input "metadata/metadata_mef_$ANNO.json" \
+            --output "metadata/metadata_mef_${ANNO}_entities.json"
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Changes detected"
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No changes to commit"
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          ANNO="${{ github.event.inputs.anno }}"
+
+          # Add files
+          git add metadata/metadata_mef_${ANNO}*.json
+          git add txt/mef/
+          git add scraper/data/mef/
+
+          # Commit
+          git commit -m "MEF Scraper: Sentenze anno $ANNO - $(date +'%Y-%m-%d %H:%M UTC')" \
+                     -m "- Anno: $ANNO" \
+                     -m "- Ente: ${{ github.event.inputs.ente }}" \
+                     -m "- Solo massimate: ${{ github.event.inputs.solo_massimate }}" \
+                     -m "- Dettagli scaricati: ${{ github.event.inputs.download_dettagli }}"
+
+          # Push
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          ANNO="${{ github.event.inputs.anno }}"
+
+          echo "## 📊 MEF Scraper Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Parametri" >> $GITHUB_STEP_SUMMARY
+          echo "- **Anno**: $ANNO" >> $GITHUB_STEP_SUMMARY
+          echo "- **Ente**: ${{ github.event.inputs.ente }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Solo massimate**: ${{ github.event.inputs.solo_massimate }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Download dettagli**: ${{ github.event.inputs.download_dettagli }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          # Lista sentenze
+          if [ -f "scraper/data/mef/sentenze_lista_$ANNO.json" ]; then
+            LISTA_COUNT=$(python3 -c "import json; data=json.load(open('scraper/data/mef/sentenze_lista_$ANNO.json')); print(len(data.get('sentenze', [])))")
+            echo "### Risultati" >> $GITHUB_STEP_SUMMARY
+            echo "- **Sentenze trovate**: $LISTA_COUNT" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          # Metadata
+          if [ -f "metadata/metadata_mef_$ANNO.json" ]; then
+            TOTAL=$(python3 -c "import json; data=json.load(open('metadata/metadata_mef_$ANNO.json')); print(data['metadata']['total_sentences'])")
+            echo "- **Dettagli scaricati**: $TOTAL" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          # TXT files
+          if [ -d "txt/mef" ]; then
+            TXT_COUNT=$(find txt/mef -name "*.txt" 2>/dev/null | wc -l)
+            echo "- **File TXT generati**: $TXT_COUNT" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          # Entities
+          if [ -f "metadata/metadata_mef_${ANNO}_entities.json" ]; then
+            echo "- **✅ Entities estratte**" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Workflow completed!" >> $GITHUB_STEP_SUMMARY
