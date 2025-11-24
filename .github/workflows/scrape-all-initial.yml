@@ -61,9 +61,9 @@ jobs:
             echo "📥 Download range: pagina $START_PAGE → $END_PAGE"
             NUM_PAGES=$((END_PAGE - START_PAGE + 1))
             echo "⏱️  Tempo stimato: ~$((NUM_PAGES * 2 / 60)) minuti (delay 2.0s/pagina)"
-            python3 scraper/scripts/1_download_html_range.py \
-              --start $START_PAGE \
-              --end $END_PAGE \
+            python3 scraper/scripts/1_download_html.py \
+              --start-page $START_PAGE \
+              --end-page $END_PAGE \
               --output scraper/data/html
 
           # Caso 2: Tutte le pagine o max_pages
