@@ -259,6 +259,21 @@ def download_html_pages_range(start_page, end_page, output_dir="scraper/data/htm
         # Naviga alla pagina iniziale
         if start_page > 1:
             print(f"\n🔄 Navigazione alla pagina {start_page}...")
+
+            # Attendi che il paginatore sia visibile
+            print("  ⏳ Attesa caricamento paginatore...")
+            time.sleep(3)  # Attesa aggiuntiva per caricamento paginatore
+
+            # Verifica che il paginatore sia presente
+            try:
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.ID, "pagerInputValue"))
+                )
+                print("  ✓ Paginatore caricato")
+            except Exception as e:
+                print(f"  ✗ Paginatore non trovato: {e}")
+                return 0
+
             if not navigate_to_page(driver, start_page):
                 print(f"✗ Impossibile navigare alla pagina {start_page}")
                 return 0
