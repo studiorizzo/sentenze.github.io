@@ -107,8 +107,12 @@ def parse_xml_results(xml_string):
                 if titolo_text:
                     titoli.append(titolo_text)
 
+            # Costruisci URL diretto alla sentenza
+            url = f"https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={id_prov}"
+
             provvedimenti.append({
                 'id': id_prov,
+                'url': url,
                 'estremi': estremi,
                 'titoli': titoli
             })

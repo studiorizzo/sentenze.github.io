@@ -104,6 +104,7 @@ Il file JSON generato ha questa struttura:
   "sentenze": [
     {
       "id": "{84B3CC19-CC89-46BE-B7FB-79EA80772CA2}",
+      "url": "https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={84B3CC19-CC89-46BE-B7FB-79EA80772CA2}",
       "estremi": "Sentenza del 30/12/2022 n. 38131 - Corte di Cassazione - Sezione/Collegio 5",
       "titoli": [
         "Cartella di pagamento - Accise - Imposta di fabbricazione..."
