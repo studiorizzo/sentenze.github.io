@@ -178,7 +178,7 @@ def save_page_html(driver, output_dir, timestamp):
         return False
 
 
-def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=True, year=None, stop_at_id=None, auto_stop=False):
+def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=True, year=None, stop_at_id=None, auto_stop=False, start_page=1, end_page=None):
     """
     Scarica le prime N pagine di sentenze CIVILE - QUINTA SEZIONE
 
@@ -189,6 +189,8 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         year: Anno per filtrare le sentenze (opzionale)
         stop_at_id: ID sentenza dove fermarsi (stop incrementale)
         auto_stop: Se True, carica automaticamente l'ultimo ID dal JSON e si ferma lì
+        start_page: Pagina iniziale da cui partire (default: 1)
+        end_page: Pagina finale dove fermarsi (opzionale)
     """
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
@@ -345,9 +347,33 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
         if year:
             print(f"ℹ️  Filtro anno {year} sarà applicato durante parsing (non disponibile via web)")
 
-        print(f"\n📥 Inizio download...\n")
+        # Calcola il numero di pagine effettivo se end_page è specificato
+        if end_page:
+            actual_pages = end_page - start_page + 1
+            print(f"\n📥 Range download: pagina {start_page} → {end_page} ({actual_pages} pagine)")
+        else:
+            actual_pages = num_pages
+            if start_page > 1:
+                print(f"\n📥 Inizio download da pagina {start_page} per {num_pages} pagine")
+            else:
+                print(f"\n📥 Inizio download...")
 
-        # Scarica la prima pagina
+        # Se start_page > 1, salta le prime pagine cliccando ">" senza salvare
+        if start_page > 1:
+            print(f"\n⏩ Skip pagine 1-{start_page-1}...")
+            for skip_page in range(1, start_page):
+                if not click_next_page(driver):
+                    print(f"✗ Errore skip pagina {skip_page}")
+                    return 0
+                if not wait_for_page_load(driver):
+                    print(f"✗ Timeout skip pagina {skip_page}")
+                    return 0
+                if skip_page % 100 == 0:
+                    print(f"  ⏩ Saltate {skip_page}/{start_page-1} pagine...")
+                time.sleep(0.5)  # Delay minimo per skip
+            print(f"✓ Skip completato, inizio download da pagina {start_page}\n")
+
+        # Scarica la prima pagina (start_page)
         page_ids = get_page_sentence_ids(driver)
         if stop_at_id and stop_at_id in page_ids:
             print(f"🛑 ID {stop_at_id} trovato nella prima pagina - stop incrementale")
@@ -369,7 +395,7 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
             return downloaded
 
         # Scarica le pagine successive
-        for i in range(2, num_pages + 1):
+        for i in range(2, actual_pages + 1):
             try:
                 # Salva il numero di pagina corrente prima del click
                 current_page_before_click = get_current_page_number(driver)
@@ -415,7 +441,11 @@ def download_html_pages(num_pages=10, output_dir="scraper/data/html", headless=T
 
                 # Progress report ogni 100 pagine
                 if i % 100 == 0:
-                    print(f"📊 Progresso: {downloaded} pagine scaricate ({i}/{num_pages if num_pages < 99999 else '???'})")
+                    current_actual_page = start_page + i - 1
+                    if end_page:
+                        print(f"📊 Progresso: {downloaded} pagine scaricate (pagina {current_actual_page}/{end_page})")
+                    else:
+                        print(f"📊 Progresso: {downloaded} pagine scaricate ({i}/{actual_pages if actual_pages < 99999 else '???'})")
 
                 # Controlla CAPTCHA
                 if check_for_captcha(driver):
@@ -491,6 +521,18 @@ def main():
         action="store_true",
         help="Mostra il browser durante l'esecuzione"
     )
+    parser.add_argument(
+        "--start-page",
+        type=int,
+        default=1,
+        help="Pagina iniziale da cui partire (default: 1)"
+    )
+    parser.add_argument(
+        "--end-page",
+        type=int,
+        default=None,
+        help="Pagina finale dove fermarsi (opzionale)"
+    )
 
     args = parser.parse_args()
 
@@ -500,7 +542,9 @@ def main():
         headless=not args.no_headless,
         year=args.year,
         stop_at_id=args.stop_at_id,
-        auto_stop=args.auto_stop
+        auto_stop=args.auto_stop,
+        start_page=args.start_page,
+        end_page=args.end_page
     )
 
 
