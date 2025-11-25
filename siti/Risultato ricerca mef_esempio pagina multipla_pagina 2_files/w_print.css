@@ -1,0 +1,19 @@
+a { color: #000; text-decoration: none; }
+
+#testata-bg,
+#menu-principale,
+#menu-navigazione,
+#footer,
+.logo-ssef,
+.menu-servizio,
+.skipheader, .skiplink, .skipcontent, 
+.logo-def,
+.spalla_label,
+.ico-pdf
+{
+ display: none;
+}
+
+.contenitore { width: auto; }
+.tab .titolo,
+.tab .contenuto { display: block; position: static !important; }
