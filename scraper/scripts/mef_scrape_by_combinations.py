@@ -113,23 +113,13 @@ def parse_xml_results(xml_string):
         return {'metadata': {}, 'provvedimenti': []}
 
 
-def click_next_page(driver):
-    """Clicca sul link 'Avanti' per prossima pagina"""
-    try:
-        avanti_links = driver.find_elements(By.CLASS_NAME, "avanti")
-        if avanti_links:
-            avanti_links[0].click()
-            time.sleep(2)
-            return True
-        return False
-    except Exception as e:
-        print(f"      ✗ Errore navigazione pagina: {e}")
-        return False
-
-
-def search_combination(driver, materia_code, classificazione_code, anno, ente, solo_massimate, max_pages=None):
+def search_combination(driver, materia_code, classificazione_code, anno, ente, solo_massimate):
     """
     Esegue una ricerca per una specifica combinazione Materia+Classificazione
+
+    NOTA: L'XML contiene già TUTTI i risultati nella prima pagina.
+    La paginazione visiva è gestita solo via JavaScript lato client.
+    Non serve quindi navigare tra le pagine.
 
     Returns:
         dict: {
@@ -204,42 +194,24 @@ def search_combination(driver, materia_code, classificazione_code, anno, ente, s
             # 0 risultati
             return {'num_risultati': 0, 'sentenze': [], 'metadata': {}}
 
-        # Estrai risultati (prima pagina)
-        all_sentenze = []
-        page_num = 1
-        metadata = {}
+        # Estrai XML (contiene già TUTTI i risultati)
+        xml_string = extract_xml_from_page(driver)
+        if not xml_string:
+            print(f"      ⚠️  XML non trovato nella pagina")
+            return {'num_risultati': -1, 'sentenze': [], 'metadata': {}, 'error': 'XML non trovato'}
 
-        while True:
-            xml_string = extract_xml_from_page(driver)
-            if not xml_string:
-                break
-
-            page_data = parse_xml_results(xml_string)
-
-            if page_num == 1:
-                metadata = page_data.get('metadata', {})
-
-            provvedimenti = page_data.get('provvedimenti', [])
-            all_sentenze.extend(provvedimenti)
-
-            # Controlla se ci sono altre pagine
-            ultima_pagina = int(metadata.get('ultima_pagina', '1'))
-
-            # Se max_pages è specificato, rispettalo
-            if max_pages and page_num >= max_pages:
-                break
-
-            if page_num >= ultima_pagina:
-                break
-
-            # Vai alla pagina successiva
-            if not click_next_page(driver):
-                break
-
-            page_num += 1
-            time.sleep(2)
+        # Parse XML
+        page_data = parse_xml_results(xml_string)
+        metadata = page_data.get('metadata', {})
+        all_sentenze = page_data.get('provvedimenti', [])
 
         num_risultati = int(metadata.get('contatore_giurisprudenza', len(all_sentenze)))
+
+        # Verifica se ci sono ulteriori risultati non inclusi nell'XML
+        ulteriori_risultati = metadata.get('ulteriori_risultati', 'false')
+        if ulteriori_risultati.lower() == 'true':
+            print(f"      ⚠️  ATTENZIONE: Ci sono ulteriori risultati non inclusi nell'XML!")
+            print(f"      ⚠️  Risultati estratti: {len(all_sentenze)} su {num_risultati} totali")
 
         return {
             'num_risultati': num_risultati,
@@ -294,8 +266,7 @@ def scrape_by_combinations(
     anno,
     ente="Corte di Cassazione",
     output_dir="scraper/data/mef_combinations",
-    headless=True,
-    max_pages_per_search=None
+    headless=True
 ):
     """
     Main function: esegue scraping per tutte le combinazioni in DUE FASI
@@ -303,13 +274,14 @@ def scrape_by_combinations(
     FASE 1: massime=false -> traccia combinazioni con 0 risultati
     FASE 2: massime=true -> solo per combinazioni con risultati
 
+    NOTA: Non serve paginazione perché l'XML contiene già tutti i risultati.
+
     Args:
         combinations_file: Path al JSON con le combinazioni
         anno: Anno da cercare
         ente: Autorità emanante
         output_dir: Directory output
         headless: Modalità headless
-        max_pages_per_search: Numero massimo pagine per ricerca (None=illimitato)
     """
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
@@ -368,8 +340,7 @@ def scrape_by_combinations(
                 combo['classificazione_code'],
                 anno,
                 ente,
-                solo_massimate=False,
-                max_pages=max_pages_per_search
+                solo_massimate=False
             )
 
             num_risultati = result['num_risultati']
@@ -457,8 +428,7 @@ def scrape_by_combinations(
                 combo['classificazione_code'],
                 anno,
                 ente,
-                solo_massimate=True,
-                max_pages=max_pages_per_search
+                solo_massimate=True
             )
 
             num_risultati = result['num_risultati']
@@ -566,12 +536,6 @@ def main():
         help="Directory output"
     )
     parser.add_argument(
-        "--max-pages",
-        type=int,
-        default=None,
-        help="Numero massimo pagine per ricerca (default: illimitato)"
-    )
-    parser.add_argument(
         "--no-headless",
         action="store_true",
         help="Mostra browser"
@@ -584,8 +548,7 @@ def main():
         anno=args.anno,
         ente=args.ente,
         output_dir=args.output,
-        headless=not args.no_headless,
-        max_pages_per_search=args.max_pages
+        headless=not args.no_headless
     )
 
 
