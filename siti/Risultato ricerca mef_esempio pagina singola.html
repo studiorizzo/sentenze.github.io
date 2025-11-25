@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="it"><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+	<meta charset="UTF-8">
+	<title>Documentazione Economica e Finanziaria - Giurisprudenza</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	 
+	<!-- NEW STYLE -->   
+	<link rel="icon" href="https://def.finanze.it/DocTribFrontend/stylesheet_3.0/img/favicon.ico">
+	<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/w_screen.css">
+	<link rel="stylesheet" type="text/css" media="print" href="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/w_print.css">
+	<link rel="stylesheet" type="text/css" media="screen and (max-width: 767px)" href="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/m_screen.css">
+	<!--<link rel="stylesheet" type="text/css" media="print and (max-width: 767px)" href="stylesheet_3.0/css/mob/m_print.css">-->
+	<!--[if IE 7]><link rel="stylesheet" media="all and (min-width: 768px)" type="text/css" href="stylesheet_3.0/css/web/w_ie7.css"><![endif]-->
+	<!--[if IE 8]><link rel="stylesheet" media="screen" type="text/css" href="stylesheet_3.0/css/web/w_screen.css"><link rel="stylesheet" media="screen" type="text/css" href="stylesheet_3.0/css/web/w_ie8.css"><![endif]-->
+	<!--[if IE 9]><link rel="stylesheet" media="all and (min-width: 768px)" type="text/css" href="stylesheet_3.0/css/web/w_ie9.css"><![endif]-->
+	<!--[if gte IE 9]><link rel="stylesheet" media="all and (min-width: 768px)" type="text/css" href="stylesheet_3.0/css/web/w_ie1x.css"><![endif]-->
+	<!--[if IE 7]><link rel="stylesheet" media="all and (max-width: 767px)" type="text/css" href="stylesheet_3.0/css/mob/m_ie7.css"><![endif]-->
+	
+	<!--[if IE 9]><link rel="stylesheet" media="all and (max-width: 767px)" type="text/css" href="stylesheet_3.0/css/mob/m_ie9.css"><![endif]-->
+	<!--[if gte IE 9]><link rel="stylesheet" media="all and (max-width: 767px)" type="text/css" href="stylesheet_3.0/css/mob/m_ie1x.css"><![endif]-->	
+	<script type="text/javascript" async="" defer="defer" src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/matomo.js"></script><script type="text/javascript" src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/jquery.js"></script>
+	<script type="text/javascript" src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/jquery-migrate.js"></script>		
+	<!--[if lt IE 9]><script type="text/javascript" src="stylesheet_3.0/js/html5shiv.js"></script><![endif]-->
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="stylesheet_3.0/js/css3-mediaqueries.js"></script>
+		<link rel="stylesheet" type="text/css" href="stylesheet_3.0/css/web/w_responsive.css">
+		<link rel="stylesheet" type="text/css" href="stylesheet_3.0/css/mob/m_responsive.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" media="screen" href="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/select2.css">
+	<script type="text/javascript" src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/select2.min.js"></script>
+	<script type="text/javascript" src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/select2_locale_it.js"></script>
+	<script type="text/javascript" src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/util.jsp"></script>
+	<script type="text/javascript">
+		// submit
+		function submitSaveSearch(){
+			document.getElementById("saveSearchForm").submit();			
+		}
+		function submitDoYouMean(parola){
+	    	document.getElementById("DoYouMeanForm").elements["parole"].value=parola;
+			document.getElementById("DoYouMeanForm").submit();
+		}
+		function associaCollezione(){
+			document.getElementById("aggiungiCollezioneForm").submit();
+		}
+	</script>
+	<script type="text/javascript">   
+		$(function(){
+			// caricamento script responsive	   	 	  
+			if($(window).width() >= 768){//desktop
+				//alert("$(window).width() >= 768")
+  				$.getScript("stylesheet_3.0/js/web/w_script.js", function(){});
+  				$("nav").removeClass("web"); // fa apparire il menu principale
+  				if ($.browser.msie) {
+  					if ( parseInt($.browser.version, 10) === 7){
+  						//alert('IE7');
+  						$.getScript("stylesheet_3.0/js/web/w_ie7.js", function(){});
+  					}else if (parseInt($.browser.version, 10) === 8) {
+  						//alert('IE8');
+  						$.getScript("stylesheet_3.0/js/web/w_ie8.js", function(){});
+  					}
+				}					
+			}else{ 
+				//alert("$(window).width() < 768")
+				$.getScript("stylesheet_3.0/js/mob/m_script.js", function(){});
+				if ($.browser.msie) {
+  					if ( parseInt($.browser.version, 10) === 7){
+  						//alert('IE7');
+  						$.getScript("stylesheet_3.0/js/mob/m_ie7.js", function(){});
+  					}else if (parseInt($.browser.version, 10) === 8) {
+  						//alert('IE8');
+  						$.getScript("stylesheet_3.0/js/mob/m_ie8.js", function(){});
+  					}
+				}	
+				$("nav").addClass("web"); // fa scomparire il menu principale		
+			}
+			// focus menu
+			$(".corrente").removeClass("corrente");
+			// setto il focus su normativa
+			$("#menu_giurisprudenza").addClass("corrente");
+			
+			/**
+			*** PARSING DELL'XML CON I RISULTATI DELLA RICERCA
+			***/
+			
+			try{
+				tipoRisultato = "G"; 
+				showFirstPage();
+			}
+			catch(err){				
+				//alert(err.msg);
+				window.location.href = "/DocTribFrontend/errorPage.jsp";
+			}
+			// event handler			
+			$('.avanti').click( function() { 				
+					var newPageIndex = pageIndex + 1;					
+					if (newPageIndex <= numPages){
+						pageIndex++;
+						$(".pageIndex").html(pageIndex);
+						$(".risultati-ricerca").html("");
+						//alert("pageIndex = " + pageIndex);
+						try{
+							showPageResult(getPage(pageIndex,$risultati));
+						}
+						catch(err){				
+							//alert(err.msg);
+							window.location.href = "/DocTribFrontend/errorPage.jsp";
+						}
+					}
+					gestisciPaginatori();			
+					return false;				
+				}			
+			);
+			$('.indietro').click( function() { 				
+				var newPageIndex = pageIndex - 1;
+				if (newPageIndex >=1){
+					pageIndex--;
+					$(".pageIndex").html(pageIndex);
+					$(".risultati-ricerca").html("");
+					//alert("pageIndex = " + pageIndex);
+					try{
+						showPageResult(getPage(pageIndex,$risultati));
+					}
+					catch(err){				
+						//alert(err.msg);
+						window.location.href = "/DocTribFrontend/errorPage.jsp";
+					}
+				}
+				gestisciPaginatori();			
+				return false;				
+				} 			
+			);
+			gestisciPaginatori();
+			
+		});
+	</script>
+	<script type="text/javascript" src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/result-parser.js"></script>
+	<script type="text/javascript">
+		// risultati ricerca
+		var xmlResult = '<?xml version=\"1.0\" encoding=\"UTF-8\"?><risultatiRicerca><sessione \/><contatori><contatoreNormativa>0<\/contatoreNormativa><contatorePrassi>0<\/contatorePrassi><contatoreGiurisprudenza>7<\/contatoreGiurisprudenza><\/contatori><risultati><pagina>1<\/pagina><ultimaPagina>1<\/ultimaPagina><totaleProvvedimenti>7<\/totaleProvvedimenti><ulterioriRisultati>false<\/ulterioriRisultati><Provvedimento idProvvedimento=\"{287EEF50-8062-4FC5-A027-E8E7E88508A2}\"><estremi link=\"true\">Sentenza del 08\/10\/2025 n. 27020 - Corte di Cassazione - Sezione\/Collegio 5<\/estremi><titoliProvvedimento><titoloProvvedimento><![CDATA[<p>IMU - Alloggi sociali<\/p>]]><\/titoloProvvedimento><\/titoliProvvedimento><\/Provvedimento><Provvedimento idProvvedimento=\"{4BF80A5F-9789-4570-A2F5-9F005477FDE2}\"><estremi link=\"true\">Ordinanza del 10\/09\/2025 n. 24947 - Corte di Cassazione - Sezione\/Collegio 5<\/estremi><titoliProvvedimento><titoloProvvedimento><![CDATA[<p>Processo tributario - Consulenza tecnica<\/p>]]><\/titoloProvvedimento><\/titoliProvvedimento><\/Provvedimento><Provvedimento idProvvedimento=\"{3977171C-9C74-47BC-BA76-8CDE4E8E2580}\"><estremi link=\"true\">Sentenza del 10\/07\/2025 n. 18931 - Corte di Cassazione - Sezione\/Collegio 5<\/estremi><titoliProvvedimento><titoloProvvedimento><![CDATA[<p>\u200BIMU - Occupazione abusiva<\/p>]]><\/titoloProvvedimento><\/titoliProvvedimento><\/Provvedimento><Provvedimento idProvvedimento=\"{296B0CC9-F671-4AE1-8BD4-C8C58083DF88}\"><estremi link=\"true\">Ordinanza del 20\/03\/2025 n. 7393 - Corte di Cassazione - Sezione\/Collegio 5<\/estremi><titoliProvvedimento><titoloProvvedimento><\/titoloProvvedimento><\/titoliProvvedimento><\/Provvedimento><Provvedimento idProvvedimento=\"{CC77E005-7A60-42AD-AF0B-6850008B8857}\"><estremi link=\"true\">Ordinanza del 01\/03\/2025 n. 5445 - Corte di Cassazione - Sezione\/Collegio 5<\/estremi><titoliProvvedimento><titoloProvvedimento><![CDATA[<p>Accertamento - ICI IMU - Abitazione principale Amministratore Societ\à<\/p>]]><\/titoloProvvedimento><\/titoliProvvedimento><\/Provvedimento><Provvedimento idProvvedimento=\"{28A55CEE-70C4-4A2E-9A39-277827C2865C}\"><estremi link=\"true\">Ordinanza del 15\/02\/2025 n. 3841 - Corte di Cassazione - Sezione\/Collegio 5<\/estremi><titoliProvvedimento><titoloProvvedimento><![CDATA[<p>Accertamento - Notificazione di atti<\/p>]]><\/titoloProvvedimento><titoloProvvedimento><![CDATA[<p>Accertamento - IMU - Esclusione alloggi sociali<\/p>]]><\/titoloProvvedimento><\/titoliProvvedimento><\/Provvedimento><Provvedimento idProvvedimento=\"{183A04DA-973D-4978-B04B-FAADD3D72753}\"><estremi link=\"true\">Ordinanza del 12\/02\/2025 n. 3595 - Corte di Cassazione - Sezione\/Collegio 5<\/estremi><titoliProvvedimento><titoloProvvedimento><\/titoloProvvedimento><\/titoliProvvedimento><\/Provvedimento><\/risultati><\/risultatiRicerca>';	
+		
+		function processStateChange() {
+		    var pagesize = 50;
+			if (req.readyState == 4) { // Complete
+			if (req.status == 200) { // OK response
+			var count = req.responseXML.getElementsByTagName("countGiurisprudenzaAdvanced")[0].childNodes[0].nodeValue;
+			var numPages = ((count - (count % pagesize)) / pagesize);	
+			if ((count % pagesize) > 0) {
+	 				numPages++;
+				}
+			
+			
+			if(count > pagesize){			
+				if(document.getElementById("linkavantiUp")!=null)
+					document.getElementById("linkavantiUp").style.display = "inline";
+				if(document.getElementById("linkavantiDown")!=null)
+					document.getElementById("linkavantiDown").style.display = "inline";
+			}							
+			
+			if (document.getElementById("countGiurisprudenzaAvanzata") != null)
+			{
+			document.getElementById("countGiurisprudenzaAvanzata").innerHTML = count;
+			}
+			if(document.getElementById("countPagineGiurisprudenzaUp") != null){
+				document.getElementById("countPagineGiurisprudenzaUp").innerHTML = numPages;
+				document.getElementById("countPagineGiurisprudenzaDown").innerHTML = numPages;
+
+				if (document.getElementById("paginaCorrente").innerHTML >= numPages) {
+					// To mask "avanti"
+				    if(document.getElementById("avantiGiurisprudenzaUp") != null){
+				    	document.getElementById("avantiGiurisprudenzaUp").innerHTML = ""; 
+				    }
+				    if(document.getElementById("avantiGiurisprudenzaDown") != null){
+				    	document.getElementById("avantiGiurisprudenzaDown").innerHTML = ""; 
+				    }
+			    } 
+			}
+			if(document.getElementById("countTotali") != null)
+			{
+				document.getElementById("countTotali").innerHTML = count;
+			}
+			document.getElementById("countAjaxTerminated").disabled = false;
+			} else {
+				 alert("Problem: " + req.statusText);
+			}
+		 }
+		}
+	
+		function paginatorNextWaitAjaxCount(){		
+			if(document.getElementById("countAjaxTerminated").disabled == false)
+				submitFormJump('getNextPageAdvanced.do');
+		}
+		
+		function paginatorPreviousWaitAjaxCount(num){		
+			if(document.getElementById("countAjaxTerminated").disabled == false)
+				submitFormJump('getPageResultsAdvanced.do', num);
+		}
+		
+		function goDetatilWaitAjaxCount(url){		
+			if(document.getElementById("countAjaxTerminated").disabled == false)
+				submitForm(url);
+		}
+	</script>
+	
+
+<script src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/configs.php" async="" defer="defer"></script></head>
+
+				 
+				 
+<body>
+
+<div>
+	<a href="#" id="countAjaxTerminated"></a>
+</div>
+
+
+
+
+<header role="banner">
+	
+	<div class="skiplink"><a href="#corpo" accesskey="0">Contenuti della pagina</a> | <a href="#menu-principale">Menu principale</a></div>
+	
+	<div id="testata-bg" class="web"></div>
+	
+	<div id="testata">	 
+	<div class="contenitore">
+		<div class="logo-def web">
+			<a href="https://def.finanze.it/DocTribFrontend/start.do"><img src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/logo-def_2.png" alt="Torna alla home page" width="708" height="100"></a>
+		</div><!--.logo-def-->
+		<div class="logo-def mob">
+			<a href="https://def.finanze.it/DocTribFrontend/start.do"><img src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/logo-def.png" alt="Torna alla home page" width="708" height="100"></a>
+		</div><!--.logo-def-->
+		<div class="logo-ssef web">
+			<a title="Dipartimento delle Finanze [link a sito esterno]" href="http://www.finanze.gov.it/">
+				<img src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/logo-df.png" alt="Dipartimento delle Finanze Sito esterno" width="215" height="77" class="logo-mef">
+			</a>
+		</div><!--.logo-ssef-->
+	</div><!--.contenitore-->	
+	<div class="menu-servizio web"> 
+		<div class="contenitore">
+		<h1 class="skipheader">Menu di servizio</h1>
+		<ul>
+		<li><a href="https://def.finanze.it/DocTribFrontend/start.do">Home</a></li>
+		<li><a href="https://def.finanze.it/DocTribFrontend/chiSiamo.jsp">Chi siamo</a></li>		
+		<!-- <li><a href="http://www.cerdef.it/site.php?page=20070220171621567">Scrivi a...</a></li>-->
+		<li><a href="https://def.finanze.it/DocTribFrontend/scriviA.jsp">Scrivi a...</a></li>
+		<li><a href="https://def.finanze.it/DocTribFrontend/Guida.jsp">Guida</a></li>
+		
+		
+			<li class="web"><a href="https://def.finanze.it/DocTribFrontend/areaRiservata.do">Area riservata</a></li>
+		
+		
+		<li><a href="https://def.finanze.it/DocTribFrontend/RssIntro.jsp"><img src="Risultato%20ricerca%20mef_esempio%20pagina%20singola_files/ico-rss.png" alt="RSS" title="RSS" width="22" height="22"></a></li>
+		</ul>
+		</div><!--.contenitore-->
+		</div><!--.menu-servizio--> 
+	</div><!--#testata-->
+	
+	
+	<nav role="navigation" class="">
+		<div class="contenitore">
+		<div id="menu-principale">
+		<h1 class="skipheader">Menu principale</h1>
+		<ul>
+			<li id="menu_normativa">
+				<a href="https://def.finanze.it/DocTribFrontend/callRicAvanzataNormativa.do?js_enabled=1&amp;reset=y" title="Ricerca avanzata di Normativa">Normativa</a>
+			</li>
+			<li id="menu_prassi">
+				<a href="https://def.finanze.it/DocTribFrontend/callRicAvanzataPrassi.do?js_enabled=1&amp;reset=y" title="Ricerca avanzata di Prassi">Prassi</a>
+			</li>
+			<li id="menu_giurisprudenza" class="corrente">
+				<a href="https://def.finanze.it/DocTribFrontend/callRicAvanzataGiurisprudenza.do?js_enabled=1&amp;reset=y" title="Ricerca avanzata di Giurisprudenza">Giurisprudenza</a>
+			</li>
+			<li id="menu_collezioni">
+				<a href="https://def.finanze.it/DocTribFrontend/documentiRilevanti.do?js_enabled=1&amp;agenzia=COL" title="Ricerca nelle Collezioni">Collezioni</a>
+			</li>
+			<li id="menu_area_utente">
+				<a href="https://def.finanze.it/DocTribFrontend/RicercheMemorizzate.jsp?js_enabled=1" title="Area utente">Area utente</a>				
+			</li>
+		</ul>
+		
+		<div class="clear"></div>		
+		</div><!--#menu-principale-->
+		</div><!--.contenitore-->
+	</nav>
+	
+</header>
+ 
+
+<div class="contenitore ie7">
+	
+	<div id="corpo" role="main" class="num-col-2">
+	
+	<!-- BREADCRUMBS -->
+	<div id="menu-navigazione">
+		<p>Ti trovi in: <a style="text-decoration: underline" href="https://def.finanze.it/DocTribFrontend/start.do">Home</a> - 
+		
+		
+			
+			
+				<a style="text-decoration: underline" href="https://def.finanze.it/DocTribFrontend/callRicAvanzataGiurisprudenza.do" class="web">Ricerca Avanzata Giurisprudenza</a>
+			
+ 		
+		
+	
+		&nbsp;-&nbsp;<strong>Risultati Ricerca</strong></p>
+	</div><!--#menu-navigazione-->
+		  
+	<!-- TITOLO -->
+	<h1 class="principale">Risultati ricerca</h1>	
+
+	<div id="principale" class="spalla-dx">	
+		
+		<!-- MSG RICERCA SALVATA -->
+		
+		
+		<!-- TOT e DO YOU MEAN -->
+		<div class="riepilogo-ricerca">
+				<p>Documenti trovati: <strong><span id="totDocumentiTrovati">7</span></strong></p>			
+				<!-- DO YOU MEAN ? -->
+				<p id="doyoumean-list"></p>				
+
+				 				
+		</div><!--.riepilogo ricerca-->
+		
+		<!-- RISULTATO RICERCA -->
+		<div>
+			<h2 class="float-sx h2 web">Giurisprudenza</h2>
+			<p class="pagine-ricerca float-dx" style="display: block;">Pagina <strong><span class="pageIndex">1</span></strong><!-- di <span class="numPages"> </span> --><a href="#" class="indietro" style="display: none;">Indietro</a> <a href="#" class="avanti" style="display: none;">Avanti</a>
+				<!-- LINK ULTERIORI RISULTATI -->
+				<a href="javascript:void(0)" class="ulteriori" style="display:none;" onclick="window.location.href='paginatorXml.do'">Avanti</a>
+			</p>
+			<div class="br"></div>			
+			<div class="risultati-ricerca" style="display: block;"><div class="risultato-ricerca"><h3><a href="https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={287EEF50-8062-4FC5-A027-E8E7E88508A2}">Sentenza del 08/10/2025 n. 27020 - Corte di Cassazione - Sezione/Collegio 5</a></h3><p><strong>Intitolazione:</strong><br></p><p>IMU - Alloggi sociali</p><p></p></div><div class="risultato-ricerca"><h3><a href="https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={4BF80A5F-9789-4570-A2F5-9F005477FDE2}">Ordinanza del 10/09/2025 n. 24947 - Corte di Cassazione - Sezione/Collegio 5</a></h3><p><strong>Intitolazione:</strong><br></p><p>Processo tributario - Consulenza tecnica</p><p></p></div><div class="risultato-ricerca"><h3><a href="https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={3977171C-9C74-47BC-BA76-8CDE4E8E2580}">Sentenza del 10/07/2025 n. 18931 - Corte di Cassazione - Sezione/Collegio 5</a></h3><p><strong>Intitolazione:</strong><br></p><p>&#8203;IMU - Occupazione abusiva</p><p></p></div><div class="risultato-ricerca"><h3><a href="https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={296B0CC9-F671-4AE1-8BD4-C8C58083DF88}">Ordinanza del 20/03/2025 n. 7393 - Corte di Cassazione - Sezione/Collegio 5</a></h3></div><div class="risultato-ricerca"><h3><a href="https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={CC77E005-7A60-42AD-AF0B-6850008B8857}">Ordinanza del 01/03/2025 n. 5445 - Corte di Cassazione - Sezione/Collegio 5</a></h3><p><strong>Intitolazione:</strong><br></p><p>Accertamento - ICI IMU - Abitazione principale Amministratore Società</p><p></p></div><div class="risultato-ricerca"><h3><a href="https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={28A55CEE-70C4-4A2E-9A39-277827C2865C}">Ordinanza del 15/02/2025 n. 3841 - Corte di Cassazione - Sezione/Collegio 5</a></h3><p><strong>Intitolazione:</strong><br></p><p>Accertamento - Notificazione di atti</p><p></p><p><strong>Intitolazione:</strong><br></p><p>Accertamento - IMU - Esclusione alloggi sociali</p><p></p></div><div class="risultato-ricerca"><h3><a href="https://def.finanze.it/DocTribFrontend/getGiurisprudenzaDetail.do?id={183A04DA-973D-4978-B04B-FAADD3D72753}">Ordinanza del 12/02/2025 n. 3595 - Corte di Cassazione - Sezione/Collegio 5</a></h3></div></div>
+			<div class="br"></div>			
+			<p class="pagine-ricerca" data-href="#dom-2" style="display: block;">Pagina <strong><span class="pageIndex">1</span></strong><!-- di <span class="numPages"> </span> --><a href="#" class="indietro" style="display: none;">Indietro</a> <a href="#" class="avanti" style="display: none;">Avanti</a>
+				<!-- LINK ULTERIORI RISULTATI -->
+				<a href="javascript:void(0)" class="ulteriori" style="display:none;" onclick="window.location.href='paginatorXml.do'">Avanti</a>
+			</p>
+		</div><!--.spalla-sx-->	
+		
+	</div><!--#principale-->					
+						
+	<!-- MENU A DESTRA -->
+	<aside role="complementary">		
+		<div id="spalla-dx">
+			
+			<!-- ASSOCIA A COLLEZIONE -->
+			
+					
+			<!-- RIEPILOGO RICERCA -->
+			<div class="toggle">				
+				<div class="titolo">
+					<h2 class="secondario lowercase">Riepilogo dati inseriti</h2>
+				</div><!--.titolo-->		
+				<div class="contenuto">
+						<dl class="criteri-ricerca">
+							
+							<!-- PAROLE CERCATE -->
+							
+					  			
+							<!-- RICERCA SOLO NEL TITOLO -->
+							
+				  				
+				 	 		
+				 	 		<!-- RICERCA SOLO PER MASSIME PRESENTI -->
+							
+				  				
+				 	 		
+				 	 						 	 			
+				 	 		<!-- TIPO ESTREMI -->
+												  		
+					  		
+					  		<!-- NUMERO -->					  		
+					 							  		
+					  		
+					  		<!-- DENOMINAZIONE ENTE -->	
+							
+					  			<dt>Autorità Emanante (Denominazione)</dt><dd><strong>Corte di Cassazione</strong></dd>
+					  							  		
+					  		
+					  		<!-- DENOMINAZIONE SUPERENTE -->	
+						  							  	
+						  	
+						  	<!-- DATA EMISSIONE -->				  
+					  		
+								<dt>Emissione</dt>
+								<dd>
+									
+										<strong> da: 01/01/2025</strong> 
+									
+									
+										<strong> fino a: 31/12/2025</strong> 
+									
+								</dd>
+					 		
+					 	 	<!-- MATERIA FISCALE -->
+						    
+						  		<dt>Materia</dt><dd><strong>Accertamento imposte</strong></dd>
+						    
+						    <!-- CLASSIFICAZIONE -->
+						    
+						  		<dt>Classificazione</dt><dd><strong>Ici</strong></dd>
+						    
+						    
+						    <!-- ORDINAMENTO -->					    
+							
+								<dt>Dati</dt>
+								<dd><strong>ordinati per Data</strong></dd>
+													
+						</dl><!--.criteri-ricerca-->			
+				</div><!--.contenuto-->
+			</div><!--.toggle-->
+		
+		<!-- BOTTONI -->
+		<div class="bottoni estesi">
+			<span id="dom-1"></span>			 
+			 <!-- RAFFINA RICERCA -->
+			 <p class="web">
+		    	<a href="#" class="bottone icon icon-lente" onclick="javascript:document.getElementById('raffinaRicerca').submit();">Raffina ricerca</a>
+			 </p>
+			<!-- MEMORIZZA RICERCA -->
+	   		<p class="web">
+	  	 	    
+				   	<a class="bottone icon icon-floppy" href="#" onclick="javascript:submitSaveSearch();">Memorizza ricerca</a>
+				 
+			</p>
+			<!-- STAMPA 
+			<p>
+				<a class="bottone icon icon-print" href="javascript:window.print();">Stampa</a>
+			</p>-->
+		</div><!--.bottoni-->		
+		<span id="dom-2"></span>
+		</div><!--#spalla-dx-->
+		
+	</aside>
+
+<div class="clear"></div>
+</div><!--#corpo-->
+</div><!--.contenitore-->
+<div class="clear"></div>
+<!-- FOOTER --> 
+
+
+
+
+<footer role="contentinfo">
+<div id="footer">
+	<div class="contenitore">
+	<h1 class="skipheader">Piè di pagina</h1>
+	<ul>
+		<li><a target="_dichiarazioneAccessilitaAgid" title="Dichiarazione di accessibilità [link a sito esterno, apre una nuova finestra]" href="https://form.agid.gov.it/view/d2541de0-956c-11f0-8e98-83c59d87f31b">Dichiarazione di accessibilità</a>
+
+		</li><li><a href="https://def.finanze.it/DocTribFrontend/privacy.jsp">Privacy</a></li>
+		<li><a href="https://def.finanze.it/DocTribFrontend/linkUtili.jsp">Link utili</a></li>
+		<li><a href="https://def.finanze.it/DocTribFrontend/noteLegali.jsp">Note legali</a></li>		
+	</ul>
+	</div><!--.contenitore-->
+	<div class="clear"></div>
+	</div><!--#footer-->
+</footer>
+
+<!-- Matomo DEF - Documentazione Economica e Finanziaria -->
+
+	<!-- Matomo - DEF - Documentazione Economica e Finanziaria -->
+	<script type="text/javascript">
+	  var _paq = window._paq || [];
+	  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+	  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+	  _paq.push(["setCookieDomain", "*.def.finanze.it"]);
+	  _paq.push(["setDomains", ["*.def.finanze.it","*.def.giustiziatributaria.gov.it"]]);
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+	    var u="https://aaws-aanalytics.sogei.it/piwik/";
+	    _paq.push(['setTrackerUrl', u+'matomo.php']);
+	    _paq.push(['setSiteId', '31']);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	</script>
+	<noscript><p><img src="https://aaws-aanalytics.sogei.it/piwik/matomo.php?idsite=31&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+	<!-- End Matomo Code -->
+
+<!-- FORM RAFFINA RICERCA -->
+<form action="callRicAvanzataGiurisprudenza.do" method="POST" id="raffinaRicerca">
+	<input type="hidden" name="ambitoRicerca" value="G">
+	<input type="hidden" name="tipoRicerca" value="RA">
+	<input type="hidden" name="numero" value="">
+	<input type="hidden" name="anno" value="null">
+	<input type="hidden" name="tipoCriterioRicerca" value="0">
+	<input type="hidden" name="device" value="D">
+	<input type="hidden" name="tipo_ord" value="DATA">	
+	<input type="hidden" name="parole" value="">
+	<input type="hidden" name="tipoComplessitaRicerca" value="SIMPLE_SEARCH">
+	<input type="hidden" name="tipoNavigazione" value="none">
+	
+	
+		<input type="hidden" name="ente" value="Corte di Cassazione">
+	
+	
+		<input type="hidden" name="numArticolo" value="">
+	
+	
+		<input type="hidden" name="articolo" value="">
+	
+	<input type="hidden" name="tipoEstremi" value="">
+	<input type="hidden" name="ricercaNelTitolo" value="false">
+</form>
+<!-- FORM SALVATAGGIO RICERCA -->
+
+<form action="executeAdvancedGiurisprudenzaSearch.do" method="POST" id="saveSearchForm" style="display:none;">
+	<input type="hidden" name="saveSearch" value="true">
+	<input type="hidden" name="[i]pageToCall" value="executeAdvancedGiurisprudenzaSearch.do">
+	<input type="hidden" name="numero" value="">
+	<input type="hidden" name="parole" value="">
+	<input type="hidden" name="anno" value="null">
+	<input type="hidden" name="tipoCriterioRicerca" value="0">
+	<input type="hidden" name="tipo_ord" value="DATA">
+	
+	<input type="hidden" name="dataEmissioneA" value="31/12/2025">
+	
+	
+	<input type="hidden" name="dataEmissioneDa" value="01/01/2025">
+	
+	
+		<input type="hidden" name="ente" value="Corte di Cassazione">
+	
+	<input type="hidden" name="device" value="D">
+	<input type="hidden" name="tipoRicerca" value="RA">
+	<input type="hidden" name="ambitoRicerca" value="G">
+	<input type="hidden" name="tipoEstremi" value="">
+	<input type="hidden" name="materiaFiscale" value="D040">
+	<input type="hidden" name="classificazioneArgomento" value="3900">
+	<input type="hidden" name="materiaFiscaleDescr" value="Accertamento imposte">
+	<input type="hidden" name="classificazioneArgomentoDescr" value="Ici">
+	<input type="hidden" name="ricercaNelTitolo" value="false">
+	
+	
+	
+	
+</form>
+<!-- FORM ASSOCIA COLLEZIONE -->
+<form action="preAssociaCollezione.do" method="POST" id="aggiungiCollezioneForm" style="display:none;">
+	<input type="hidden" name="saveSearch2" value="true">
+	<input type="hidden" name="[i]pageToCall2" value="preAssociaCollezione.do">
+	<input type="hidden" name="ambitoRicerca" value="G">
+	<input type="hidden" name="tipoRicerca" value="RA">
+	<input type="hidden" name="numero" value="">
+	<input type="hidden" name="anno" value="null">
+	<input type="hidden" name="tipoCriterioRicerca" value="0">
+	<input type="hidden" name="device" value="D">
+	<input type="hidden" name="tipo_ord" value="DATA">	
+	<input type="hidden" name="parole" value="">
+	<input type="hidden" name="tipoComplessitaRicerca" value="SIMPLE_SEARCH">
+	
+	<input type="hidden" name="ricercaNelTitolo" value="false">
+</form>
+<!-- FORM CHANGE PAGE -->
+<form name="changePage" action="#" method="post" style="display:none;">	
+	<input type="hidden" name="numero" id="numero" value="">
+	<input type="hidden" name="anno" id="anno" value="null">
+	<input type="hidden" name="parole" id="parole" value="">
+	<input type="hidden" name="tipoCriterioRicerca" id="tipoCriterioRicerca" value="0">
+	<input type="hidden" name="tipo_ord" id="tipo_ord" value="DATA">
+	<input type="hidden" name="pageDest" id="pageDest" value="">
+	<input type="hidden" name="TYPE_DOCUMENT_SEARCH" id="TYPE_DOCUMENT_SEARCH" value="2">
+</form>	
+<!-- FORM DO YOU MEAN -->
+<form action="executeAdvancedGiurisprudenzaSearch.do" method="POST" id="DoYouMeanForm" style="display:none;">
+	<input type="hidden" name="doYouMeanForm" value="true">
+	<input type="hidden" name="[i]pageToCall" value="executeAdvancedGiurisprudenzaSearch.do">
+	<input type="hidden" name="tipoNavigazione" value="none">
+	<input type="hidden" name="ambitoRicerca" value="G">
+	<input type="hidden" name="tipoRicerca" value="RA">
+	<input type="hidden" name="numero" value="">
+	<input type="hidden" name="anno" value="null">
+	<input type="hidden" name="tipoCriterioRicerca" value="0">
+	<input type="hidden" name="device" value="D">
+	<input type="hidden" name="tipo_ord" value="DATA">	
+	<input type="hidden" name="parole" value="">
+	<input type="hidden" name="tipoComplessitaRicerca" value="SIMPLE_SEARCH">
+	<input type="hidden" name="tipoNavigazione" value="none">
+	
+	
+		<input type="hidden" name="ente" value="Corte di Cassazione">
+	
+	
+		<input type="hidden" name="numArticolo" value="">
+	
+	
+		<input type="hidden" name="articolo" value="">
+	
+	<input type="hidden" name="ricercaNelTitolo" value="false">
+	
+	
+</form>	
+
+
+</body></html>
