@@ -1,0 +1,557 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 15936/2024 R.G. proposto da:
+INTER PARTNER ASSISTANCE S.A., in persona del legale
+rappresentante pro tempore, rappresentata e difesa dall’avv. Livia
+Salvini  e dall’avv. Chiara Todini, ed elettivamente domiciliata presso
+il loro studio in Roma, piazza Venezia n. 11;
+-ricorrente-
+contro
+AGENZIA DELLE ENTRATE, in persona del direttore pro tempore,
+rappresentato e difeso dall'Avvocatura generale dello Stato,
+domiciliato in Roma Via dei Portoghesi 12;
+-controricorrente-
+
+--- Pagina 2 ---
+
+per la cassazione della sentenza della Corte di giustizia tributaria di
+secondo grado del Lazio n. 654/3/2023, depositata il 9 febbraio
+2023.
+Udita la relazione svolta nella pubblica udienza dell’11 febbraio 2025
+dal Consigliere Gianluca Grasso.
+Udito il Pubblico Ministero in persona del Sostituto Procuratore
+Generale Mauro Vitiello, che ha concluso per il rigetto del ricorso.
+Uditi l’avv. Livia Salvini e l’avv. Alessia Urbani Neri.
+FATTI DI CAUSA
+1. –  Con ricorso proposto innanzi alla Commissione tributaria
+provinciale di Roma, la Inter Partner Assistance S.A., premesso che:
+in data 2 dicembre 2020, a seguito di processo  verbale di
+constatazione, le era stato notificato un avviso di accertamento
+relativo all’IVA per il periodo d’imposta 2015, mediante il quale
+l'Agenzia delle entrate aveva proceduto al recupero della maggiore
+IVA con riferimento alle commissioni di delega afferenti sia ai
+rapporti di coassicurazione intercorsi con Axa Assicurazione s.p.a.,
+ritenute indebitamente fatturate in esenzione d’imposta, con
+applicazione dell’aliquota ordinaria del 22% e conseguente maggiore
+imponibile pari a euro 245.466,61 e una maggiore imposta dovuta
+pari a euro 54.002,65, sia all’attività di gestione e liquidazione dei
+sinistri del ramo assistenza, intercorse con Axa Global Direct Seguros
+y Reaseguros S.A., ritenute indebitamente fatturate in esenzione
+d’imposta, con applicazione dell’aliquota ordinaria del 22% e
+conseguente maggiore imponibile pari a euro 688.000,00 e una
+maggiore imposta dovuta pari a euro 151.260,00; a seguito di
+accertamento parziale con adesione, l’Agenzia procedeva
+all’annullamento parziale in autotutela dell’avviso di accertamento
+impugnato con eliminazione delle sanzioni relative al secondo rilievo
+e lo scomputo dell’importo versato dalla contribuente per
+2 di 17
+
+--- Pagina 3 ---
+
+acquiescenza al primo rilievo; ricorreva innanzi alla Commissione
+tributaria provinciale di Roma limitatamente al preteso
+assoggettamento a imposta dell’attività di gestione dei sinistri,
+eccependo: 1. errato assoggettamento a IVA dell’attività di gestione
+di sinistri effettuata nel “Ramo Assistenza”; 2. irrilevanza
+dell’acquiescenza formulata dalla ricorrente per l’anno di imposta
+2014; 3. mancata configurazione del reato di dichiarazione infedele
+per mancato superamento delle soglie previste dalla legge.
+Con sentenza n. 12526/2021, la Commissione tributaria
+provinciale  di Roma respingeva il ricorso, ritenendo che l’imponibilità
+o meno ai fini IVA di una prestazione dipende dalla natura della
+prestazione medesima e non dalla natura del soggetto che la eroga.
+Ad avviso della Commissione tributaria provinciale, anche sulla
+scorta della giurisprudenza della Corte di giustizia (Corte di giustizia,
+sentenza del 17 marzo 2016, C-40/15), non sarebbe legittima
+l’esenzione IVA (ai sensi dell’art. 135, paragrafo 1, lett. a), della
+Direttiva 2006/112/CE) dell’attività di gestione dei sinistri, non
+essendo la stessa riconducibile né alle operazioni di assicurazione né
+a una prestazione di servizi relativa alle predette operazioni
+2. – Avverso tale sentenza proponeva appello la contribuente,
+chiedendone l'integrale riforma.
+Resisteva con proprie controdeduzioni l'Ufficio.
+Con sentenza n. 654/3/2023, depositata il 9 febbraio 2023, la
+Corte di giustizia tributaria di secondo grado del Lazio ha rigettato
+l'appello.
+3. – La società contribuente ha proposto ricorso per cassazione
+affidato a due motivi.
+L'Agenzia delle entrate si è costituita con controricorso.
+La ricorrente ha depositato una memoria illustrativa.
+RAGIONI DELLA DECISIONE
+3 di 17
+
+--- Pagina 4 ---
+
+1. – Con il primo motivo, in via principale, si contesta la
+pronuncia impugnata laddove ha ritenuto che il riassicuratore che
+effettua il servizio di gestione e liquidazione dei sinistri sia un
+soggetto “estraneo” al rapporto assicurativo e che le prestazioni
+oggetto del contratto non rientrino nella nozione di “operazioni di
+assicurazione e riassicurazione”, in aperta violazione degli artt. 10,
+co. 1, n. 2) del d.p.r. n. 633/1972 e 135, co. 1, lett. a) della Direttiva
+n. 2006/112/CE, nonché degli artt. 1321, 1325, 1882, 1928 e 1929
+c.c., in comb. disp. con gli artt. 57 e 175 del d.lgs. n. 209/2005 e
+con l’art. 14, co. 2 del Reg. IVASS n. 10/2008. Secondo quanto
+prospettato, contrariamente a quanto statuito dai secondi giudici, nel
+caso di specie la Inter Partner Assistance S.A. è parte del rapporto
+assicurativo in quanto opera in qualità di “assicuratore
+dell’assicuratore”. Si evidenzia, altresì, che le prestazioni di gestione
+e liquidazione dei sinistri rappresentano una componente essenziale
+dell’operazione di riassicurazione, imprescindibile perché si realizzi
+la copertura assicurativa dei rischi ceduti, formando con la stessa
+prestazione assicurativa un’operazione economica unitaria, il cui
+trattamento ai fini IVA ricade nella nozione di “operazioni di
+assicurazione e riassicurazione"’ e, per l’effetto, nell’ambito di
+applicazione dell’esenzione in questione.
+1.1. –  Il motivo è fondato nei limiti di seguito indicati.
+Va innanzitutto inquadrata la fattispecie oggetto del giudizio, da
+ricondursi all'ipotesi del contratto di riassicurazione, puntualizzando
+che nel caso di specie con riferimento ai costi di gestione sopportati
+dal riassicuratore nello svolgimento della sua attività caratteristica,
+si controverte dei soli cc.dd. costi diretti interni (ossia i costi
+“gestionali, di liquidazione, relativi a tutti i sinistri trattati
+direttamente dalla Centrale Operativa come pattuito”), poiché  i costi
+diretti esterni (vale a dire “i costi vivi sostenuti relativi a tutti i sinistri
+4 di 17
+
+--- Pagina 5 ---
+
+trattati dalla Centrale Operativa come pattuito”)  sono stati
+considerati dalla stessa contribuente fuori dal campo di applicazione
+dell’IVA.
+In giurisprudenza si è affermato che assicurazione,
+riassicurazione e retrocessione - il contratto non disciplinato dal
+legislatore con il quale il riassicuratore si copre, a sua volta, in tutto
+o in parte, nei confronti di un altro soggetto, del rischio assunto con
+la riassicurazione - sono successivi aspetti di un unico fenomeno,
+quello assicurativo, sicché per individuare l'oggetto del contratto
+intercorso fra le parti occorre riportarsi ai principi che regolano il
+contratto di assicurazione (Cass., Sez. Un., n. 799/1967).
+Nel codice civile, il legislatore non ha dato una definizione del
+contratto di riassicurazione, limitandosi alla disciplina di alcuni
+aspetti del rapporto. Dall'esame delle norme di cui agli artt. 1928 ss.
+c.c., emerge che la riassicurazione è il contratto con cui un
+assicuratore si obbliga nei confronti di altri assicuratori a coprire
+parzialmente o integralmente un rischio già assunto da questo.
+L’oggetto del contratto può consistere in singoli rischi o in una serie
+di rapporti assicurativi (c.d. riassicurazione per contratti generali o
+trattati, sorta di contratti quadro di riassicurazione); i rapporti di
+assicurazione emergono con la c.d. dichiarazione di alimento, con la
+quale il primo assicuratore comunica al riassicuratore la conclusione
+dei contratti di assicurazione rientranti nell’ambito del trattato.
+La riassicurazione consiste, quindi, in un’assicurazione con la
+quale l’assicuratore si assicura a sua volta presso un altro
+assicuratore contro il rischio (o una serie di rischi) assunto con la
+prima assicurazione, di modo che oggetto del contratto di
+riassicurazione sarà lo stesso rischio che è oggetto del contratto di
+assicurazione concluso dall’assicuratore-riassicurato (Cass., Sez.
+Un., n. 799/1967; Cass. n. 9481/1993). Significativamente la
+5 di 17
+
+--- Pagina 6 ---
+
+dottrina evoca al riguardo la figura del subcontratto, mediante il
+quale una parte del contratto base reimpiega la propria posizione
+contrattuale per stipulare con un terzo un contratto dello stesso tipo
+di quello base, avente in tutto o in parte il medesimo oggetto (cfr.
+Cass. n. 15645/2017 a proposito del contratto di subagenzia
+assicurativa). Il subcontratto riproduce la medesima operazione
+economica del contratto base, ma la parte assume col terzo il ruolo
+inverso a quello rivestito nel contratto base; con specifico riguardo
+alla riassicurazione, dunque, l’assicuratore assume la posizione di
+assicurato nei confronti del riassicuratore e la comunione d’interessi
+a che non si verifichi il sinistro è alimentata dalla conservazione in
+capo al primo assicuratore di una parte del rischio originariamente
+assunto. Coerentemente l'art. 1929 c.c. stabilisce il principio
+dell'indipendenza del rapporto di riassicurazione rispetto ai singoli
+contratti di assicurazione cui si riferisce, nel senso che non crea
+alcuna relazione giuridica diretta tra gli assicurati originari e il
+riassicuratore.
+La disciplina del codice civile deve essere integrata da quella
+contenuta nel Codice delle assicurazioni private, d.lgs. 7 settembre
+2005, n. 209 (principalmente i Titolo V, Accesso all'attività di
+riassicurazione, e Titolo VI, Esercizio dell'attività di riassicurazione),
+che prevedeva, nel testo originario, una definizione del contratto
+(art. 57, “l’attività di riassicurazione consiste nell’accettazione di
+rischi ceduti da un’impresa di assicurazione o da un’altra impresa di
+riassicurazione ed è riservata alle imprese di riassicurazione”).
+Il Codice delle assicurazioni non ha peraltro inciso sulla struttura
+nella fattispecie negoziale, mirando a disciplinare l'accesso e
+l'esercizio di tale attività da parte delle imprese private.
+V’è del resto riscontro di tale nozione in quella fornita dalla Corte
+di giustizia dell’Unione europea, secondo la quale mediante
+6 di 17
+
+--- Pagina 7 ---
+
+un’operazione di riassicurazione “un assicuratore conclude un
+contratto con cui assume l’obbligo di prendersi carico, verso il
+pagamento di un premio ed entro i limiti fissati da tale contratto, dei
+debiti risultanti, per un altro assicuratore, dagli impegni assunti da
+quest’ultimo nell’ambito dei contratti di assicurazione che lo stesso
+ha stipulato con i propri assicurati” (Corte giust., 22 ottobre 2009,
+Swiss Re, causa C-242/08, punto 38).
+Dalla riassicurazione va distinta la coassicurazione, operazione
+idonea a modulare gli effetti dell'assicurazione, in virtù della quale si
+generano separati rapporti assicurativi, di modo che ciascun
+assicuratore è titolare delle sole posizioni soggettive sostanziali e
+processuali relative al proprio rapporto con l'assicurato (Cass. n.
+9961/2017; Cass. n. 11442/2018).
+Nel rapporto di riassicurazione, l'assicurato resta invece
+estraneo alle intese tra le imprese assicuratrici, assumendo
+l’assicuratore originario la qualità di assicurato per la quota di rischio
+ceduta e il riassicuratore l’obbligo di coprire i rischi corrispondenti.
+Contrariamente a quanto affermato in controricorso, dunque, il
+rapporto contrattuale tra il prestatore del servizio di assicurazione e
+il soggetto assicurato esiste, con la particolarità che il primo è il
+riassicuratore e il secondo è l’assicuratore originario.
+La giurisprudenza unionale ha rimarcato altresì che è “pacifico
+che il termine «operazioni d'assicurazione» ex art. 13, sub B, lett. a)
+- della sesta direttiva - comprende in ogni caso il caso in cui
+l'operazione considerata è effettuata dallo stesso assicuratore che si
+è obbligato a coprire il rischio assicurato” e ha specificato che “Il
+termine «assicurazione» menzionato in detta disposizione
+comprende anche le categorie di attività di assistenza enunciate
+nell'allegato della prima direttiva del Consiglio 24 luglio 1973,
+73/239/CEE, recante coordinamento delle disposizioni legislative,
+7 di 17
+
+--- Pagina 8 ---
+
+regolamentari ed amministrative in materia di accesso e di esercizio
+dell'assicurazione diretta diversa dall'assicurazione sulla vita, nella
+versione modificata dalla direttiva del Consiglio 10 dicembre 1984,
+84/641/CEE” ossia «A. Classificazione dei rischi per ramo (...)
+18. Assistenza. Assistenza alle persone in difficoltà nel corso di
+spostamenti o di assenza dal domicilio o dal luogo di residenza»
+(Corte giust., 25 febbraio 1999, Card Protection Plan Ltd (CPP), 25
+febbraio 1999, causa C-349/96, punto 19 e principio di diritto).
+Sempre la giurisprudenza unionale ha descritto l’attività di
+assistenza, inclusa nella nozione la quale, ha stabilito, consiste
+nell’impegnarsi, previo pagamento di un premio, a mettere ad
+immediata disposizione un aiuto a profitto del beneficiario del
+contratto di assistenza, quando questi si trovi in difficoltà in seguito
+al verificarsi di un avvenimento fortuito. Siffatto aiuto può
+consistere, tra l’altro, in prestazioni in natura fornite, all’occorrenza,
+mediante utilizzazione del personale o delle attrezzature proprie del
+prestatore. Come emerge dall’art. 2, n. 3, della stessa direttiva, ha
+aggiunto la Corte, siffatta assistenza può in particolare, in caso di
+guasto meccanico o di incidente subiti da un veicolo stradale,
+assumere la forma di soccorso stradale in loco, o ancora di trasporto
+del veicolo fino all’officina più vicina (Corte giust., 7 dicembre 2006,
+Commissione c. Grecia, causa C-13/06).
+Orbene, nel caso di specie, l'attività svolta dalla Inter Partner
+Assistance S.A., ai sensi del contratto di riassicurazione concluso con
+la Axa Global Direct, avente a oggetto la quota parte assistenza della
+copertura garantita da Axa Global Direct nei confronti dei propri
+clienti/assicurati (Trattato assistenza in quota n. 10001/2014,
+relative appendici e condizioni generali e speciali), rientra
+giustappunto nell'ambito del “ramo assistenza” (ramo 18).
+8 di 17
+
+--- Pagina 9 ---
+
+Il “ramo assistenza” è  il ramo 18 di cui all’articolo 2, comma 3,
+d.lgs. n. 209 del 2005, nell’ambito del quale sono classificate le
+assicurazioni consistenti nell’offrire un aiuto immediato entro i limiti
+convenuti nel contratto, nel caso in cui l’assicurato si trovi in una
+situazione di difficoltà a seguito del verificarsi di un evento fortuito.
+L’art. 175, d.lgs. n. 209 del 2005, assicurazione di assistenza,
+prevede che “1. L'assicurazione di assistenza è il contratto con il
+quale l'impresa di assicurazione, verso il pagamento di un premio, si
+impegna a fornire all'assicurato una prestazione di immediato aiuto
+entro i limiti convenuti nel contratto, nel caso in cui l'assicurato
+stesso si trovi in una situazione di difficoltà al seguito del verificarsi
+di un evento fortuito.  2. L'aiuto può essere in denaro o in natura. Le
+prestazioni in natura possono essere fornite anche utilizzando
+personale e attrezzature di terzi”.
+Tale attività di assistenza può dunque consistere nel soccorso
+stradale, nella riparazione del mezzo sul posto, nella fornitura di
+un’auto sostitutiva, nell’invio di un traino, nell’assistenza sanitaria
+durante un viaggio.
+Le condizioni di esercizio relative alle imprese che svolgono
+l'attività di assistenza sono disciplinate nel regolamento n. 10 del 2
+gennaio 2008 dell’Istituto per la Vigilanza sulle Assicurazioni Private
+e di interesse collettivo (ISVAP, oggi Istituto per la vigilanza sulle
+assicurazioni, IVASS). Il regolamento disciplina, per le imprese
+italiane e per quelle di Stati terzi, le procedure di accesso all’esercizio
+dell’attività assicurativa nel territorio della Repubblica e di
+estensione dell’attività all’esercizio di nuovi rami o rischi. Il
+regolamento, inoltre, definisce le procedure cui sono tenute ad
+attenersi le imprese con sede legale nel territorio della Repubblica
+per esercitare l’attività assicurativa nei Paesi dello Spazio economico
+europeo e negli Stati terzi e individua, infine, le norme applicabili nei
+9 di 17
+
+--- Pagina 10 ---
+
+confronti delle imprese con sede legale nella Confederazione
+Elvetica.
+In particolare, riguardo al “ramo 18”, l’art. 14 (Programma di
+attività per l’autorizzazione all’esercizio del ramo 18) stabilisce:
+“1. L’impresa che richiede l’autorizzazione all’esercizio del ramo
+18 descrive nel programma di attività la struttura organizzativa
+nonché le modalità operative che intende adottare per adempiere
+agli obblighi derivanti dall’esercizio del ramo, allegando idonea
+documentazione. La struttura organizzativa, interna od esterna, cui
+è affidata l’attività di gestione dei sinistri che richiedono l’erogazione
+di prestazioni in natura è organizzata in modo tale da soddisfare i
+requisiti determinati ai sensi dell’articolo 30, comma 3, del decreto
+e delle relative disposizioni di attuazione.
+2. L’impresa non dotata di attrezzature e di personale propri per
+l’erogazione delle prestazioni di assistenza in natura, ai fini del
+rilascio dell’autorizzazione, dimostra di poter disporre dei mezzi e
+degli operatori di una o più strutture organizzative, in possesso dei
+requisiti di cui al comma 1, appartenenti a società terza non
+esercente l’attività assicurativa o ad altra impresa di assicurazione.
+A tal fine allega all’istanza di autorizzazione: a) nel caso di struttura
+di società terza o di altra impresa di assicurazione autorizzata
+all’esercizio dell’attività assicurativa nel ramo 18, copia dell’accordo
+con il quale è conferito a tale società o impresa, proprietaria della
+struttura, l’incarico di provvedere alla gestione dei sinistri del ramo;
+b) nel caso di struttura di altra impresa di assicurazione autorizzata
+all’esercizio dell’attività assicurativa nel ramo 18 e dell’attività
+riassicurativa, bozza del trattato di riassicurazione obbligatoria in
+quota stipulato con tale impresa e copia del collegato accordo di
+conferimento al riassicuratore dell’incarico di trattazione dei sinistri
+10 di 17
+
+--- Pagina 11 ---
+
+del ramo. Il trattato di riassicurazione può prevedere una cessione
+massima del 90 per cento dei premi e dei sinistri del ramo.
+3. Fermo restando quanto disposto dal Regolamento ISVAP di
+attuazione degli articoli 87 e 191, comma 1, lettera c) del decreto in
+materia di adeguatezza del sistema dei controlli interni e di gestione
+dei rischi delle imprese e dei gruppi assicurativi, l’accordo di cui al
+comma 2, lettera a), stipulato con la società non esercente attività
+assicurativa prevede l’impegno della stessa a: a) consentire il
+controllo da parte dell’ISVAP anche per quanto concerne la sua rete
+di collaboratori indipendenti; b) comunicare all’ISVAP l’eventuale
+assunzione di nuovi obblighi di prestazione di servizi verso altri
+soggetti”.
+Il regolamento, dunque, consente non solo di attribuire
+all'esterno il servizio di centrale operativa, a un'impresa anche non
+assicurativa, ma anche di cedere ad altra impresa di assicurazione
+una quota massima del 90% dei premi e dei sinistri del ramo stesso.
+Da ciò consegue che nel caso in cui vi sia la riassicurazione del
+ramo assistenza, deve ritenersi pacifico, come ha stabilito la Corte
+di giustizia dell’Unione europea nella causa C-346/96, cit., che
+l'attività che a tale titolo viene svolta dall'impresa di riassicurazione,
+in tal modo prendendosi carico dell’impegno assunto dal primo
+assicuratore, come stabilito dalla Corte di giustizia dell’Unione
+europea nella causa C-242/08, cit., e in tali limiti, è configurabile
+come “operazione di assicurazione”.
+Si tratta, invero, di quello che è accaduto nel caso di specie,
+allorquando, in ragione dell'accordo di riassicurazione con la Axa
+Global Direct, la Inter Partner Assistance S.A., ha assunto
+proporzionalmente il rischio del ramo ceduto pro quota, garantendo
+la copertura del 90% di tutti i rischi del ramo “Assistenza” descritti
+nell’Appendice 1 – Tabella prodotti Assistenza”. La Inter Partner
+11 di 17
+
+--- Pagina 12 ---
+
+Assistance S.A., pertanto, non solo ha diritto a percepire una
+percentuale pari al premio originario corrisposto dall'assicurato ad
+Axa Global Direct ma è altresì tenuta a gestire integralmente i sinistri
+del ramo assistenza per il proprio conto. I due rapporti - rapporto
+riassicurativo e gestione e liquidazione dei sinistri del ramo ceduto -
+non sono pertanto autonomi. Si tratta di un contratto con prestazioni
+da eseguire ad un terzo, che, a differenza della stipulazione a favore
+del terzo, non produce effetti immediati nel patrimonio di costui e
+non gli attribuisce, dunque, la qualità di creditore, in armonia con
+l’art. 1929 c.c., dinanzi richiamato.
+In questo contesto va senz’altro riconosciuta l’esenzione
+dall’imposta sul valore aggiunto alle attività di assistenza
+direttamente svolte dalla centrale operativa della società verificata
+(cc.dd. costi diretti interni), nei limiti suddetti, nel quadro di diritto
+dell'Unione, di cui alla Sesta direttiva 77/388/CEE del Consiglio, del
+17 maggio 1977, in materia di armonizzazione delle legislazioni degli
+Stati membri relative alle imposte sulla cifra di affari - Sistema
+comune di imposta sul valore aggiunto (art. 13, parte B), ora
+contenuto nella direttiva 2006/112/CE del Consiglio, del 28
+novembre 2006, relativa al sistema comune d’imposta sul valore
+aggiunto (art. 135, paragrafo 1, lettera a),  secondo cui “fatte salve
+altre disposizioni comunitarie, gli Stati membri esonerano, alle
+condizioni da essi stabilite per assicurare la corretta e semplice
+applicazione delle esenzioni sottoelencate e per prevenire ogni
+possibile frode, evasione ed abuso: a)   le operazioni di assicurazione
+e di riassicurazione, comprese le prestazioni di servizi relative a dette
+operazioni, effettuate dai mediatori e dagli intermediari di
+assicurazione”.
+Secondo la giurisprudenza della Corte di giustizia (9 marzo
+2023, Generali Seguros, causa C-42/22, punto 28), le esenzioni di
+12 di 17
+
+--- Pagina 13 ---
+
+cui all’art. 135, paragrafo 1, della direttiva IVA costituiscono nozioni
+autonome del diritto dell’Unione, che mirano a evitare divergenze
+nell’applicazione del sistema dell’IVA da uno Stato membro all’altro
+(Corte giust., 25 luglio 2018, DPAS, causa C‑5/17, punto 28 e
+giurisprudenza ivi citata), che devono pertanto essere interpretate
+in modo uniforme nel territorio di tutti gli Stati membri.
+Peraltro, i termini con i quali sono state designate le esenzioni
+di cui all’art. 135 della direttiva IVA devono essere interpretati
+restrittivamente, dato che queste ultime costituiscono deroghe al
+principio generale secondo cui l’IVA è riscossa per ogni cessione di
+beni e per ogni prestazione di servizi effettuata a titolo oneroso da
+un soggetto passivo. Tuttavia, l’interpretazione di tali termini deve
+essere conforme agli obiettivi perseguiti da dette esenzioni e
+rispettare le prescrizioni derivanti dal principio di neutralità fiscale
+inerente al sistema comune di IVA. Pertanto, tale regola di
+interpretazione restrittiva non significa che i termini usati per
+specificare le citate esenzioni debbano essere interpretati in un modo
+che privi tali esenzioni dei loro effetti (Corte giust., 17 gennaio 2013,
+Woningstichting Maasdriel, causa C‑543/11, punto 25 e
+giurisprudenza ivi citata).
+L’obiettivo dell’esenzione riguardante le «operazioni di
+assicurazione e di riassicurazione, comprese le prestazioni di servizi
+relative a dette operazioni, effettuate dai mediatori e dagli
+intermediari di assicurazione» attiene essenzialmente alla difficoltà
+di determinare la base imponibile corretta dell’IVA per i premi
+assicurativi connessi alla copertura del rischio [Corte giust., 9 marzo
+2023, Generali Seguros, causa C-42/22, punto 31; 8 ottobre 2020,
+United Biscuits (Pensions Trustees) e United Biscuits Pension
+Investments, causa C‑235/19, punto 32].
+13 di 17
+
+--- Pagina 14 ---
+
+Dalla giurisprudenza della Corte emerge che, in taluni casi, più
+prestazioni formalmente distinte, che potrebbero essere fornite
+separatamente e dar così luogo, separatamente, a imposizione o a
+esenzione, devono essere considerate come un’unica operazione
+quando non sono indipendenti (Corte giust., 9 marzo 2023, Generali
+Seguros, causa C-42/22, punto 40). Si tratta di un’operazione unica,
+in particolare, quando due o più elementi o atti forniti dal soggetto
+passivo sono strettamente connessi a tal punto da formare,
+oggettivamente, una sola prestazione economica indissociabile la cui
+scomposizione avrebbe carattere artificioso. Ciò accade anche nel
+caso in cui una o più prestazioni costituiscano una prestazione
+principale, mentre la o le altre prestazioni costituiscono una o più
+prestazioni accessorie cui si applica la stessa disciplina tributaria
+della prestazione principale (Corte giust., 16 aprile 2015, Wojskowa
+Agencja Mieszkaniowa w Warszawie, causa C‑42/14, punto 31 e
+giurisprudenza ivi citata).
+Questi contenuti si rinvengono nell’operazione di
+riassicurazione, secondo la definizione, dinanzi richiamata, fornita
+dalla stessa Corte di giustizia (Corte giust., 22 ottobre 2009, Swiss
+Re, causa C-242/08, punto 38, cit.).
+In ambito nazionale, tale disciplina di esenzione è contenuta
+nell’art. 10, comma 1, n. 2) d.P.R. n. 633/1972, secondo cui sono
+esenti dall'imposta le operazioni di assicurazione, di riassicurazione
+e di vitalizio.
+Nessuna interferenza è ravvisabile quanto alla giurisprudenza
+della Corte di giustizia in tema di gestione dei sinistri e, in
+particolare, con le pronunce 3 marzo 2005, Arthur Andersen, causa
+C-472/03 e 17 marzo 2016, Aspiro SA, causa C-40/15, secondo le
+quali non possono essere inclusi tra le operazioni di assicurazione i
+14 di 17
+
+--- Pagina 15 ---
+
+servizi di liquidazione dei sinistri forniti in nome e per conto di un
+assicuratore e svolte da soggetto non assicuratore.
+Nella causa Aspiro SA, causa C-40/15, la società Aspiro non si
+era impegnata nei confronti dell’assicurato a garantire a quest’ultimo
+la copertura di un rischio e non era in alcun modo vincolata
+all’assicurato da un rapporto contrattuale. Di conseguenza, benché
+il servizio di liquidazione di sinistri di cui al procedimento principale
+costituisse una componente essenziale dell’operazione di
+assicurazione laddove comprendeva  la determinazione della
+responsabilità e dell’importo del danno nonché la decisione di
+versare o di rifiutare un indennizzo all’assicurato, la Corte di giustizia
+ha escluso che tale servizio, fornito all’assicuratore, potesse
+configurare un’operazione di assicurazione, ai sensi dell’articolo 135,
+paragrafo 1, lettera a), della direttiva IVA.
+Analogamente, nella causa Arthur Andersen, causa C-472/03,
+la Corte ha stabilito che servizi resi dalla Andersen Consulting
+Management Consultants (trattare domande di assicurazione,
+valutare i rischi da assicurare, valutare la necessità di un
+accertamento medico, decidere l’accettazione del rischio qualora un
+siffatto esame non si renda necessario, procedere all’emissione, alla
+gestione e alla cessazione delle polizze assicurative nonché a
+modifiche tariffarie e contrattuali, incassare i premi, gestire i sinistri,
+fissare e pagare le commissioni degli intermediari di assicurazione e
+assicurare il seguito dei contatti con questi ultimi, trattare aspetti
+relativi alla riassicurazione e fornire informazioni ai contraenti come
+pure agli intermediari di assicurazione nonché ad altri soggetti
+interessati come le autorità tributarie), pur contribuendo al
+contenuto essenziale delle attività di una impresa di assicurazioni,
+non costituissero operazioni di assicurazione ai sensi dell’art. 13,
+parte B, lett. a), della sesta direttiva e neppure costituissero
+15 di 17
+
+--- Pagina 16 ---
+
+prestazioni caratteristiche di un intermediario di assicurazione, pur
+sempre in ragione della mancanza di rapporti contrattuali con i
+contraenti (punto 22 della sentenza).
+Ciò vale anche a differenziare la fattispecie oggetto del giudizio
+dai precedenti di questa Corte in merito alla distinta fattispecie del
+contratto di coassicurazione che, diversamente dalla riassicurazione,
+non figura tra le attività esenti da IVA. Riguardo alla coassicurazione
+questa S.C. ha ritenuto che l'attività oggetto della clausola di delega
+al coassicuratore non è esente ai sensi dell'art. 10, comma 1, n. 2,
+del d.P.R. n. 633 del 1972, non avendo natura assicurativa, né
+accessoria, atteso che la coassicurazione non modifica la ripartizione
+pro quota tra i coassicuratori del rischio, né concerne aspetti
+essenziali dell'attività d'intermediario o di mediatore di
+assicurazione, con particolare riguardo alla ricerca di potenziali
+clienti  (Cass. n. 24713/2020; Cass. n. 24713/2020; Cass. n.
+11442/2018).
+Il contratto di riassicurazione ha invece lo stesso oggetto
+dell’assicurazione e, nel caso di specie, si verte nell'ambito del “ramo
+assistenza” (ramo 18), espressamente disciplinato dal Codice delle
+assicurazioni, nel cui novero sono classificate le assicurazioni
+consistenti nell’offrire un aiuto immediato entro i limiti convenuti nel
+contratto, nel caso in cui l’assicurato si trovi in una situazione di
+difficoltà a seguito del verificarsi di un evento fortuito.
+Nella fattispecie, il rilievo delle operazioni esenti riguarda non
+solo l'assistenza ma anche la liquidazione dei sinistri, sempre nei
+suddetti limiti corrispondenti, secondo la definizione unionale,
+all’assunzione degli impegni presi dal primo assicuratore, poiché,
+nella specie, la gestione dell'attività di liquidazione dei sinistri è
+componente essenziale dell'attività di assicurazione e, quindi, anche
+di riassicurazione mentre, nel diverso caso della coassicurazione, la
+16 di 17
+
+--- Pagina 17 ---
+
+liquidazione dei sinistri non è svolta da un assicuratore, per cui non
+è esente (v. 17 marzo 2016, Aspiro SA, causa C-40/15, punti 27 ss.;
+Cass. n. 11442/2018; Cass. n. 24713/2020 secondo cui in tema di
+IVA, l'attività oggetto della clausola di delega al coassicuratore non
+è esente ai sensi dell'art. 10, comma 1, n. 2, del d.P.R. n. 633 del
+1972, non avendo natura assicurativa, né accessoria, atteso che la
+coassicurazione non modifica la ripartizione "pro quota" tra i
+coassicuratori del rischio, né concerne aspetti essenziali dell'attività
+d'intermediario o di mediatore di assicurazione, con particolare
+riguardo alla ricerca di potenziali clienti).
+2. –  L'accoglimento del primo motivo determina l'assorbimento
+del secondo con cui si deduce, in via subordinata, la necessità di
+disporre il rinvio pregiudiziale della controversia alla Corte di
+Giustizia dell’Unione europea ai sensi dell’art. 267 TFUE.
+3. – La sentenza impugnata dev'essere perciò cassata e, per
+l'effetto, va disposto il rinvio alla Corte di giustizia tributaria di
+secondo grado territorialmente competente anche per la liquidazione
+delle spese di lite.
+P.Q.M.
+La Corte accoglie il primo motivo di ricorso, nei limiti di cui in
+motivazione, assorbito il secondo; cassa la sentenza impugnata in
+relazione al profilo accolto e rinvia la causa alla Corte di giustizia
+tributaria di secondo grado del Lazio, in diversa composizione, anche
+per la liquidazione delle spese di lite.
+Così deciso in Roma, nella camera di consiglio della Sezione
+Tributaria, l’11 febbraio 2025.
+Il Consigliere est.                                   La Presidente
+Gianluca Grasso                                Angelina-Maria Perrino
+17 di 17

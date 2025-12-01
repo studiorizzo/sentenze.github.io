@@ -1,0 +1,216 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 17577/2018 R.G. proposto da:
+ADER - AGENZIA DELLE ENTRATE-RISCOSSIONE, quale successore
+di Equitalia Servizi di riscossione s.p.a., in persona del Presidente
+pro tempore, e AGENZIA DELLE ENTRATE, in persona del Direttore
+pro tempore, entrambe domiciliate in Roma, alla Via dei Portoghesi
+n. 12, presso l’Avvocatura Generale dello Stato dalla quale sono
+rappresentate e difese ope legis;
+– ricorrenti –
+contro
+MEDIAWEST s.r.l., in persona del legale rappresentante pro
+tempore, rappresentata e difesa, in virtù di procura speciale su
+foglio separato unito materialmente al controricorso, dall’Avv.
+Andrea Carinci, con il quale è elettivamente domiciliata in Roma,
+alla via Laura Mantegazza n. 24, presso lo studio del dott. Marco
+Gardin;
+– controricorrente –
+avverso la sentenza della Commissione tributaria regionale della
+Liguria, n. 1745/3/2017, depositata in data 7 dicembre 2017.
+Udita la relazione svolta nella camera di consiglio del 4 novembre
+2025 dal Consigliere Cesare Taraschi.
+
+--- Pagina 2 ---
+
+FATTI DI CAUSA
+1. La Mediawest s.r.l. impugnava, dinanzi alla Commissione
+tributaria provinciale di Savona, l’intimazione di pagamento n.
+10320169001456240000, notificatale dall’Equitalia Nord s.p.a. per
+complessivi euro 750.564,30, e le prodromiche nove cartelle di
+pagamento, emesse a titolo di Irpef, Irap, Ires, Iva ed altro per il
+periodo dal 2002 al 2011.
+La contribuente deduceva: l’inesistenza delle cartelle di
+pagamento per vizio di notifica; la nullità dell’intimazione di
+pagamento per vizio di motivazione e di sottoscrizione della stessa,
+nonché la sua illegittimità in mancanza della previa notifica delle
+sottostanti cartelle; la violazione dell’art. 12, comma 4, d.P.R. n.
+602/1973 in relazione al vizio di sottoscrizione del ruolo, con
+conseguente inidoneità dello stesso a costituire titolo esecutivo.
+All’esito del giudizio, nel corso del quale si costituiva Equitalia
+Nord s.p.a. ed interveniva volontariamente l’Agenzia delle entrate,
+la CTP accoglieva parzialmente il ricorso ed annullava, per nullità
+della notifica a mezzo pec, la sola intimazione di pagamento,
+dichiarando la validità della notifica delle sottostanti cartelle di
+pagamento.
+2. La società contribuente proponeva appello innanzi alla
+Commissione tributaria regionale della Liguria, chiedendo, tra
+l’altro, che venisse dichiarata l’invalidità anche della notifica delle
+cartelle di pagamento. L’Agenzia delle entrate – Riscossione (di
+seguito, AdER) proponeva appello incidentale in ordine alla
+declaratoria di nullità della notifica dell’intimazione di pagamento,
+da ritenersi invece, secondo l’AdER, validamente effettuata via pec
+ai sensi dell’art. 26 d.P.R. n. 602/1973.
+La CTR riteneva che l’AdER non fosse ritualmente costituita,
+in quanto, ai sensi dell'art. 11 d.lgs. n. 546/92, come modificato
+dal d.lgs. n. 156/2015, dal giorno 01/01/2016 la stessa non poteva
+essere rappresentata e difesa da un legale esterno, bensì solo
+2 di 7
+
+--- Pagina 3 ---
+
+dall'Avvocatura dello Stato o da proprio personale. Inoltre, il
+giudice di appello escludeva di dover integrare il contraddittorio nei
+confronti dell'Agenzia delle Entrate, costituita volontariamente in
+primo grado ed interessata solo marginalmente dalle contestazioni
+della società contribuente.
+Nel merito, la CTR dichiarava la «giuridica inesistenza
+dell’intimazione di pagamento e delle cartelle esattoriali notificate
+via pec e la nullità delle cartelle esattoriali sottese notificate via
+posta». In particolare, a sostegno della declaratoria di inesistenza
+della notifica dell’intimazione di pagamento, si deduceva che: a)
+trattandosi dell'invio di una copia digitale di un atto originale
+analogico, risultava omessa l'attestazione di conformità della copia
+all'originale; b) la ricezione nella cassetta di posta elettronica
+certificata del destinatario non assicurava la conoscenza dell'atto,
+ma solo la disponibilità del documento nella cassetta; c) stante
+l'assenza dell'attestazione di conformità, sarebbero state
+necessarie la firma digitale e l'estensione del file in “.p7m”, al fine
+di certificare la provenienza e la non modificabilità del documento
+informatico inviato.
+3. Avverso la decisione della CTR hanno proposto ricorso per
+cassazione l’AdER e l’Agenzia delle entrate, affidandosi ad un unico
+motivo, con il quale, in relazione alla statuizione di inesistenza della
+notifica dell’intimazione di pagamento, hanno dedotto la
+«violazione e falsa applicazione dell’art. 26 del d.p.r. 602 del 1973,
+degli artt. 4, 6 e 45 del d.lgs. 68/2005 e dell’art. 156 c.p.c., in
+relazione all’art. 30, co. 1, n. 3 c.p.c.». La società contribuente ha
+resistito con controricorso.
+Il ricorso è stato, quindi, fissato per l’adunanza camerale del
+04/11/2025.
+RAGIONI DELLA DECISIONE
+3 di 7
+
+--- Pagina 4 ---
+
+1. Preliminarmente occorre rilevare, d’ufficio, la nullità del
+processo d'appello in quanto svoltosi a contraddittorio non integro,
+con conseguente nullità anche della sentenza impugnata.
+In ordine alla rilevabilità d’ufficio di tale questione, è
+sufficiente richiamare, ex multis, la recente pronuncia delle Sezioni
+Unite di questa Corte (sentenza 29/08/2025, n. 24172), con cui, in
+materia di giudicato implicito, si è esclusa la possibilità di
+formazione di un giudicato interno in ordine ai vizi processuali
+rilevabili, in base ad espressa previsione legale, in ogni stato e
+grado del processo ed a quelli relativi a questioni "fondanti" (la cui
+omessa rilevazione si risolverebbe in una pronuncia inutiliter data),
+tra le quali rientra la violazione del contraddittorio per indebita
+pretermissione del litisconsorte necessario (pag. 30 sentenza cit.).
+2. Nel merito della questione, va rilevato che con il ricorso
+originario, come risulta dalla sentenza della CTR, la società
+contribuente aveva contestato l'intimazione di pagamento e le
+sottostanti cartelle esattoriali, e lamentato non solo vizi della
+notifica, ma anche vizi relativi al ruolo ed alla mancata
+sottoscrizione delle cartelle, chiedendo l'accertamento della
+prescrizione del credito dell'Amministrazione finanziaria. La CTP di
+Savona ha ritenuto valide e correttamente notificate le cartelle di
+pagamento, mentre ha annullato l'intimazione di pagamento per la
+nullità della relativa notifica via Pec.
+3. In proposito, questa Corte ha affermato che, qualora il
+contribuente, come nel caso di specie, abbia presentato ricorso
+contro l'atto esattivo, eccependo vizi imputabili sia all'Agenzia delle
+Entrate che all'Agente della riscossione, e le parti abbiano tutte
+partecipato al giudizio di primo grado, in appello si configura il c.d.
+"litisconsorzio processuale", con applicazione dell'art. 331 c.p.c.
+(Cass. 05/11/2021, n. 31922; Cass. 03/11/2020, n. 24402; Cass.
+23/12/2019, n. 34277, in un giudizio tra le stesse parti; Cass.
+04/04/2018, n. 9295; Cass. 27/05/2015, n. 10934). Si è precisato
+4 di 7
+
+--- Pagina 5 ---
+
+che anche l'intervento adesivo dipendente - previsto dall'art. 14
+d.lgs. n. 546/1992 - determina un'ipotesi di causa inscindibile, ai
+sensi dell'art. 331 c.p.c., con conseguente configurabilità di un
+litisconsorzio necessario processuale in grado di appello (Cass.
+15/06/2010, n. 14423).
+Ed invero, l'obbligatorietà dell'integrazione del contraddittorio
+nella fase dell'impugnazione, al fine di evitare giudicati contrastanti
+nella stessa materia e tra soggetti già parti del giudizio, sorge non
+solo quando la sentenza di primo grado sia stata pronunciata nei
+confronti di tutte le parti tra le quali esiste litisconsorzio necessario
+sostanziale e l'impugnazione non sia stata proposta nei confronti di
+tutte, ma anche nel caso del cosiddetto litisconsorzio necessario
+processuale, quando l'impugnazione non risulti proposta nei
+confronti di tutti i partecipanti al giudizio di primo grado, sebbene
+non legati tra loro da un rapporto di litisconsorzio necessario,
+sempre che si tratti di cause inscindibili o tra loro dipendenti (art.
+331 c.p.c.), nel qual caso la necessità del litisconsorzio in sede di
+impugnazione è imposta dal solo fatto che tutte le parti sono state
+presenti nel giudizio di primo grado. Ne consegue che, in entrambe
+le ipotesi, la mancata integrazione del contraddittorio nel giudizio di
+appello determina la nullità dell'intero procedimento di secondo
+grado e della sentenza che lo ha concluso, rilevabile d'ufficio anche
+in sede di legittimità (Cass. 08/11/2017, n. 26433, la quale ha
+cassato con rinvio la sentenza di appello che non aveva disposto
+l'integrazione del contraddittorio nei confronti dell'Agenzia delle
+entrate in quanto non convenuta nel giudizio d'appello, pur
+essendo stata parte nel giudizio di primo grado avente ad oggetto
+l'impugnazione di una cartella di pagamento per TARSU).
+Ed è opportuno rammentare che tale opzione interpretativa è
+stata di recente avallata dalle Sezioni Unite di questa Corte, le quali
+– chiamate a stabilire, tra l’altro, se l’art. 53 d.lgs. n. 546/1992 sia
+compatibile, nell’ipotesi in cui l’impugnazione non sia stata
+5 di 7
+
+--- Pagina 6 ---
+
+indirizzata a tutte le parti del giudizio di primo grado, con la
+disciplina dettata dagli artt. 331 e 332 c.p.c. - hanno ribadito che il
+litisconsorzio in appello tra Agenzia delle entrate e AdER
+(nell’ipotesi di evocazione in giudizio di entrambi in primo grado)
+sussiste solo nel caso di cause inscindibili, ricorrente quando le
+censure del contribuente abbiano investito, oltre al merito della
+pretesa tributaria, anche vizi propri della cartella (Cass., Sez. U.,
+30/04/2024, n. 11676).
+4. Nella specie, come già rilevato, la società contribuente ha
+impugnato l'intimazione di pagamento e le cartelle esattoriali, non
+solo per vizi della notifica, ma anche per vizi relativi al ruolo ed alla
+mancata sottoscrizione delle cartelle, chiedendo l'accertamento
+della prescrizione del credito dell'Amministrazione finanziaria.
+L'appellante, però, non ha notificato il gravame all'Agenzia delle
+entrate, già parte in primo grado, né il giudice ha disposto
+l'integrazione del litisconsorzio processuale, ritenendo
+erroneamente non configurabile una situazione di inscindibilità delle
+posizioni processuali.
+A ciò consegue la nullità del giudizio di appello e della
+sentenza impugnata, e la necessità di rimettere le parti al giudice
+di appello per consentire l'integrazione del litisconsorzio
+processuale in quel grado di giudizio (in tal senso: Cass.
+30/10/2018, n. 27616; Cass. 27/07/2018, n. 20039).
+5. Constatata, quindi, la non integrità del contraddittorio nel
+giudizio di appello, e la mancata applicazione dell’art. 331 c.p.c., la
+causa va rimessa alla Corte di giustizia tributaria di secondo grado
+della Liguria, in diversa composizione, che provvederà anche sulle
+spese del giudizio di legittimità.
+P.Q.M.
+La Corte dichiara la nullità della sentenza impugnata e dell'intero
+giudizio di secondo grado, e rimette la causa innanzi alla Corte di
+giustizia tributaria di secondo grado della Liguria, in diversa
+6 di 7
+
+--- Pagina 7 ---
+
+composizione, cui demanda di provvedere anche sulle spese del
+giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio del 4 novembre
+2025.
+Il Presidente
+Lucio Napolitano
+7 di 7
