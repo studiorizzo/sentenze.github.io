@@ -1,0 +1,325 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 1412/2020 R.G. proposto da:
+AGENZIA DELLE ENTRATE, elettivamente domiciliata in ROMA, VIA
+DEI PORTOGHESI 12, presso l'AVVOCATURA GENERALE DELLO
+STATO (ADS80224030587), che la rappresenta e difende
+-ricorrente-
+contro
+CALZATURIFICIO LINEALEI SRL, elettivamente domiciliata in ROMA,
+VIA DI VILLA SEVERINI 54, presso lo studio dell’avvocato TINELLI
+GIUSEPPE (TNLGPP53E31E506L), che la rappresenta e difende
+unitamente all'avvocato DE LORENZI MAURIZIO
+(DLRMRZ71A06E506H)
+-controricorrente-
+avverso SENTENZA di COMM.TRIB.REG. TOSCANA n. 1691/2018
+depositata il 28/09/2018.
+Udita la relazione svolta nella camera di consiglio del 10/07/2025 dal
+Consigliere GIACOMO MARIA NONNO.
+
+--- Pagina 2 ---
+
+FATTI DI CAUSA
+Con la sentenza n. 1691/09/18 del 28/09/2018, la Commissione
+tributaria regionale della Toscana (di seguito CTR) rigettava l’appello
+proposto dall’Agenzia delle entrate (di seguito AE) avverso la
+sentenza n. 445/04/16 della Commissione tributaria provinciale di
+Lucca (di seguito CTP), che aveva accolto il ricorso proposto da
+Calzaturificio Linealei s.r.l. (di seguito Linealei) avverso un avviso di
+accertamento per IRES, IRAP e IVA relative all’anno d’imposta 2010.
+1.1. Come emerge dalla sentenza impugnata, l’atto impositivo
+veniva emesso in ragione di due riprese: con una prima ripresa si
+contestava la cessione all’estero di merce in nome e per conto di altro
+soggetto (Palex Commerciale s.r.l.); con una seconda ripresa, si
+contestava la deducibilità di una quota di ammortamento di rilevanti
+costi per la realizzazione di un nuovo campionario con riferimento
+all’anno 2010.
+1.2. La CTR respingeva l’appello di AE evidenziando che: a) con
+riferimento alle operazioni triangolari, la società contribuente aveva
+fornito la prova della consegna all’estero della merce, sicché la
+ripresa andava annullata; b) con riferimento ai costi di formazione di
+un nuovo catalogo, Linealei aveva provato le ragioni sottostanti
+all’operazione nonché fornito la prova dei costi capitalizzati,
+regolarmente ammortizzati ai sensi dell’art. 108, comma 1, e 109,
+comma 1, del d.P.R. 22 dicembre 1986, n. 917 (Testo Unico delle
+Imposte sui Redditi - TUIR); c) erano stati comprovati, altresì, gli
+effetti benefici della realizzazione del catalogo, che si erano
+riverberati anche sugli esercizi successivi.
+Avverso la sentenza di appello AE proponeva ricorso per
+cassazione, affidato a due motivi.
+Linealei resisteva con controricorso e depositava memoria ex art.
+380 bis.1 cod. proc. civ.
+2 di 10
+
+--- Pagina 3 ---
+
+RAGIONI DELLA DECISIONE
+1. Il ricorso di AE è affidato a due motivi, di seguito riassunti.
+1.1. Con il primo motivo di ricorso si deduce, in relazione all’art.
+360, primo comma, n. 3, cod. proc. civ., violazione e/o falsa
+applicazione dell’art. 8, primo comma, lett. a), del d.P.R. 26 ottobre
+1972, n. 633 (decreto IVA), dell’art. 58 del d.l. 30 agosto 1993, n.
+331, conv. con modif. nella l. 29 ottobre 1993, n. 427 e dell’art. 2697
+cod. civ., per avere la CTR erroneamente ritenuto che, ai fini della
+non imponibilità interna delle operazioni triangolari, sia sufficiente il
+semplice trasporto all’estero della merce e non già la prova, gravante
+sul contribuente, che l’operazione sia voluta ab origine e nella sua
+rappresentazione documentale come cessione nazionale in vista di
+trasporto a cessionario residente all’estero.
+1.2. Con il secondo motivo di ricorso si lamenta, in relazione
+all’art. 360, primo comma, n. 3, cod. proc. civ., violazione e/o falsa
+applicazione degli artt. 108, comma 1, e 109, comma 1, del TUIR, per
+avere la CTR erroneamente ritenuto che: i) i costi sostenuti per la
+formazione di un campionario possano essere qualificate come spese
+per ricerca e sviluppo; ii) l’ammortamento sia stato correttamente
+effettuato, non essendo stata dedotta alcuna quota nell’anno
+d’imposta 2009, differita negli anni successivi, con violazione del
+principio di competenza.
+2. Il primo motivo di ricorso, con il quale si contesta la sussistenza
+di una operazione triangolare ai fini della non imponibilità dell’IVA, è
+fondato.
+2.1. Come da ultimo chiarito da Cass. n. 14853 del 26/05/2023, le
+operazioni triangolari, interne o comunitarie, si verificano quando vi
+sono due cessioni successive con tre operatori, di cui almeno uno sito
+al di fuori del territorio nazionale, cessioni peraltro oggetto di un solo
+3 di 10
+
+--- Pagina 4 ---
+
+trasporto (all’esterno ovvero, come nel caso di specie, all’interno al
+territorio dell’Unione).
+2.1.1. Dispone l’art. 58, comma 1, del d.l. n. 331 del 1993 che
+non sono imponibili le «cessioni di beni, anche tramite commissionari,
+effettuate nei confronti di cessionari o commissionari di questi se i
+beni sono trasportati o spediti in altro Stato membro a cura o a nome
+del cedente anche per incarico dei propri cessionari o commissionari
+di questi».
+2.1.2. Come osservato da questa Corte, pur intervenendo tre
+distinti operatori economici, l’operazione di trasporto intracomunitario
+va considerata come unitaria, ove la merce viene trasportata
+dall’acquirente nel territorio dello Stato del cessionario ma non è da
+questi utilizzata, bensì vincolata alla consegna a un terzo soggetto
+passivo che la immette in consumo (Cass. n. 34957 del 17/11/2021;
+Cass. n. 14031 del 07/07/2020; Cass. n. 22332 del 13/09/2018, n.
+22332). Pertanto «la cessione viene effettuata non al destinatario
+finale della merce ma ad un soggetto passivo, realmente interposto
+(sia se residente che se non residente nello Stato membro del
+cedente), che effettua l'acquisto esclusivamente in funzione della
+successiva» operazione di esportazione o di cessione intracomunitaria
+(Cass. n. 23828 del 01/08/2022; Cass., n. 34957 del 2021, cit.;
+Cass. n. 3099 del 17/02/2016).
+2.1.3. Nel qual caso, l'acquisto del bene da parte del primo
+cessionario (interposto) non rileva quale cessione imponibile
+effettuata nel territorio dello Stato del cedente, ma «come fase
+preliminare dell’operazione intracomunitaria che si perfeziona con il
+trasferimento del bene in altro Stato membro ove risiede il soggetto
+passivo indicato già all'origine come destinatario finale». In tal modo
+si è inteso rendere neutra fiscalmente la prima cessione nazionale, in
+quanto ciò che rileva è che i beni della prima cessione siano vincolati
+4 di 10
+
+--- Pagina 5 ---
+
+alla cessione al cessionario intracomunitario (Cass., n. 23828 del
+2022, cit.).
+2.1.4. Nella sostanza, il primo trasferimento al promotore della
+triangolazione viene effettuata a un soggetto realmente interposto, il
+quale assume un vincolo di destinazione in ordine alla merce da
+trasportare e non acquisisce una vera e propria signoria dominicale
+sui beni acquistati, stante l’interposizione negozialmente pattuita
+dalle parti, tale da impedirgli di esercitare un potere di disposizione
+sul bene trasportato come se ne fosse il proprietario, circostanza che
+impedisce di qualificare ai fini IVA tale trasferimento come cessione di
+beni a termini dell’articolo 14, § 1, della direttiva n. 2006/112/CE del
+Consiglio del 28 novembre 2006 (direttiva IVA) (CGUE, 17 dicembre
+2020, Bakati Plus, C-656/19, punto 55; CGUE, 17 ottobre 2019,
+Unitel, C-653/18, punto 19; CGUE, 28 febbraio 2018, Pieńkowski,
+C-307/16, punto 24).
+2.1.5. Tale giurisprudenza è conforme al diritto dell’Unione,
+secondo cui ove due cessioni successive abbiano dato luogo a un solo
+trasporto intracomunitario, tale trasporto può essere imputato ad una
+sola delle due cessioni, che sarà, pertanto, l’unica esentata ai sensi
+dell’articolo 138, § 1, della direttiva IVA, in relazione alle quali
+occorre procedere ad una valutazione globale di tutte le circostanze
+particolari del caso di specie che consentano di determinare se vi sia
+stato o meno trasferimento del potere di disporre di un bene come
+proprietario (CGUE, 26 luglio 2017, C-386/16, Toridas, punti 34-36),
+essendo l’esenzione applicabile ove il potere di disporre sia stato
+trasmesso all’acquirente (CGUE, 16 dicembre 2010, Euro Tyre
+Holding, C-430/09, punto 29).
+2.2. Sotto il profilo dell’onere della prova, invece, va evidenziato
+che «al fine di considerare un'operazione triangolare come cessione
+intracomunitaria non imponibile, l'espressione letterale "a cura" del
+5 di 10
+
+--- Pagina 6 ---
+
+cedente, contenuta nell'art. 8, comma 1, lett. a) del d.P.R. n. 633 del
+1972, o quella corrispondente "per suo conto", contenuta nell'art. 15,
+comma 1, della direttiva 77/388/CEE (sesta direttiva), vanno
+interpretate in relazione allo scopo della norma, che è quello di
+evitare operazioni fraudolente, le quali si verificherebbero se il
+cessionario nazionale potesse autonomamente - e cioè al di fuori di
+un preventivo regolamento contrattuale con il cedente - decidere di
+esportare i beni in un altro "Stato membro" e, quindi, non nel senso
+che la spedizione o il trasporto devono avvenire in esecuzione di un
+contratto concluso direttamente dal cedente o in rappresentanza di
+quest'ultimo, ma nel senso che è essenziale che vi sia la prova (il cui
+onere grava sul contribuente) che l'operazione, fin dalla sua origine e
+nella sua rappresentazione documentale, sia stata voluta, nella
+comune volontà degli originari contraenti, come cessione nazionale in
+vista di trasporto a cessionario residente all'estero» (Cass. n. 4408
+del 23/02/2018).
+2.3. Quest’ultima sentenza, richiamata anche dalla CTR, non è
+stata correttamente applicata dal giudice di appello, il quale ha
+erroneamente ritenuto la sufficienza del trasporto della merce
+all’estero per la declaratoria di non imponibilità della cessione
+intervenuta tra Linealei e Palex Commerciale s.r.l., senza operare un
+compiuto accertamento in ordine alla documentazione eventualmente
+attestante che l’operazione sia stata voluta fin dall’origine dai
+contraenti come cessione nazionale in vista di trasporto a cessionario
+residente all'estero.
+2.4. La sentenza impugnata va, dunque, cassata in parte qua per
+consentire al giudice del rinvio un compiuto accertamento.
+3. Il secondo motivo di ricorso, con il quale AE si duole della non
+corretta ammortizzazione dei costi conseguenti alla formazione di un
+nuovo catalogo, è fondato nei termini di cui subito si dirà.
+6 di 10
+
+--- Pagina 7 ---
+
+3.1. Appare utile riportare, prima di tutto, il quadro normativo di
+riferimento.
+3.1.1. L’art. 108, comma 1, del TUIR, nella sua versione
+applicabile ratione temporis, così recita: «Le spese relative a studi e
+ricerche sono deducibili nell'esercizio in cui sono state sostenute
+ovvero in quote costanti nell'esercizio stesso e nei successivi ma non
+oltre il quarto. Le quote di ammortamento dei beni acquisiti in esito
+agli studi e alle ricerche sono calcolate sul costo degli stessi diminuito
+dell'importo già dedotto. Per i contributi corrisposti a norma di legge
+dallo Stato o da altri enti pubblici a fronte di tali costi si applica
+l'articolo 88, comma 3».
+3.1.2. L’art. 109, comma 1, del TUIR afferma, invece, che: «I
+ricavi, le spese e gli altri componenti positivi e negativi, per i quali le
+precedenti norme della presente Sezione non dispongono
+diversamente, concorrono a formare il reddito nell'esercizio di
+competenza; tuttavia i ricavi, le spese e gli altri componenti di cui
+nell'esercizio di competenza non sia ancora certa l'esistenza o
+determinabile in modo obiettivo l'ammontare concorrono a formarlo
+nell'esercizio in cui si verificano tali condizioni».
+3.1.3. L’art. 2426 cod. civ., che concerne la valutazione delle
+poste di bilancio da appostare a conto economico, si afferma, sempre
+nella versione applicabile ratione temporis, che «(…) 5) i costi di
+impianto e di ampliamento, i costi di ricerca, di sviluppo e di
+pubblicità aventi utilità pluriennale possono essere iscritti nell'attivo
+con il consenso, ove esistente, del collegio sindacale e devono essere
+ammortizzati entro un periodo non superiore a cinque anni (…)».
+3.1.4. La superiore disposizione va, poi, interpretata alla luce del
+principio contabile OIC 24, riguardante le immobilizzazioni
+immateriali, tra le quali rientrano sicuramente i costi di ricerca e
+sviluppo, tra i quali sono, peraltro, ricomprese varie tipologie. Per
+7 di 10
+
+--- Pagina 8 ---
+
+quanto interessa, i costi propriamente di ricerca e sviluppo, riconnessi
+alla elaborazione di progetti «possono essere capitalizzati, e come
+tali, iscritti all'attivo patrimoniale del bilancio dell'impresa (…).
+Tuttavia, la sola attinenza a specifici progetti non è condizione
+sufficiente affinché detti costi abbiano legittimità di capitalizzazione.
+Per tale finalità, essi debbono anche rispondere positivamente alle
+caratteristiche richieste per l'iscrizione di qualsiasi posta attiva; essi
+debbono, cioè, essere: — relativi ad un prodotto o processo
+chiaramente definito, nonché identificabili e misurabili; — riferiti ad
+un progetto realizzabile, cioè tecnicamente fattibile, per il quale
+l'impresa possieda o possa disporre delle necessarie risorse; —
+ricuperabili tramite i ricavi che nel futuro si svilupperanno
+dall'applicazione del progetto stesso» (OIC 24, pag. 19 dell’elaborato
+30 maggio 2005, applicabile alla fattispecie).
+3.2. Secondo la giurisprudenza di questa Corte, i costi di natura
+straordinaria per la loro utilità pluriennale, ai sensi dell'art. 2426,
+primo comma, numero 5), cod. civ., possono - previo consenso del
+collegio sindacale ove esistente - essere iscritti nell'attivo, anziché
+essere imputati in conto economico come componenti negativi del
+reddito di esercizio in cui sono sostenuti, ove la società ritenga, in
+base ad una scelta fondata su criteri di discrezionalità tecnica, di
+capitalizzarli in vista di un successivo ammortamento pluriennale
+invece di far gravare i costi interamente sull'esercizio in cui sono stati
+sostenuti; tale valutazione, ai fini della graduazione del beneficio,
+deve tenere conto che l'iscrizione di queste spese all'attivo dello stato
+patrimoniale è consentita, oltre che dall'utilità pluriennale, di cui siano
+causa immediata e diretta, anche dalla circostanza che esse non
+abbiano avuto, come contropartita, l'incremento di valore di specifici
+beni o diritti anch'essi iscritti all'attivo (Cass. n. 24939 del
+8 di 10
+
+--- Pagina 9 ---
+
+06/11/2013, che richiama anche Cass. n. 377 dell’11/01/2006. Si
+veda, altresì, la motivazione di Cass. n. 32417 del 14/12/2018).
+3.3. È stato, altresì, evidenziato che «un costo può essere
+capitalizzato in bilancio, in virtù delle indicazioni contabili risultanti
+dall'OIC 24, ove sia collegato ad "operazioni non ricorrenti", quali
+quelle strumentali a nuove attività oppure al lancio di nuovi prodotti,
+da cui derivi "la ragionevole aspettativa di importanti e duraturi
+ritorni economici", sicché le spese di campionario non possono essere
+capitalizzate e, pertanto, non sono soggette al trattamento fiscale di
+cui all’art. 74 (ora 108), comma 3, del d.P.R. n. 917 del 1986,
+applicabile “ratione temporis”, trattandosi di operazioni ordinarie, che
+non sono dirette a promuovere una nuova attività» (Cass. n. 25690
+del 14/12/2016).
+3.4. Ne consegue che la valutazione della sottoposizione ad
+ammortizzazione pluriennale dei costi di ricerca e sviluppo è una
+valutazione prettamente di merito; con la quale il giudice deve
+verificare che i costi: a) siano relativi ad un progetto chiaramente
+identificato e siano identificabili e misurabili; b) si tratti di costi non
+ricorrenti, quali quelli strumentali a nuove attività oppure al lancio di
+nuovi prodotti; c) abbiano un’utilità pluriennale, con ragionevole
+aspettativa di importanti e duraturi ritorni economici; c) non abbiano,
+come contropartita, l’incremento di valore di specifici beni o diritti
+iscritti all’attivo.
+3.5. Ricorrendo le superiori caratteristiche, i costi di ricerca e
+sviluppo potranno essere dedotti, oltre che integralmente
+nell’esercizio di competenza, anche in quote costanti nell'esercizio
+stesso e nei successivi ma non oltre il quarto (art. 108, comma 1, del
+TUIR).
+3.6. Nel caso di specie, la CTR ha qualificato i costi sostenuti dalla
+società contribuente per la definizione di un nuovo catalogo di natura
+9 di 10
+
+--- Pagina 10 ---
+
+pluriennale, evidenziando che è risultata provata la circostanza che
+l’utilità di detti costi è andata a beneficio degli esercizi successivi.
+Peraltro, la CTR non chiarisce se l’operazione compiuta abbia il
+carattere della straordinarietà (nel senso che non sia ripetitiva, in ciò
+differenziandosi dal campionario, che è un costo ricorrente), nonché
+se tale operazione abbia comportato, come contropartita,
+l’incremento di valore di specifici beni.
+3.7. Inoltre, la CTR si limita ad affermare il rispetto del principio di
+competenza di cui all’art. 109, primo comma, del TUIR, ma non
+chiarisce le ragioni per le quali i costi pluriennali non siano stati
+ammortizzati anche nell’anno 2009, come specificamente contestato
+dall’Ufficio in ragione della previsione del più volte citato art. 108,
+comma 1, del TUIR.
+3.8. In questi limiti il motivo va accolto.
+4. In conclusione, va accolto il primo e, nei limiti di cui si è detto,
+anche il secondo motivo di ricorso; la sentenza impugnata va cassata
+e rinviata alla Corte di giustizia tributaria di secondo grado della
+Toscana, in diversa composizione, per nuovo esame e per le spese
+del presente giudizio.
+P.Q.M.
+La Corte accoglie il primo e, nei limiti di cui in motivazione, il secondo
+motivo ricorso, cassa la sentenza impugnata e rinvia alla Corte di
+giustizia tributaria di secondo grado della Toscana, in diversa
+composizione, anche per le spese del presente procedimento.
+Così deciso in Roma, il 10/07/2025.
+Il Presidente
+GIOVANNI LA ROCCA
+10 di 10

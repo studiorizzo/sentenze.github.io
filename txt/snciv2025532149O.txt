@@ -1,0 +1,443 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 24367/2017 R.G. proposto da
+NORTHROP GRUMMAN ITALIA S.P.A., in persona del legale
+rappresentante pro tempore, elettivamente domiciliata in Roma alla via di
+Ripetta n. 142 presso lo studio legale Delfino e Associati, Willkie Farr &
+Gallagher LLP, rappresentata e difesa dagli avv.ti Maurizio Delfino e
+Gianluca Cattani
+-ricorrente-
+contro
+AGENZIA DELLE ENTRATE, in persona del Direttore pro tempore,
+domiciliata in Roma alla via dei Portoghesi n. 12 presso gli uffici
+dell’Avvocatura Generale dello Stato, dalla quale è rappresentata e difesa
+ope legis
+-resistente-
+avverso la SENTENZA della COMMISSIONE TRIBUTARIA REGIONALE
+DEL LAZIO n. 1358/2017 depositata il 15 marzo 2017
+udita la relazione svolta nell’adunanza camerale del 23 ottobre 2025 dal
+Consigliere Danilo CHIECA
+FATTI DI CAUSA
+
+--- Pagina 2 ---
+
+La Direzione Provinciale II di Roma dell’Agenzia delle Entrate
+emetteva nei confronti della Northrop Grumman Italia s.p.a. (d’ora in poi,
+breviter, NGI) un avviso di accertamento con il quale contestava alla
+prefata società l’omessa applicazione della ritenuta alla fonte, con
+l’aliquota del 27 per cento, sui dividendi da essa corrisposti nell’anno 2008
+alla propria socia danese Northrop Grumman Denmark ApS (di qui in
+avanti NGD), a sua svolta partecipata dalla capogruppo statunitense
+Northrop Grumman Corporation (NGC); ne derivavano le conseguenti
+riprese a tassazione ai fini dell’IRES e l’irrogazione delle sanzioni
+pecuniarie collegate.
+Secondo l’assunto dell’Ufficio, la contribuente avrebbe fatto un <utilizzo
+abusivo> (cd. <treaty shopping>) della Convenzione bilaterale Italia-
+Danimarca del 5 maggio 1999 contro le doppie imposizioni, avvalendosi
+della sub-holding danese come schermo fittizio dietro il quale si sarebbe
+celata la beneficiaria effettiva dei dividendi corrisposti, da individuare nella
+capogruppo (<top holding>) americana.
+La NGI impugnava tale avviso di accertamento proponendo ricorso
+dinanzi alla Commissione Tributaria Provinciale (CTP) di Roma.
+Deduceva di aver correttamente operato in osservanza dell’art. 10,
+paragrafo 2, lettera a), della predetta Convenzione, in quanto, essendo
+stata la NGD detentrice, per un periodo di dodici mesi anteriore alla data
+di distribuzione dei dividendi, di almeno il 25 per cento del capitale di essa
+società distributrice, l’imposta da applicare nello Stato italiano non poteva
+eccedere lo 0 per cento dell’ammontare lordo dei dividendi medesimi.
+Il giudice adìto, ritenute fondate le ragioni addotte dalla contribuente,
+annullava l’atto impositivo.
+La pronuncia di primo grado veniva in sèguito riformata dalla
+Commissione Tributaria Regionale (CTR) del Lazio, che con sentenza n.
+1358/2017 del 15 marzo 2017 accoglieva il gravame dell’Agenzia delle
+Entrate, rideterminando nel 5 per cento l’aliquota della ritenuta «a titolo
+2
+
+--- Pagina 3 ---
+
+d’acconto» da operare sui dividendi in questione, ai sensi dell’art. 10,
+paragrafo 2, lettera a), della Convenzione bilaterale Italia-Stati Uniti
+d’America del 25 agosto 1999 contro le doppie imposizioni.
+A fondamento della decisione adottata il collegio regionale osservava
+quanto segue:
+- doveva escludersi che la richiesta dell’Amministrazione Finanziaria di
+applicazione della ritenuta del 5 per cento prevista dall’art. 10, paragrafo
+2, lettera a), della menzionata Convenzione Italia-USA integrasse una
+nuova domanda vietata in appello, essendosi l’impugnante «limitata a
+ridimensionare la pretesa tributaria vantata», pur sempre «continua(ndo)
+a fondare» detta pretesa «sul mancato versamento delle ritenute
+d’acconto sui dividendi»;
+- «dagli atti allegati ed elencati nell’accertamento risult(ava) la direzione
+ed il controllo da parte della società americana»; segnatamente, dalla
+«corrispondenza via e-mail tra la società americana e le società europee»
+da essa controllate, «esclusa proprio la società danese, apparente
+controllante», emergeva che «gli impulsi volitivi di gestione delle
+operazioni di distribuzione dei dividendi (ammontare, date, modalità di
+pagamento, conti da movimentare, predisposizione delle minute per le
+delibere assembleari di distribuzione, risoluzione di problematiche di
+carattere amministrativo e fiscale) provenivano sempre dalla società
+americana»;
+- «per contro, la struttura operativa della società danese era
+sostanzialmente inesistente, tanto da indurre lo studio legale consultato
+dalla contribuente (v. pareri allegati al PVC) a rimarcare l’esigenza di
+fornire una effettiva evidenza e dimostrazione dell’esistenza di valide
+ragioni economiche dietro l’insediamento in Danimarca della NGD -
+Northrop Grumman Denmark e ad affermare, in altra occasione, la
+mancanza di idonea documentazione atta a dimostrare l’attività della
+holding danese, quali la struttura organizzativa (locali, dipendenti, etc.), le
+3
+
+--- Pagina 4 ---
+
+tecniche di business, il livello di indipendenza... nei confronti della casa
+madre statunitense, il ruolo attivo di coordinamento e gestione delle filiali
+europee»;
+- a mente del comma 5 dell’art. 27-bis del D.P.R. n. 600 del 1973, nel
+testo applicabile «ratione temporis», spettava alla contribuente dare prova
+del fatto che la partecipazione societaria della NGD non fosse da questa
+detenuta allo scopo esclusivo o principale di consentire alla controllante
+americana di beneficiare indebitamente del regime fiscale di favore
+contemplato dal predetto articolo; sotto questo aspetto, «si d(o)ve(va)
+predicare l’insufficienza dell’esistenza di un reticolo societario in Europa,
+nonché degli atti di redazione dei bilanci e della partecipazione alle
+assemblee», in mancanza di «dimostrazione della funzione economica
+della detenzione della partecipazione».
+Contro questa sentenza la NGI ha proposto ricorso per cassazione
+affidato a tre motivi.
+L’Agenzia delle Entrate ha depositato un mero <atto di costituzione>, ai
+soli fini della partecipazione all’eventuale udienza di discussione.
+La causa è stata avviata alla trattazione in camera di consiglio, ai sensi
+dell’art. 380-bis.1 c.p.c..
+La ricorrente ha depositato sintetica memoria illustrativa.
+MOTIVI DELLA DECISIONE
+1. Con il primo motivo di ricorso, formulato ai sensi dell’art. 360,
+comma 1, n. 3) c.p.c., sono denunciate la violazione e la falsa
+applicazione dell’art. 57 del D. Lgs. n. 546 del 1992.
+1.1 Si rimprovera alla CTR di aver omesso di dichiarare l’inammissibilità
+della nuova domanda proposta in grado d’appello dall’Amministrazione
+Finanziaria, incentrata sull’asserita applicabilità, nel caso di specie, della
+ritenuta con l’aliquota del 5 per cento stabilita dall’art. 10, paragrafo 2),
+lettera a), della Convenzione bilaterale Italia-USA del 25 agosto 1999
+4
+
+--- Pagina 5 ---
+
+contro le doppie imposizioni, laddove, in precedenza, essa aveva invocato
+l’operatività della ritenuta del 27 per cento prevista dalla diversa disciplina
+domestica recata dall’art. 27, comma 3, del D.P.R. n. 600 del 1973.
+1.2 Il motivo è infondato.
+1.3 Come chiaramente emerge dalla ricostruzione della vicenda di causa
+operata nello stesso ricorso per cassazione, con l’avviso di accertamento
+che ha dato origine alla presente controversia l’Agenzia delle Entrate
+aveva contestato alla NGI l’omessa effettuazione della ritenuta alla fonte
+con l’aliquota del 27 per cento sui dividendi relativi all’anno 2008 da essa
+corrisposti alla propria socia danese NGD.
+1.4 A fronte di questa iniziale posizione, la successiva richiesta
+dell’Ufficio di applicazione dell’inferiore aliquota del 5 per cento non
+costituiva esercizio di una pretesa tributaria diversa da quella risultante
+dall’atto impositivo, concretandosi in una mera riduzione quantitativa della
+medesima pretesa originariamente fatta valere, alla stregua della regola
+generale secondo cui il più comprende il meno.
+1.5 Correttamente, pertanto, la CTR ha escluso che in tale richiesta
+fosse ravvisabile una violazione del divieto di «ius novorum» sancito
+dall’art. 57, comma 1, del D. Lgs. n. 546 del 1992, essendosi, in tutta
+evidenza, al cospetto di una semplice riduzione della domanda originaria,
+anche con riferimento all’entità delle sanzioni pecuniarie collegate al
+tributo (rideterminate da 7.384.162,50 euro in 965.250 euro: pag. 9 del
+ricorso, ultimo periodo).
+1.6 Sull’argomento è stato chiarito che anche nel processo tributario le
+parti conservano la disponibilità dei diritti in contestazione, sicché, qualora
+l’Amministrazione Finanziaria si avveda della fondatezza di un’eccezione
+sollevata dal contribuente, non per questo è tenuta a rinnovare l’intero
+procedimento amministrativo di accertamento, ben potendo, invece,
+ridurre la domanda originaria e rinunciare a una parte di essa.
+1.7 Tale  riduzione  della  domanda,  non  equivalendo  a  un  diverso  e
+5
+
+--- Pagina 6 ---
+
+autonomo accertamento in via di rettifica, è ammissibile anche se operata
+per la prima volta in grado d’appello, con conseguente dovere del giudice
+di valutare la pretesa fiscale residua (cfr. Cass. n. 29732/2020, Cass. n.
+15413/2017, Cass. n. 11265/2003).
+1.8 Ai rilievi fin qui svolti va aggiunto che rientrava comunque nei poteri
+officiosi della CTR disporre che la ritenuta sui dividendi fosse operata con
+un’aliquota inferiore a quella indicata nell’avviso di accertamento,
+considerato che il processo tributario, quale giudizio di «impugnazione-
+merito», è diretto non già alla mera eliminazione dell’atto impugnato dal
+mondo giuridico, bensì alla pronuncia di una decisione di merito sostitutiva
+sia della dichiarazione resa dal contribuente che di quanto accertato
+dall’Ufficio.
+1.9 Conseguentemente, laddove ritenga invalido l’avviso di
+accertamento per ragioni di carattere sostanziale, il giudice tributario non
+può limitarsi ad annullare l’atto impositivo, ma è tenuto a esaminare nel
+merito la pretesa tributaria e a ricondurla eventualmente alla corretta
+misura, sulla base di una motivata valutazione sostitutiva, entro i confini
+segnati dalle domande di parte (cfr. Cass. n. 3757/2025, Cass. n.
+15055/2024, Cass. n. 11232/2015, Cass. n. 19122/2012).
+2. Con il secondo motivo, proposto a norma dell’art. 360, comma 1, n.
+3) c.p.c., sono lamentate la violazione e la falsa applicazione dell’art. 10
+della Convenzione Italia-Danimarca stipulata il 5 maggio 1999, ratificata
+con L. n. 170 del 2002.
+2.1 Si censura l’impugnata sentenza per avere la Commissione regionale
+erroneamente interpretato l’espressione «beneficiario effettivo» contenuta
+nell’art. 10 della richiamata Convenzione bilaterale.
+2.2 Al riguardo, viene dedotto che:
+- <il Commentario OCSE (principale strumento per la ricostruzione del
+significato ermeneutico della nozione di ”beneficiario effettivo“) esclude
+tout court da tale nozione (i)i meri agenti e i nominees e (ii)ogni altro
+6
+
+--- Pagina 7 ---
+
+soggetto conduit che, pur al di fuori di un rapporto di Ufficio o fiduciario,
+abbia poteri così limitati da essere considerato un mero fiduciario o
+amministratore che opera per conto di un terzo soggetto, i.e. il soggetto
+beneficiario del reddito>;
+- <quando>, come nella fattispecie in esame, <la holding si sia limitata ad
+eseguire una delibera di distribuzione dell’utile ai propri soci, questa
+circostanza non sembra sufficiente ad escludere la natura di beneficiario
+effettivo e, quindi, la disponibilità giuridica ed economica dei dividendi che
+la holding abbia a sua volta percepito dalla propria partecipata, dal
+momento che tale distribuzione non nasce da un rapporto sinallagmatico,
+ma è la naturale conseguenza del rapporto associativo che lega i soci alla
+propria società partecipata>;
+- <in presenza di flussi di dividendi che non transitino tramite un agente,
+una fiduciaria o una conduit company acting as a fiduciary or
+administrator, non sono ravvisabili obbligazioni di ritrasferimento back to
+back alla controllante o ai soci di livello superiore e, tanto meno,
+obbligazioni ”correlate“ in senso tecnico ai dividendi stessi che possano
+mettere in discussione, ai fini convenzionali, lo status di beneficiario
+effettivo di una subholding>.
+2.3 Si soggiunge che:
+- la circostanza che NGD fosse a sua volta controllata da altra società
+avente sede negli USA <non p(oteva) essere a priori considerata una
+condizione incompatibile con lo status di beneficiario effettivo>, non
+rilevando in contrario <la potenziale re-distribuibilità dei dividendi> in
+favore della socia americana;
+- anche <una struttura quale la holding pura non può, di per sé,
+rappresentare un limite... al riconoscimento della qualifica di beneficiario
+effettivo>;
+- la certificazione rilasciata dalla competente autorità fiscale estera,
+versata  in  atti  e  facente  prova  fino  a  querela  di  falso,  attestava <la
+7
+
+--- Pagina 8 ---
+
+soggettività passiva di NGD alle imposte dirette in Danimarca>;
+- tutti questi elementi avrebbero dovuto indurre la CTR a riconoscere nella
+prefata società danese la beneficiaria effettiva dei dividendi percepiti dalla
+partecipata italiana;
+- il comportamento della NGI risultava, quindi, pienamente conforme alle
+previsioni della succitata Convenzione.
+2.4 Il motivo è fondato.
+2.5 L’art. 27–bis del D.P.R. n. 600 del 1973, norma interna attuativa
+della direttiva 435/90/CEE (cd. direttiva <madre-figlia>, in inglese
+<mother-daughter directive>), nel testo anteriore alle modifiche
+apportate dall’art. 26, comma 2, lettera b), della L. n. 122 del 2016,
+prevedeva, al comma 5, l’esenzione dalla ritenuta alla fonte sui dividendi
+distribuiti da società «figlie» a società «madri» comunitarie a loro volta
+direttamente o indirettamente controllate da società non residenti in Stati
+della Comunità Europea, a condizione che queste ultime dimostrassero di
+non detenere la partecipazione allo scopo esclusivo o principale di
+beneficiare del regime fiscale contemplato dal detto articolo.
+2.6 L’attuale formulazione della norma, applicabile con riferimento ai
+dividendi corrisposti dal 1° gennaio 2016, stabilisce che «la direttiva (UE)
+2015/121 del Consiglio, del 27 gennaio 2015», la quale ha modificato
+l’art. 1, paragrafo 2, della direttiva del Consiglio n. 2011/96/UE, «è
+attuata dall’ordinamento nazionale mediante l'applicazione dell’art. 10–bis
+della legge 27 luglio 2000, n. 212».
+2.7 Ne consegue che detta ultima disposizione, costituente clausola
+generale in materia di abuso del diritto o elusione fiscale, vale oggi come
+univoco riferimento normativo per legittimare il disconoscimento
+dell’esenzione dalla ritenuta su dividendi distribuiti da società figlie a
+società madri residenti nell’Unione Europea.
+2.8 Come già affermato da questo giudice di legittimità (cfr. Cass. n.
+16173/2023, Cass. n. 23628/2024), la normativa interna di recepimento
+8
+
+--- Pagina 9 ---
+
+della disciplina unionale va letta alla luce dei chiarimenti forniti dalla Corte
+di Giustizia Europea con le cd. <sentenze danesi>, in particolare con
+quella del 26 febbraio 2019, resa in cause riunite C-116/16 e C-117/16,
+che specificamente attiene alla materia della distribuzione dei dividendi.
+2.9 Deve, quindi, ulteriormente ribadirsi che, «in tema di dividendi
+madre-figlia, in ragione del disposto di cui all’art. 27-bis, comma 5, del
+D.P.R. 29 settembre 1973, n. 600 -sia nella versione precedente alle
+modifiche di cui all’art. 26, comma 2, lettera b), della legge 7 luglio 2016,
+n. 122 sia nella versione successiva-, la circostanza che il soggetto che
+reclama i benefici ivi previsti non ne sia ”beneficiario effettivo“ è elemento
+da valutarsi per la ricostruzione della fattispecie in termini di pratica
+elusiva, quale segnale di una struttura posta in essere in maniera formale
+ed artificiosa per usufruire indebitamente dei benefici riservati alle società
+con sede nell’Unione».
+2.10 Questa Corte Suprema ha chiarito che l’indagine volta ad accertare
+la qualità di beneficiario effettivo si articola in tre test, autonomi e
+disgiunti, i quali, a seconda della fattispecie concreta, prendono in
+considerazione dei «parametri spia» o «indici segnaletici» e sono stati
+denominati dalla dottrina, fattasi carico di razionalizzare i princìpi
+fondamentali enunciati dalla richiamata giurisprudenza comunitaria e di
+legittimità e dalle Corti anglosassoni e mitteleuropee in noti «leading
+cases»: (1)«substantive business activity test», che verifica se la società
+percipiente svolga un’attività economica effettiva o sia una costruzione di
+puro artificio; (2)«dominion test», che rappresenta il centro dell’indagine e
+valuta se la società percipiente possa disporre liberamente delle somme
+ricevute a titolo di dividendi o sia tenuta a rimetterle a un soggetto terzo;
+(3)«business purpose test», che esamina le ragioni dell’interposizione
+della società nel flusso reddituale transfrontaliero, onde appurare se essa
+abbia una funzione di finanziamento o sia una mera «conduit company» o
+«sociètè relais» (cfr. Cass. n. 16173/2023 e Cass. n. 23628/2024,
+9
+
+--- Pagina 10 ---
+
+nonché, con riferimento all’esenzione degli interessi e degli altri flussi
+reddituali dall’imposta ex art. 26-quater del D.P.R. n. 600 del 1973, n.
+6005/2023, Cass. n. 6050/2023; vedasi pure Cass. n. 26923/2024 in
+tema di «royalties»).
+2.11 Ricostruito il quadro normativo e giurisprudenziale di riferimento,
+va osservato che la qui impugnata decisione si fonda sulle seguenti
+argomentazioni:
+- ai sensi dell’art. 27-bis, comma 5, del D.P.R. n. 600/1973, nella versione
+vigente «ratione temporis», spettava alla contribuente, onde potersi
+legittimamente avvalere dell’invocata esenzione dall’obbligo di operare la
+ritenuta sui dividendi corrisposti alla propria controllante danese,
+dimostrare che quest’ultima fosse stata la beneficiaria effettiva dei detti
+dividendi;
+- non essendo stata offerta una simile prova ed emergendo dagli atti di
+causa una serie di elementi che portavano a individuare nella capogruppo
+statunitense NGC la «beneficial owner» dell’operazione, doveva applicarsi
+al caso di specie la disciplina contenuta nell’art. 10 della Convenzione
+Italia-USA del 25 agosto 1999 contro le doppie imposizioni, ratificata e
+resa esecutiva con L. n. 20 del 2009, che per quanto qui interessa così
+recita:
+«1. I dividendi pagati da un residente di uno Stato contraente ad un
+residente dell’altro Stato contraente sono imponibili in detto altro Stato.
+2. Tuttavia, tali dividendi possono essere tassati anche nello Stato
+contraente di cui la società che paga i dividendi è residente ed in
+conformità alla legislazione di detto Stato, ma, se l’effettivo beneficiario
+dei dividendi è un residente dell’altro Stato contraente, l’imposta così
+applicata non può eccedere:
+(a)il 5 per cento dell’ammontare lordo dei dividendi se il beneficiario
+effettivo è una società che ha posseduto almeno il 25 per cento delle
+azioni con diritto di voto della società che paga i dividendi per  un  periodo
+10
+
+--- Pagina 11 ---
+
+di 12 mesi avente termine alla data alla quale i dividendi sono dichiarati; e
+(b)il 15 per cento dell’ammontare lordo dei dividendi in tutti gli altri
+casi».
+2.12 Così statuendo, la CTR laziale ha respinto la diversa tesi
+propugnata della contribuente, la quale anche in questa sede continua a
+sostenere che la vicenda di causa debba essere inquadrata nell’àmbito
+previsionale dell’art. 10 della Convenzione Italia-Danimarca del 5 maggio
+1999 contro le doppie imposizioni, ratificata e resa esecutiva con L. n. 170
+del 2002, che così dispone ai primi due paragrafi:
+«1. I dividendi pagati da una società residente di uno Stato contraente
+ad un residente dell’altro Stato contraente sono imponibili in detto altro
+Stato.
+2. Tuttavia, tali dividendi possono essere tassati anche nello Stato
+contraente di cui la società che paga i dividendi è residente ed in
+conformità della legislazione di detto Stato, ma, se il beneficiario effettivo
+dei dividendi è un residente dell’altro Stato contraente, l’imposta così
+applicata non può eccedere:
+a)lo 0 per cento dell’ammontare lordo dei dividendi se il beneficiario è
+una società (non di persone) che detiene ed ha detenuto direttamente
+almeno il 25 per cento del capitale della società che distribuisce i dividendi
+per un periodo di dodici mesi anteriore alla data in cui sono stati distribuiti
+i dividendi;
+b)il 15 per cento dell’ammontare lordo dei dividendi in tutti gli altri casi.
+Le autorità competenti degli Stati contraenti stabiliranno di comune
+accordo le modalità di applicazione di tale limitazione.
+Il presente paragrafo non riguarda l’imposizione della società rispetto
+agli utili con i quali sono stati pagati i dividendi».
+2.13 La soluzione accolta dal collegio regionale non appare conforme al
+surriferito insegnamento unionale e di legittimità, in quanto l’affermata
+esclusione della qualità di beneficiaria effettiva in capo alla società
+11
+
+--- Pagina 12 ---
+
+<madre> danese non scaturisce dall’applicazione del cd. «dominion test»,
+dei cui esiti non viene dato conto nella motivazione della sentenza.
+2.14 Invero, i giudici di secondo grado hanno concentrato la loro
+attenzione sui poteri di direzione e controllo esercitati dalla capogruppo
+statunitense NGC sulle società europee <apparentemente controllate>
+dalla sub-holding NGD, nonché sugli «impulsi volitivi di gestione delle
+operazioni di distribuzione dei dividendi» provenienti dalla stessa «parent
+company» americana e sulla <sostanziale inesistenza> di una «struttura
+operativa» della controllata danese, senza tuttavia verificare se
+quest’ultima trattenesse per sé, in tutto o in parte, i dividendi ricevuti,
+utilizzandoli per i propri scopi, sì da disporre del diritto di uso e godimento
+dei flussi reddituali («right to use and enjoy»).
+2.15 Una siffatta indagine avrebbe dovuto essere condotta anche sulla
+scorta dei bilanci prodotti in giudizio dalla contribuente, di cui viene fatta
+espressa menzione nella motivazione della sentenza (cfr., in questi
+termini, Cass. n. 23628/2024).
+2.16 Inoltre, nell’effettuazione del cd. «substantive business activity
+test», la CTR ha escluso che la società danese esercitasse un’effettiva
+attività economica per la «sostanziale inesistenza» di una «struttura
+operativa» ad essa facente capo, senza considerare le peculiarità di una
+holding o sub-holding pura, la quale non svolge direttamente attività
+commerciale, ma gestisce le partecipazioni in altre società (sull’argomento
+si vedano Cass. n. 27112-27113-27115-27116/2016, richiamate, fra le
+altre, da Cass. n. 6975/2023; vedasi pure Cass. n. 3272/2025).
+2.17 Per le ragioni esposte, la censura va, dunque, accolta, non avendo
+il collegio regionale verificato se sussistessero in capo alla NGD tutte le
+caratteristiche rilevanti ai fini del riconoscimento o meno della sua qualità
+di beneficiaria effettiva dei dividendi, da accertarsi secondo i criteri e le
+modalità «sostanziali» di cui ai test surrichiamati e ai princìpi che li
+ispirano.
+12
+
+--- Pagina 13 ---
+
+3. Con il terzo mezzo, introdotto ai sensi dell’art. 360, comma 1, nn. 3)
+e 5) c.p.c., sono prospettate la violazione e la falsa applicazione degli artt.
+116 e 132 c.p.c..
+3.1 Si contesta ai giudici d’appello: (a)di aver erroneamente attribuito
+rilievo decisivo, al fine di escludere che la NGD potesse essere considerata
+la beneficiaria effettiva dei dividendi in parola, alla circostanza che la
+società risultasse priva di una struttura operativa; (b)di non avere, invece,
+tenuto in alcun conto la summenzionata certificazione rilasciata
+dall’autorità fiscale danese, sebbene questa assumesse, sul punto, un
+valore dirimente.
+3.2 Il motivo rimane assorbito dall’accoglimento di quello
+precedentemente scrutinato.
+4. Per le ragioni spiegate, va conclusivamente disposta, ai sensi degli
+artt. 383, comma 1, e 384, comma 2, prima parte, c.p.c., la cassazione
+dell’impugnata sentenza, nei termini precisati, con rinvio alla Corte di
+giustizia tributaria di secondo grado, già CTR, del Lazio, in diversa
+composizione, la quale procederà a un nuovo esame della controversia
+uniformandosi ai princìpi di diritto sopra espressi.
+4.1 Al giudice del rinvio viene rimessa anche la pronuncia sulle spese del
+giudizio di legittimità, a norma dell’art. 385, comma 3, seconda parte,
+c.p.c..
+4.2 Lo stesso giudice provvederà, altresì, sulla domanda restitutoria
+formulata dalla ricorrente, alla luce del disposto dell’art 389 c.p.c..
+4.3 Tutte le richiamate norme del codice di procedura civile sono
+applicabili alle controversie tributarie in virtù del rinvio contenuto nell’art.
+62, comma 2, del D. Lgs. n. 546 del 1992.
+P.Q.M.
+La Corte accoglie il secondo motivo di ricorso, respinto il primo e
+assorbito il terzo; cassa la sentenza impugnata, nei limiti di cui in
+13
+
+--- Pagina 14 ---
+
+motivazione, e rinvia la causa alla Corte di giustizia tributaria di secondo
+grado del Lazio, in diversa composizione, anche per la pronuncia sulle
+spese del giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio della Sezione Tributaria
+della Corte Suprema di Cassazione, in data 23 ottobre 2025.
+La Presidente
+Roberta Crucitti
+14

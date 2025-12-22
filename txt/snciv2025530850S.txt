@@ -1,0 +1,146 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+AVVISO DI ACCERTAMENTO 2014
+SENTENZA
+sul ricorso iscritto al n. 4235/2024 R.G. proposto da:
+Agenzia delle Entrate, in persona del Direttore pro tempore,
+rappresentata e difesa ex lege dall’Avvocatura Generale dello Stato,
+presso i cui uffici è domiciliata in Roma alla via dei Portoghesi n. 12;
+– ricorrente –
+contro
+Refinitiv Italy S.p.A., già Thomson Reuters (Markets) Italia S.p.A., in
+persona del legale rappresentante pro tempore, rappresentata e difesa,
+
+--- Pagina 2 ---
+
+in virtù di procura speciale in calce al ricorso, dall’Avv. Claudia Lazzeri,
+con studio in Roma, al viale Bruno Buozzi n. 77;
+– controricorrente –
+Avverso la sentenza della COMMISSIONE TRIBUTARIA REGIONALE
+DELLA LOMBARDIA n. 3523/2022, depositata in data 15/9/2022;
+udita la relazione della causa svolta dal Consigliere Angelo Napolitano
+nella pubblica udienza del 9 ottobre 2025;
+udite le conclusioni del Sostituto Procuratore Generale, dott.
+Alessandro Pepe, che ha chiesto il rigetto del ricorso;
+uditi l’Avvocato dello Stato Giammario Rocchitta per l’Agenzia delle
+Entrate e l’Avvocato Claudia Lazzeri per la società contribuente;
+Fatti di causa
+A seguito di un controllo fiscale attivato a carico della contribuente con
+la consegna da parte dei funzionari dell’Agenzia delle Entrate, in data
+16 settembre 2019, del questionario n. Q000326/2019, dalla
+documentazione prodotta in risposta a mezzo e-mail del 9 ottobre
+2019, risultò che, nel periodo d’imposta 2014, la società contribuente
+aveva corrisposto 8.175.667,34 di euro a titolo di fees alla consociata
+Thomson Reuters Global Resources (TRGR), applicando la ritenuta
+prevista dall’art. 12 della Convenzione Italia-Svizzera nella misura del
+5%.
+Tuttavia, dalla documentazione prodotta dalla contribuente in risposta
+al citato questionario, l’Ufficio non riscontrò la sussistenza dei requisiti
+utili all’applicabilità delle più favorevoli condizioni previste dall’articolo
+12 della citata Convenzione contro le doppie imposizioni e, di
+conseguenza, emise l’avviso di accertamento n. TMB071P00679/2019,
+a mezzo del quale applicò alla suddetta transazione la ritenuta con
+r.g. n. 4235/2024 p.u. 9/10/2025 Cons. est. Angelo Napolitano
+2
+
+--- Pagina 3 ---
+
+aliquota ordinaria del 30% ai sensi del comma 4 dell’art. 25 del d.P.R.
+n. 600/73.
+Con ricorso notificato in data 26 giugno 2020, la società Refinitiv Italy
+S.p.A., già Thomson Reuters (Markets) Italia S.p.A., impugnò l’avviso
+di accertamento citato a mezzo del quale l’Ufficio accertò maggiori
+ritenute per euro 2.043.917,00 ed irrogato sanzioni per euro
+2.473.139,00.
+La società impugnò l’avviso di accertamento dinanzi alla C.T.P. di
+Milano, che accolse il ricorso.
+L’appello dell’Ufficio fu rigettato dalla C.T.R. della Lombardia.
+Avverso la sentenza d’appello, l’Ufficio ha proposto ricorso per
+cassazione, affidato ad un solo motivo.
+Resiste con controricorso la contribuente.
+Il Sostituto P.G. ha depositato una requisitoria scritta.
+Ragioni della decisione
+1.Con l’unico motivo di ricorso, rubricato “Violazione e falsa
+applicazione degli artt. 2697 c.c.; 4, c. 5 e 12 c. 2, 27 Convenzione
+Italia-Svizzera contro le doppie imposizioni, ratificata con legge
+23.12.1978 n. 943; 31 ter dpr 29.9.1973 n. 600, in relazione all’art.
+360 n. 3 c.p.c.”, l’Agenzia delle Entrate censura la sentenza impugnata
+per aver affermato che la qualità di effettivo beneficiario, in capo a
+TRGR, della corresponsione delle royalties da parte della odierna
+contribuente risultava dall’avere quest’ultima concluso con
+l’amministrazione un accordo di definizione preventiva dei prezzi di
+trasferimento corrisposti a TRGR e dall’essere quest’ultima una società
+particolarmente solida, come appariva dal bilancio.
+Deduce che l’accordo concluso con l’amministrazione aveva rilievo solo
+ai fini del transfer pricing, e che da esso non può argomentarsi la
+r.g. n. 4235/2024 p.u. 9/10/2025 Cons. est. Angelo Napolitano
+3
+
+--- Pagina 4 ---
+
+qualità, in capo a TRGR, di soggetto effettivo beneficiario delle royalties
+corrisposte dalla odierna contribuente.
+Inoltre, non rileverebbe nemmeno che TRGR fosse una società
+realmente operativa, occorrendo invece la dimostrazione concreta che
+i flussi di denaro provenienti dalla contribuente non erano dirottati
+presso altre società del gruppo.
+1.1. Il motivo è inammissibile.
+Con esso, l’Agenzia delle Entrate tenta di devolvere a questa Corte di
+legittimità una valutazione di fatto, relativa alla qualità, in capo a
+TRGR, di soggetto effettivo beneficiario delle royalties corrisposte
+dall’odierna contribuente.
+Il motivo di ricorso in esame, invero, non si confronta adeguatamente
+con la ratio decidendi posta dal giudice di appello a base della
+impugnata sentenza.
+Quest’ultima, infatti, per argomentare la qualità di effettivo beneficiario
+di TRGR, non ha addotto la circostanza della conclusione dell’accordo
+in tema di transfer pricing tra l’amministrazione e la contribuente, ma
+ha valorizzato la “effettiva operatività della TRGR e la solidità
+finanziaria della stessa desumibili dal bilancio e dalla relativa relazione
+prodotta dalla contribuente, dal numero di dipendenti”, che
+“consentivano, altresì, di escludere che la TRGR fosse un soggetto
+interposto, non realmente operativo, come tale non effettivamente
+destinatario delle fees sulle quali era stato applicato il regime di favore
+della convenzione italo-svizzera” (così testualmente, pagine 12 e 13
+della sentenza impugnata).
+Si tratta di una motivazione congrua, in grado di evidenziare gli
+elementi fattuali posti dal giudice di appello a fondamento
+dell’affermazione che TRGR fosse il beneficiario effettivo dei flussi di
+denaro corrisposti dalla odierna contribuente.
+r.g. n. 4235/2024 p.u. 9/10/2025 Cons. est. Angelo Napolitano
+4
+
+--- Pagina 5 ---
+
+Tale motivazione non può essere scalfita dalle argomentazioni
+dell’Agenzia ricorrente tramite un percorso logico-argomentativo che,
+lungi dall’evidenziare vizi di legittimità della sentenza impugnata, si
+pone come alternativo rispetto a quello intrapreso dal giudice di appello
+per arrivare alla decisione qui impugnata.
+2.Le spese seguono la soccombenza e sono liquidate in dispositivo.
+Ai sensi dell’art. 13, comma 1 quater, del d.P.R. n. 115 del 2002, si
+deve dare atto della insussistenza dei presupposti per il versamento,
+da parte della ricorrente, dell’ulteriore importo a titolo di contributo
+unificato pari a quello previsto per il ricorso, a norma del comma 1 bis
+dello stesso art. 13, se dovuto.
+P.Q.M.
+Dichiara inammissibile il ricorso.
+Condanna l’Agenzia delle Entrate al pagamento, in favore di Refinitiv
+Italy S.p.A., delle spese del giudizio, che si liquidano in euro ventimila
+per compensi, oltre al rimborso delle spese generali, iva e c.p.a. come
+per legge, ed oltre ad euro duecento di spese vive.
+Ai sensi dell’art. 13, comma 1 quater, del d.P.R. n. 115 del 2002, dà
+atto della insussistenza dei presupposti per il versamento, da parte
+della ricorrente, dell’ulteriore importo a titolo di contributo unificato
+pari a quello previsto per il ricorso, a norma del comma 1 bis dello
+stesso art. 13, se dovuto.
+Così deciso in Roma, nella camera di consiglio del 9 ottobre 2025.
+Il Consigliere estensore Il Presidente
+(Angelo Napolitano) (Lucio Napolitano)
+r.g. n. 4235/2024 p.u. 9/10/2025 Cons. est. Angelo Napolitano
+5

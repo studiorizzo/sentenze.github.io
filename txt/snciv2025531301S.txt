@@ -1,0 +1,183 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Oggetto: royalties infragruppo - vizio di motivazione.
+SENTENZA
+sul ricorso proposto da:
+Agenzia delle entrate, in persona del Direttore, legale rappresentante
+pro tempore, rappresentata e difesa, ex lege, dall’Avvocatura Generale dello
+Stato;
+- ricorrente -
+contro
+Refinitiv Italy s.p.a., già Thomson Reuters (Markets) Italia
+s.p.a., rappresentata e difesa, giusta procura speciale allegata in calce al
+controricorso, dagli Avvocati Francesco Bonichi e Raffaele Sgambato del
+Foro di Roma, con studio in via Po, n. 28, ove ha eletto domicilio;
+- controricorrente -
+avverso
+la sentenza n. 2033, pronunciata dalla Commissione tributaria regionale
+della Lombardia, l’11/04/2018, e pubblicata il 4/05/2018;
+udite:
+
+--- Pagina 2 ---
+
+la relazione svolta dal Consigliere Manuel Bianchi;
+la Procura generale che, nella persona del sost. proc. dott. Stefano
+Visonà, ha concluso per l’accoglimento del primo motivo di ricorso, assorbito
+il secondo;
+l’Avvocatura generale dello Stato, nella persona dell’avv. Angelo Maria
+Testini, che ha insistito per l’accoglimento del ricorso;
+l’Avv. Claudia Lazzeri, sost. di ud. per la parte privata, la quale si è
+riportata al controricorso.
+FATTI DI CAUSA
+1. All’odierna controricorrente, agenzia di servizi giornalistici e
+multimediali nel settore finanziario, veniva notificato l’avviso di
+accertamento n. TMB072B01228/2014, relativo all’anno 2009. Tale avviso
+aveva ad oggetto le differenze delle ritenute sui canoni (royalties) di
+utilizzazione di software corrisposti alla propria fornitrice e consociata
+svizzera Thomson Reuters Global Resources, asseritamente versate in
+misura inferiore (5% ex art. 12, comma 2, della Convenzione Italia-
+Svizzera, l. n. 943 del 1978) a quella dovuta (30% ex art. 25, comma 4,
+d.P.R. n. 600 del 1973), in quanto l’ammontare dei canoni pagati, stanti i
+rapporti infragruppo, eccedeva quello “normale” che sarebbe stato
+convenuto in assenza di simili relazioni. I costi eccedenti erano stati già fatti
+oggetto, in disconoscimento ex art. 110, comma 7, d.P.R. n. 917 del 1986,
+di un distinto avviso di accertamento (TMB0E2B01059/2014) divenuto
+definitivo per adesione della società.
+2. Con sentenza n. 8839 del 2016, la CTP di Milano aveva parzialmente
+accolto il ricorso della contribuente, aderendo alla tesi che le royalties
+corrisposte alla consociata rappresentassero solo il 14,5% dei costi
+disconosciuti per anomala eccedenza, così rideterminando le ritenute
+dovute nel 25% (30% di aliquota domestica dovuta, meno il 5% di aliquota
+convenzionale in concreto applicata e versata dalla società) di quel 14,5%,
+e cioè in misura pari ad € 43'000,00.
+- 2 -
+
+--- Pagina 3 ---
+
+3. L’Ufficio ha interposto appello, che tuttavia è stato rigettato con la
+sentenza indicata in intestazione.
+4. Contro tale provvedimento, avvalendosi della sospensione dei termini
+di cui all’art. 6, comma 11, d.l. n. 119 del 2018, conv. l. n. 136 del 2018,
+propone ricorso per cassazione l’Agenzia delle entrate, cui resiste la società
+con controricorso, in cui eccepisce anzitutto la “illegittimità” del ricorso
+stante il giudicato esterno sul pregresso anno di imposta 2008 (avviso di
+accertamento n. TMB072B00958 del 2013).
+MOTIVI DELLA DECISIONE
+0. Preliminarmente, va disattesa l’eccezione di giudicato esterno
+sollevata dalla società resistente.
+In primis, infatti, come rilevato anche dalla Procura generale, tale
+eccezione è tardiva (dunque inammissibile), perché la sentenza di cui si
+vorrebbe far valere la forza di giudicato era già divenuta irrevocabile, per
+decorso del termine lungo di impugnazione, nel momento in cui si celebrò
+l’udienza, l’11/04 del 2018, dinanzi alla CTR. Si richiama al riguardo Cass.
+Sez. 5, 2/09/2022, n. 25863, Rv. 665870-01: “Nel giudizio di legittimità è
+opponibile il giudicato esterno riferito alla decisione divenuta definitiva dopo
+la scadenza del termine ultimo per ogni allegazione difensiva in grado di
+appello che, nel rito ordinario, coincide con il termine di scadenza delle
+memorie di replica e, nel processo tributario, va individuato nella data
+dell'udienza di discussione in cui la decisione viene deliberata e non in quella
+successiva di pubblicazione della sentenza”.
+In secondo luogo, l’accertamento in fatto relativo alla riduzione dei costi
+su cui le royalties erano senz’altro dovute è solo analogo, ma non è identico,
+agli effetti dell’art. 2909 c.c., a quello che TRMI pretende debba valere per
+il 2009; tanto è vero che, in quel caso, si parlava di applicazione dell’aliquota
+domestica al solo 4,6% dei costi, qui invece al 14,5% di essi. I limiti alla vis
+espansiva del giudicato esterno sono stati delineati dalle Sezioni Unite con
+la Sentenza n. 13916 del 16/06/2006, Rv. 589695-01 e Rv. 589696-01, le
+quali hanno peraltro chiarito che il suo valore normativo è rilevabile di ufficio
+- 3 -
+
+--- Pagina 4 ---
+
+soltanto se di formazione successiva alla sentenza impugnata, dunque non
+nel caso di specie.
+1. Con la prima doglianza, l’Amministrazione rileva, ex artt. 36, comma
+2, n. 4, d.lgs. n. 546 del 1992 e 360, comma 1, n. 4, c.p.c., il vizio di
+assoluta carenza di motivazione.
+Il motivo è fondato.
+Ritiene, invero, la Corte che i Giudici di appello siano incorsi nel c.d.
+vizio di motivazione apparente.
+La giurisprudenza di legittimità è ferma nell’annoverare in tale figura le
+ipotesi in cui la veste grafica della motivazione non sottende, in verità, un
+reale confronto con le deduzioni di parte, tanto che la patologia si converte
+in violazione di legge (si v. specialm. Sez. U, sentenza n. 8053 del
+7/04/2014).
+Ciò accade tutte le volte in cui la parte motiva non renda percepibile il
+fondamento della decisione, perché recante argomentazioni
+obbiettivamente inidonee a far conoscere il ragionamento seguito dal
+giudice per la formazione del proprio convincimento, che è avvenuta senza
+dar conto di aver compiuto un autonomo vaglio critico del provvedimento
+richiamato per relationem o delle deduzioni di parte fatte proprie o respinte
+(cfr. ad esempio Sez. 1, ordinanza n. 1986 del 28/01/2025, Rv. 673839-
+01), ovvero quando ricorra soltanto ad affermazioni generali ed astratte
+(Sez. 3, ordinanza n. 4166 del 15/02/2024, Rv. 670117-01) con
+inconsistente contatto con la fattispecie oggetto di causa, ovvero ancora nei
+casi in cui essa sfugga ad un controllo razionale e trasparente sulla logicità
+ed esattezza del ragionamento svolto (Sez. 1, ordinanza n. 13248 del
+30/06/2020, Rv. 658088-01).
+Calando tali princìpi di diritto nel caso di specie, si può agevolmente
+osservare che, in sostanza, la motivazione della decisione di rigettare
+l’appello dell’Ufficio del contenzioso per la Lombardia è tutta quanta
+contenuta nelle seguenti affermazioni: «Deve essere condivisa e
+confermata la sentenza della commissione tributaria provinciale, nella parte
+in cui accerta un minore importo delle ritenute da versare, sulla base delle
+- 4 -
+
+--- Pagina 5 ---
+
+rettifiche operate in quella sede. / In particolare l’amministrazione
+finanziaria ha determinato le imposte da corrispondere, nonché le sanzioni
+e gli interessi, non tenendo conto che l’importo su cui calcolare la rettifica
+fiscale è da collocare su una somma diversa da quella individuata
+dall’amministrazione: somma inferiore a quella accertata perché
+comprensiva dei costi intercompany di prodotti oggetto di distribuzione».
+Poiché, come detto in premessa, il presupposto di tutta la presente
+controversia è un avviso di accertamento relativo a costi disconosciuti
+proprio in quanto ritenuti anomali in forza di rapporti intercompany, è
+evidente che l’argomentazione testé riferita è illogica e totalmente
+inconferente; dunque, meramente apparente.
+Infatti, essa muove, per un verso, da un presupposto fallace e smentito
+da tutti gli atti di causa: ossia che la base imponibile accertata e su cui
+calcolare le ritenute fosse costituita solo parzialmente da costi anomali,
+quando invece è pacifico che la stessa consistesse esclusivamente di detti
+costi.
+Per altro verso, ne trae una conclusione del tutto apodittica e
+indimostrata: cioè che la somma su cui calcolare la rettifica fiscale fosse
+inferiore a quella ritenuta dall’Ufficio e coincidesse (non è dato sapere
+perché) proprio con quella suggerita dalla società contribuente.
+Né la segnalata carenza di motivazione può essere sanata dal fugace ed
+acritico rinvio per relationem alla pronuncia di primo grado, non evincendosi
+da questo alcun autonomo convincimento e giudizio dell’Organo d’appello.
+L’accoglimento del motivo comporta la cassazione con rinvio della
+gravata sentenza.
+2. Con il secondo motivo, ex art. 360, comma 1, n. 3, c.p.c., per
+violazione degli artt. 2697 c.c., 25, comma 4, d.P.R. n. 600 del 1973, 12,
+comma 2, della Convenzione Italia-Svizzera, resa esecutiva con l. n. 943
+del 1978, l’Agenzia argomenta che il Giudice di appello non ha rispettato il
+riparto legale dell’onere della prova, in quanto competeva alla società
+dimostrare in modo analitico la natura delle singole prestazioni remunerate
+a TSGR e che i compensi dovuti per le stesse non costituivano royalties.
+- 5 -
+
+--- Pagina 6 ---
+
+La trattazione di questa seconda doglianza può dirsi assorbita
+dall’accoglimento del primo motivo.
+Al giudice del rinvio va demandata la liquidazione delle spese del giudizio
+di legittimità.
+P.Q.M.
+Accoglie il primo motivo di ricorso, assorbito il secondo, cassa
+l’impugnata sentenza e rinvia, anche per la liquidazione delle spese del
+giudizio di legittimità, alla Corte di giustizia tributaria di secondo grado della
+Lombardia, in diversa composizione.
+Così deciso in Roma il 9 ottobre 2025.
+Il Giudice relatore
+Manuel Bianchi
+Il Presidente
+Lucio Napolitano
+- 6 -
