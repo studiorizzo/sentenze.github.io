@@ -1,0 +1,126 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 21238/2023 R.G. proposto da:
+AGENZIA DELLE DOGANE E DEI MONOPOLI, elettivamente domiciliata in
+ROMA, VIA DEI PORTOGHESI 12, presso l'AVVOCATURA GENERALE DELLO
+STATO (ADS80224030587), che la rappresenta e difende
+-ricorrente-
+contro
+EXERGIA SPA, elettivamente domiciliata in ROMA, VIA ALBERICO II 33,
+presso lo studio dell’avvocato MANZI ANDREA (MNZNDR64T26I804V)
+rappresentata e difesa dagli avvocati GASTALDO ANDREINA
+(GSTNRN64S67I657Y), DE IESO CLINO (DSECLN77A28H223Q)
+-controricorrente-
+avverso SENTENZA di COMM.TRIB.REG. LAZIO n. 2916/08/22 depositata il
+21/06/2022.
+Udita la relazione svolta nella camera di consiglio del 13/06/2025 dal
+Consigliere GIACOMO MARIA NONNO.
+FATTI DI CAUSA
+1. Con la sentenza n. 2916/08/22 del 21/06/2022, la Commissione
+tributaria regionale del Lazio (di seguito CTR) accoglieva parzialmente
+l’appello proposto da Exergia s.p.a. (di seguito Exergia) avverso la
+
+--- Pagina 2 ---
+
+sentenza n. 22278/10/16 della Commissione tributaria provinciale di
+Roma (di seguito CTP), che aveva respinto il ricorso della società
+contribuente nei confronti di un avviso di pagamento relativo al mancato
+versamento di accise sul gas naturale per l’anno 2012, nonché un atto di
+irrogazione sanzioni per insufficiente versamento delle accise con
+riferimento al periodo 2012-2013.
+1.1. Come emerge dalla sentenza impugnata, con l’avviso di
+pagamento si contestava il mancato versamento delle accise con
+riferimento al gas fornito dal gestore SNAM e a quello fornito dagli hub
+esteri, essendovi un notevole sbilancio tra gas acquistato e gas venduto.
+1.2. La CTR accoglieva parzialmente l’appello di Exergia evidenziando
+che: a) la consulenza tecnica d’ufficio aveva accertato che il gas immesso
+in consumo da parte di Exergia era di gran lunga inferiore a quello indicato
+da ADM; b) quanto al gas ceduto in proprietà a SPEIA, emergevano
+elementi che inducevano a ritenere che le condizioni di cessione non
+implicavano l’obbligo di pagamento delle accise, non essendovi prova
+dell’immissione del gas nella rete nazionale; c) l’applicazione dell’aliquota
+massima da parte dell’Ufficio era incongrua; d) ai fini della determinazione
+delle accise doveva aversi riferimento al consumo fatturato.
+2. ADM impugnava la sentenza della CTR con ricorso per cassazione,
+affidato a due motivi.
+3. Exergia resisteva in giudizio con controricorso e depositava memoria
+ex art. 380 bis.1 cod. proc. civ.
+RAGIONI DELLA DECISIONE
+1. Il ricorso di ADM è affidato a due motivi, di seguito riassunti.
+1.1. Con il primo motivo di ricorso si deduce violazione e falsa
+applicazione dell’art. 2967 cod. civ. e nullità della sentenza per
+motivazione illogica e contraddittoria, in relazione all’art. 360, n. 4, cod.
+proc. civ., per avere la CTR erroneamente invertito l’onere della prova,
+gravando su Exergia l’onere di provare la cessione a Speia s.r.l.
+2 di 4
+
+--- Pagina 3 ---
+
+1.2. Con il secondo motivo di ricorso si lamenta la violazione e falsa
+applicazione dell'art. 2, comma 1, del d.lgs. 19 giugno 1997, n. 218, in
+relazione all’art. 360, n. 3, cod. proc. civ., per non avere la CTR applicato
+l’aliquota massima relativamente a quella parte di gas immessa al
+consumo per la quale vi è impossibilità di ricostruire la destinazione delle
+forniture a clienti industriali o civili.
+2. Il primo motivo di ricorso, con il quale si contesta l’erronea
+ripartizione dell’onere della prova, è fondato.
+2.1. Va ricordato che, secondo la giurisprudenza di questa Corte, la
+presunzione di evasione derivante dalla differenza tra i quantitativi di gas
+acquistato e quelli oggetto di dichiarazione è del tutto legittima (Cass. n.
+2229 del 30/01/2025). Ne consegue che, posta l’esistenza di una
+differenza significativa tra gas acquistato e gas venduto, la prova della
+destinazione del surplus di gas ad uso diverso da quello del consumo
+grava indubbiamente sul contribuente.
+2.2. Nel caso di specie, la CTR, partendo dalle risultanze della
+consulenza tecnica d’ufficio espletata, ha ritenuto che per la quota di gas
+acquistato da Exergia e consegnata a Speia s.p.a. mancherebbe la prova
+dell’immissione nella rete nazionale e, quindi, della successiva fornitura al
+consumatore finale, aspetto che farebbe venire meno il fatto generatore
+dell’imposta.
+2.3. Tale conclusione non è in linea con il superiore principio di diritto e
+implica una indebita inversione dell’onere della prova, gravando
+indiscutibilmente su Exergia la prova dell’avvenuto trasferimento a Speia
+s.p.a. del gas naturale acquistato, risultando, peraltro, da quanto emerge
+dalla consulenza per come riportata dalla sentenza impugnata, che Speia
+s.p.a. agisse semplicemente da shipper.
+3. Il secondo motivo di ricorso, con il quale si contesta l’applicabilità
+dell’aliquota media anziché dell’aliquota massima, è ugualmente fondato.
+3 di 4
+
+--- Pagina 4 ---
+
+3.1. La CTR, sul presupposto della mancata prova dell’utilizzazione del
+gas naturale, ha ritenuto di applicare analogicamente una disposizione
+dettata in materia di IVA, l’art. 2, comma 1, del d.lgs. 19 giugno 1997, n.
+218, attinente alla definizione delle controversie in materia di IVA a
+seguito di accertamento con adesione.
+3.2. In realtà, detta disposizione è palesemente inapplicabile alla
+fattispecie e, a fronte della presunzione di cui si è servita
+l’Amministrazione doganale (immissione in consumo nei confronti di
+utenza civile), grava, come detto, sul contribuente la prova della minore
+aliquota eventualmente applicabile, prova sulla quale la CTR non si è in
+alcun modo soffermata (facendo esclusivo riferimento a delle tabelle
+allegate alle memorie depositate da Exergia di cui non si espone in alcun
+modo l’oggetto e il contenuto).
+3.3. Del resto, l’aliquota massima è quella prevista dalla legge, mentre
+le altre aliquote sono agevolate. Ciò legittima la presunzione dell’Ufficio e
+l’onere della prova in capo alla società contribuente in ordine
+all’applicazione di un’aliquota agevolata.
+4. In conclusione, il ricorso va accolto e la sentenza impugnata va
+cassata e rinviata alla Corte di giustizia tributaria di secondo grado del
+Lazio, in diversa composizione, per nuovo esame e per le spese del
+presente procedimento.
+P.Q.M.
+La Corte accoglie il ricorso, cassa la sentenza impugnata e rinvia alla Corte
+di giustizia tributaria di secondo grado del Lazio, in diversa composizione,
+anche per le spese del presente procedimento.
+Così deciso in Roma, il 13/06/2025.
+Il Presidente
+GIUSEPPE FUOCHI TINARELLI
+4 di 4

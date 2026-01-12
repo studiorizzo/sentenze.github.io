@@ -1,0 +1,358 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 1289/2024 R.G. proposto da:
+contro
+AGENZIA DELLE DOGANE E DEI MONOPOLI, in persona del direttore
+pro tempore, rappresentata e difesa dall'Avvocatura generale dello
+Stato, domiciliata in Roma Via dei Portoghesi 12;
+-ricorrente-
+contro
+WACEBO EUROPE S.R.L., in persona del Legale rappresentante pro
+tempore, rappresentata e difesa dagli avvocati Luigi Ferrajoli,
+Roberto Torelli e Alessio Petretti, con domicilio eletto presso lo studio
+di quest'ultimo  in Roma Via degli Scipioni 268-A;
+-controricorrente-
+
+--- Pagina 2 ---
+
+per la cassazione della sentenza della Corte di giustizia tributaria
+secondo grado della Campania n. 3840/2023, depositata il 19 giugno
+2023.
+Udita la relazione svolta nella pubblica udienza del 16 settembre
+2025 dal Consigliere Gianluca Grasso.
+Udito il Pubblico Ministero in persona del Sostituto Procuratore
+Generale Mauro Vitiello, che ha concluso per l'inammissibilità del
+ricorso.
+Uditi l’avv. dello Stato Anna Collabolletta e l’avv. Alessio Petretti.
+FATTI DI CAUSA
+1. –  In data 17 marzo 2021, la Wacebo Europe s.r.l., mediante
+dichiarazione doganale IM A Reg. 4 n. 13416 G, importava 118 colli
+di “macchine automatiche per l’elaborazione dell’informazione (...)
+— V.D. 8471410000, origine R.P.C., dazio 0% (...)”. Tale
+classificazione della merce importata era ritenuta irregolare, in
+seguito a verifica fisica e contestuale controllo documentale. Con
+processo  verbale di constatazione  prot. n. 13503/RU del 30 marzo
+2021 il funzionario verificatore constatava, infatti, che le merci
+importate erano costituite da “monitor interattivi multimediali a LED
+con schermo tattile, senza apparecchio ricevente per la televisione
+incorporato, provvisti di sistema operativo integrato, muniti di
+connettore per il collegamento ad altre apparecchiature elettroniche,
+ascrivili alla V.D. 8528590090, dazio 14%”. Secondo quanto ritenuto
+dall'Agenzia delle dogane, il codice della Tariffa Integrata della
+Comunità indicato non era corrispondente all’articolo ispezionato, il
+quale, contrariamente a quanto dichiarato, era risultato suscettibile
+di un utilizzo a pieno titolo come monitor, in quanto dotato di sistema
+Android 8.0 integrato e svariati ingressi, sia nel pannello anteriore
+che posteriore (prese HDMI, USB 2.0 e 3.0, RS232, SD CARD, RJ45,
+BLUETOOTH E DISPLAY PORT, utilizzabili con altri dispositivi di input,
+2 di 11
+
+--- Pagina 3 ---
+
+quali ad esempio Smartphone, Penne Usb, Ssdcard, etc.),
+comportando la diversa classificazione al codice TARIC 8528590090
+e la conseguente rideterminazione dell’ammontare dei diritti dovuti
+pari a euro 13.564,78. I diritti doganali venivano garantiti con A/28
+n. 41 del 30 marzo 2021 e per il daziato sospeso veniva emessa A/27
+n. 189/C.
+Non condividendo l’orientamento espresso nel processo  verbale
+di constatazione, la società promuoveva l’instaurazione della
+controversia doganale, ex art. 65 T.U.L.D.; l’Ufficio, pertanto,
+provvedeva a redigere verbale di controversia doganale prot.
+14280/RU del 6  aprile 2021, nel quale ribadiva la corretta
+individuazione della classificazione TARIC 8528590090, in virtù delle
+specifiche caratteristiche tecniche del prodotto ispezionato, con la
+conseguente applicazione di un dazio ad valorem nella misura del
+14,00%. In considerazione delle accertate caratteristiche della
+merce, l’Ufficio riteneva che i prodotti importati non potessero essere
+ascrivibili a macchine automatiche per l’elaborazione
+dell’informazione di cui alla VD 8471, come dichiarato, in quanto tale
+tipologia di macchine deve adempiere simultaneamente alle
+condizioni enunciate nella nota 5 A del Capitolo 84. Le merci
+importate, pur integrando un sistema di elaborazione di dati,
+apparivano destinate a un utilizzo specificamente “interattivo”, che
+prevede l’interazione dell’essere umano con la macchina, mediante
+un’interfaccia uomo/macchina di tipo input e output individuabile
+nella stessa superficie del monitor sensibile al tatto. Inoltre, la
+funzione di tali monitor interattivi multimediali è quella di restituire
+un’informazione proveniente da un sistema di elaborazione, in
+formato grafico e pertanto, il prodotto funge a pieno titolo da monitor
+e può anche essere usato in combinazione con altre apparecchiature
+3 di 11
+
+--- Pagina 4 ---
+
+esterne, grazie ai molteplici connettori presenti sull’involucro,
+trattandosi di merci connotate dalle seguenti specifiche tecniche:
+- sistema operativo integrato Android 8.0;
+- ingressi nel pannello anteriore: HDMI 3, USB x 3,USB TOUCH,
+TYPE C;
+- ingressi nel pannello posteriore: USB 2.0, USB 3.0, RS232, SD
+Card, n. 3 HDMI 2.0, VGA - IN, YPBPR, AV - in, RJ45, Display port,
+Antenne WiFi e Bluetooth;
+- uscite pannello posteriore: SPDIF, HDMI, EARPHONE e AV-
+OUT;
+- Sofware Oktopus powered by Wacebo;
+- pannello Touch funzionante con O.S. Windows, Linux, Mac ed
+Android.
+Tenuto conto della natura dell’articolo, del relativo peso e
+volume, conformemente all’art. 65 T.U.L.D., d’intesa tra le parti, si
+suppliva al campionamento della merce con fotografie e con una
+dettagliata descrizione dei prodotti e si precisava che poteva essere
+autorizzato il rilascio della merce previa cauzione della somma di
+euro 13.564,77, commisurata alla differenza fra i diritti dovuti in
+base all’accertamento e quelli calcolati in base alla dichiarazione.
+Con istanza acquisita dall’Ufficio al prot. n. 18276/RU del 4
+maggio 2021 la Wacebo Europe S.r.l. chiedeva la devoluzione della
+controversia alla Direzione territoriale, depositando memorie e
+osservazioni. Muovendo dall’assunto che il consulente doganale
+incaricato dalla parte è giunto alla conclusione secondo cui, essendo
+i monitor ivi oggetto di esame operanti autonomamente in quanto
+incorporati in un sistema operativo, essi siano perfettamente
+confacenti ed aderenti alle caratteristiche di cui al codice
+8471410000 la società chiedeva, nel merito e in via principale, senza
+l’applicazione di sanzioni ed interessi, la classificazione della merce
+4 di 11
+
+--- Pagina 5 ---
+
+al codice TARIC VD 8471410000, con conseguente archiviazione del
+contesto.
+La Direzione territoriale IX Campania, con decisione n. 8/2021,
+prot. 5889/RU del 6 luglio 2021, ha confermato gli esiti
+dell’accertamento doganale.
+Conseguentemente, a conclusione dell’accertamento doganale,
+l’Ufficio, con processo verbale di constatazione prot. n. 2763/RU del
+3 settembre 2021, ribadiva la rideterminazione dell’importo dei diritti
+dovuti che provvedeva ad incamerare; determinava, altresì, doversi
+procedere all’applicazione della sanzione di cui all’art. 303, co. 3,
+lett. e, del T.U.L.D. (d.P.R.  43/1973).
+La decisione della Direzione territoriale, nonché ogni altro atto
+a essa presupposto o consequenziale, venivano impugnati con
+ricorso  proposto avanti alla Commissione tributaria provinciale di
+Napoli.
+L’Agenzia delle dogane si costituiva in giudizio.
+La Commissione tributaria provinciale di Napoli, con sentenza n.
+6271/04/2022, depositata in data 13 giugno 2022, accoglieva il
+ricorso proposto dalla società.
+2. – Avverso tale sentenza proponeva appello l’Agenzia delle
+dogane.
+Resisteva con proprie controdeduzioni la società contribuente.
+Con la sentenza n. 3840/10/2023, depositata in data 19 giugno
+2023, la Corte di giustizia di secondo grado della Campania rigettava
+l’appello dell’Ufficio.
+3. – L'Agenzia delle dogane ha proposto ricorso per cassazione
+affidato a quattro motivi.
+La contribuente si è costituita con controricorso.
+Il Pubblico Ministero ha depositato conclusioni scritte.
+RAGIONI DELLA DECISIONE
+5 di 11
+
+--- Pagina 6 ---
+
+1. – Con il primo motivo si deduce la violazione dell’art. 132
+c.p.c. - omessa motivazione - motivazione apparente ai sensi
+dell’art. 360, comma 1,  n. 4 c.p.c. Secondo quanto prospettato, la
+sentenza sarebbe priva di motivazione, riconoscendo validità e
+attendibilità alla perizia depositata da controparte, operando un
+mero rinvio alla perizia depositata agli atti, senza alcun richiamo a
+un punto preciso della stessa, ritenuto di rilievo probante, dirimente
+o semplicemente significativo; non verrebbe in alcun modo precisato
+quali sono le argomentazioni tecniche considerate ai fini della
+decisione, né risultano comprensibili le ragioni poste a base del
+percorso logico-giuridico che hanno condotto i giudici a ritenere che
+i monitor in esame siano da classificare alla voce doganale
+8471410000, nonostante le deduzione dell’Ufficio in merito alle
+ragioni dell’applicazione della diversa classificazione nella V.D.
+8528590090.
+1.1. – Il motivo è infondato.
+In seguito alla riformulazione dell'art. 360, comma 1, n. 5,
+c.p.c., disposta dall'art. 54 del d.l. n. 83 del 2012, conv., con modif.,
+dalla l. n. 134 del 2012, non sono più ammissibili nel ricorso per
+cassazione le censure di contraddittorietà e insufficienza della
+motivazione della sentenza di merito impugnata, in quanto il
+sindacato di legittimità sulla motivazione resta circoscritto alla sola
+verifica del rispetto del «minimo costituzionale» richiesto dall'art.
+111, comma 6, Cost. (Cass. n. 13248/2020; Cass. n. 17196/2020),
+che viene violato qualora la motivazione sia totalmente mancante o
+meramente apparente, ovvero si fondi su un contrasto irriducibile tra
+affermazioni inconcilianti, o risulti perplessa ed obiettivamente
+incomprensibile, purché il vizio emerga dal testo della sentenza
+impugnata, a prescindere dal confronto con le risultanze processuali
+(Cass. n. 7090/2022).
+6 di 11
+
+--- Pagina 7 ---
+
+Nel caso di specie non si ravvisa nella motivazione alcuna
+violazione del «minimo costituzionale». Nella pronuncia si richiama
+la perizia di parte oggetto dell'apprezzamento compiuto in prime
+cure, con argomentazioni ritenute non contestate dall'Agenzia in
+merito alla circostanza che “i monitor in esame siano da classificare
+alla 8471410000”, ossia con il codice individuato dalla società quale
+alternativa a quanto indicato nella dichiarazione doganale.
+Peraltro, vi sono ulteriori ragioni rispetto alla perizia individuate
+dalla pronuncia a fondamento della correttezza della classificazione
+in oggetto (giurisprudenza della Corte di giustizia sull'applicazione
+della voce più favorevole; decisioni doganali effettuate della Dogana
+maltese e dalla Dogana spagnola; informazione tariffaria vincolante,
+rilasciata dalla Direzione centrale, che ha confermato la legittimità
+dell’operato dell’appellata).
+Parte ricorrente, invero, mira a conseguire una inammissibile
+rivalutazione del merito.
+2. – Con il secondo motivo si prospetta l'omesso esame di fatti
+decisivi che sono stati oggetto di discussione tra le parti ai sensi
+dell’art. 360, comma 1,  n. 5 c.p.c. La sentenza, nel condividere le
+argomentazioni della perizia di parte, ha ritenuto che le stesse non
+fossero state contestate dall’Ufficio. Così statuendo, la Corte di
+merito è incorsa nel vizio di omesso esame di fatti poiché, fin dal
+primo atto difensivo, l’Ufficio ha provveduto a contestare e smentire
+quanto contenuto nella perizia di parte.
+2.1. – Il motivo è inammissibile.
+L'art. 360, comma 1, n. 5, c.p.c., nella formulazione risultante
+dalle modifiche introdotte dal d.l. n. 83 del 2012, conv. dalla l. n.
+143 del 2012, prevede l'"omesso esame" come riferito ad "un fatto
+decisivo per il giudizio" ossia ad un preciso accadimento o una
+precisa circostanza in senso storico - naturalistico, non assimilabile
+7 di 11
+
+--- Pagina 8 ---
+
+in alcun modo a "questioni" o "argomentazioni" che, pertanto,
+risultano irrilevanti, con conseguente inammissibilità delle censure
+irritualmente formulate (Cass. n. 2268/2022; Cass. n. 21152/2014).
+Secondo quanto prospettato, la pronuncia avrebbe omesso di
+esaminare il fatto che si trattava di prodotti idonei a funzionare
+autonomamente, ovvero tramite collegamento ad altri apparecchi
+diversi dai P.C. della VD 8471, ma tali che il loro normale utilizzo non
+è principalmente “informatico”, ovvero teso a costituire una
+periferica di macchina per l’elaborazione dell’informazione.
+Nell’applicazione delle regole generali di classifica, analizzando le
+caratteristiche essenziali dell’apparecchio, rileverebbe, piuttosto,
+l’utilizzo principale come proiettore di immagini e interfaccia input
+output grafica con l’essere umano; essi, pertanto, sarebbero da
+ricondurre alla voce doganale attribuita dall’Ufficio ossia la VD
+8528590090.
+Nel caso di specie, tuttavia, a fronte di una “doppia conforme”,
+non vengono indicate  le ragioni di fatto poste a base,
+rispettivamente, della decisione di primo grado e della sentenza di
+rigetto dell'appello, dimostrando che esse sono tra loro diverse (n.
+5947/2023). Parte ricorrente finisce per contestare non un omesso
+esame di un fatto decisivo ma un vizio di sussunzione, quale la
+classificazione dei prodotti oggetto dell'accertamento, di cui si chiede
+una diversa classificazione doganale. Peraltro, i giudici di merito
+hanno esaminato la natura dei prodotti, ritenendo errata la
+classificazione disposta dall'Ufficio, per cui non vi è alcuno omesso
+esame, né tantomeno un vizio di motivazione.
+3. – Con il terzo motivo si denuncia la violazione e falsa
+applicazione delle regole per l’interpretazione della nomenclatura
+combinata, di cui al Regolamento di esecuzione Ue n. 1602/2018
+della Commissione dell’11 ottobre 2018 che ha modificato l’Allegato
+8 di 11
+
+--- Pagina 9 ---
+
+I del Regolamento CEE n. 2658/1987 del Consiglio, relativo alla
+nomenclatura tariffaria e statistica e alla tariffa doganale comune ai
+sensi dell’art. 360 n. 3 c.p.c.  Come dedotto in giudizio, il prodotto è
+costituito da un monitor di ampie dimensioni provvisto di sistema OS
+Android che gli permette di funzionare autonomamente; esso è
+collegabile ad altri apparecchi, diversi tuttavia dai PC contemplati
+alla VD 8471 e piuttosto identificabili, ad esempio, in smartphone
+con O.S. Android e IOS (sia in WI-FI che in Bluetooth), Router,
+software caricati sia su penne USB che su SD card, etc. Per tali motivi
+sarebbe da escludere l’applicazione della voce TARIC 8471, poiché
+gli oggetti descritti, pur integrando un sistema di elaborazione dati,
+appaiono destinati principalmente a un utilizzo interattivo, mediante
+un’interfaccia essere umano/macchina di tipo input/output,
+individuabile nella superficie del monitor sensibile al tatto umano. La
+classificazione applicata dall’Ufficio sarebbe conforme alle regole di
+classifica e, nello specifico, al contenuto della Nota 5 A) del capitolo
+84 dedicato a Reattori nucleari, caldaie, macchine, apparecchi e
+congegni meccanici; parti di queste macchine o apparecchi. Si
+evidenzia, inoltre, che  la Nota 5A del Capitolo 84, individua le
+condizioni per cui una periferica (e dunque anche un monitor) possa
+individuarsi quale parte integrante di un sistema per l’elaborazione
+dell’informazione e dunque da classificare nell’ambito del capitolo 84.
+Secondo quanto prospettato, dovrebbe escludersi l’applicazione della
+voce TARIC 8471, poiché i prodotti oggetto di contenzioso, pur
+integrando un sistema Android, appaiono destinati ad un utilizzo
+principalmente e ordinariamente diverso da quello informatico; essi
+risultano tipicamente utilizzabili per riprodurre filmati,
+rappresentazioni, slides e non solo da pc; ovvero non sono utilizzati
+principalmente come periferica di uscita di macchine per
+l’elaborazione dell’informazione. Tale prodotto non è fungibile ad un
+9 di 11
+
+--- Pagina 10 ---
+
+monitor, parte di pc, di cui alla voce 8471, perché per esso si ravvisa
+un utilizzo preferibilmente e principalmente non “informatico”, ma
+piuttosto interattivo, di proiezione di dati provenienti da fonti anche
+diverse e comunque mediante un’interfaccia essere
+umano/macchina di tipo input/output, realizzato attraverso la stessa
+superficie del monitor sensibile al tatto umano. Ne conseguirebbe,
+pertanto, la corretta classificazione della merce con il codice TARIC
+8528590090 operata dall’Ufficio delle Dogane di Napoli 1, atteso che
+il medesimo bene funge a pieno titolo da monitor di cui al capitolo
+85.
+Con il quarto motivo si prospetta, ai sensi dell’art. 360 n. 3
+c.p.c., la violazione e falsa applicazione dell’art. 33 del Reg. (UE) n.
+952/2013 (Codice doganale dell’Unione) a seguito del
+riconoscimento della classificazione tariffaria contenuta nella
+informazione tariffaria vincolante (ITV) n. IT BTIIT922104-2021-
+BTI0302 del 12.10.2021, rilasciata successivamente alle operazioni
+di importazione e svincolo della merce. Si evidenzia che le
+informazioni tariffarie vincolanti vincolano gli Uffici doganali se, e
+nella misura in cui, c’è perfetta corrispondenza tra la merce ivi
+descritta e la merce presentata per il regime doganale richiesto.
+L’art. 33 c. 4 del Reg. UE n. 952/13 Codice doganale dell’Unione,
+infatti, subordina l’applicazione di una decisione ITV, nel contesto di
+un particolare regime doganale, alla necessità che il destinatario
+della decisione sia in grado di provare che le merci dichiarate
+corrispondono sotto tutti gli aspetti a quelli descritti nella decisione.
+La ITV cui fa riferimento la sentenza n. 3840/10/23 è stata rilasciata
+solo in data 12.10.2021, successivamente alle operazioni di
+importazione e dopo lo svincolo della merce. La stessa, pertanto,
+sarebbe inopponibile al caso di specie.
+3.1. – I motivi, da trattarsi congiuntamente, sono inammissibili.
+10 di 11
+
+--- Pagina 11 ---
+
+Sotto la parvenza della violazione di legge si prospetta, in realtà,
+la richiesta di rivalutazione del merito,  a fronte di una pronuncia
+che, confermando quanto deciso in prime cure, ha esaminato i motivi
+di censura dell'Agenzia delle dogane, escludendo la fondatezza della
+pretesa tributaria. Va inoltre evidenziato che i monitor oggetto del
+contenzioso, in quanto incorporati in un sistema operativo, sono
+aderenti alle caratteristiche di cui al codice 8471410000, poiché
+qualificabili come macchine automatiche per l’elaborazione
+dell’informazione “che comportano, in uno stesso involucro, almeno
+una unità centrale di elaborazione e, anche combinate, una unità di
+entrata o di uscita”.
+Deve infine osservarsi che il giudice del gravame non ha
+attribuito efficacia vincolante alla ITV al fine di affermare la
+correttezza della classificazione doganale, ma ha considerato tale
+documento come un ulteriore elemento a sostegno della correttezza
+della classificazione della merce, così come dichiarata dalla società
+importatrice.
+4. – Il ricorso va dunque rigettato.
+Le spese del presente giudizio seguono la soccombenza e si
+liquidano come da dispositivo in favore della controricorrente.
+P.Q.M.
+La Corte rigetta il ricorso e condanna la parte ricorrente al
+pagamento delle spese del giudizio di legittimità, che liquida in euro
+3.082,00 per compensi, oltre alle spese generali del 15%, IVA e CPA
+come per legge.
+Così deciso in Roma, nella camera di consiglio della Sezione
+Tributaria, il 16 settembre 2025.
+Il Consigliere est.                                    Il Presidente
+Gianluca Grasso                                      Lucio Luciotti
+11 di 11

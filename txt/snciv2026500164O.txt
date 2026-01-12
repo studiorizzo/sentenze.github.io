@@ -1,0 +1,336 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 4695/2023 R.G. proposto da:
+AGENZIA DELLE ENTRATE, elettivamente domiciliata in ROMA VIA DEI
+PORTOGHESI 12, presso l'AVVOCATURA GENERALE DELLO STATO
+(ADS80224030587) che la rappresenta e difende
+-ricorrente-
+contro
+LUKOIL MARINE LUBRICANTS GERMANY GMBH, rappresentato e difeso
+dall’avvocato CRICCA GIANCARLO (CRCGCR44P25E463I) che lo
+rappresenta e difende, con domicilio digitale come in atti
+-controricorrente-
+
+--- Pagina 2 ---
+
+avverso la SENTENZA della CORTE di GIUSTIZIA TRIBUTARIA di
+SECONDO GRADO dell’ABRUZZO n. 758/2022 depositata il
+21/12/2022.
+Udita la relazione svolta nella camera di consiglio del 16/10/2025 dalla
+Consigliera RAFFAELLA BROGI.
+FATTI DI CAUSA
+1. La Corte di giustizia tributaria di secondo grado dell’Abruzzo (hinc:
+CGT2), con la sentenza n. 758/2022 depositata in data 21/12/2022,
+ha accolto l’appello proposto da LUKOIL MARINE LUBRICANTS
+GERMANY GMBH (hinc: la contribuente o la società contribuente)
+contro la sentenza n. 130/2021 con cui la Commissione tributaria
+provinciale di Pescara aveva rigettato il ricorso della società
+contribuente contro provvedimento di diniego di rimborso IVA.
+2. La CGT2 ha richiamato l'art. 148 della Direttiva 2006/112/CE del
+28/11/2006 (hinc: Direttiva IVA), secondo il quale «le cessioni di beni
+destinati al rifornimento e al vettovagliamento delle navi adibite alla
+navigazione in alto mare sono "non imponibili». Ha quindi rilevato come
+il requisito della navigabilità in "alto mare" di una nave sia stato oggetto
+di interpretazione da parte della CGUE, unitamente ad alcuni
+chiarimenti forniti dall'Agenzia delle Entrate. Mentre la prima ha
+osservato come il requisito della navigabilità in alto mare debba riferirsi
+ad imbarcazioni che sono adibite "prevalentemente" a tali tratte
+(CGUE, 20 giugno 2019, C-291/18), la seconda ha chiarito che, per
+poter eseguire delle operazioni di bunkeraggio in regime di non
+imponibilità ai fini IVA, la nave deve effettuare «trasporto a pagamento
+di passeggeri» o essere impiegata in "attività commerciali, industriali e
+della pesca" (Ris. n. 21E del 12/01/2017). Inoltre, per essere
+considerata come operante in «alto mare» la nave deve navigare
+prevalentemente in quella parte di «mare che eccede il limite massimo
+2 di 11
+
+--- Pagina 3 ---
+
+di 12 miglia nautiche misurate a partire dalle linee di base previste dal
+diritto internazionale del mare» (v. Ris. n. 2/E cit.).
+2.1. È stato altresì chiarito che è «adibita alla navigazione in alto mare»
+la nave che effettua almeno il 70% dei viaggi "in alto mare" e tale
+navigazione, ai fini della non imponibilità IVA, deve essere comunque
+verificabile attraverso la relativa documentazione ufficiale (v. Ris. n.
+6/E del 16 gennaio 2018).
+2.2. La disciplina unionale afferente la non imponibilità IVA di tali
+operazioni è disciplinata, nel diritto interno, dall'art. 8 bis d.P.R. n. 633
+del 1972 – considerato che, con l'introduzione del CDU e del relativo
+art. 269, a tali operazioni di approvvigionamento non trova più
+applicazione il regime doganale dell'esportazione e non si applica l'art.
+8 d.P.R. n. 633 del 1972 – con la conseguenza che il carburante,
+allorquando sia ceduto ad una nave operante in alto mare, è destinato
+ad uscire dal territorio doganale e, pertanto, tale operazione è
+"assimilata" ad una cessione all'esportazione. In tali casi, ai sensi
+dell'art. 8-bis d.P.R. n. 633 del 1972, le operazioni sono «non
+imponibili» ai fini IVA.
+2.3. L’Agenzia delle Entrate – superando l’orientamento secondo il
+quale il regime di non imponibilità ai fini IVA delle operazioni di
+bunkeraggio fosse applicabile solo nei casi in cui tale cessione fosse
+avvenuta direttamente «a favore degli armatori o ai soggetti proprietari
+delle navi» (v. Ris. n. 85 del 1998; ex pluribus Ris. n. 101/E e n. 191/E
+del 2002) e non anche nelle fasi precedenti (tra gli intermediari ed i
+fornitori) – ha chiarito (in conformità alla giurisprudenza di legittimità,
+v. Cass., n. 22210 del 2019), che il regime di non imponibilità ex art.
+8-bis d.P.R. n. 633 del 1972 «è applicabile anche al contestuale e
+concomitante trasferimento della proprietà del carburante dalla Società
+petrolifera all'intermediario ("trader") ... a condizione che la consegna
+del carburante sia effettuata dalla società petrolifera ... direttamente
+3 di 11
+
+--- Pagina 4 ---
+
+nel serbatoio della nave». Di conseguenza, secondo il tradizionale
+orientamento della giurisprudenza della CGUE, «le operazioni di
+approvvigionamento delle navi adibite alla navigazione in alto mare
+sono esentate in quanto sono equiparate ad operazioni
+all'esportazione» (CGUE, 26 giugno 1990, C-185/89, Velker).
+2.4. Anche il nuovo codice doganale dell'Unione (Regolamento (UE)
+952/2013 del 09/10/2014, hinc: CDU, entrato in vigore il 01/05/2016),
+sancisce, nell'art. 269, paragrafo 2, lett. c), il principio in base al quale
+non devono essere vincolate al regime doganale di esportazione le
+merci unionali fornite, esenti da IVA o da accise, come
+approvvigionamento di navi, indipendentemente dalla destinazione
+della nave stessa. La circostanza che, a decorrere dal 01/05/2016, il
+cd. «bunkeraggio» non sia più considerato, ai fini doganali,
+un'esportazione, impedisce di attribuire alle merci fornite come
+approvvigionamento delle navi la qualificazione di esportazione anche
+ai fini IVA.
+2.5. Con riferimento al trattamento fiscale, ai fini IVA, di una fornitura
+di carburante eseguita tramite l'intermediazione di un trader (residente
+ovvero non residente) la CGUE ha chiarito che l’art. 148, lettera a),
+della direttiva IVA deve essere interpretato nel senso che «non possono
+essere qualificate come cessioni effettuate nei confronti di intermediari
+che agiscono in nome proprio, ma si dovrebbe considerare che
+costituiscono cessioni effettuate direttamente nei confronti di armatori
+che, a tale titolo, possono beneficiare dell'esenzione di cui all'art. 148,
+lettera a), della direttiva 20061.112» (CGUE, 03/09/2015, C-526/13,
+Fast Bunkering). Il principio generale che occorre desumere attiene,
+dunque, alla non imponibilità relativa alle cessioni di carburante
+effettuate in favore dell'armatore delle navi adibite alla navigazione in
+alto mare, applicabile anche al contestuale e concomitante
+trasferimento della proprietà del carburante dalla Società petrolifera
+4 di 11
+
+--- Pagina 5 ---
+
+all'intermediario ("trader"), sempreché la consegna del carburante sia
+effettuata dalla società petrolifera - su indicazione dell'intermediario –
+direttamente nel serbatoio della nave e che tale circostanza sia
+attestata dall'espletamento delle formalità doganali da parte di
+quest'ultima, ai sensi dell'articolo 269, par. 3, CDU.
+2.6. La CGT2 ha, poi, ritenuto che il quadro normativo così delineato
+trovasse riscontro, sul piano probatorio, in relazione alla
+documentazione prodotta dalla società contribuente (fatture di vendita
+agli armatori e fatture di acquisto dalla IGLOM Italia, con indicazione
+della nave destinataria, corredate da documentazione doganale
+recante clausola F.O.B. free on board, e timbro della nave ricevente,
+bollette doganali di esportazione con relativi codici M.R.N.).
+3. Contro la sentenza della CGT2 l’Agenzia delle Entrate ha proposto
+ricorso in cassazione con quattro motivi.
+4. La società contribuente si è costituita con controricorso.
+…
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo è stata denunciata la violazione dell’art. 36,
+comma 2, n. 4), d.lgs. n. 546 del 1992, in relazione all’art. 360, primo
+comma, n. 4, cod. proc. civ.
+1.1. La ricorrente censura la contraddittorietà della sentenza
+impugnata, nella misura in cui, dapprima, richiama l’art. 148 Direttiva
+IVA, per poi citare documenti non afferenti alla navigazione in alto
+mare della società cedente, come «fatture di vendita agli armatori e
+fatture di acquisto dalla IGLOM Italia, con indicazione della nave
+destinataria, corredate da documentazione doganale recante clausola
+F.O.B (free on board) e timbro della nave ricevente. Detta
+documentazione è stata integrata (cfr. fascicolo di parte appellante da
+2 a 7 all.ti) dalle 'bollette doganali di esportazione" con relativi codici
+M.R.N.».
+5 di 11
+
+--- Pagina 6 ---
+
+1.2. Ad avviso di parte ricorrente nella specie non si discute della
+non imponibilità delle operazioni, ma della presenza o meno di
+operazioni territorialmente rilevanti in Italia (che siano imponibili, non
+imponibili o esenti) e dell’idoneità delle modalità di rimborso prescelte:
+pertanto la motivazione non si attaglia al caso di specie e risulta
+meramente apparente, ma in realtà inesistente.
+1.3. Il motivo è infondato, dal momento che la motivazione
+riportata dalla stessa parte ricorrente non incorre in nessuna
+contraddizione, avendo dato rilievo al fatto che la consegna di
+carburante sia state eseguita direttamente nel serbatoio della nave e
+che fosse presente agli atti documentazione che riscontrava la
+presenza dei requisiti previsti nell’art. 8 bis d.P.R. n. 633 del 1972 e
+dell’art. 148 Direttiva IVA.
+2. Con il secondo motivo di ricorso è stata denunciata, in relazione
+all’art. 360, primo comma, n. 4, cod. proc. civ., l’omessa pronuncia, ai
+sensi dell’art. 112 cod. proc. civ.
+2.1. Con tale motivo la ricorrente evidenzia che l’amministrazione
+finanziaria non solo nell’atto di diniego impugnato, ma anche nelle
+controdeduzioni di prime cure ha evidenziato che: «è risultato che la
+società estera, durante il periodo di riferimento dell’istanza di rimborso,
+ha posto in essere operazioni rilevanti ai fini IVA in Italia, che non
+consentono il recupero dell’imposta con la modalità previste dall’art.
+38 bis 2 del D.P.R. n. 633/72.”: pag. 2 righe 7-8, prodotte dall’Ufficio
+in I grado e qui riprodotte come all. 3) e nelle controdeduzioni d’appello
+(stessa formulazione a pag. 2 righe 6-9, prodotte dall’Ufficio in appello
+e qui riprodotte come all. 6).»
+3. Con il terzo motivo di ricorso è stata denunciata la violazione
+dell’art. 38-bis, comma 2, e degli artt. 38 ter, 35 ter, 7bis e 8bis d.P.R.
+n. 633 del 1972, in relazione all’art. 360, primo comma, n. 3), cod.
+proc. civ.
+6 di 11
+
+--- Pagina 7 ---
+
+3.1. La ricorrente rileva come la CGT2 abbia riconosciuto,
+erroneamente e in violazione dell’art. 38 bis, comma 2, d.P.R. n. 633
+del 1972, il rimborso a un soggetto non residente in Italia che aveva
+eseguito operazioni parimenti nei confronti di soggetti non residenti.
+Ad avviso di parte ricorrente, in base alla Direttiva 9/2008, l’attività
+svolta in Italia dal non residente non deve avere una consistenza e una
+natura tale da rendere pregnante il collegamento territoriale con lo
+Stato italiano. In tale ipotesi, infatti, il legame finirebbe per fare
+acquisire al non residente la soggettività passiva. Ciò è confermato
+dalla tipologia di operazioni che sono invece consentite, nelle quali,
+invece, il collegamento con il territorio dello Stato tende da affievolirsi
+e la loro effettuazione è pertanto ritenuta compatibile con la procedura
+di rimborso di cui all’art. 38 bis, comma 2, d.P.R. n. 633 del 1972. Nel
+caso in esame la società ha acquistato da un soggetto italiano beni
+(lubrificanti marini) territorialmente rilevanti in Italia ai fini IVA ai sensi
+dell’art. 7 bis del D.P.R. n. 633/72, in seguito rivenduti sul territorio
+italiano sia a operatori economici extracomunitari non residenti
+(integrando una cessione all’esportazione disciplinata dall’art. 8,
+comma 1, lett. b, d.P.R. 633 del 1972), sia a operatori economici
+comunitari non residenti (integrando una cessione intracomunitaria
+disciplinata dall’art. 41, comma 1, d.l. n. 331 del 1993).
+Rileva quindi come lo strumento di richiesta di rimborso IVA previsto
+dall’art. 38 bis, comma 2, d.P.R. n. 633 del 1972, nell’intenzione del
+legislatore unionale, abbia lo scopo di fornire agli operatori esteri
+un’alternativa rispetto a quello previsto con la nomina del
+rappresentante fiscale ai sensi dell’art. 17, comma 2, d.P.R. n. 633 del
+1972 o con l’identificazione diretta ex art. 35-ter d.P.R. n. 633 del
+1972. La controparte, invece, da un lato, ha effettuato operazioni
+rilevanti in Italia e preclusive di tale rimborso; dall’altro lato, non si è
+neppure identificata direttamente in Italia ex art. 35-ter d.P.R. n. 633
+7 di 11
+
+--- Pagina 8 ---
+
+del 1972, se non a decorrere dal 07/12/2018, né mai ha nominato un
+rappresentante fiscale ex art. 17, comma 2, d.P.R. n. 633 del 1972. Di
+conseguenza, le cessioni oggetto di causa, effettuate nel corso del
+2018, mancavano dei presupposti indispensabili per l’assolvimento
+degli obblighi e la fruizione dei diritti fiscali in Italia.
+4. Il secondo motivo e il terzo motivo di ricorso possono essere
+esaminati congiuntamente e sono fondati.
+4.1. La CTR ha, infatti, ritenuto di poter decidere il giudizio sulla
+base della cd. ragione più liquida, accogliendo il secondo motivo
+d’appello. In tal modo ha, tuttavia, trascurato le contestazioni svolte
+dall’amministrazione finanziaria in relazione all’assenza del requisito
+previsto dall’art. 38-bis.2 d.P.R. n. 633 del 1972 (secondo periodo),
+dove, il diritto al rimborso in favore dei soggetti non residenti stabiliti
+in un altro Stato membro viene escluso nell’ipotesi in cui il richiedente
+abbia una stabile organizzazione nel territorio dello Stato o abbia
+eseguito operazioni territorialmente attive in Italia. La norma appena
+richiamata (nella versione applicabile, ratione temporis, al caso in
+esame, in cui il diritto al rimborso è stato chiesto per operazioni
+compiute nell’anno 2014) prevede, infatti, che: «Il rimborso non può
+essere richiesto dai soggetti che nel periodo di riferimento disponevano
+di una stabile organizzazione nel territorio dello Stato ovvero dai
+soggetti che hanno ivi effettuato operazioni diverse da quelle per le
+quali debitore dell'imposta e' il committente o cessionario e da quelle
+non imponibili di trasporto o accessorie ai trasporti.»
+Tale previsione è attuativa della previsione contenuta nell’art. 3,
+lett. b), Dir. 2008/9/CE del 12/02/2008, dove si legge che: «La
+presente direttiva si applica ai soggetti passivi non stabiliti nello Stato
+membro di rimborso che soddisfano le seguenti condizioni: …. b) nel
+periodo di riferimento non hanno effettuato cessioni di beni o
+prestazioni di servizi il cui luogo di effettuazione si possa considerare
+8 di 11
+
+--- Pagina 9 ---
+
+situato nello Stato membro di rimborso, fatta eccezione per le seguenti
+operazioni: i) prestazioni di servizi di trasporto e di servizi ad essi
+accessori, esenti a norma degli articoli 144, 146, 148, 149, 151, 153,
+159 o 160 della direttiva 2006/112/CE; ii) cessioni di beni e prestazioni
+di servizi al debitore dell'IVA ai sensi degli articoli da 194 a 197 e
+dell'articolo 199 della direttiva 2006/112/CE.»
+Questa Corte, con riferimento all’art. 38-bis.2, comma 1, d.P.R. n.
+633 del 1972 ha precisato che qualora siano state realizzate operazioni
+attive non ricomprese nell'ambito delle ipotesi eccettuative
+espressamente previste dalla previsione normativa in esame, non può
+essere riconosciuto il diritto al rimborso secondo la procedura in essa
+indicata (Cass., 01/09/2022, n. 25879).
+5. La disposizione inerente al requisito su cui la CTR ha omesso di
+pronunciarsi (art. 38-bis.2 d.P.R. n. 633 del 1972)  oltre a essere
+attuativa della disposizione contenuta in una direttiva unionale (art. 3
+lett. b), Dir. 2008/9/CE, correttamente declinata dal legislatore sul
+piano interno è altresì logicamente prioritaria (afferendo a un requisito
+negativo che non consente, a monte, al soggetto non residente la
+richiesta di rimborso dell’IVA) rispetto alla questione relativa
+all’interpretazione dell’art. 35-ter d.P.R. n. 633 del 1972 (introdotto dal
+decreto legislativo 19 giugno 2002, n. 191, in attuazione della direttiva
+2000/65/CE del Consiglio, del 17 ottobre 2000, di modifica della
+direttiva 77/388/CEE del Consiglio, del 17 maggio 1977), con
+riferimento alla dichiarazione che i soggetti non residenti devono fare
+prima del compimento di operazioni rilevanti a fini IVA, in alternativa
+alla nomina di un rappresentante fiscale ex art. 17, comma 3, d.P.R.
+n. 633 del 1972 (Cass., 30/01/2023, n. 2746).
+5.1. La CGUE ha, infatti, precisato che i provvedimenti che gli Stati
+membri possono adottare, in forza dell’art. 273 della direttiva
+2006/112, per assicurare l’esatta riscossione dell’imposta ed evitare
+9 di 11
+
+--- Pagina 10 ---
+
+frodi non devono eccedere quanto necessario a tal fine e non devono
+mettere in discussione la neutralità dell’IVA (CGUE, 21/10/2010, causa
+C-385/09, Nidera Handelscompagnie BV, § 49; CGUE 27/09/2010,
+causa C-146/05, Collée, § 26, e giurisprudenza ivi citata).
+Quanto precisato dalla giurisprudenza unionale in ordine al diritto di
+detrazione deve ritenersi valido anche per le richieste di rimborso
+dell’IVA indebitamente versata, che non possono essere, quindi,
+respinte sulla base del (solo) dato formale dell’omessa registrazione,
+impregiudicata la possibilità dell’amministrazione finanziaria di
+disconoscere il diritto al rimborso nelle ipotesi in cui non sia provata
+l’esistenza del credito o in presenza di richieste fraudolente (Cass.,
+30/01/2023, n. 2746).
+5.2. Come già rilevato, tuttavia, nel caso di specie non risulta
+eseguita, da parte della CTR, alcuna verifica in ordine alla
+contestazione relativa alla non spettanza del rimborso, perché
+proveniente da un soggetto che aveva compiuto operazioni attive nel
+territorio dello Stato ai sensi dell’art. 38 bis.2, comma 1, d.P.R. n. 633
+del 1972. Il giudice del rinvio dovrà, quindi, fare questa verifica,
+condizionante, in negativo, il riconoscimento del diritto al rimborso.
+6. Con il quarto motivo è stato denunciato l’omesso esame di fatti
+decisivi e oggetto di discussione tra le parti, in relazione all’art. 360,
+primo comma, n. 5, cod. proc. civ.
+6.1. Il quarto motivo è assorbito in conseguenza dell’accoglimento
+del terzo motivo.
+7. Alla luce di quanto sin qui evidenziato deve essere rigettato il
+primo motivo, mentre devono essere accolti il secondo e il terzo motivo
+di ricorso e dichiarato assorbito il quarto motivo.
+8. La sentenza impugnata deve essere, pertanto, cassata con rinvio
+alla Corte di giustizia tributaria di secondo grado dell’Abruzzo che, in
+diversa composizione, deciderà anche sulle spese del presente giudizio.
+10 di 11
+
+--- Pagina 11 ---
+
+…
+P.Q.M.
+In accoglimento del secondo e del terzo motivo di ricorso, rigettato il
+primo ed assorbito il quarto, cassa la sentenza impugnata e rinvia alla
+Corte di giustizia tributaria di secondo grado dell’Abruzzo che, in
+diversa composizione, deciderà anche sulle spese del presente giudizio.
+Così deciso in Roma, il 16/10/2025.
+Il Presidente
+GIUSEPPE FUOCHI TINARELLI
+11 di 11

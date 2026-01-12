@@ -1,0 +1,459 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 9163/2016 R.G. proposto da:
+Avv. IENGO GAETANO (c.f. NGIGTN49A06A930H9), difensore di se
+stesso;
+-ricorrente-
+contro
+AGENZIA DELLE ENTRATE (c.f. 06363991001), rappresentata e
+difesa dall'AVVOCATURA GENERALE DELLO STATO (c.f.
+80224030587);
+-controricorrente-
+avverso la SENTENZA della COMMISSIONE TRIBUTARIA
+REGIONALE DI BARI, SEZIONE DISTACCATA DI FOGGIA n.
+2188/2015 depositata il 21/10/2015.
+
+--- Pagina 2 ---
+
+Udita la relazione svolta nella camera di consiglio del 14/11/2025
+dal Consigliere GIOVANNI GALASSO.
+FATTI DI CAUSA
+1. Con avviso di accertamento n. TVK 010803500/2012 notificato
+all’Avv. Gaetano Iengo, l’Agenzia delle Entrate, in relazione all’anno
+d’imposta 2007, contestava (per quanto ancora interessa in questa
+sede, essendo state annullate in autotutela le pretese relative
+all’IRAP): l’illegittima deduzione ai fini del calcolo dell’imposta sul
+reddito di € 1.680, quale quota di ammortamento relativa
+all’autovettura targata DF208RS; l’illegittima deduzione
+dell’importo di € 4.188,41 per spese di noleggio autovetture, non
+essendo dimostrata l’inerenza di tali spese all’attività svolta. Quale
+conseguenza dell’illegittima deduzione di complessivi € 5.868,41, in
+violazione dell’art. 109 d.P.R. 917/1986, dal reddito rilevante ai fini
+dell’IRPEF, con l’avviso in questione il reddito imponibile veniva
+portato da € 79.592 a € 85.460 e veniva riconosciuta l’illegittimità
+della detrazione di IVA per € 837,68 (pari al 20% € 4.188,41).
+In sede di contraddittorio, come riportato a pagina 2 del ricorso,
+l’Amministrazione riconosceva la deducibilità dell’importo relativo
+all’acquisto dell’autovettura nei limiti del 40%; analogamente, con
+riguardo ai costi di noleggio, riconosceva la deducibilità nei limiti
+del 40% fino ad un importo massimo di € 3.615 ragguagliato ad
+anno, con la conseguenza che, avendo il professionista sostenuto i
+costi di noleggio per 111 giorni, il relativo importo andava
+determinato in € 440 secondo la seguente formula: € 3.615:365 gg
+x 111 gg. x 40% (anche se l’accertamento con adesione non si
+sarebbe perfezionato per mancata adesione del contribuente, cfr.
+controricorso, pag. 2).
+Con ricorso alla Commissione tributaria provinciale di Foggia il
+contribuente impugnava il predetto avviso; richiamando la
+sentenza della CGUE n. 228/2006 cd. Stradasfalti (recte sentenza
+del 14/9/2006 resa nel procedimento n. C-228/2005), sosteneva
+2 di 14
+
+--- Pagina 3 ---
+
+che l’IVA versata in relazione ai costi per veicoli a motore fosse
+detraibile per intero.
+Con sentenza n. 605/2015 la CTP accoglieva parzialmente il
+ricorso, «riconoscendo costi per componenti negativi per € 440,00
+con IVA relativa al 20%, così rideterminando il reddito di lavoro
+autonomo in € 85.020,00»; riteneva infatti deducibile, con riguardo
+all’imposta sul reddito, l’importo per il noleggio determinato con le
+modalità indicate dall’Amministrazione in sede di contraddittorio e,
+dunque, nei limiti di € 3.615 ragguagliati ad anno.
+2. Proponeva appello il contribuente, lamentando, sostanzialmente,
+che l’art. 1, comma 264, l. 244/2007, che aveva introdotto limiti
+alla detraibilità dell’IVA sull’acquisto o sul noleggio di autovetture e
+che operava retroattivamente a decorrere dal 28/6/2007, si poneva
+in contrasto con l’art. 3 l. 212/2000, nonché con le direttive 77/388
+e 112/2006 che imponevano l’integrale detraibilità ai fini IVA dei
+costi per gli autoveicoli.
+Con sentenza n. 2188/2015, la Commissione tributaria regionale
+della Puglia (sezione distaccata di Foggia) rigettava l’appello,
+compensando le spese; osservava, in particolare, che era dubbio se
+le direttive in questione potessero operare direttamente
+nell’ordinamento italiano che non le aveva recepite; in ogni caso, il
+problema era superato dall’art. 1, comma 264, lett. c) l. 244/2007
+che, a decorrere dal 28/6/2007, espressamente prevedeva una
+detrazione solo parziale dell’IVA versata in relazione ai costi delle
+autovetture; l’art. 3 dello Statuto del contribuente era derogabile e,
+dunque, non era di ostacolo all’applicazione retroattiva di tale
+norma.
+3. Ha proposto ricorso per cassazione lo Iengo, formulando tre
+motivi di impugnazione.
+Ha resistito con controricorso l’Agenzia delle Entrate.
+Il ricorrente ha depositato memoria ex art. 380 bis.1 c.p.c..
+3 di 14
+
+--- Pagina 4 ---
+
+RAGIONI DELLA DECISIONE
+1.1 Con il primo motivo di ricorso, il contribuente ha denunciato il
+vizio di cui all’art. 360, comma 1°, n. 3) c.p.c. per violazione e
+falsa applicazione di norme di diritto in relazione all’art. 11 Cost,
+agli artt. 1, comma 264, lett. c) l. 244/2007, 112 c.p.c. e 113
+c.p.c., nonché il vizio di cui all’art. 360, comma 1°, n. 4) c.p.c. per
+nullità della sentenza per violazione delle medesime norme.
+Lo stesso sostiene che la CTR ha erroneamente escluso la diretta
+applicabilità nel diritto interno delle norme comunitarie,
+riconosciuto dalla giurisprudenza delle Sezioni Unite con la
+sentenza n. 26948/2006, che trova fondamento nell’art. 11 Cost.
+1.2 Con il secondo motivo di ricorso sono stati denunciati i vizi di
+cui all’art. 360, comma 1°, nn. 3) e 4) c.p.c. per violazione e falsa
+applicazione degli artt. 1, comma 264, lett. c) l. 244/2007, 112
+c.p.c., 3 l. 212/2000, 11 disposizioni sulla legge in generale, 19 bis
+1 d.P.R. 633/1972, 17 n. 7 della direttiva CE n. 77/388, della
+decisione 18/6/2007 n. 441 del Consiglio dell’UE, nonché per
+motivazione apparente; è stato altresì denunciato il vizio di cui
+all’art. 360, comma 1°, n. 5) per omesso esame di un fatto
+decisivo che è stato oggetto discussione tra le parti, «con
+riferimento agli artt. 132 n. 4 c.p.c. e 118 disp. att. c.p.c.
+(motivazione apparente)».
+Con tale motivo il contribuente ha lamentato che, sebbene fosse
+intervenuta la decisione del Consiglio n. 441 del 18/6/2007, che
+autorizzava l’Italia a limitare la detraibilità dell’IVA per le spese per
+veicoli a motore non utilizzati esclusivamente per fini professionali,
+non era possibile prevedere che tali limiti operassero
+retroattivamente, in violazione dell’art. 3 l. 212/2000; ciò in
+considerazione della “superiorità assiologica” che caratterizza lo
+Statuto del contribuente (che costituisce attuazione degli artt. 3,
+23, 53 e 97 Cost.), nonché della coerenza di tale norma con l’art.
+11 delle disposizioni sulla legge in generale. Il ricorrente ha
+4 di 14
+
+--- Pagina 5 ---
+
+evidenziato ancora che: anche la CGUE, con la sentenza
+“Stradasfalti” aveva censurato l’art. 19 bis.1 d.P.R. 633/1972 per
+violazione delle direttive 388/77 e 112/06; la sentenza di appello
+era altresì caratterizzata da motivazione apparente, in quanto non
+aveva «analizzato per nulla l’intero arco delle norme non applicate
+dalla amministrazione finanziaria e che il ricorrente aveva
+sottoposto al vaglio del giudice (…)»; la decisione impugnata era
+erronea anche perché non aveva ritenuto che potesse disapplicarsi
+la disciplina interna in contrasto con quella dell’Unione Europea
+senza necessità di ricorrere alla Corte Costituzionale.
+1.3 Con il terzo motivo di ricorso il contribuente ha denunciato il
+vizio di cui all’art. 360, comma 1°, nn. 3) e 4) c.p.c. per violazione
+dell’art. 1 comma 264 lett. c) l. 244/2007, 112 e 113 c.p.c., 3 l.
+212/2000, 11 disposizioni sulla legge in generale, 19 bis.1 d.P.R.
+633/1972, 17 n. 7 direttiva CE 77/388, decisione del Consiglio n.
+441 del 18/6/2007 e 164 d.P.R. 917/1986, nonché il vizio di cui al
+n. 5) «con riferimento agli artt. 132 n. 4 c.p.c. e 118 disp. att.
+c.p.c. Motivazione apparente – Sentenza in contrasto con
+l’orientamento della S.C.».
+Con tale motivo il ricorrente si è lamentato del fatto che la CTR non
+ha preso in considerazione le doglianze sollevate in ordine alla
+deducibilità, in relazione all’imposta sul reddito, della spesa per il
+noleggio dell’autovettura; in via gradata, ha osservato che il
+ragguaglio all’anno riguarderebbe solo le ipotesi di noleggi per
+periodi di tempo prolungati, mentre nel caso di specie si era
+trattato di singole ed occasionali prestazioni. Infine, in via ancora
+gradata, ha rilevato che andava riconosciuta la deduzione nella
+misura del 20% o del 40% di € 3.615,00.
+2. Preliminarmente va osservato che l’Agenzia delle Entrate ha
+eccepito l’inammissibilità del ricorso con riguardo al “punto 3”
+(pagg. 20 – 24 del ricorso) che, a suo avviso, non contiene censure
+5 di 14
+
+--- Pagina 6 ---
+
+riguardanti motivi di legittimità, ma solo questioni di merito già
+trattate nel primo e secondo grado di giudizio.
+2.1 Al riguardo va osservato che il paragrafo 3 del ricorso, intitolato
+«applicazione concreta del principio e della Sesta Direttiva europea
+17.5.1977 n. 77/388/CEE», effettivamente non contiene uno
+specifico motivo di ricorso, ma solo il richiamo al principio della
+diretta applicabilità della disciplina comunitaria in materia di IVA
+esclusa dalla CTR; dunque, sebbene esposta in un paragrafo
+separato, deve ritenersi che si tratti di un’ulteriore argomentazione
+a sostegno del secondo motivo di ricorso (come del resto
+confermato dallo stesso ricorrente nella successiva memoria ex art.
+380 bis.1 c.p.c.).
+2.2 I rimanenti motivi - sebbene caratterizzati da un’esposizione
+frammentaria e dalla denuncia, con ciascuno di essi, di diversi vizi
+tra quelli contenuti nell’art. 360 c.p.c. - sono comunque
+ammissibili, essendo possibile individuare le diverse doglianze
+contenute in ognuno di essi. Questa Corte ha infatti chiarito che «Il
+ricorso per cassazione articolato attraverso la proposizione di
+motivi "misti" - che riconducono, cioè, il vizio della sentenza
+impugnata a più d'uno fra i parametri elencati dall'art. 360 c.p.c. -
+è ammissibile se la formulazione della censura permette di isolare
+le doglianze prospettate onde consentirne l'esame separato,
+esattamente come se fossero state distinte in motivi diversi,
+numerati singolarmente» (Cass. n. 11152/2025).
+3. I primi due motivi di ricorso possono essere esaminati
+congiuntamente.
+3.1 Al riguardo, occorre innanzi tutto precisare che, con il secondo
+motivo, il ricorrente lamenta, unitamente alle altre doglianze, la
+motivazione apparente, che integra uno dei vizi che rientrano nel n.
+4) del comma 1° dell’art. 360 c.p.c., ma lo riconduce,
+erroneamente, al n. 5). In ogni caso tale vizio non è ravvisabile, in
+quanto la motivazione apparente si configura solo quando questa,
+6 di 14
+
+--- Pagina 7 ---
+
+pur graficamente presente, sia caratterizzata da argomentazioni
+inconciliabili o obiettivamente incomprensibili, e dunque
+assolutamente inidonee a costituire giustificazione del decisum.
+(Cass. Sez. U. 8053/2014; Cass. n. 7090/2022). In particolare, «la
+motivazione è solo apparente, e la sentenza è nulla perchè affetta
+da "error in procedendo", quando, benchè graficamente esistente,
+non renda, tuttavia, percepibile il fondamento della decisione,
+perché recante argomentazioni obbiettivamente inidonee a far
+conoscere il ragionamento seguito dal giudice per la formazione del
+proprio convincimento, non potendosi lasciare all'interprete il
+compito di integrarla con le più varie, ipotetiche congetture» (Cass.
+Sez. U. 22232/2016; nello stesso senso Cass. n. 22598/2018).
+Nella specie, come si evince dall’esposizione del suo contenuto, non
+si può ritenere che la sentenza impugnata sia carente o incoerente
+sul piano della logica giuridica, avendo la CTR chiaramente indicato
+le ragioni per le quali, a suo avviso, l’appello andava rigettato.
+Sotto tale profilo, quindi, il secondo motivo è infondato.
+3.2 Viene altresì denunciato, con il secondo motivo, sempre ai
+sensi dell’art. 360, comma 1°, n. 5) c.p.c. (pag. 20, punto 2.2.6.1
+del ricorso), che sarebbe stato omesso l’esame di un fatto storico
+decisivo consistente «nella mancata applicazione della riduzione
+per intero ai fini IRPEF ed IVA, del costo di acquisto
+dell’autovettura del ricorrente quale professionista riconosciuto in
+ragione solo del 40% da parte dell’amministrazione finanziaria
+(…)». È evidente, però, che il ricorrente ha travisato
+completamente il significato del vizio descritto al n. 5) del comma
+1° dell’art. 360 c.p.c.
+Ed infatti «l'art. 360, primo comma, n. 5, cod. proc. civ.,
+riformulato dall'art. 54 del d.l. 22 giugno 2012, n. 83, conv. in
+legge 7 agosto 2012, n. 134, introduce nell'ordinamento un vizio
+specifico denunciabile per cassazione, relativo all'omesso esame di
+un fatto storico, principale o secondario, la cui esistenza risulti dal
+7 di 14
+
+--- Pagina 8 ---
+
+testo della sentenza o dagli atti processuali, che abbia costituito
+oggetto di discussione tra le parti e abbia carattere decisivo (vale a
+dire che, se esaminato, avrebbe determinato un esito diverso della
+controversia). Ne consegue che, nel rigoroso rispetto delle
+previsioni degli artt. 366, primo comma, n. 6, e 369, secondo
+comma, n. 4, cod. proc. civ., il ricorrente deve indicare il "fatto
+storico", il cui esame sia stato omesso, il "dato", testuale o
+extratestuale, da cui esso risulti esistente, il "come" e il "quando"
+tale fatto sia stato oggetto di discussione processuale tra le parti e
+la sua "decisività", fermo restando che l'omesso esame di elementi
+istruttori non integra, di per sé, il vizio di omesso esame di un fatto
+decisivo qualora il fatto storico, rilevante in causa, sia stato
+comunque preso in considerazione dal giudice, ancorché la
+sentenza non abbia dato conto di tutte le risultanze probatorie»
+(così Cass. Sez. U. 8053/2014).
+Nel caso di specie il motivo di ricorso non contiene nessuno di tali
+elementi; il ricorrente si limita a dolersi del fatto che è stata
+indebitamente applicata la riduzione del 40% al valore di
+ammortamento e alle spese di noleggio dei veicoli sia per l’IVA che
+per l’IRPEF e, dunque, sostanzialmente ad esporre quella che è la
+pronuncia richiesta.
+Limitatamente a tale profilo, dunque, il secondo motivo è
+inammissibile.
+3.3 Occorre quindi affrontare il cuore del problema posto dal
+ricorrente con i primi due motivi e cioè la possibilità di applicare
+alla fattispecie de qua la disciplina introdotta dall’art. 1, comma
+261, l. 244/2007.
+I due motivi, sotto tale profilo, sono infondati.
+Tale norma, infatti, sostituiva il preesistente testo delle lettere c) e
+d) dell’art. 19 bis.1 d.P.R. 633/1972 con la seguente formulazione:
+«c) l'imposta relativa all'acquisto o all'importazione di veicoli
+stradali a motore, diversi da quelli di cui alla lettera f) dell'allegata
+8 di 14
+
+--- Pagina 9 ---
+
+tabella B, e dei relativi componenti e ricambi è ammessa in
+detrazione nella misura del 40 per cento se tali veicoli non sono
+utilizzati esclusivamente nell'esercizio dell'impresa, dell'arte o della
+professione. La disposizione non si applica, in ogni caso, quando i
+predetti veicoli formano oggetto dell'attività propria dell'impresa
+nonché per gli agenti e rappresentanti di commercio. Per veicoli
+stradali a motore si intendono tutti i veicoli a motore, diversi dai
+trattori agricoli o forestali, normalmente adibiti al trasporto stradale
+di persone o beni la cui massa massima autorizzata non supera
+3.500 kg e il cui numero di posti a sedere, escluso quello del
+conducente, non è superiore a otto;
+d) l'imposta relativa all'acquisto o all'importazione di carburanti e
+lubrificanti destinati ad aeromobili, natanti da diporto e veicoli
+stradali a motore, nonché alle prestazioni di cui al terzo comma
+dell'articolo 16 e alle prestazioni di custodia, manutenzione,
+riparazione e impiego, compreso il transito stradale, dei beni stessi,
+è ammessa in detrazione nella stessa misura in cui è ammessa in
+detrazione l'imposta relativa all'acquisto o all'importazione di detti
+aeromobili, natanti e veicoli stradali a motore».
+La stessa, ai sensi del comma 264 dell’art. 1 l. 244/2007, si
+applicava a decorrere dal 28 giugno 2007.
+Infatti, con decisione del Consiglio del 18/6/2007, pubblicata sulla
+Gazzetta Ufficiale dell’Unione Europea del 27/6/2007, l’Italia era
+stata autorizzata a derogare all’articolo 26, paragrafo 1, lettera a),
+e all’articolo 168 della direttiva 2006/112/CE, limitando al 40% la
+detraibilità dell’IVA sulle «spese relative ai veicoli stradali a motore
+non interamente utilizzati a fini professionali».
+Dunque, contrariamente a quanto sostenuto dal ricorrente, la
+disciplina in questione – ivi compresa la previsione della sua
+applicazione a decorrere dal 28/6/2007 – non è affatto in contrasto
+con quella europea, dal momento che proprio il Consiglio, con la
+richiamata decisione, aveva autorizzato la deroga. Pertanto,
+9 di 14
+
+--- Pagina 10 ---
+
+neppure si pone il problema della diretta operatività
+nell’ordinamento italiano delle direttive 77/388 e 2006/112. È
+irrilevante anche il richiamo alla decisione della CGUE del
+14/9/2006, giacché la disciplina in esame è successiva a tale
+decisione.
+Neppure può sostenersi, come fa il ricorrente, che l’operatività della
+norma a decorrere dal 28/6/2007 non poteva essere disposta,
+ostandovi l’art. 3 l. 212/2000, secondo il quale le disposizioni
+tributarie non hanno effetto retroattivo. Infatti, questa Corte ha
+osservato che «In tema di efficacia nel tempo di norme tributarie,
+in base all'art. 3 della legge n. 212 del 2000 (cosiddetto Statuto del
+contribuente), il quale ha codificato nella materia fiscale il principio
+generale di irretroattività delle leggi stabilito dall'art. 12 delle
+disposizioni sulla legge in generale, va esclusa l'applicazione
+retroattiva delle medesime salvo che questa sia espressamente
+prevista. Peraltro, le disposizioni del suddetto Statuto costituiscono
+meri criteri guida per il giudice, in sede di applicazione e
+interpretazione delle norme tributarie, anche anteriormente vigenti,
+per risolvere eventuali dubbi ermeneutici, ma non hanno, nella
+gerarchia delle fonti, rango superiore alla legge ordinaria
+(essendone, in vero, ammessa la modifica o la deroga, purché
+espressa e non a opera di leggi speciali), con la conseguenza che
+una previsione legislativa che si ponga in contrasto con esse non è
+suscettibile di disapplicazione, né può essere per ciò solo oggetto di
+questione di legittimità costituzionale, non potendo le disposizioni
+dello Statuto fungere direttamente da norme parametro di
+costituzionalità» (Cass. n. 4411/2020; nello stesso senso, Cass. n.
+16227/2018; Cass. 25722/2009).
+Nel caso di specie, in considerazione dell’espressa previsione
+normativa, fondata per giunta sulla decisione del Consiglio che ha
+autorizzato la deroga alle direttive comunitarie in materia, non può
+esservi alcun dubbio circa l’operatività della norma a decorrere dal
+10 di 14
+
+--- Pagina 11 ---
+
+28/6/2007 (cioè dal giorno successivo alla pubblicazione della
+predetta decisione) ed alla sua applicabilità alla fattispecie in
+esame.
+4. Infine, il terzo motivo di ricorso è inammissibile per difetto di
+specificità.
+4.1 Il ricorrente, pur dolendosi del mancato esame da parte della
+CTR della questione della deducibilità ai fini dell’imposta sul reddito
+dei costi di noleggio (e dunque della violazione dell’art. 112 c.p.c.),
+non ha indicato in quale parte dell’atto di appello aveva trattato
+tale questione, contravvenendo ai principi stabiliti dalla
+giurisprudenza di questa Corte in ordine alle modalità con cui far
+valere tale tipo di doglianza (cfr. Cass. Sez. U. n. 15781/2005 e
+giurisprudenza successiva conforme).
+4.2 La questione, comunque riproposta anche nel suo contenuto a
+questa Corte, è in ogni caso infondata.
+L’art. 164 d.P.R. 917/1986, nel testo ratione temporis applicabile
+alla presente controversia (la norma è stata oggetto di ripetute
+modifiche), prevedeva che: «1. Le spese e gli altri componenti
+negativi relativi ai mezzi di trasporto a motore indicati nel presente
+articolo, utilizzati nell'esercizio di imprese, arti e professioni, ai fini
+della determinazione dei relativi redditi sono deducibili solo se
+rientranti in una delle fattispecie previste nelle successive lettere
+a), b) e b-bis)
+[…]
+b) Nella misura del 40 per cento relativamente alle autovetture e
+autocaravan, di cui alle citate lettere dell'articolo 54 del citato
+decreto legislativo n. 285 del 1992, ai ciclomotori e motocicli il cui
+utilizzo è diverso da quello indicato alla lettera a), numero 1). Tale
+percentuale è elevata all'80 per cento per i veicoli utilizzati dai
+soggetti esercenti attività di agenzia o di rappresentanza di
+commercio. Nel caso di esercizio di arti e professioni in forma
+individuale, la deducibilità è ammessa, nella suddetta misura del 40
+11 di 14
+
+--- Pagina 12 ---
+
+per cento, limitatamente ad un solo veicolo; se l'attività è svolta da
+società semplici e da associazioni di cui all'art. 5, la deducibilità è
+consentita soltanto per un veicolo per ogni socio o associato. Non si
+tiene conto: della parte del costo di acquisizione che eccede lire 35
+milioni per le autovetture e gli autocaravan, lire 8 milioni per i
+motocicli, lire 4 milioni per i ciclomotori; dell'ammontare dei canoni
+proporzionalmente corrispondente al costo di detti veicoli che
+eccede i limiti indicati, se i beni medesimi sono utilizzati in
+locazione finanziaria; dell'ammontare dei costi di locazione e di
+noleggio che eccede lire 7 milioni per le autovetture e gli
+autocaravan, lire 1,5 milioni per i motocicli, lire ottocentomila per i
+ciclomotori. Nel caso di esercizio delle predette attività svolte da
+società semplici e associazioni di cui al citato art. 5, i suddetti limiti
+sono riferiti a ciascun socio o associato. I limiti predetti, che con
+riferimento al valore dei contratti di locazione anche finanziaria o di
+noleggio vanno ragguagliati ad anno, possono essere variati,
+tenendo anche conto delle variazioni dell'indice dei prezzi al
+consumo per le famiglie di operai e di impiegati verificatesi
+nell'anno precedente, con decreto del Ministro delle finanze, di
+concerto con il Ministro dell'industria, del commercio e
+dell'artigianato. Il predetto limite di 35 milioni di lire per le
+autovetture è elevato a 50 milioni di lire per gli autoveicoli utilizzati
+da agenti o rappresentanti di commercio».
+Orbene, l’espressione «i limiti predetti, che con riferimento al
+valore dei contratti di locazione anche finanziaria o di noleggio
+vanno ragguagliati ad anno» può avere senso solo ove si ritenga
+che tali limiti vadano proporzionalmente ridotti se il periodo di
+noleggio considerato sia inferiore all’anno e ciò indipendentemente
+dalla durata del contratto o del periodo di riferimento del canone
+(di noleggio o leasing); diversamente, sarebbe stato sufficiente
+stabilire, con formula assai più semplice, che, per ciascun anno,
+l’importo deducibile non poteva essere superiore ai valori indicati.
+12 di 14
+
+--- Pagina 13 ---
+
+Infine, la norma neppure distingue tra «rapporti di locazione e di
+noleggio che hanno una continuità nel tempo e cioè una
+periodicità» e «singole ed occasionali prestazioni, generate da
+singole circostanze professionali contingenti», sicché non può
+ritenersi, come pretenderebbe il ricorrente, che il limite
+ragguagliato ad anno vada applicato esclusivamente alle prime; ciò
+senza considerare che la distinzione de qua appare assai poco
+chiara e difficilmente operabile.
+È stata fatta quindi corretta applicazione di tale norma
+dall’Amministrazione già in sede di contraddittorio (come riportato
+dallo stesso ricorrente a pag. 2 del ricorso, anche se l’accertamento
+con adesione non si sarebbe perfezionato per mancata adesione del
+contribuente, cfr. controricorso, pag. 2), nonché dalla CTP che ha
+accolto parzialmente il ricorso «riconoscendo costi per componenti
+negativi per € 440,00 con IVA relativa al 20%, così rideterminando
+il reddito di lavoro autonomo in € 85.020,00» (e quindi nei limiti di
+€ 3.615 ragguagliato ad anno, tenendo conto che il professionista
+aveva sostenuto i costi di noleggio per 111 giorni: € 3.615:365 gg
+x 111 gg. x 40% = 440 €).
+5. In definitiva, il ricorso deve essere rigettato.
+6. In considerazione della soccombenza, il ricorrente va
+condannato al pagamento, in favore dell’Agenzia delle Entrate,
+delle spese del giudizio di legittimità che si liquidano come in
+dispositivo.
+P.Q.M.
+La Corte rigetta il ricorso; condanna il ricorrente al pagamento, in
+favore dell’Agenzia delle Entrate, delle spese del giudizio di
+legittimità, che si liquidano in euro 1.400,00 per compensi, oltre
+spese prenotate a debito.
+Dà atto della sussistenza dei presupposti per il versamento, da
+parte del ricorrente, di un ulteriore importo a titolo di contributo
+unificato pari a quello previsto per il ricorso, secondo quanto
+13 di 14
+
+--- Pagina 14 ---
+
+disposto dall’art. 13, comma 1 quater, del d.P.R. 115/2002, se
+dovuto.
+Così deciso in Roma, nella camera di consiglio del 14/11/2025.
+Il Presidente
+LUCIO LUCIOTTI
+14 di 14

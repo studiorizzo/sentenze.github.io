@@ -1,0 +1,592 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 1320/2016 R.G. proposto da:
+AGENZIA DELLE ENTRATE (c.f. 06363391001), in persona del
+Direttore pro tempore, rappresentata e difesa dall’Avvocatura
+Generale dello Stato -ricorrente-
+contro
+FLAT POINT DEVELOPMENT LTD (c.f. 09042090010), rappresentata
+e difesa dall’Avv. Alessandro Tardiola e dall’Avv. Davide De
+Girolamo
+-controricorrente-
+PIERGIORGIO RIVOLTA (c.f. RVLPGR52E27A010W), rappresentato
+e difeso dall’Avv. Stefania Balarini
+-controricorrente e ricorrente incidentale-
+avverso la sentenza della Commissione Tributaria Regionale della
+Lombardia n. 2460/2015, depositata il 5/6/2015;
+
+--- Pagina 2 ---
+
+udita la relazione svolta nella pubblica udienza del 02/12/2025 dal
+Consigliere Gianluca Bordon;
+udito il Pubblico Ministero, in persona del Sostituto Procuratore
+generale Aldo Ceniccola, che ha concluso per il rigetto del ricorso;
+udito per la ricorrente l'Avv. Alessandro Maddalo, che ha concluso
+per l'accoglimento del ricorso principale;
+uditi per la controricorrente Flat Point Development ltd l’Avv.
+Alessandro Tardiola e l’Avv. Davide De Girolamo, che hanno
+concluso per l’inammissibilità o in subordine il rigetto del ricorso
+principale;
+udito per il controricorrente e ricorrente incidentale Piergiorgio
+Rivolta l’Avv. Alessandro Tardiola, in sostituzione dell’Avv. Stefania
+Balarini, che ha concluso per l’inammissibilità o in subordine il
+rigetto del ricorso principale e l’accoglimento del ricorso
+incidentale.
+FATTI DI CAUSA
+1. L’Agenzia delle entrate ha emesso degli avvisi di
+accertamento per maggiori ricavi non dichiarati ai fini IRES e IRAP
+per gli anni 2004-2009 notificati a Flat Point Development ltd, con
+sede legale in Antigua e Barbuda, e al suo presunto amministratore
+di fatto Piergiorgio Rivolta. Gli avvisi sono collegati a un’indagine
+penale e sono stati preceduti da una verifica fiscale conclusasi con
+il PVC 29/11/2011 della Guardia di Finanza. Per il 2004 Flat Point
+Development ltd non aveva presentato la dichiarazione dei redditi;
+per gli anni 2005-2009 aveva presentato una dichiarazione senza
+includere i ricavi e i connessi redditi della propria effettiva attività.
+Secondo gli investigatori, Flat Point Development ltd era di fatto
+controllata dal legale rappresentante, Piergiorgio Rivolta, della SITI
+srl con sede in Milano.
+2. Con la sentenza impugnata n. 2460/2015 la CTR della
+Lombardia ha confermato la sentenza della CTP di Milano n.
+6013/2014. Ha ritenuto che non fosse stato dimostrato né che Flat
+2 di 17
+
+--- Pagina 3 ---
+
+Point Development ltd era una società esterovestita né che la
+società era amministrata di fatto da Piergiorgio Rivolta.
+2.1 Il giudice di primo grado:
+- ha respinto le eccezioni preliminari del Rivolta sulla nullità della
+notifica e sulla sua carenza di legittimazione perché la notifica nei
+suoi confronti e la legittimazione risultavano “coerenti” con la
+prospettazione dei fatti dell’Ufficio;
+- ha ritenuto utilizzabili il contenuto delle intercettazioni telefoniche
+perché il divieto dell’art. 270 c.p.p. di utilizzare le intercettazioni in
+procedimenti diversi, posta a garanzia del diritto di difesa nel
+processo penale, non può essere esteso al procedimento tributario,
+dotato di regola proprie. Il giudice ha però considerato che le
+intercettazioni erano avvenute nell’anno 2010 e che il loro
+contenuto non era valorizzabile anche per gli anni 2004-2009,
+oggetto degli avvisi accertamento;
+- ha evidenziato che la sede legale può anche non coincidere con la
+sede effettiva e che, per verificare l’esterovestizione, occorre
+soffermarsi a) sulla sede dell’amministrazione, rilevando il luogo da
+dove provengono gli impulsi volitivi inerenti all’attività di
+amministrazione; b) sull’oggetto principale, inteso come luogo ove
+l’attività viene svolta.
+Gli elementi di prova tratti dall’indagine penale (le intercettazioni
+nei limiti in cui possono riguardare gli anni precedenti al 2010; le
+dichiarazioni delle persone informate dei fatti e i messaggi
+acquisiti) non erano in grado di dimostrare, in primo luogo, che
+Rivolta, nell’inerzia dei formali amministratori, avesse assunto il
+ruolo di amministratore di fatto da cui partivano gli impulsi volitivi.
+Rivolta, amministratore della SITI srl, non era nemmeno stato
+coinvolto nella verifica fiscale. La società, inoltre, aveva provato di
+gestire personale e pagare i contributi nello Stato di Antigua e
+Barbuda; di disporre di un discreto patrimonio immobiliare in
+Antigua e di aver realizzato nell’isola caraibica un complesso di
+3 di 17
+
+--- Pagina 4 ---
+
+notevoli dimensioni; aveva provveduto al pagamento di utenze in
+quel paese e disponeva di bilanci certificati dalla rete
+multinazionale di imprese di servizi professionali
+PriceWaterhouseCooper (PwC). Era del tutto mancante la prova
+della localizzazione fittizia della residenza fiscale in un paese
+diverso dall’Italia, per sottrarsi agli adempimenti tributari stabiliti
+dall’ordinamento di effettiva appartenenza.
+2.2 Anche la CTR ha ritenuto non provati i presupposti su cui
+l’Agenzia delle entrate aveva fondato la presunzione di
+esterovestizione e l’individuazione dell’amministratore di fatto in
+Rivolta. Oltre a richiamare le considerazioni del giudice di primo
+grado, ha aggiunto:
+- che non sono utilizzabili le intercettazioni telefoniche perché non
+previste dall’ordinamento tributario e peraltro occorre considerare
+che l’Ufficio richiama stralci di conversazioni estrapolate dal loro
+contesto, non idonee a dimostrare il ruolo di amministratore di
+fatto del Rivolta;
+- che il dispositivo della sentenza penale del Tribunale di Milano
+17/3/2015 n. 3274/2015, pronunciata anche nei confronti del
+Rivolta, è privo di valore probatorio perché l’atto non consente di
+comprendere i reati oggetto di contestazione e quindi non è
+associabile ai fatti che devono essere valutati in sede tributaria;
+- che la società aveva prodotto sufficiente documentazione per
+provare che sede sociale e sede fiscale fossero in Antigua così
+come che la gestione da parte dei suoi amministratori fosse
+effettiva e di non aver conseguito vantaggi fiscali in frode
+all’ordinamento italiano.
+3. Contro la sentenza l’Agenzia delle Entrate ha proposto ricorso
+per cassazione affidato a tre motivi.
+4.  Flat Point Development ltd ha depositato controricorso mentre
+Piergiorgio Rivolta ha presentato anche ricorso incidentale con un
+unico motivo.
+4 di 17
+
+--- Pagina 5 ---
+
+5.  Il P.M., nella persona del sostituto Procuratore Generale Aldo
+Ceniccola, ha ribadito in udienza le conclusioni anticipate con la
+memoria 3/11/2025, chiedendo il rigetto del ricorso principale e
+l’assorbimento di quello incidentale.
+6. Hanno presentato memorie ex art. 378 c.p.c. la difesa di Flat
+Point Development ltd l’11/11/2025 e la difesa di Piergiorgio
+Rivolta il 12/11/2025. Entrambe le difese hanno depositato la
+sentenza penale della Corte d’appello di Milano 15/11/2018 n.
+7045, irrevocabile l’1/1/2019, di proscioglimento degli imputati,
+compreso Piergiorgio Rivolta, dai reati di cui agli artt. 4 e 5 d.lgs.
+n. 74 del 2000 perché estinti per prescrizione e dal reato di cui
+all’art. 10 d.lgs. cit. perché il fatto non sussiste. Hanno altresì
+depositato una sentenza del Tribunale di Milano che, su un’istanza
+di fallimento presentata nel 2016 nei confronti di Flat Point
+Development ltd, ha dichiarato il difetto di giurisdizione.
+RAGIONI DELLA DECISIONE
+1. Le sentenze depositate dalle difese dei controricorrenti non
+assumono rilevanza nel giudizio di cassazione.
+1.1 Il primo comma dell’art. 21-bis d.lgs. n. 74 del 2000, introdotto
+dall’art. 1, comma 1, lett. m, d.lgs. n. 87 del 2024, in vigore dal 29
+giugno 2024 (trasposto nell’art. 119 del Testo unico della giustizia
+tributaria - d.lgs. n. 175 del 2024), rubricato «Efficacia delle
+sentenze penali nel processo tributario e nel processo di
+Cassazione», dispone: «1. La sentenza penale irrevocabile di
+assoluzione perché il fatto non sussiste o l'imputato non lo ha
+commesso, pronunciata in seguito a dibattimento nei confronti del
+medesimo soggetto e sugli stessi fatti materiali oggetto di
+valutazione nel processo tributario, ha, in questo, efficacia di
+giudicato, in ogni stato e grado, quanto ai fatti medesimi». Il
+deposito della sentenza penale è ammissibile nel giudizio di
+cassazione agli effetti dell’art. 21-bis, comma 1 cit., purché
+avvenga, come stabilisce il secondo comma della disposizione,
+5 di 17
+
+--- Pagina 6 ---
+
+«fino a quindici giorni prima dell'udienza o dell'adunanza in camera
+di consiglio». La produzione della sentenza penale non è ammessa
+a fini diversi dalla valutazione della rilevanza del giudicato perché il
+deposito di atti e documenti non prodotti nei precedenti gradi del
+processo non è consentita ex art. 372 c.p.c., salvo che gli stessi
+riguardino la nullità della sentenza impugnata o l’ammissibilità del
+ricorso o del controricorso. La questione dell’efficacia del giudicato
+penale di assoluzione nel giudizio tributario è al momento all’esame
+delle Sezioni Unite di questa Corte (cfr. Cass., sez. trib., ord. 4
+marzo 2025 n. 5714) sia in relazione al profilo della estensione
+anche al rapporto impositivo – e non solo a quello delle sanzioni -
+degli effetti della sentenza penale irrevocabile di assoluzione dal
+reato tributario, emessa ad esito del dibattimento con la formula
+"perché il fatto non sussiste", sia in ordine all’applicabilità della
+nuova disciplina all’ipotesi di assoluzione con la formula prevista
+dal secondo comma dell’art. 530 c.p.p. La valutazione che deve
+compiersi nel presente giudizio peraltro non interferisce con
+l’ambito di sindacato devoluto alle Sezioni Unite.
+1.2 La sentenza penale ha assolto nel merito, oltre altri imputati,
+Piergiorgio Rivolta, quale amministratore di fatto della Flat Point
+Development ltd, dal delitto di occultamento delle scritture contabili
+previsto dall’art. 10 d.lgs. n. 74 dal 2000. Il fatto accertato è
+diverso rispetto a quelli oggetto del giudizio tributario. Rispetto ai
+delitti di dichiarazione infedele e omessa dichiarazione, puniti
+rispettivamente dagli artt. 4 (annualità 2005-2009) e 5 (annualità
+2004) d.lgs. n. 74 del 2000 Rivolta è stato prosciolto per essere i
+reati estinti per prescrizione, sul presupposto della non applicabilità
+dell’art. 129, comma 2, c.p.p., non emergendo ictu oculi
+l’innocenza dell’imputato. Nella sentenza penale non è dunque
+presente un accertamento con forza di giudicato che possa
+estendersi al presente giudizio tributario, non essendo stata
+pronunciata con riferimento ai reati di dichiarazione infedele e
+6 di 17
+
+--- Pagina 7 ---
+
+omessa dichiarazione un’assoluzione merito con le formule indicate
+dall’art. 21-bis.
+1.3 L’ulteriore decisione costituita dalla sentenza del Tribunale
+fallimentare di Milano non può avere alcun diretto effetto nel
+presente giudizio. Pronunciandosi sulla richiesta di fallimento di Flat
+Point Development ltd, il Tribunale ha negato la giurisdizione del
+giudice italiano sul presupposto che in quella causa mancasse la
+prova che la società avesse all’estero una sede fittizia e che la sede
+effettiva fosse in Italia.
+2. Con il primo motivo del ricorso principale l’Agenzia delle
+entrate deduce, in relazione all’art. 360, comma 1, n. 4, c.p.c. la
+violazione o falsa applicazione degli artt. 7 d.lgs. n. 546 del 1992,
+degli artt. 115 e 116 c.p.c. e dell’art. 270 c.p.p. La sentenza deve
+essere annullata perché la CTR ha ritenuto non valutabile, quale
+elemento indiziario, il contenuto delle intercettazioni telefoniche
+acquisite nel procedimento penale e trasfuse nel PVC, utili per
+consentire di attribuire il potere gestorio della società caraibica al
+legale rappresentante della SITI srl Piergiorgio Rivolta. Nel negare
+l’utilizzabilità delle intercettazioni nel giudizio tributario, la CTR si
+pone in contrasto con un consolidato orientamento
+giurisprudenziale e ha finito per inficiare il giudizio sul fatto in
+quanto la restante motivazione sugli elementi indiziari si riduce a
+brevi e stereotipate considerazioni.
+3. Il primo motivo del ricorso principale, salvo quanto esposto
+infra nel paragrafo 3.2, non è fondato.
+3.1 La motivazione del giudice di secondo grado, a differenza di
+quella del giudice di primo grado, è errata nella parte in cui ritiene
+non utilizzabili nel giudizio tributario alcuni estratti, riportati nel
+PVC, dei brogliacci delle intercettazioni telefoniche disposte in un
+procedimento penale. Sul punto, tuttavia, è sufficiente procedere
+alla correzione della motivazione ai sensi dell’art. 384, quarto
+comma, c.p.c. perché il dispositivo rimane conforme al diritto.
+7 di 17
+
+--- Pagina 8 ---
+
+3.2 Nel processo tributario, al pari del processo civile, sono
+utilizzabili prove acquisite di un diverso procedimento svoltosi tra le
+stesse o altre parti, una volta che siano acquisite e che sulle stesse
+sia stato consentito il contraddittorio. Come nel processo civile,
+possono essere utilizzate anche le intercettazioni telefoniche o
+ambientali effettuate in un procedimento penale purché
+legittimamente disposte nel rispetto delle norme costituzionali e
+procedimentali, non ostandovi i limiti previsti dall'art. 270 c.p.p.,
+riferibili al solo procedimento penale in cui si giustificano limitazioni
+più stringenti in ordine all'acquisizione della prova, in deroga al
+principio della ricerca della verità materiale (Cass., Sez. U.,
+3271/2013 e Cass., Sez. U., 15314/2010). Questa Corte ha
+ripetutamente affermato che nel processo tributario le dichiarazioni
+rilasciate da terzi, le risultanze delle indagini penali condotte nei
+confronti di altri soggetti, gli atti trasmessi dalla Guardia di
+Finanza, risultanti dall'attività di polizia giudiziaria espletata nei
+confronti del contribuente, senza esclusione dei verbali redatti a
+seguito d'intercettazioni telefoniche disposte in sede penale, se
+contenuti negli atti (come il processo verbale di constatazione)
+allegati all'avviso di accertamento o di rettifica o trascritti nella
+motivazione dello stesso, costituiscono parte integrante del
+materiale indiziario e probatorio, che il giudice di merito è tenuto a
+valutare, dandone adeguato conto nella motivazione della
+sentenza. Le intercettazioni entrano a far parte, a pieno titolo, degli
+elementi di prova che il giudice tributario di merito deve valutare,
+così come previsto dall'art. 63 del d.P.R. n. 633 del 1972 in quanto
+«tale norma non contrasta né con il principio di segretezza delle
+comunicazioni di cui all'art. 15 Cost., perché le intercettazioni che
+hanno permesso il reperimento dell'atto sono autorizzate da un
+giudice, né con il diritto di difesa di cui all'art. 24 Cost., perché, se
+è vero che il difensore non partecipa alla formazione della prova, è
+anche vero che nel processo tributario l'atto acquisito ha un minor
+8 di 17
+
+--- Pagina 9 ---
+
+valore probatorio rispetto a quello riconosciutogli nel processo
+penale» (Cass. 16290/21, Cass. 416/15, Cass. 2916/13 e Cass.
+4306/10).
+3.3 La CTR non si è però limitata ad escludere di poter riconoscere
+valore presuntivo alle intercettazioni nel processo tributario ma ha
+ritenuto che alcuni stralci di conversazioni estrapolate dal loro
+contesto non fossero sufficienti per dimostrare che Piergiorgio
+Rivolta era l’amministratore di fatto della società. Il significato della
+valutazione, ritenuta stereotipata dalla difesa erariale, meglio si
+comprende se si considera che nella motivazione del giudice di
+primo grado richiamata dalla sentenza impugnata era stato
+evidenziato come gli stralci delle conversazioni attenessero a un
+periodo temporale successivo (2010) a quello preso in
+considerazione dagli avvisi di accertamento (2004-2009). La
+questione dunque verteva non solo sul significato attribuibile al
+contenuto delle conversazioni intercettate ma anche sul loro valore
+rispetto a fatti risalenti ad anni precedenti. Con la proposizione del
+ricorso per cassazione, il ricorrente non può rimettere in
+discussione, contrapponendone uno difforme, l'apprezzamento in
+fatto dei giudici del merito, tratto dall'analisi degli elementi di
+valutazione disponibili ed in sé coerente, atteso che
+l'apprezzamento dei fatti e delle prove è sottratto al sindacato di
+legittimità, dal momento che, nell'ambito di quest'ultimo, non è
+conferito il potere di riesaminare e valutare il merito della causa,
+ma solo quello di controllare, sotto il profilo logico formale e della
+correttezza giuridica, l'esame e la valutazione fatta dal giudice di
+merito, cui resta riservato d’individuare le fonti del proprio
+convincimento e, all'uopo, di valutare le prove, controllarne
+attendibilità e concludenza e scegliere, tra le risultanze probatorie,
+quelle ritenute idonee a dimostrare i fatti in discussione (Cass.
+23872/2020 e Cass. 9097/2017).
+9 di 17
+
+--- Pagina 10 ---
+
+4. Con il secondo motivo del ricorso principale l’Agenzia delle
+entrate eccepisce, in rapporto all’art. 360, comma 1, n. 4, c.p.c., la
+violazione o falsa applicazione degli artt. 115 e 116 c.p.c. in quanto
+non era revocabile in dubbio che Piergiorgio Rivolta e altri due
+esponenti delle società coinvolte fossero stati condannati in sede
+penale per reati fiscali «fondati su fatti che erano i medesimi ad
+essi contestati nel procedimento penale». La pendenza di un
+procedimento penale per i medesimi fatti oggetto del presente
+giudizio non era mai stata contestata.
+5. Il secondo motivo del ricorso principale è inammissibile per
+sopravvenuta carenza d’interesse. Come già evidenziato, alle
+memorie ex art. 378 c.p.c. è stata allegata la sentenza penale della
+Corte di appello di Milano 15/11/2018 n. 7045, irrevocabile
+l’1/1/2019. La sentenza della Corte territoriale consente di
+apprezzare il collegamento – non evincibile dal solo dispositivo - del
+giudizio tributario con quello penale, perché anche nel giudizio
+penale si era discusso dell’esterovestizione della Flat Point
+Development ltd e del ruolo rivestito nella società da Piergiorgio
+Rivolta. La decisione assunta in grado di appello documenta
+peraltro che la sentenza di condanna del Tribunale n. 3274/2015
+sia stata interamente riformata. Di conseguenza non assume più
+rilevanza stabilire quale valore probatorio potesse avere quel
+dispositivo, non potendo ritenersi accertata in sede penale,
+nemmeno con una sentenza di merito non irrevocabile, la
+responsabilità del Rivolta per i reati di omessa dichiarazione e
+infedele dichiarazione della società Flat Point Development ltd.
+6. Con il terzo motivo del ricorso principale l’Agenzia delle entrate
+lamenta, con riferimento all’art. 360, comma 1, n. 3, c.p.c., la
+violazione o falsa applicazione dell’art 73, comma 3, t.u.i.r. perché,
+presi in considerazione i tre criteri di collegamento previsti, nulla
+esclude che un soggetto possa essere considerato come proprio
+residente da più ordinamenti. In assenza di una convenzione contro
+10 di 17
+
+--- Pagina 11 ---
+
+le doppie imposizioni, è “normale” che la società potesse essere
+considerata propria residente sia dall’ordinamento di Antigua e
+Barbuda che dall’ordinamento italiano. Per escludere che la società
+avesse residenza in Italia, il giudice ha valorizzato elementi che
+mettono in luce una serie di errori di diritto. Una società può
+operare in uno stato estero ma in virtù dei criteri di collegamento
+dell’art 73 cit. può considerarsi anche residente in Italia. Era ben
+possibile che la società dovesse ritenersi residente in Italia –a
+prescindere da sede sociale e fiscale- se in Italia fosse collocata la
+sede della direzione effettiva. Il giudice avrebbe dovuto escludere
+che la società fosse diretta dall’Italia dall’amministratore di fatto
+Piergiorgio Rivolta.
+7. Anche il terzo motivo del ricorso principale non è fondato.
+7.1 L’art. 73, comma 3, t.u.i.r, ratione temporis applicabile,
+stabiliva: «Ai fini delle imposte dirette si considerano residenti le
+società e gli enti che per la maggior parte del periodo d’imposta
+hanno la sede legale o la sede dell’amministrazione o l’oggetto
+principale nel territorio dello Stato […]». La sentenza di secondo
+grado, nel richiamare sul punto quella di primo grado, muove dal
+condivisibile presupposto (Cass. 23150/2022) che i tre criteri che
+consentono l’assoggettamento alla potestà impositiva dello Stato
+italiano, tra loro collegati da congiunzioni disgiuntive, sono
+paritetici e alternativi e che quindi è sufficiente che sia soddisfatto
+anche solo uno di essi perché il soggetto possa considerarsi
+residente ai fini fiscali nel territorio dello Stato.
+7.2 Per esterovestizione s'intende la pratica della fittizia
+localizzazione della residenza fiscale all'estero, in particolare in un
+Paese con un trattamento fiscale più vantaggioso di quello
+nazionale, di una società operativa sul territorio nazionale, allo
+scopo di sfruttare il regime più vantaggioso di quello Stato e di
+sottrarsi al più gravoso regime nazionale (Cass. 6476/2021 e Cass.
+15424/2023). Nel rispetto dei principi unionali in tema di libertà di
+11 di 17
+
+--- Pagina 12 ---
+
+stabilimento, è stato evidenziato che quel che rileva «[…] non è
+accertare la sussistenza o meno di ragioni economiche diverse da
+quelle relative alla convenienza fiscale, ma accertare se il
+trasferimento in realtà vi è stato o meno, se, cioè, l'operazione sia
+meramente artificiosa (wholly artificial arrangement), consistendo
+nella creazione di una forma giuridica che non riproduce una
+corrispondente e genuina realtà economica» (Cass. 2869/2013); è
+necessario accertare che si tratti di costruzioni puramente
+artificiose, prive di effettività economica, il cui scopo essenziale è
+limitato all'ottenimento di un vantaggio fiscale, attraverso «la
+fittizia localizzazione della residenza fiscale di una società all'estero,
+in particolare in un Paese con un trattamento fiscale più
+vantaggioso di quello nazionale, allo scopo, ovviamente, di sottrarsi
+al più gravoso regime nazionale» (Cass. 33234/2018). L’attenzione
+al dato della "fittizietà", della "artificiosità", dell'assenza di
+"effettività economica", rispetto ai vantaggi economici e fiscali, è
+coerente con la giurisprudenza unionale (Corte giust., 17 dicembre
+2015, WebMindLicenses kft, causa C419/14, punto 42; Corte
+giust., 21 febbraio 2006, Halifax e a., causa C-255/02, punto 73;
+Corte giust., 21 febbraio 2008, Part Service, causa C-425/06,
+punto 47, Corte giust., 22 febbraio 2018, X BV e X NV, cause C-
+398/16 e 399/16, punto 49), secondo cui, quando può scegliere tra
+due operazioni, il contribuente non è obbligato a preferire quella
+che implica il pagamento di maggiori imposte ma, al contrario, ha il
+diritto di scegliere la forma di conduzione degli affari che gli
+consenta di ridurre la sua contribuzione fiscale (Cass.
+23842/2025).
+7.3 L’Agenzia delle entrate evidenzia che è possibile che
+un’impresa che opera effettivamente in uno Stato estero, possa
+risultare, applicati i criteri di collegamento dell’art. 73 t.u.i.r.,
+residente anche in Italia. È noto che i criteri interni di
+determinazione della residenza e i criteri previsti da altri Stati
+12 di 17
+
+--- Pagina 13 ---
+
+possono non essere simmetrici, così determinandosi il fenomeno
+della doppia residenza. Mancando norme pattizie bilaterali contro la
+doppia imposizione tra l’Italia e lo Stato di Antigua e Barbuda, è
+necessario fare riferimento alla norma interna dell’art. 73 t.u.i.r.
+Non venendo in rilievo le presunzioni legali relative dei commi 5-bis
+e 5-ter sulla residenza in italia di società ed enti, devono essere
+considerati i tre criteri del terzo comma per individuare la residenza
+fiscale. Questa Corte ha ripetutamente sostenuto: «in materia di
+imposte sui redditi delle società, l'applicazione dei concorrenti
+criteri di collegamento di cui all'art. 73, comma 3, d.P.R. n. 917 del
+1986, della sede legale o sede dell'amministrazione od oggetto
+principale in Italia è compatibile con la contestazione, da parte
+dell'Amministrazione finanziaria alla parte contribuente, di
+un'evasione fiscale, a prescindere dall'accertamento di un'eventuale
+finalità elusiva di quest'ultima, che sia volta a perseguire uno
+specifico vantaggio fiscale che altrimenti non le spetterebbe»
+(Cass. 34723/2022 e Cass. 23150/2022). La finalità di ottenere un
+vantaggio fiscale non spettante perseguita dagli amministratori di
+una società può costituire un elemento di fatto indiziario ma non è
+richiesta dal terzo comma dell’art. 73 per stabilire se la società sia
+o no residente ai fini delle imposte dirette nel territorio dello Stato.
+I criteri di collegamento con il territorio italiano non servono
+unicamente per far emergere intenti elusivi diretti a sottrarsi a un
+meno conveniente regime fiscale, comunemente inquadrati nel
+fenomeno dell’esterovestizione. La rilevanza dei criteri di
+collegamento territoriale individuati dalla norma prescinde
+dall’eventuale alterazione, da parte della società contribuente, della
+realtà oggettiva, al fine di configurare una residenza diversa da
+quella effettiva (Cass. 11709/2022, Cass. 11710/2022, Cass.
+1753/2023 e Cass. 25917/2024).
+7.4 L’Amministrazione richiama il concetto di «sede della
+direzione effettiva» (place of effective management), attualmente
+13 di 17
+
+--- Pagina 14 ---
+
+rinvenibile nella nuova versione dell’art. 73, comma 3 t.u.i.r., come
+modificato dall'art. 2, comma 1, lett. a, d.lgs. n. 209 del 2023 con
+l’obiettivo, secondo i principi della delega fiscale (art. 3, comma 1,
+lett. c, legge n. 111 del 2023), di rendere la disciplina della
+residenza delle società e degli enti diversi dalle società coerente
+con la migliore prassi internazionale e con le convenzioni
+sottoscritte dall'Italia per evitare le doppie imposizioni. Il nuovo
+terzo comma prevede: «Ai fini delle imposte sui redditi si
+considerano residenti le società e gli enti che per la maggior parte
+del periodo di imposta hanno nel territorio dello Stato la sede
+legale o la sede di direzione effettiva o la gestione ordinaria in via
+principale. Per sede di direzione effettiva si intende la continua e
+coordinata assunzione delle decisioni strategiche riguardanti la
+società o l'ente nel suo complesso […]». Ai sensi dell'art. 7, comma
+2,  d.lgs. n. 209 del 2023, la disposizione si applica a decorrere dal
+periodo d’imposta successivo a quello in corso alla data di entrata
+in vigore del decreto. La «sede della direzione effettiva» non
+appare comunque porsi in rottura di continuità rispetto
+all’interpretazione della nozione di «sede dell’amministrazione»
+presente nel testo dell’art 73 t.u.i.r. ratione temporis applicabile (v.
+i richiami di Cass. 1753/2023 al Modello OCSE del 2017, che
+utilizza, per risolvere le ipotesi di doppia residenza, il criterio del
+«place of effective management», anche se non più in forma
+esclusiva). La «sede dell’amministrazione», come contrapposta a
+sede legale, coincide infatti con la «sede effettiva» di matrice
+civilistica, intesa come il luogo dove hanno concreto svolgimento le
+attività amministrative e di direzione dell'ente e si convocano le
+assemblee, e cioè il luogo deputato, o stabilmente utilizzato, per
+l'accentramento - nei rapporti interni e con i terzi - degli organi e
+degli uffici societari in vista del compimento degli affari e
+dell'impulso dell'attività dell'ente (Cass. 23842/2025, Cass.
+15424/2021, Cass. 16697/2019 e Cass. 2813/2014).
+14 di 17
+
+--- Pagina 15 ---
+
+7.5 Anche se i due criteri sostanziali previsti  dall’art. 73 t.u.i.r., in
+alternativa a quello formale della sede legale, non servono
+unicamente per contrastare intenti elusivi realizzati con l’apparente
+localizzazione all’estero della residenza (i casi in cui una società
+viene “vestita” come fosse estera), occorre fornirne
+un’interpretazione compatibile con la richiamata giurisprudenza
+unionale in tema di libertà di stabilimento, secondo cui la
+circostanza che una società sia stata creata in uno Stato membro
+per fruire di una legislazione più vantaggiosa non costituisce per se
+stessa un abuso di tale libertà. Data la localizzazione della sede
+della società controricorrente, nel caso in esame non vengono in
+rilievo i principi  unionali in tema di libertà di stabilimento. Se si
+focalizza l’attenzione, come richiesto dall’Amministrazione, sulla
+«sede dell’amministrazione», anche intesa come «place of effective
+management», le conclusioni del giudice di merito non appaiono il
+risultato di un’errata interpretazione della norma interna. Per i
+giudici di merito non era stato provato che la società avesse
+residenza in Italia non solo per le ragioni ricordate dalla difesa
+erariale nel terzo motivo del ricorso (localizzazione della sede
+legale, svolgimento di attività e ubicazioni di beni all’estero) ma
+anche perché non era stato dimostrato che Piergiorgio Rivolta fosse
+l’amministratore di fatto della società. La ricorrente non si
+confronta con l’intera motivazione della sentenza di merito, avendo
+il giudice escluso che la società fosse amministrata (anche o solo)
+dal Rivolta attraverso SITI srl. Parte ricorrente finisce per
+contestare la valutazione di fatto del giudice sull’effettivo ruolo
+assunto dal Rivolta all’interno della compagine sociale. È attraverso
+la figura del Rivolta che avrebbe potuto ritenersi che la «sede
+dell’amministrazione» della società, intesa come sede effettiva,
+fosse in territorio italiano. Che il radicamento della sede
+dell’amministrazione si trovasse in Italia è una questione
+eminentemente fattuale ed è stata risolta negativamente,
+15 di 17
+
+--- Pagina 16 ---
+
+escludendo che Rivolta amministrasse o contribuisse ad
+amministrare la società.
+8. Con il ricorso incidentale Piergiorgio Rivolta deduce, in
+relazione all’art. 360, comma 1, n. 4, c.p.c. la nullità della sentenza
+per aver omesso di motivare in ordine alle proprie eccezioni
+preliminari sollevate con violazione o falsa applicazione dell’art. 36
+d.P.R. n. 546 del 1992. Con la prima eccezione il ricorrente
+incidentale aveva contestato che non avrebbe potuto procedersi
+alla notifica ex art. 145, comma 3, c.p.c. al presunto
+amministratore di fatto dell’avviso di accertamento della società,
+spettando la rappresentanza legale della società agli amministratori
+nominati a norma di legge. Con la seconda eccezione Rivolta aveva
+contestato la propria “soggettività passiva”, non essendo tenuto,
+come pretenderebbe l’Ufficio, ad assolvere un presunto debito per
+maggiori imposte di un soggetto terzo.
+9. Attenendo a questioni logicamente pregiudiziali per la posizione
+di una delle parti, il ricorso incidentale avrebbe dovuto essere
+esaminato per primo perché, qualora accolto, non vi sarebbe stata
+la necessità di esaminare la fondatezza del ricorso principale con
+riferimento all’amministratore di fatto. Si è ritenuto tuttavia di
+invertire l’ordine delle questioni, esaminando per primo il ricorso
+principale perché, per un insegnamento delle Sezioni Unite di
+questa Corte (Cass., sez. U., 7381/2013), il ricorso incidentale
+proposto dalla parte totalmente vittoriosa nel giudizio di merito,
+che investa questioni preliminari di merito o pregiudiziali di rito, ha
+natura di ricorso condizionato all’accoglimento del ricorso
+principale, indipendentemente da ogni espressa indicazione di
+parte. Ne consegue che, laddove le medesime questioni
+pregiudiziali di rito o preliminari di merito siano state oggetto di
+decisione esplicita o implicita da parte del giudice di merito, tale
+ricorso incidentale va esaminato dalla Corte solo in presenza
+dell’attualità dell’interesse, ovvero unicamente nell’ipotesi della
+16 di 17
+
+--- Pagina 17 ---
+
+fondatezza del ricorso principale. Atteso che il contribuente era
+risultato vincitore in sede di merito, il suo ricorso deve essere
+riqualificato come ricorso incidentale condizionato e rimane
+assorbito.
+10. Il ricorso principale deve pertanto essere rigettato mentre il
+ricorso incidentale rimane assorbito. Le spese seguono la
+soccombenza. Tenuto conto del valore della causa e dei parametri
+del d.m. n. 55 del 2014, i compensi vengono liquidati nella somma
+di euro 35.000,00 (euro 16.000,00 per fase di studio; euro
+10.500,00 per la fase introduttiva ed euro 8.500,00 per la fase
+decisionale) in favore di ciascuna delle parti controricorrenti.
+11. Stante la soccombenza dell’Agenzia delle Entrate, ammessa
+alla prenotazione a debito del contributo unificato per essere
+amministrazione pubblica difesa dall’Avvocatura Generale dello
+Stato, non si applica (Cass. 1778/2016, Cass. 19926/2024 Cass.
+18048/2025) l’articolo 13 comma 1-quater del d.P.R. 115 del 2002,
+nel testo introdotto dall’art. 1, comma 17, della legge 228 del
+2012.
+P.Q.M.
+La Corte rigetta il ricorso principale e dichiara assorbito quello
+incidentale. Condanna l’Agenzia delle entrate al pagamento delle
+spese di lite in favore di Flat Point Development ltd e di Piergiorgio
+Rivolta, liquidate per ciascuna delle due parti nella somma di euro
+35.000,000 per compensi, oltre spese generali (15%), iva e cpa.
+Così deciso, in Roma, il 2 dicembre 2025.
+Il Consigliere estensore il Presidente
+Gianluca Bordon Lucio Napolitano
+17 di 17

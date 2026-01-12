@@ -1,0 +1,476 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 6448/2024 R.G. proposto da:
+S.INOX SPA, elettivamente domiciliata in GENOVA XX SETTEMBRE 14/17,
+presso lo studio dell’avvocato ORSI GIORGIA (RSOGRG74M63D969E), con
+indirizzo pec giorgia.orsi@ordineavvgenova.it, che la rappresenta e
+difende unitamente all'avvocato PENNACINO ENRICO
+(PNNNRC75B21D969E)
+-ricorrente-
+contro
+AGENZIA DOGANE MONOPOLI, elettivamente domiciliata in ROMA VIA DEI
+PORTOGHESI 12, presso l'AVVOCATURA GENERALE DELLO STATO
+(ADS80224030587) che la rappresenta e difende
+-controricorrente-
+
+--- Pagina 2 ---
+
+avverso la SENTENZA di CORTE DI GIUSTIZIA TRIBUTARIA II GRADO
+LIGURIA n. 572/2023 depositata il 29/08/2023.
+Udita la relazione della causa svolta nella pubblica udienza del 16/09/2025
+dal Consigliere ANDREA ANTONIO SALEMME.
+Udite le conclusioni, come “infra” riportate, del Pubblico Ministero e delle parti.
+FATTI DI CAUSA
+1. S.INOX S.P.A., con due dichiarazioni del 2019, importava alla
+dogana di Genova tubi in acciaio inox dichiarati di origine indiana con
+codice 7304 41 00 90 e perciò liberi da dazi. Le dichiarazioni erano
+sottoposte a revisione dall’Ufficio, il quale – su segnalazione (“final
+report”) dell’OLAF, che aveva accertato l’effettiva origine cinese, con
+conseguente assoggettamento a dazio antidumping di cui al Reg. (UE) n.
+2018/330, di tubi in acciaio inox importati dalla Cina in India e riesportati
+nell’UE da Maxim Tubes Company Pvt. Ltd., fornitrice indiana della
+contribuente, in quanto non sottoposti a lavorazione o sottoposti a minime
+lavorazioni insufficienti a conferire l’origine indiana – con avviso di
+accertamento suppletivo di rettifica prot. n. 25272/RU recuperava a
+tassazione maggiori diritti di confine e con separato atto n. 261100-5-
+2021 prot. n. 27273/RU (oggetto del presente giudizio: cfr. il frontespizio
+della sentenza in epigrafe) irrogava le sanzioni ex art. 303, comma 3, lett.
+e), DPR n. 43 del 1973 (TULD).
+2. La contribuente impugnava l’avviso nanti la CTP di Genova, che
+respingeva il ricorso.
+3. La contribuente proponeva appello nanti la CGT II della Liguria, che,
+con la sentenza in epigrafe, lo respingeva, essenzialmente osservando che
+è rimasta immutata la “voce doganale” (7304), che non v’è prova della
+“trasformazione” dei “materiali”, che non trova applicazione l’art. 119,
+2
+
+--- Pagina 3 ---
+
+comma 3, CDU e che le sanzioni sono state applicate in conformità alla
+normativa.
+4. La contribuente propone ricorso per cassazione con nove motivi.
+L’Agenzia delle Dogane e dei Monopoli resiste con controricorso. La
+contribuente deposita ampia memoria telematica. Il Pubblico Ministero, in
+persona del Sost. Proc. Gen. Dott.ssa Olga Pirone, giusta conclusioni
+scritte del 22 luglio 2025, “chiede che la Corte di Cassazione accolga il
+ricorso con riferimento alle ragioni del settimo motivo”.
+All’odierna pubblica udienza, ad esito di discussione, il Pubblico
+Ministero, in persona del medesimo Sost. Proc. Gen., reitera tali
+conclusioni. I Difensori delle parti – nelle persone, rispettivamente, degli
+Avv. Giorgia Orsi ed Enrico Pennacino, in rappresentanza della
+contribuente, e dell’Avv. Anna Collabolletta, per l’Avvocatura generale dello
+Stato, in rappresentanza dell’Agenzia – si riportano ai rispettivi atti,
+richiamando le conclusioni in esse prese, che ulteriormente illustrano.
+RAGIONI DELLA DECISIONE
+1. Il primo ed il quinto motivo, per parziale sovrapponibilità di censure,
+possono essere illustrati e trattati congiuntamente.
+2. Con il primo motivo si denuncia, ai sensi dell’art. 360, comma 1, n.
+3, cod. proc. civ., violazione e falsa applicazione “in relazione alla SA e
+all’Allegato 22-01 DAC reg. 2454/1993 e all’art. 60 CDU. Contrasto con la
+nozione di tubo enunciata dalla Corte”, giacché ragionamento e conclusioni
+della CGT II “sono diametralmente opposte a quelle della Corte che
+riconosce l’origine anche a lavorazioni a freddo su “tubi” e non solo su
+profilati cavi della VD 730449”; “alla medesima conclusione, peraltro,
+avrebbe potuto giungere la Corte di secondo grado confidando nei rilievi
+della Commissione europea [… nel] reg. CE 2017/2093 […]”.
+3. Con il quinto motivo si denuncia, ai sensi dell’art. 360, comma 1, n.
+4, cod. proc. civ., “violazione dell’art. 2967 cc. in relazione gli artt. 113,
+115 e 116 cpc circa la valutazione delle prove”. Il motivo si appunta sul
+3
+
+--- Pagina 4 ---
+
+passaggio della sentenza impugnata in cui si legge che “appare decisivo il
+fatto che la voce doganale all'importazione non era corretta e nessuna
+concreta prova è stata fornita, sul punto, dalla società. Dal verbale
+dell'OLAF si desume che le importazioni delle merci erano classificate
+erroneamente alla voce doganale 7304 corrispondente a quella della
+successiva riesportazione”. “Tale passaggio” – afferma il motivo – denota
+il misconoscimento delle “risultanze dell’OLAF”. “L’OLAF non ha rilevato
+alcuna erronea indicazione della merce in importazione in India, bensì ha
+ritenuto che tali semilavorati importati, mother tubes, non potessero
+essere assimilati ai tubi […] della voce 730449, così da non rientrare nella
+regola di origine. Sul punto la Corte di Giustizia come sottolineato sopra
+ha invece ritenuto la regola di origine dell’allegato 22.01 illegittima
+laddove non assimila i mother tubes ai tubi di cui alla VD 730449”.
+4. Preliminarmente è a rilevarsi che il quinto motivo, formulato come
+“error in procedendo” ai sensi del n. 4 del comma 1 dell’art. 360 c.p.c., si
+presta ad essere riqualificato “sub specie” di un “error in iudicando” ai
+sensi del n. 3 del medesimo comma, atteso che, quel che in definitiva, alla
+luce del corrispondente sviluppo argomentativo, esso mira a denunciare è
+il malgoverno, nella sentenza impugnata, della regola di riparto dell’onere
+della prova, per aver essa erroneamente preteso dalla contribuente, al fine
+di andar esente da addebiti, la dimostrazione dei presupposti del
+cambiamento della prima parte della voce doganale (7304).
+5. I superiori motivi sono fondati, ai sensi della motivazione a seguire.
+6. Viene in rilievo la sentenza della Corte di giustizia del 21 settembre
+2023 in causa C 210-22, Stappert Deutschland GmbH, sulla regola
+d’origine di cui all’allegato 22-01 al reg. (UE) n. 2015/2446, relativamente
+all’acquisizione dell’origine non preferenziale dei tubi di acciaio inox
+formati a freddo e classificati alla voce doganale (v.d.) 7304 41 con
+fabbricazione a partire da profilati cavi classificati alla v.d. 7304 49.
+4
+
+--- Pagina 5 ---
+
+Ai fini della corretta determinazione degli effetti di tale sentenza sul
+presente giudizio, premesso che il reg. (UE) n. 2015/2446 è un
+‘regolamento delegato’, in quanto volto a dare attuazione, integrandovisi,
+alla fonte normativa primaria costituita dal reg. (UE) n. 2013/952 recante
+il ‘Codice Doganale dell’Unione’ (CDU), cui, per l’effetto, è
+gerarchicamente vincolato ex art. 290 TFUE, v’è da rilevare che la regola
+d’origine dell’allegato 22-01, prima della sentenza medesima, prevedeva
+che la merce potesse acquisire l’origine del Paese di lavorazione soltanto
+in due casi: a) se essa avesse subito un cambiamento della cd. ‘voce
+principale’ (con riferimento alle prime quattro cifre, o “digit”, della
+classificazione, cui, nell’applicazione della nomenclatura, seguono altresì le
+due cifre della ‘sottovoce’ e per vero anche altre ulteriori, con sempre
+maggior grado di dettaglio); ovvero b) se i tubi della voce doganale (v.d.)
+7304.41 fossero stati realizzati a partire da profilati cavi di cui alla v.d.
+7304 49, così restando limitata a questo solo rapporto di trasformazione la
+rilevanza della diversità delle sottovoci (giust’appunto da 41 a 49).
+Su tale sostrato normativo è andata innestandosi la citata sentenza, in
+conclusione della quale la Corte di giustizia, investita di rinvio pregiudiziale
+dal Giudice tributario austriaco in un caso riguardante l’origine di sbozzi di
+tubo di acciaio inossidabile laminati a freddo che, a partire da importazioni
+cinesi, avevano ricevuto l’ultima lavorazione in Corea del Sud, dopo
+un’ampia analisi al contempo tecnica e giuridica, giunge ad enunciare due
+principi, compenetrantisi vicendevolmente.
+Il primo enuncia:
+La regola primaria applicabile alle merci di cui alla sottovoce 7304 41
+del sistema armonizzato di designazione e di codificazione delle merci,
+prevista all’allegato 22-01 del regolamento delegato (UE) 2015/2446 della
+Commissione, del 28 luglio 2015, che integra il regolamento (UE) n.
+952/2013 del Parlamento europeo e del Consiglio in merito alle modalità
+relative a talune disposizioni del codice doganale dell’Unione, come
+5
+
+--- Pagina 6 ---
+
+modificato dal regolamento delegato (UE) 2018/1063 della Commissione,
+del 16 maggio 2018, deve essere interpretata nel senso che non rientra
+nella nozione di «profilato cavo», ai sensi di tale regola, uno «sbozzo di
+tubo» formato a caldo, diritto e a parete di spessore uniforme, che non
+soddisfa i requisiti di una norma tecnica per tubi senza saldatura in acciaio
+inossidabile lavorati a caldo e a partire dal quale sono fabbricati, mediante
+trasformazione a freddo, tubi di sezione e spessore di parete diversi
+rientranti nella sottovoce 7304 41 del sistema armonizzato di designazione
+e di codificazione delle merci.
+È importante rilevare che, nell’indicare ciò che “non rientra nella
+nozione di «profilato cavo»”, la Corte di Giustizia, di converso, indica
+altresì ciò che rientra, non solo e non tanto nella nozione di profilato cavo,
+ma direttamente nella nozione di tubo, ossia lo “«sbozzo di tubo» formato
+a caldo, diritto e a parete di spessore uniforme”, che “soddisfa i requisiti di
+una norma tecnica per tubi senza saldatura in acciaio inossidabile lavorati
+a caldo e a partire dal quale sono fabbricati, mediante trasformazione a
+freddo, tubi di sezione e spessore di parete diversi rientranti nella
+sottovoce 7304 41”. In ragione di ciò, lo sbozzo di tubo avente tali
+caratteristiche, definibile direttamente tubo, legittima l’applicazione della
+regola d’origine, in tanto in quanto, a partire da esso, “sono ‘fabbricati’,
+mediante ‘trasformazione a freddo’ [enfasi aggiunta, n.d.r.], tubi di
+sezione e spessore di parete diversi rientranti nella sottovoce 7304 41”.
+Talché, in rapporto allo sbozzo di tubo (che in definitiva è un tubo pur
+lavorato in modo ancora approssimativo), assume (“rectius”, seguita ad
+assumere) rilevanza il passaggio, per effetto della (ulteriore) lavorazione
+consistente nella “trasformazione a freddo”, dalla sottovoce 49 alla
+sottovoce 41.
+Proprio il profilo da ultimo accennato sul passaggio dall’una all’altra
+sottovoce riemerge “funditus” nel secondo principio enunciato dalla Corte
+di giustizia, che giunge financo ad invalidare la regola primaria.
+6
+
+--- Pagina 7 ---
+
+Infatti, vi si legge:
+La regola primaria applicabile alle merci di cui alla sottovoce 7304 41
+del sistema armonizzato di designazione e di codificazione delle merci,
+prevista all’allegato 22-01 del regolamento delegato 2015/2446, come
+modificato dal regolamento delegato 2018/1063, è invalida nella parte in
+cui esclude che il cambiamento di voce tariffaria risultante dalla
+trasformazione di tubi della sottovoce 7304 49 di tale sistema armonizzato
+in tubi e profilati cavi, senza saldatura, di ferro o di acciaio, trafilati o
+laminati a freddo (ridotti a freddo) rientranti nella sottovoce 7304 41 del
+suddetto sistema armonizzato, conferisca a questi ultimi il carattere di
+prodotti originari del paese in cui tale cambiamento ha avuto luogo.
+A commento di questo secondo principio, preme osservare che la
+ragione dell’invalidità della regola primaria risiede nell’illegittima
+“esclusione”, e dunque irrilevanza, in essa, del “cambiamento di voce
+tariffaria” dalla sottovoce 7304 49 alla sottovoce 7304 41.
+Tuttavia, a venire in linea di conto ai fini dell’illegittimità
+dell’esclusione, non è di per sé il “cambiamento di voce tariffaria”, che
+assume una necessaria ma insufficiente valenza formale, ma è il
+“cambiamento” purché, sul piano della sostanza, “risulti” – ossia sia
+sorretto o giustificato – da un’effettiva “trasformazione” riguardante “tubi
+della sottovoce 7304 49” “in tubi e profilati cavi, senza saldatura, di ferro
+o di acciaio, trafilati o laminati a freddo (ridotti a freddo) rientranti nella
+sottovoce 7304 41”.
+Di conseguenza, il punto di partenza del processo di lavorazione è
+costituito da tubi aventi in fatto le caratteristiche tecniche per essere
+classificati alla sottovoce 7304 49 ed il punto di arrivo da tubi e profilati
+aventi in fatto le caratteristiche tecniche per essere classificati alla
+sottovoce 7304 41.
+Alla luce di ciò, assume importanza, in questo secondo principio come
+già nel primo, il cambiamento (anche) della (sola) sottovoce, da 49 a 41,
+7
+
+--- Pagina 8 ---
+
+a prescindere dal mantenimento della voce principale (7304), perché
+(anche) il cambiamento della (sola) sottovoce è idoneo a rappresentare,
+nel sistema di classificazione, l’effettiva “trasformazione” sostanziale
+conseguente al processo di lavorazione; processo in relazione al quale
+assume, in parallelo, importanza – come nuovamente già nel primo
+principio – (anche) la mera trasformazione a freddo (non essendo dunque
+necessaria “a contrario” la trasformazione a caldo) “sub specie”,
+segnatamente, della cd. “riduzione a freddo” in termini di “trafilatura” o
+“laminazione” che ne costituiscono una modalità esecutiva.
+7. In una prospettiva di sintesi di entrambi i principi, due paiono
+essere, ad avviso del Collegio, gli elementi essenziali emergenti dalla
+sentenza della Corte di giustizia, che meritano di essere rimarcati, così
+enunciandosi corrispondenti principi di diritto:
+- il primo ha riguardo al fatto che (peraltro in assonanza ai generali
+principi di marca unionale in ordine alla prevalenza della sostanza sulla
+forma) è ben possibile che si abbia lavorazione sostanziale idonea a
+determinare l’origine della merce ex art. 60 CDU anche in assenza di
+cambiamento della voce principale (7304), sebbene il cambiamento debba
+essere registrato pur sempre a livello di sottovoci, con il passaggio da 49 a
+41;
+- il secondo ha riguardo al fatto che è ben possibile che la lavorazione
+sostanziale – sottesa al cambiamento (se non della voce principale,
+comunque) della sottovoce – consista anche in un processo di lavorazione
+a freddo (oltreché a caldo), ben potendo anche la lavorazione a freddo (al
+pari dell’altra) comportare modifiche irreversibili delle proprietà fisiche
+delle merci sufficientemente incisive da imprimere loro sostanziali (e
+quindi essenziali) caratteristiche nuove, legittimanti l’attribuzione
+dell’origine doganale nel Paese o Territorio di siffatta trasformazione.
+Ed invero, a questo proposito, il cerchio - sia consentito di così dire - si
+chiude perché, ai sensi dell'art. 60 CDU, le merci alla cui produzione
+8
+
+--- Pagina 9 ---
+
+contribuiscono due o più Paesi o Territori sono considerate originarie del
+Paese o Territorio in cui hanno subito l'ultima trasformazione o lavorazione
+sostanziale ed economicamente giustificata, effettuata presso un'impresa
+attrezzata a tale scopo, che si sia conclusa con la fabbricazione di un
+prodotto nuovo o abbia rappresentato una fase importante del processo di
+fabbricazione.
+8. Alla luce del superiore quadro normativo-giurisprudenziale deve
+essere esaminato il caso di specie, il quale è interamente sovrapponibile a
+quello da cui è originata la sentenza della Corte di giustizia, dal momento
+che – a differenza che in altre cause tra le medesime parti sulle medesime
+questioni chiamate dinanzi a questo Collegio in questa pubblica udienza
+(cfr. in part. le nn. 16951 del 2024; 6073 del 2023; 27945 del 2022) –
+non è qui in discussione tra le parti, né è revocato in dubbio dai Giudici di
+merito, avere la contribuente importato dall’indiana Maxim prodotti della
+sottovoce 7304 41 a fronte dell’avere Maxim importato dalla Cina, e
+sottoposto a lavorazione a freddo in India, semilavorati della sottovoce
+7304 49.
+Invero, secondo la sentenza impugnata, “la ricorrente ha importato
+partite di tubi di acciaio inossidabile, voce doganale 7304 4100 90,
+dichiarati di origine indiana, perché prodotti dalla indiana Maxim Tubes
+Company Pvt. Ltd”, mentre “l’Agenzia delle Dogane e dei Monopoli […] ha
+dedotto che il prodotto importato derivato da ‘tubi sbozzati di origine
+cinese intesi come tubi greggi, diritti ed a pareti di spessore uniforme,
+destinati esclusivamente alla fabbricazione di tubi di differenti profili o
+spessori di parete, della sotto voce doganale 7304. 49’, con origine cinese
+e non indiana in quanto la normativa di riferimento consentiva di ritenere
+l’origine indiana, per il caso di passaggio dalla sottovoce 49 alla 41, solo in
+relazione ai profilati cavi e non ai tubi”; a fronte di ciò, la CGT II afferma
+che “le lavorazioni eseguite dal produttore indiano risultavano essere
+trattamenti/lavorazioni a freddo al termine dei quali si sono ottenuti tubi
+9
+
+--- Pagina 10 ---
+
+in acciaio inossidabile dichiarati alla voce doganale 7304 41; la pretesa
+trasformazione operata dall’importatore indiano non ha inciso sulla voce
+doganale (7304), rimasta invariata rispetto all’origine”.
+Al cospetto di tale situazione di fatto, la sentenza impugnata incorre in
+un fondamentale errore di diritto laddove scrive che “il conferimento
+dell’origine preferenziale indiana suppone il cambio di voce doganale,
+pacificamente non ricorrente nel caso in specie, in quanto la voce
+doganale è rimasta la 7304” (e ciò sul presupposto che “non vi è alcuna
+prova agli atti del fatto che i materiali in esame abbiano subito in India le
+trasformazioni sopra esposte, le sole idonee a conferire loro l’origine
+preferenziale indiana, non avendo documentato la ricorrente […] in quale
+stato l’azienda indiana avesse acquistato i materiali proveniente dalla
+Cina”).
+“Il cambio di voce doganale” cui la sentenza impugnata si riferisce è la
+differenza dei primi quattro “digit” relativi alla voce principale, omessa “a
+priori” alcuna rilevanza del cambiamento delle sottovoci (da 49 a 41).
+Tuttavia, siffatta affermazione, che in sostanza ritiene che l’unica
+regola d’origine della quale la contribuente aveva l’onere di fornire la
+prova era quella del cambio di voce (cd. “change of head tariff”: CHT), si
+pone in palese contrasto con l’insegnamento promanante dalla superiore
+sentenza della Corte di giustizia, la quale, come visto, a termini in specie
+del secondo principio, invalida la regola primaria proprio perché “esclude”
+l’idoneità al conferimento dell’origine (anche) al “cambiamento di voce
+tariffaria risultante dalla trasformazione di tubi della sottovoce 7304 49
+[…] in tubi e profilati cavi, senza saldatura, di ferro o di acciaio, trafilati o
+laminati a freddo (ridotti a freddo) rientranti nella sottovoce 7304 41 del
+suddetto sistema armonizzato”.
+Né, in contrario rispetto alle conclusioni che si vanno esponendo, vale
+opporre che la lavorazione effettuata da Maxim in India – alla stregua
+delle allegazioni e dei documenti dalla contribuente incontestatamente
+10
+
+--- Pagina 11 ---
+
+offerti, onde dimostrarne la valenza sostanziale ai sensi dell’art. 60 CDU,
+già ai giudici di merito, anche attraverso relazioni tecniche – sia stata
+svolta a freddo anziché a caldo. Infatti, come visto, alla stregua di
+entrambi i principi enunciati dalla Corte di giustizia, (anche) la lavorazione
+a freddo è idonea ad imprimere l’origine nel Paese o Territorio in cui è
+effettuata, alla sola condizione, generalmente applicabile, che si tratti di
+una “trasformazione”, oltreché effettiva, sostanziale, dal punto di vista
+delle caratteristiche tecniche od economiche del prodotto.
+9. In ragione di quanto precede, i motivi in disamina sono fondati.
+Ciò determina l’assorbimento di tutti gli altri, siccome incentrati su
+questioni giuridicamente gradate, essendo volti a denunciare l’erroneità
+della sentenza impugnata per aver addossato all’importatore l’onere della
+prova della buona fede (secondo, terzo e sesto); per aver fondato la
+decisione sui “report” dell’OLAF pur privo di idoneità probatoria (quarto) e
+per aver illegittimamente, in disattendimento altresì degli artt. 115 e 116
+cod. proc. civ., applicato le sanzioni (settimo, ottavo e nono).
+In conseguenza dell’accoglimento dei motivi primo e quinto (come
+riqualificato), dianzi esaminati, la sentenza impugnata deve essere cassata
+con rinvio.
+10. Non vi osta la circostanza – su cui il Collegio, in udienza, per il
+tramite della Presidente, ha espressamente invitato le parti ad interloquire
+– che, dinanzi alla Corte di giustizia – alla data dell’udienza stessa –
+pendesse questione pregiudiziale in causa C-86/24, CS STEEL a.s.
+(peraltro concernente l’importazione nell’UE di prodotti lavorati in India da
+Maxim), volta a verificare “se la regola primaria per la determinazione
+dell’origine relativa alla sottovoce 7304 41 del sistema armonizzato di
+designazione e di codificazione delle merci, prevista all’allegato 22-01 del
+regolamento delegato 2015/2446, sia valida nella parte in cui esclude che
+per il cambiamento dell’origine dei tubi rifiniti a caldo di cui alla sottovoce
+7304 11, conformi alla norma ASTM A312, sia sufficiente la loro
+11
+
+--- Pagina 12 ---
+
+trasformazione a freddo (riduzione a freddo)”. Infatti, di per sé,
+l’ordinanza di rinvio – dando per presupposto l’“acquis” Stappert secondo
+cui la lavorazione a freddo può modificare in modo sostanziale le
+caratteristiche del prodotto – investiva prodotti diversi (tubi classificati alla
+sottovoce 7304 11) da quelli vertiti nel presente giudizio, mirando dunque
+ad un’estensione del secondo principio di cui alla sentenza in causa C 210-
+22. E, a sua volta, la sentenza su di essa “medio tempore”, in data 2
+ottobre 2025, resa dalla Corte di giustizia, dopo aver espressamente
+confermato e fatto proprio l’“acquis” Stappert (cfr. in part. punto 20) nei
+medesimi termini poc’anzi ricostruiti, con specifico riferimento a tali
+prodotti perviene – in integrale adesione alla prospettazione della
+Commissione secondo cui la “trasformazione a freddo” dei medesimi “si
+distinguerebbe dalla trasformazione a freddo degli sbozzi di tubi, che sono
+prodotti semilavorati, oggetto della sentenza del 21 settembre 2023,
+Stappert Deutschland […], e che rientrano nella sottovoce 730449 del SA”
+(punto 28) – alla conclusione che “la differenza di trattamento quanto alla
+determinazione dell’origine, stabilita dalla regola primaria, tra una
+trasformazione a freddo dei tubi rientranti nella sottovoce 730411 del SA e
+una trasformazione a freddo dei tubi rientranti nella sottovoce 730449 del
+SA, è oggettivamente giustificata” (punto 33).
+11. Detto ciò, il Giudice di rinvio è chiamato a dare pedissequa e
+rigorosa applicazione alla sentenza resa dalla Corte di giustizia nella
+suddetta causa C 210-22 (cui il Giudice interno deve pianamente ossequio
+nell’applicazione del diritto unionale: cfr. già CGUE, 27 marzo 1980, in
+causa C-61/79, Denkavit, punto 16, secondo cui l’interpretazione di una
+norma di diritto unionale data in sede pregiudiziale opera “ex tunc”, poiché
+“chiarisce a precisa, quando ve ne sia bisogno, il significato e la portata
+della norma, quale deve, o avrebbe dovuto, essere intesa ed applicata dal
+momento della sua entrata in vigore. Ne risulta che la norma così
+interpretata può, e deve, essere applicata dal giudice anche a rapporti
+12
+
+--- Pagina 13 ---
+
+giuridici sorti e costituiti prima della sentenza interpretativa”, cui “adde”,
+ad es., CGUE, 6 ottobre 2021, in causa C-561/19, Consorzio Italian
+Management, punto 28, secondo cui “il meccanismo pregiudiziale mira a
+garantire in ogni circostanza al diritto dell’Unione la stessa efficacia in tutti
+gli Stati membri e a prevenire così divergenze interpretative di
+quest’ultimo che i Giudici nazionali ‘devono’ [enfasi aggiunta] applicare e
+tende a garantire quest’applicazione, conferendo al Giudice nazionale un
+mezzo per eliminare le difficoltà che possa generare il dovere di dare al
+diritto dell’Unione piena esecuzione nella cornice dei sistemi giurisdizionali
+degli Stati membri”).
+Conseguentemente, il Giudice di rinvio dovrà tenere in debito conto la
+rilevanza del pacifico cambiamento delle sottovoci delle importazioni della
+contribuente dall’India rispetto alle importazioni di Maxim dalla Cina:
+cambiamento che il medesimo dovrà valutare sulla base delle deduzioni e
+produzioni tecniche della contribuente circa la natura sostanziale, ex art.
+60 CDU, della trasformazione operata da Maxim, in rapporto all’effettiva
+portata delle contestazioni mosse dall’Agenzia in recepimento delle
+relazioni dell’OLAF.
+Quanto a queste ultime, peraltro, si rammenta che trova applicazione
+il principio, parimenti di diretta derivazione unionale, secondo cui esse
+hanno bensì rilevanza probatoria, salvo però che non si limitino a
+contenere una mera descrizione dei fatti (CGUE 16 marzo 2017, in causa
+C-47/16, Veloserviss SIA, punto 48; Cass. n. 10118 del 2017), atteso che
+“dall'art. 9, paragrafo 2, del regolamento relativo alle indagini dell'Olaf
+(regolamento CEE del Parlamento europeo e del Consiglio 25 maggio
+1999, n. 1073/99) risulta difatti che le relazioni in questione costituiscono,
+al medesimo titolo e alle medesime condizioni di quelle redatte dagli
+ispettori amministrativi nazionali, elementi di prova ammissibili nei
+procedimenti amministrativi o giudiziari dello Stato membro nel quale
+risulti necessario avvalersene. Sicché soltanto se esse abbiano contenuto
+13
+
+--- Pagina 14 ---
+
+generico e quindi insoddisfacente le autorità doganali sono tenute a
+ricercare elementi di prova supplementari (Corte giust. 26 ottobre 2017,
+causa C-407/16, «Aqua Pro» SIA, punto 60); nella giurisprudenza interna,
+cfr., da ultimo, Cass. ord. 12 gennaio 2018, n. 615)” (Cass.
+n. 11631 del 2019, cit., in motiv., par. 4.3, p. 7). Ciò come ancora
+recentemente ribadito da questa S.C. (Cass. n. 4099 del 2024, in motiv.,
+par. 6, p. 6: “il Diritto dell’Unione esclude che le relazioni o informative
+OLAF possano rappresentare da sole un elemento di prova sufficiente a
+determinare il disconoscimento dell’origine di un prodotto, se contengono
+solo una descrizione generale della situazione in questione […]”), in un
+caso del tutto analogo a quello che ne occupa (siccome “avente ad
+oggetto [l’importazione di] tubi e profilati cavi, senza saldatura, di ferro o
+di acciaio; altri di sezione circolare di acciai inossidabili; trafilati o laminati
+a freddo, dichiarati di origine indiana, [ma ritenuti] di provenienza cinese
+(RPC) e ciò a seguito di indagine OLAF, per non avere subito
+trasformazione tale da conferire alla merce l’origine indiana, con
+conseguente applicazione di dazio antidumping nella misura del 71%”):
+nel frangente, la S.C. ha in particolare precisato che dette relazioni, per
+regola generale, possiedono fede privilegiata per quanto “attiene
+unicamente ai fatti attestati dal pubblico ufficiale come da lui compiuti o
+avvenuti in sua presenza o che abbia potuto conoscere senza alcun
+margine di apprezzamento o di percezione sensoriale, nonché quanto alla
+provenienza del documento dallo stesso pubblico ufficiale ed alle
+dichiarazioni a lui rese, ma non anche in relazione alla veridicità
+sostanziale di documenti esaminati dai pubblici ufficiali” (tanto più in una
+fattispecie, quale quella sottoposta in allora all’esame della S.C., in cui “gli
+estratti del rapporto OLAF trascritti dal ricorrente […] non menziona[va]no
+specifiche attività di analisi relative ai prodotti acquistati dall’azienda
+indiana di provenienza cinese, bensì indagini di carattere statistico, report
+14
+
+--- Pagina 15 ---
+
+di dichiarazioni di terzi e valutazioni”) (Id., in motiv., rispettiv. parr. 1 e 5,
+pp. 2 e 6).
+All’esito, il Giudice di rinvio avrà altresì a definitivamente regolare, tra
+le parti, le spese di lite, comprese quelle del presente grado di giudizio.
+P.Q.M.
+In accoglimento del primo e del quinto motivo, quest’ultimo come
+riqualificato, con conseguente assorbimento di tutti gli altri, cassa la
+sentenza impugnata, con rinvio alla Corte di giustizia tributaria di secondo
+grado della Liguria, in diversa composizione, per nuovo esame e per le
+spese.
+Così deciso a Roma, lì 16 settembre 2025.
+Il Consigliere relatore
+Andrea Antonio Salemme
+Il Presidente
+Angelina-Maria Perrino
+15

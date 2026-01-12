@@ -1,0 +1,185 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA INTERLOCUTORIA
+sul ricorso iscritto al n. 21479/2024 R.G. proposto da:
+NASCIMBEN CLAUDIO, rappresentato e difeso dagli Avv.ti Prof. Guido
+Luigi Battagliese (C.F. BTTGLG64M14F205P), e Leonardo Pallotta (C.F.
+PLLLRD66R23A462U), presso il cui studio in ROMA VIA CAIO MARIO N. 8,
+elettivamente domicilia
+-ricorrente-
+contro
+AGENZIA DELLE ENTRATE-RISCOSSIONE, già RISCOSSIONE SICILIA
+S.P.A., in persona del Direttore “pro tempore”, rappresentata e difesa
+dall'AVVOCATURA GENERALE DELLO STATO (ADS80224030587) e presso
+la medesima domiciliata in ROMA VIA DEI PORTOGHESI N. 12
+-controricorrente-
+
+--- Pagina 2 ---
+
+avverso SENTENZA di CORTE DI GIUSTIZIA TRIBUTARIA II GRADO
+SICILIA n. 1644/2024 depositata il 26/02/2024.
+Udita la relazione svolta nella camera di consiglio del 30/10/2025 dal
+Consigliere ANDREA ANTONIO SALEMME.
+Rilevato che:
+1. In data 9 gennaio 2019 NASCIMBEN Claudio era attinto da
+cartella di pagamento n. 29620180056118509000 notificata
+telematicamente a mezzo di posta elettronica certificata con allegato il
+“file 29620180056118509000NSCCLD67R04G273M.pdf”.
+2. Il contribuente impugnava la cartella sostenendo, tra l’altro, che la
+stessa constava di sole quattro pagine su quattordici, di cui due contenenti
+bollettini, con conseguente difetto assoluto di motivazione.
+3. La CTP di Palermo, nella resistenza dell’agente della riscossione
+(che aveva effettuato produzioni cartacee di cartella e relata,
+disconosciute dal contribuente con memoria del 30 settembre 2019),
+giusta sentenza n. 4694/05/2019, depositata in data 18.10.2019,
+rigettava il ricorso. “In particolare” – come da sentenza in epigrafe – “il
+giudice di prime cure rigettava le eccezioni relative […] all’omessa prova
+della notificazione della cartella di pagamento, all’omessa sottoscrizione
+della cartella di pagamento notificata in copia informatica, all’omessa
+motivazione del provvedimento impugnato, mentre nel merito rilevava che
+la pretesa tributaria scaturiva da un controllo automatizzato relativo
+all’omesso versamento delle imposte dichiarate dal contribuente”.
+4. Il contribuente proponeva appello con quattro motivi, così riassunti
+dalla CGT II nella sentenza in epigrafe: “1. Contestazione della
+presentazione della dichiarazione relativa all’omesso versamento, sulla
+quale l’Agente della Riscossione nulla aveva dedotto dovendosi applicare il
+principio di non contestazione. 2. Contestazione della validità della prova
+2
+
+--- Pagina 3 ---
+
+dell’avvenuta notificazione, in quanto dimostrata attraverso l’allegazione di
+file .pdf, anziché della cartella firmata digitalmente e dei files relativi
+all’invio della PEC. 3. Omessa prova della sottoscrizione del ruolo. 4.
+Inesistenza della pretesa tributaria”.
+5. La CGT II della Sicilia, dinanzi alla quale non si costituiva l’agente
+della riscossione, giusta sentenza in epigrafe, rigettava l’appello,
+essenzialmente, in motivazione, osservando:
+- quanto ai motivi 1 e 4,
+premesso che nel giudizio tributario il principio di non contestazione ha
+un’efficacia limitata quando oggetto del giudizio è l’impugnazione di un
+atto con cui l’Amministrazione finanziaria fa valere la propria posizione,
+dovendosi ritenere implicitamente contestate eventuali osservazioni di
+segno contrario del contribuente, nel caso di specie l’eccezione è stata
+formulata in modo del tutto generico e, comunque, senza alcun tipo di
+supporto probatorio, per cui era la stessa va rigettata;
+quanto al motivo 2,
+la notifica a mezzo pec della cartella di pagamento è valida, in quanto
+prevista dall’art. 26, co. 2, d.P.R. n. 602/1973.
+La prova della notifica è stata validamente offerta a mezzo di copia
+delle ricevute inviate all’Agente della Riscossione dal proprio gestore di
+PEC e, comunque, non è in discussione la ricezione della PEC, dal
+momento che la cartella di pagamento è stata tempestivamente
+impugnata.
+Quanto al formato dell’atto allegato alla pec, dal momento che la
+cartella di pagamento non deve essere sottoscritta a pena di nullità dal
+funzionario che l’ha emessa, la circostanza che l’allegato non fosse firmato
+digitalmente non comporta alcuna ipotesi di nullità o inesistenza.
+3
+
+--- Pagina 4 ---
+
+Il documento informatico in formato .pdf (peraltro contenuto
+all’interno di una pec che assicura l’immodificabilità del file dal momento
+della spedizione a quello della ricezione, in quanto contenuto in busta
+informatica criptata dalla firma digitale del gestore di posta elettronica) è
+perfettamente idoneo a documentare quanto in esso rappresentato e,
+pertanto, consentiva alla società contribuente di conoscere la pretesa
+tributaria così esercitata, ferma restando la possibilità di disconoscere in
+modo motivato la corrispondenza di quanto rappresentato nel documento
+trasmesso rispetto alla pretesa effettivamente dovuta;
+quanto al motivo 3,
+i ruoli possono essere formati e resi esecutivi mediante la validazione
+dei dati in essi contenuti, anche in via centralizzata, dal sistema
+informativo dell'amministrazione creditrice.
+6. Il contribuente proponeva ricorso per cassazione affidato a due
+motivi; resisteva l’Agenzia delle entrate-Riscossione con controricorso con
+il ministero dell’Avvocatura generale dello Stato.
+In data 12 dicembre 2024 il Consigliere delegato formulava proposta
+di definizione anticipata.
+In data 28 gennaio 2025 il difensore del contribuente formulava
+istanza di decisione, cui seguiva, in data 20 ottobre 2025, il deposito di
+memoria, mediante la quale il contribuente ulteriormente illustrava le
+proprie ragioni, anche in chiave di critica alla proposta di definizione
+anticipata.
+Considerato che:
+1. Con il primo motivo si denuncia: “Violazione e falsa applicazione
+dell'art. 36 del D.Lgs. 546/92 e degli artt. 115, 116 c.p.c. e 118 disp. att.
+4
+
+--- Pagina 5 ---
+
+c.p.c. - irrazionalità, insufficienza ed erroneità della motivazione (art. 360,
+comma 1, n. 4[, c.p.c.])”.
+1.1. “La motivazione della sentenza, quanto al rigetto del primo e
+quarto motivo (assorbenti) è meramente assertiva, aprioristica, e
+formulata sulla base di un principio astratto di diritto errato sulla non
+applicabilità dell’art. 115 c.p.c. alla materia tributaria”. Sono non
+contestate le seguenti due circostanze in fatto: “(i) La cartella allegata alla
+pec era composta da sole 4 pagine su 14 (la n.1 e n. 14) di cui due il
+bollettino postale; (ii) La inesistenza della dichiarazione fiscale e/o di
+comunicazioni, avvisi di accertamento e/o contestazioni tributarie,
+fondanti il (presunto) credito erariale azionato”.
+2. Con il secondo motivo si denuncia: “(i) Violazione e falsa
+applicazione dell’art. 36 bis DPR 600/1973 e dell’art. 54 bis DPR 633/1972
+- inesistenza dei presupposti di fatto e diritto - assenza di prova (art. 360,
+comma 1, n. 3[, c.p.c.]) - (ii) Violazione e falsa applicazione dell'art. 36
+del D.Lgs. 546/92 e dell'art. 118 disp. att. c.p.c. - irrazionalità,
+insufficienza ed erroneità della motivazione (art. 360, comma 1, n. 4[,
+c.p.c.])”.
+2.1. È “dirimente l’eccezione sollevata in primo grado sulla inesistenza
+della dichiarazione fiscale e/o di comunicazioni, avvisi di accertamento e/o
+contestazioni tributarie, fondanti il (presunto) credito erariale azionato.
+Posto che tale circostanza, per quanto sopra dedotto, non essendo stata
+contestata va data per ammessa […], sul punto la motivazione della
+sentenza di rigetto si appalesa come un classico caso di motivazione
+perplessa e meramente apparente, che inficia la sentenza impugnata”.
+“Era […] compito dell’Ader, che non ha formalmente e esplicitamente
+contestato la circostanza, fornirne quantomeno la prova contraria, che era
+nella propria sfera di disponibilità, producendo i relativi documenti: la
+dichiarazione dei redditi oggetto del controllo automatizzato ex art. 36 bis
+5
+
+--- Pagina 6 ---
+
+DPR.600/1973 e dell’art. 54 bis DPR.633/1972, e le risultanze del
+controllo comunicate al contribuente”. “A fronte delle eccezioni sollevate
+dal contribuente sia in seno al ricorso introduttivo che con la memoria
+ill.va in I° del 30.09.2019 […], di contestazione della conformità della
+fotocopia di una stampa cartacea della cartella prodotta ‘ex adverso’,
+rispetto all’originale digitale contenuto nella busta elettronica di notifica,
+era onere dell’Ader di fornire la prova contraria che, tuttavia, può essere
+‘data istituzionalmente solo mediante il deposito telematico delle ricevute
+di accettazione e consegna in formato eml e msg’”. “La ‘cartella’ allegata
+consisteva in sostanza nella sola pag. 1 (riprodotta al punto 3 del fatto),
+che nessuna informazione contiene relativamente alla pretesa tributaria
+utile a poterla motivatamente contrastare”.
+3. Il ricorso pone – nel complesso, impregiudicata ogni valutazione dei
+singoli motivi – una serie di delicate questioni che, in specifico riferimento
+alla notifica di atti del procedimento amministrativo tributario a mezzo di
+posta elettronica certificata, non hanno ancora interessato la
+giurisprudenza di legittimità.
+Ciò segnatamente è a dirsi – in ipotesi, quale quella in esame, di
+notifica di una cartella di pagamento in formato “.pdf” – con riguardo alla
+distribuzione ed all’assolvimento dell’onere della prova, mediante
+produzione di notifica comprensiva del file “.eml” o “.msg”, a fronte di
+eccezione di difformità dall’originale e comunque di incompletezza grafica
+del file “.pdf” ricevuto dal destinatario.
+3.1. Ritiene pertanto il Collegio che sussistano i presupposti per
+disporre il rinvio della causa a nuovo ruolo, al fine della trattazione in
+pubblica udienza.
+P.Q.M.
+Rinvio la causa a nuovo ruolo per la trattazione in pubblica udienza.
+6
+
+--- Pagina 7 ---
+
+Così deciso a Roma, lì 30 ottobre 2025.
+Il Presidente
+Giuseppe Fuochi Tinarelli
+7

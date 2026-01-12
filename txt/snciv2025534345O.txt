@@ -1,0 +1,446 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 22999/2024 R.G. proposto da:
+EUROP ASSISTANCE ITALIA S.P.A. (c.f. 80039790151), costituitasi in
+persona dell’amministratore delegato Ing. Fabio Carsenzuola e del Chief
+financial officer Dr. Marco Miglietta, rappresentata e difesa dall'avvocato
+LORENZO TRINCHERA (c.f. TRNLNZ82P13F839F);
+contro
+AGENZIA DELLE ENTRATE (c.f. 06363391001) costituitasi in persona del
+Direttore pro tempore, rappresentata e difesa dall'AVVOCATURA
+GENERALE DELLO STATO (c.f. 8022403087);
+-ricorrente incidentale-
+avverso la SENTENZA della CORTE DI GIUSTIZIA TRIBUTARIA II GRADO
+LOMBARDIA n. 951/2024 depositata il 28/03/2024.
+
+--- Pagina 2 ---
+
+Udita la relazione svolta nella camera di consiglio del 10/12/2025 dal
+Consigliere GIOVANNI GALASSO.
+FATTI DI CAUSA
+1.1 Con ricorso alla Corte di giustizia tributaria di primo grado di Milano, la
+Europ Assistance Italia S.p.A. impugnava l’avviso di accertamento n.
+TMB066U00422/2021 relativo ad IVA per l’anno 2016 con il quale,
+sostanzialmente, veniva contestato che la contribuente aveva fatturato
+come operazioni esenti alcune prestazioni rese in favore di altre
+compagnie assicuratrici che, ad avviso dell’Amministrazione, erano in
+realtà assoggettate all’imposta.
+In particolare, la Europ Assistance Italia S.p.A. aveva stipulato un
+“trattato di riassicurazione” con altre compagnie assicuratrici, con il quale
+si era fatta carico di una quota dei rischi derivanti dai contratti di
+assicurazione stipulati da queste ultime con i loro assicurati in cambio di
+una corrispondente quota dei premi incassati; unitamente a tale “trattato”
+era stata stipulata una “convenzione di servizi”, con la quale la medesima
+società si era impegnata ad erogare le prestazioni di assistenza in natura
+nei confronti dei clienti delle imprese riassicurate (attività di call center,
+soccorso stradale, traino, ecc.).
+Oggetto della contestazione erano quindi i corrispettivi richiesti alle
+compagnie riassicurate per i cd. costi diretti interni, cioè quelli sostenuti
+dalla Europ Assistance Italia S.p.A. per il funzionamento della struttura
+operativa che garantiva le prestazioni di assistenza, in relazione ai quali
+non risultava versata l’IVA per complessivi € 2.706.354.
+L’Amministrazione non aveva invece applicato le sanzioni, in quanto aveva
+ritenuto che ricorressero le condizioni di cui agli artt. 10, comma 3°, l.
+212/2000 e 6, comma 2°, d.lgs. 472/1997.
+1.2 Con l’impugnazione dell’avviso, la società deduceva la violazione del
+legittimo affidamento e la natura di operazioni esenti da IVA delle
+2
+
+--- Pagina 3 ---
+
+prestazioni in questione, ai sensi degli artt. 10, comma 1°, n. 2) o 12
+d.P.R. 633/1972.
+La CGT di primo grado di Milano, con sentenza n. 1332/2023, accoglieva
+parzialmente il ricorso; rigettava i motivi relativi alla pretesa principale,
+ma riconosceva che, in applicazione dell’art. 10, comma 2°, l. 212/2000,
+non erano dovute le sanzioni (già escluse anche dall’Amministrazione) e
+gli interessi moratori ex art. 30 d.P.R. 602/1973.
+2. La Europ Assistance Italia S.p.A. impugnava tale sentenza,
+riproponendo, sostanzialmente, le medesime doglianze oggetto
+dell’originario ricorso; l’Agenzia delle Entrate resisteva all’appello e
+proponeva appello incidentale per ottenere l’integrale rigetto del ricorso.
+Con sentenza n. 951/2024, la CGT della Lombardia rigettava entrambi gli
+appelli.
+Osservava, quanto all’appello principale, richiamando le argomentazioni
+della decisione di primo grado (che si fondava sulla sentenza cd. “Aspiro”
+della CGUE del 17/3/2016 nella causa C-40/15), che le prestazioni in
+questione non erano riconducibili nell’ambito delle attività di assicurazione,
+essendo estranee all’oggetto del contratto di assicurazione che consiste
+nella copertura di un rischio a fronte del versamento di un compenso; le
+stesse neppure potevano rientrare tra quelle di intermediazione,
+mancando ogni rapporto con l’assicurato. Escludeva altresì che si trattasse
+di prestazioni accessorie. Rigettava infine l’appello incidentale, osservando
+che la stessa Amministrazione, nel 2010, aveva ritenuto esenti da IVA le
+prestazioni in questione con riguardo alle annualità 2005, 2006 e 2007.
+3. Avverso tale sentenza la Europ Assistance Italia S.p.A. ha proposto
+ricorso per cassazione affidato a cinque motivi.
+Ha resistito con controricorso l’Agenzia delle Entrate che ha proposto
+anche ricorso incidentale articolato in un unico motivo.
+La Procura Generale ha depositato una memoria ex art. 380 bis.1 c.p.c.,
+concludendo per il rigetto del ricorso principale e di quello incidentale.
+3
+
+--- Pagina 4 ---
+
+Anche la ricorrente ha depositato una memoria ex art. 380 bis.1 c.p.c..
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo di ricorso, la società ha lamentato il vizio di cui
+all’art. 360, comma 1°, n. 3) c.p.c. per violazione e falsa applicazione
+dell’art. 10 d.P.R. 633/1972, dell’art. 135, paragrafo 1, lettera a), della
+direttiva 2006/112/CE, degli artt. 1, comma 1°, lett. c) e d), 2 comma 3°,
+175 commi 1° e 2°, 30 comma 3°, del codice delle assicurazioni private
+(d.lgs. 209/2005), nonché della normativa secondaria di cui ai
+regolamenti ISVAP n. 10 del 2 gennaio 2008 e n. 12 del 9 gennaio 2008.
+Ha osservato, in particolare, che svolgeva attività assicurativa e
+riassicurativa nel ramo assistenza (ramo 18, secondo la classificazione
+contenuta nell’art. 2 d.lgs. 209/2005 e nell’allegato I alla direttiva
+2009/138/CE) che comportava la necessità di una struttura caratterizzata
+da una centrale operativa e da una rete capillare di fornitori per garantire
+assistenza sul territorio nazionale ed internazionale. La normativa di
+settore è contenuta nel regolamento ISVAP n. 10 del 2/1/2008, secondo il
+quale l’impresa che chiede l’autorizzazione allo svolgimento dell’attività nel
+ramo 18 deve disporre di tale struttura e, qualora non l’abbia, può
+stipulare un trattato di riassicurazione con un’altra società munita di tale
+struttura, unitamente ad una convenzione avente ad oggetto l’incarico per
+la trattazione dei sinistri. Pertanto, ad avviso della ricorrente, la
+riassicurazione e la prestazione oggetto della convenzione costituiscono un
+unicum, cioè un unico servizio assicurativo, come si ricava anche dall’art.
+175 d.lgs. 209/2005; quest’ultima non può essere paragonata a quella di
+liquidazione del sinistro cui fa riferimento la giurisprudenza citata nella
+decisione impugnata. Infine, ha osservato che sarebbe irrilevante, in
+relazione alla fattispecie in esame, la sentenza “Aspiro” che riguardava un
+caso diverso e cioè un servizio, erogato da un soggetto che non era un
+assicuratore, consistente nell’assistenza nella liquidazione dei sinistri.
+1.1 Il motivo è fondato.
+4
+
+--- Pagina 5 ---
+
+1.2 Occorre innanzi tutto tenere presente che l’art. 135 della direttiva
+2006/112/CE del Consiglio del 28/11/2006 prevede che «Gli Stati membri
+esentano le operazioni seguenti: a) le operazioni di assicurazione e di
+riassicurazione, comprese le prestazioni di servizi relative a dette
+operazioni, effettuate dai mediatori e dagli intermediari di assicurazione;
+[…]»
+Tale norma riproduce l’art. 13 parte B lett. a) della direttiva 77/388/CEE
+del Consiglio ed ha sostanzialmente il medesimo contenuto dell’art. 10
+d.P.R. 633/1972 secondo il quale «Sono esenti dall'imposta: (...) 2) le
+operazioni di assicurazione, di riassicurazione e di vitalizio; (...) 9) le
+prestazioni di mandato, mediazione e intermediazione relative alle
+operazioni di cui ai numeri da 1) a 7) [...]».
+Per individuare la nozione di attività di assicurazione ai fini IVA occorre
+fare riferimento al contenuto economico dell’operazione, destinato a
+prevalere sul testo dei contratti (cfr. Cass. 14406/2017, in motivazione e
+CGUE 20/6/2014, nella causa C-653/11, Commissioners Her Majesty's
+Revenue and Customs c. Newey, punto 40; 7/10/2010, Loyalty
+Management UK e Baxi Group, cause C-53/09 e C-55/09, punti 39 e 40,
+nonché la giurisprudenza ivi citata).
+Il contenuto dell’operazione di assicurazione è stato ripetutamente definito
+dalla giurisprudenza della CGUE, secondo la quale «un'operazione di
+assicurazione è caratterizzata, come in genere si ammette, dal fatto che
+l'assicuratore si impegna, previo versamento di un premio, a procurare
+all'assicurato, in caso di realizzazione del rischio coperto, la prestazione
+convenuta all'atto della stipula del contratto (v. le menzionate sentenze
+CPP, punto 17, e Skandia, punto 37).
+40. E' pur vero che la Corte ha precisato che l'espressione «operazioni di
+assicurazione» non comprende unicamente le operazioni effettuate dagli
+assicuratori stessi ed è, in linea di principio, sufficientemente ampia per
+comprendere la copertura assicurativa fornita da un soggetto passivo che
+5
+
+--- Pagina 6 ---
+
+non sia direttamente assicuratore, ma che, nell'ambito di un'assicurazione
+collettiva, procuri ai suoi clienti siffatta copertura avvalendosi delle
+prestazioni di un assicuratore che si assume l'onere del rischio assicurato
+(v. le menzionate sentenze CPP, punto 22, e Skandia, punto 38).
+41. Tuttavia, al punto 41 della menzionata sentenza Skandia, la Corte ha
+rilevato che, conformemente alla definizione di operazione di assicurazione
+di cui al punto 39 della presente sentenza, è evidente che l'identità del
+destinatario della prestazione rileva ai fini della definizione del tipo di
+servizi previsti dall'art. 13, parte B, lett. a), della sesta direttiva e che una
+tale operazione implica, per sua natura, che esista un rapporto
+contrattuale tra il prestatario del servizio di assicurazione e il soggetto i
+cui rischi sono coperti dall'assicurazione, ossia l'assicurato» (sentenza
+20/11/2003 nella causa C-8/01 Taksatorringen; in senso analogo
+sentenza 8/3/2001 “Skandia”, nella causa C-240/99; sentenza 17/3/2016
+nella causa C-40/15, “Aspiro SA”).
+La CGUE ha peraltro chiarito che «Non è indispensabile che la prestazione
+che l'assicuratore si è impegnato a fornire in caso di sinistro consista in un
+versamento di una somma di denaro, in quanto tale prestazione può
+essere costituita anche da attività di assistenza, in denaro, o in natura,
+come quelle enunciate nell'allegato della direttiva 73/239 nella sua
+versione di cui alla direttiva 84/641. Nessuna ragione autorizza infatti
+un'interpretazione diversa del termine «assicurazione» a seconda che esso
+figuri nel testo della direttiva relativa all'assicurazione o in quello della
+sesta direttiva» (sentenza 25/2/1999 nella causa C-349/96 “CPP”).
+Nella richiamata sentenza si fa riferimento proprio al ramo 18, assistenza,
+all’epoca definito dalla direttiva 73/239/CEE - ed oggi dalla direttiva
+2009/138/CE in termini sostanzialmente analoghi - come «Assistenza alle
+persone in difficoltà nel corso di spostamenti o di assenza dal loro
+domicilio o dalla loro residenza abituale».
+Si tratta delle medesime prestazioni oggetto dell’art. 175 d.lgs. 209/2005.
+6
+
+--- Pagina 7 ---
+
+1.3 La riassicurazione, che pure rientra nell’ambito dell’attività
+assicurativa, anche ai fini dell’IVA - come si evince dal già menzionato art.
+135 della direttiva 2006/112/CE del Consiglio del 28/11/2006 - è
+disciplinata dagli artt. 1928 e ss. c.c. (che non contengono, però, la
+definizione di tale contratto) e dall’art. 57 d.lgs. 209/2005, secondo il
+quale «l’attività di riassicurazione consiste nell’accettazione di rischi ceduti
+da un’impresa di assicurazione o da un’altra impresa di riassicurazione ed
+è riservata alle imprese di riassicurazione».
+Tale definizione si rinviene anche nella giurisprudenza della CGUE,
+secondo la quale, mediante un’operazione di riassicurazione «un
+assicuratore conclude un contratto con cui assume l’obbligo di prendersi
+carico, verso il pagamento di un premio ed entro i limiti fissati da tale
+contratto, dei debiti risultanti, per un altro assicuratore, dagli impegni
+assunti da quest’ultimo nell’ambito dei contratti di assicurazione che lo
+stesso ha stipulato con i propri assicurati» (CGUE, 22/10/2009, nella
+causa C-242/08 Swiss Re, punto 38)
+1.4 Così chiarito il quadro normativo e concettuale di riferimento, deve
+osservarsi che recentemente questa Corte, con due pronunce alle quali
+deve essere data continuità, ha avuto modo di affermare che le
+prestazioni per attività di assistenza direttamente svolte dalla centrale
+operativa della società riassicuratrice (cc.dd. costi diretti interni) sono
+esenti dall’imposta sul valore aggiunto.
+Si è osservato, infatti, che «la giurisprudenza unionale ha rimarcato altresì
+che è “pacifico che il termine «operazioni d'assicurazione» ex art. 13, sub
+B, lett. a) - della sesta direttiva - comprende in ogni caso il caso in cui
+l'operazione considerata è effettuata dallo stesso assicuratore che si è
+obbligato a coprire il rischio assicurato” e ha specificato che “Il termine
+«assicurazione» menzionato in detta disposizione comprende anche le
+categorie di attività di assistenza enunciate nell'allegato della prima
+direttiva del Consiglio 24 luglio 1973, 73/239/CEE, […] ramo (...) 18.
+7
+
+--- Pagina 8 ---
+
+Assistenza. Assistenza alle persone in difficoltà nel corso di spostamenti o
+di assenza dal domicilio o dal luogo di residenza” (Corte giust., 25 febbraio
+1999, Card Protection Plan Ltd (CPP), 25 febbraio 1999, causa C-349/96,
+punto 19 e principio di diritto). Sempre la giurisprudenza unionale ha
+descritto l’attività di assistenza, la quale, ha stabilito, consiste
+nell’impegnarsi, previo pagamento di un premio, a mettere ad immediata
+disposizione un aiuto a profitto del beneficiario del contratto di assistenza,
+quando questi si trovi in difficoltà in seguito al verificarsi di un
+avvenimento fortuito. Siffatto aiuto può consistere, tra l’altro, in
+prestazioni in natura fornite, all’occorrenza, mediante utilizzazione del
+personale o delle attrezzature proprie del prestatore. Ha aggiunto la Corte
+che siffatta assistenza può in particolare, in caso di guasto meccanico o di
+incidente subiti da un veicolo stradale, assumere la forma di soccorso
+stradale in loco, o ancora di trasporto del veicolo fino all’officina più vicina
+(Corte giust., 7 dicembre 2006, Commissione c. Grecia, causa C-13/06).
+Orbene, nel caso di specie, l'attività svolta dalla Europ Assistance Italia
+S.p.A. rientra giustappunto nell'ambito del “ramo assistenza” (ramo 18).
+Tale attività di assistenza può dunque consistere nel soccorso stradale,
+nella riparazione del mezzo sul posto, nella fornitura di un’auto sostitutiva,
+nell’invio di un traino, nell’assistenza sanitaria durante un viaggio. Le
+condizioni di esercizio relative alle imprese che svolgono l'attività di
+assistenza sono disciplinate nel regolamento n. 10 del 2 gennaio 2008
+dell’Istituto per la Vigilanza sulle Assicurazioni Private e di interesse
+collettivo (ISVAP, oggi Istituto per la vigilanza sulle assicurazioni, IVASS).
+[…]
+Il regolamento, dunque, consente non solo di attribuire all'esterno il
+servizio di centrale operativa, a un'impresa anche non assicurativa, ma
+anche di cedere ad altra impresa di assicurazione una quota massima del
+90% dei premi e dei sinistri del ramo stesso. Da ciò consegue che nel caso
+in cui vi sia la riassicurazione del ramo assistenza, deve ritenersi pacifico,
+8
+
+--- Pagina 9 ---
+
+come ha stabilito la Corte di giustizia dell’Unione Europa nella causa C-
+346/96, cit., che l'attività che a tale titolo viene svolta dall'impresa di
+riassicurazione, in tal modo prendendosi carico dell’impegno assunto dal
+primo assicuratore, come stabilito dalla Corte di giustizia dell’Unione
+Europa nella causa C-242/08, cit., e in tali limiti, è configurabile come
+“operazione di assicurazione”.
+Si tratta, invero, di quello che si assume essere accaduto nel caso di
+specie, allorquando la Europ Assistance Italia S.p.A. stipula con altre
+compagnie assicurative – del pari abilitate a esercitare l’attività
+assicurativa nel ramo 18, ma non dotate di una propria struttura
+organizzativa volta a erogare le prestazioni assicurative di assistenza –
+accordi nei quali si prevede che tali ultime compagnie assicurative cedano
+alla Europ Assistance Italia S.p.A., sulla base di un Trattato di
+riassicurazione, una quota dei premi incassati relativi alle coperture di
+assistenza, a fronte dell’assunzione da parte della Europ Assistance Italia
+S.p.A. di una corrispondente quota del rischio. Le compagnie assicurative
+conferiscono alla Europ Assistance Italia S.p.A., in base a una
+Convenzione di servizi abbinata al Trattato di riassicurazione, l’incarico di
+fornire all’assicurato l’aiuto oggetto della copertura assicurativa, sia per la
+quota di rischio, assunta direttamente dalla Europ Assistance Italia S.p.A.,
+sia per la quota residuale rimasta in capo alla cedente. Si tratta, in base
+alla combinazione di Trattato e convenzione, di un contratto con
+prestazioni da eseguire a un terzo, che, a differenza della stipulazione a
+favore del terzo, non produce effetti immediati nel patrimonio di costui e
+non gli attribuisce, dunque, la qualità di creditore, in armonia con l’art.
+1929 c.c., dinanzi richiamato. In questo contesto va senz’altro
+riconosciuta, nei suddetti limiti, l’esenzione dall’imposta sul valore
+aggiunto alle attività di assistenza direttamente svolte dalla centrale
+operativa della società verificata (cc.dd. costi diretti interni), nel quadro di
+diritto dell'Unione, di cui alla Sesta direttiva 77/388/CEE del Consiglio, del
+9
+
+--- Pagina 10 ---
+
+17 maggio 1977, in materia di armonizzazione delle legislazioni degli Stati
+membri relative alle imposte sulla cifra di affari - Sistema comune di
+imposta sul valore aggiunto (art. 13, parte B), ora contenuto nella
+direttiva 2006/112/CE del Consiglio, del 28 novembre 2006, relativa al
+sistema comune d’imposta sul valore aggiunto […]» (Cass. n.
+31012/2025, in motivazione; cfr., in senso conforme, Cass. n.
+31014/2025).
+1.5 Infine, nelle richiamate pronunce è stata anche evidenziata la
+distinzione tra la fattispecie in esame e quella relativa alle prestazioni di
+liquidazione dei sinistri compiute da una delle imprese coassicuratrici in
+relazione alle quali è stata invece esclusa l’esenzione dall’IVA (cfr. Cass. n.
+11442/2018; Cass. n. 21302/2018; Cass. n. 24713/2020), oggetto anche
+delle pronunce della CGUE richiamate nella sentenza impugnata.
+È stato osservato, infatti, che «nessuna interferenza è ravvisabile quanto
+alla giurisprudenza della Corte di giustizia in tema di gestione dei sinistri
+e, in particolare, con le pronunce 3 marzo 2005, Arthur Andersen, causa
+C-472/03 e 17 marzo 2016, Aspiro SA, causa C-40/15, secondo le quali
+non possono essere inclusi tra le operazioni di assicurazione i servizi di
+liquidazione dei sinistri forniti in nome e per conto di un assicuratore e
+svolte da soggetto non assicuratore. Nella causa Aspiro SA, causa C-
+40/15, la società Aspiro non si era impegnata nei confronti dell’assicurato
+a garantire a quest’ultimo la copertura di un rischio e non era in alcun
+modo vincolata all’assicurato da un rapporto contrattuale. Di conseguenza,
+benché il servizio di liquidazione di sinistri di cui al procedimento
+principale costituisse una componente essenziale dell’operazione di
+assicurazione laddove comprendeva la determinazione della responsabilità
+e dell’importo del danno nonché la decisione di versare o di rifiutare un
+indennizzo all’assicurato, la Corte di giustizia ha escluso che tale servizio,
+fornito all’assicuratore, potesse configurare un’operazione di
+assicurazione, ai sensi dell’articolo 135, paragrafo 1, lettera a), della
+10
+
+--- Pagina 11 ---
+
+direttiva IVA. Analogamente, nella causa Arthur Andersen, causa C-
+472/03, la Corte ha stabilito che servizi resi dalla Andersen Consulting
+Management Consultants (trattare domande di assicurazione, valutare i
+rischi da assicurare, valutare la necessità di un accertamento medico,
+decidere l’accettazione del rischio qualora un siffatto esame non si renda
+necessario, procedere all’emissione, alla gestione e alla cessazione delle
+polizze assicurative nonché a modifiche tariffarie e contrattuali, incassare i
+premi, gestire i sinistri, fissare e pagare le commissioni degli intermediari
+di assicurazione e assicurare il seguito dei contatti con questi ultimi,
+trattare aspetti relativi alla riassicurazione e fornire informazioni ai
+contraenti come pure agli intermediari di assicurazione nonché ad altri
+soggetti interessati come le autorità tributarie), pur contribuendo al
+contenuto essenziale delle attività di una impresa di assicurazioni, non
+costituissero operazioni di assicurazione ai sensi dell’art. 13, parte B, lett.
+a), della sesta direttiva e neppure costituissero prestazioni caratteristiche
+di un intermediario di assicurazione, in mancanza di alcun rapporto
+contrattuale con i contraenti (punto 22)».
+Il primo motivo del ricorso principale va dunque accolto.
+2.1 Con il secondo motivo di ricorso, la Europ Assistance Italia S.p.A. ha
+denunciato il vizio di cui all’art. 360, comma 1°, n. 3) c.p.c. per violazione
+e falsa applicazione degli artt. 12 d.P.R. 633/1972, 78, comma 1°, lettera
+b), della direttiva 2006/112/CE, dell’art. 11 d.lgs. 209/2005, nonché degli
+artt. 1362 e 1363 c.c..
+Ad avviso della ricorrente, le prestazioni oggetto del presente giudizio
+dovrebbero comunque considerarsi accessorie rispetto a quella di
+riassicurazione – essendo caratterizzate da un nesso di dipendenza
+funzionale, nonché dal fatto di essere rese nei confronti della medesima
+compagnia assicurativa con cui sono stati sottoscritti il trattato di
+riassicurazione e la convenzione di servizi - e per questo motivo
+andrebbero ritenute esenti da IVA.
+11
+
+--- Pagina 12 ---
+
+2.2 Con il terzo motivo di ricorso si denuncia il vizio di cui all’art. 360,
+comma 1°, n. 5) c.p.c., in quanto la CGT di secondo grado avrebbe
+omesso l’esame di un fatto decisivo per il giudizio che è stato oggetto di
+discussione tra le parti e cioè la stretta correlazione tra il trattato di
+riassicurazione e la convenzione di servizi. In pratica, la società
+assicuratrice ripropone le argomentazioni esposte con il terzo motivo,
+ritenendo che le stesse rivelino anche il vizio di cui al n. 5) del primo
+comma dell’art. 360 c.p.c..
+2.3 I predetti motivi vanno dichiarati assorbiti, in quanto finalizzati ad
+escludere l’applicazione dell’IVA sulle prestazioni oggetto del presente
+giudizio, effetto che la ricorrente ha già ottenuto con l’accoglimento del
+primo motivo.
+3.1 Con il quarto motivo di ricorso si denuncia il vizio di cui all’art. 360,
+comma 1°, n. 4) c.p.c. per violazione dell’art. 112 c.p.c., in quanto la CGT
+di secondo grado avrebbe omesso l’esame del terzo motivo di appello,
+avente ad oggetto la violazione dell’art. 10, comma 2°, l. 212/2000. Ad
+avviso della ricorrente, la CGT non aveva esaminato la doglianza
+(contenuta nelle pagine 40 – 48 dell’atto di appello e nelle pagine 12 e ss.
+dell’originario ricorso) con la quale si sosteneva che, in applicazione del
+principio del legittimo affidamento, non era dovuto neppure l’importo a
+titolo di imposta; il giudice di primo grado aveva escluso che fossero
+dovuti le sanzioni e gli interessi di mora e quello di appello aveva rigettato
+l’appello incidentale sul punto formulato dall’Amministrazione, ma non
+aveva esaminato il motivo di appello principale proposto al riguardo dalla
+società, così incorrendo nel vizio denunciato.
+3.2 Il motivo è infondato, dovendo ritenersi che sia intervenuta una
+pronuncia di rigetto implicita.
+Non ricorre, infatti, il vizio di omessa pronuncia nel caso in cui la decisione
+comporti una statuizione implicita di rigetto della domanda o eccezione,
+ravvisabile quando la pretesa non espressamente esaminata risulta -
+12
+
+--- Pagina 13 ---
+
+come nel caso di specie, in cui è stato comunque valutato il legittimo
+affidamento del contribuente al fine di escludere il pagamento delle
+sanzioni e degli interessi di mora - incompatibile con l’impostazione logico-
+giuridica della pronuncia, nel senso che la domanda o l’eccezione, pur non
+espressamente trattate, siano superate e travolte dalla soluzione di altra
+questione, il cui esame presuppone, come necessario antecedente logico-
+giuridico, la loro irrilevanza o infondatezza (Cass. n. 2953/2025; Cass. n.
+25710/2024).
+4. Con il quinto motivo di ricorso si denuncia, nel caso in cui non sia
+accolto il quarto motivo, il vizio di cui all’art. 360, comma 1°, n. 3) c.p.c.
+per violazione dell’art. 10 comma 2 l. 212/2000 dovendosi escludere, in
+applicazione del principio del legittimo affidamento, che siano dovute le
+somme richieste a titolo d’imposta.
+Il motivo è assorbito, essendo volto a conseguire, per altra via, l’effetto
+già ottenuto dalla ricorrente con l’accoglimento del primo motivo di
+ricorso.
+5. Con l’unico motivo di ricorso incidentale, l’Amministrazione ha
+denunciato il vizio di cui all’art. 360, comma 1°, n. 3) c.p.c. per violazione
+e falsa applicazione dell’art. 10, commi 2° e 3°, l. 212/2000, dovendo
+applicarsi al caso di specie il comma 3° (con esclusione delle sole sanzioni)
+e non anche il comma 2° (che comporta l’esclusione anche degli interessi
+di mora) della norma richiamata.
+Anche tale motivo resta assorbito per effetto dell’accoglimento del primo
+motivo di ricorso principale che ha comportato il venir meno del credito
+relativo all’imposta, con la conseguenza che anche quelli per interessi e
+sanzioni non sono più dovuti.
+6. In definitiva, va accolto il primo motivo del ricorso principale e rigettato
+il quarto, mentre vanno dichiarati assorbiti i rimanenti tre, nonché l’unico
+motivo di ricorso incidentale; la sentenza impugnata va dunque cassata
+con rinvio alla CGT di secondo grado della Lombardia, in diversa
+13
+
+--- Pagina 14 ---
+
+composizione, che dovrà provvedere anche a regolare le spese del
+presente giudizio di legittimità.
+P.Q.M.
+La Corte accoglie il primo motivo del ricorso principale, rigetta il quarto e
+dichiara assorbiti i rimanenti tre e l’unico motivo di ricorso incidentale;
+cassa la sentenza impugnata in relazione al motivo accolto e rinvia alla
+Corte di giustizia tributaria di secondo grado della Lombardia, in diversa
+composizione, cui demanda di provvedere anche in ordine alle spese del
+presente giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio del 10/12/2025.
+Il Presidente
+LUCIO LUCIOTTI
+14

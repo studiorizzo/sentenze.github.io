@@ -1,0 +1,451 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+n. 6472/2020 R.G.
+Cron.
+ORDINANZA
+sul ricorso (iscritto al n. 6472/2020 R.G.) proposto da:
+AGENZIA DELLE ENTRATE (Codice Fiscale: 06363391001), in persona
+del Direttore pro tempore, rappresentata e difesa dall’Avvocatura
+Generale dello Stato e domiciliata “ope legis” presso gli uffici di
+quest’ultima, siti in Roma, alla Via dei Portoghesi n. 12 (indirizzo p.e.c.:
+“ags.rm@mailcert.avvocaturastato.it”);
+- ricorrente -
+contro
+FALLIMENTO CUCINARREDI S.r.l. (Codice Fiscale e Partita I.V.A.:
+01700670027), in persona del Curatore pro tempore, elettivamente
+domiciliato in Roma, alla Circonvallazione Trionfale n. 123, presso lo studio
+dell’avv. Eugenio Novario del foro di Roma, unitamente all’avv. Eugenio
+Novario del foro di Novara che lo rappresenta e difende, giusta procura
+speciale a margine del controricorso (indirizzo p.e.c. del difensore:
+“eugenionovario@legalmail.it”; indirizzo p.e.c. del domiciliatario:
+“eugenionovario@ordineavvocatiroma.org”);
+- controricorrente -
+avverso la sentenza della Commissione Tributaria Regionale del
+Piemonte (Torino) n. 815/1/2019, pubblicata il 1° luglio 2019;
+
+--- Pagina 2 ---
+
+udita la relazione della causa svolta, nella camera di consiglio del 17
+settembre 2025, dal Consigliere relatore dott. Francesco Graziano;
+FATTI DI CAUSA
+1.- In punto di fatto e limitando l’esposizione alle sole circostanze rilevanti
+in questa sede, si osserva che oggetto del contenzioso sono avvisi di
+accertamento per gli anni 2008 e 2009 a carico della società Cucinarredi
+S.r.l., poi fallita.
+Tali accertamenti traevano origine da un p.v.c. del 4 luglio 2013, con
+cui la Guardia di Finanza di Vercelli aveva contestato alla società
+contribuente plurime violazioni delle vigenti disposizioni di legge in materia
+di IRES, IRAP e IVA in relazione agli anni d'imposta dal 2008 al 2012.
+In particolare, i militari avevano acquisito dall’amministratore della
+società, sig. Maurizio Silvio Alciati, all’atto dell'accesso presso la sede
+sociale, un file denominato “Easy Store 7” che riportava i dati relativi alle
+vendite, agli ordini e alle merci presenti in magazzino. Lo stesso file veniva,
+poi, consegnato da un tecnico informatico di fiducia della società in un
+secondo momento (e, precisamente, due settimane dopo l'acquisizione del
+primo file).
+Il confronto dei dati contenuti nelle due versioni acquisite dal
+programma gestionale aziendale “Easy Store 7” (e, cioè, quella
+dell'amministratore delegato e quella consegnata dal tecnico della società),
+evidenziava delle discordanze sostanziali dei dati, nel senso che dal file
+reperito presso l’amministratore delegato risultavano molte più
+commissioni (e quindi vendite) rispetto a quello acquisito in data
+successiva con l’ausilio del tecnico di fiducia della società.
+L'esistenza di un maggior numero di commissioni e quindi vendite
+perfezionate, rispetto a quelle risultanti dalla versione ufficiale del
+programma “Easy Store 7”, trovava conferma nelle risposte dei clienti ai
+questionari inviati dai verbalizzanti, risposte da cui emergeva (salvo in 2
+casi) che alle commissioni risultanti dal file in possesso dell'Amministratore
+corrispondevano vendite perfezionate.
+In merito a dette discordanze, i verificatori procedevano a interpellare
+sia l'amministratore delegato che la responsabile amministrativa della
+società (sig.ra Paola Giarnieri), nonché alcuni dipendenti ed ex dipendenti
+della società verificata (sigg. Raffaele La Vecchia, Samuel Grossi, Barbara
+2
+
+--- Pagina 3 ---
+
+Bordina e Cristina Visca) che per ragioni di lavoro utilizzavano o avevano
+utilizzato il programma gestionale “Easy Store 7”.
+L'amministratore spiegava la discordanza riscontrata adducendo che la
+registrazione di una data commissione di vendita sul programma
+gestionale non necessariamente comportava che la relativa vendita fosse
+andata a buon fine; diversamente, le dichiarazioni di tutti gli altri soggetti
+interpellati concordavano nel senso che la registrazione della commissione
+di vendita sul programma significava che la relativa vendita era andata a
+buon fine.
+L’Agenzia delle Entrate di Novara faceva proprie le risultanze del p.v.c.
+redatto dai verificatori e, di conseguenza, adottava: a) per l'anno 2008,
+l'avviso di accertamento n. T7Z030100782/2013 con il quale, ai sensi e
+per gli effetti degli artt. 39, comma 1, lett. d), 40 e 41-bis del d.P.R. n.
+600 del 1973, nonché dell’art. 25 d.lgs. n. 446 del 1997 e dell’art. 54 del
+d.P.R. n. 633 del 1972, recuperava a tassazione elementi positivi di reddito
+non dichiarati, rilevanti ai fini delle imposte dirette, pari ad €. 1.398.585,00
+(euro unmilionetrecentonovantottomilacinquecentottantacinque/00); b)
+per l'anno 2009, adottava l'avviso n. T7Z030100785/2013 con il quale, ai
+sensi e per gli effetti degli artt. 39, comma 1, lett. d), 40 e 41-bis del d.P.R.
+n. 600 del 1973, nonché dell’art. 25 del d.lgs. n. 446 del 1997 e dell’art.
+54 del d.P.R. n. 633 del 1972, recuperava a tassazione elementi positivi di
+reddito non dichiarati, rilevanti ai fini delle imposte dirette, pari ad €.
+1.753.628,00 (euro
+unmilionesettecentocinquantatremilaseicentoventotto/00).
+2.- Con due distinti ricorsi la società contribuente Cucinarredi S.r.l.
+impugnava i suddetti avvisi di accertamento.
+Con la sentenza di primo grado, la CTP di Novara, previa loro riunione,
+accoglieva i ricorsi della società rilevando che «i dati estrapolati dalle
+diverse versione dei files gestionali acquisiti dai militari della G.d.F. non
+costituiscano le presunzioni semplici, gravi, precise e concordanti
+necessarie per procedere alla rettifica dei redditi d'impresa».
+In particolare, il giudice di prime cure fondava la sopra riportata
+conclusione sulle considerazioni che: a) come dichiarato dalla società
+fornitrice del software utilizzato dalla contribuente, il programma
+consentiva soltanto la «gestione del cliente potenziale che permette al
+3
+
+--- Pagina 4 ---
+
+punto vendita di tener sotto controllo la situazione dei preventivi attivi non
+ancora conclusi …» e pertanto «l'importo della commissione generata non
+dovrebbe in alcun modo essere assimilato o confrontato con il reale valore
+del venduto di un certo intervallo di data»; b) «16 questionari inviati su un
+totale di 9.156 clienti non possono costituire una campionatura indicativa
+e sufficiente a corroborare presunzioni munite dell'indispensabile gravità,
+precisione e concordanza»; c) «le dichiarazioni rilasciate dalla Visca ai
+verbalizzanti possano essere frutto di ritorsione nei confronti dell'ex datore
+di lavoro e, quantomeno, siano prive di quel carattere di imparzialità e
+genuinità che dovrebbero assumere per essere credibili e fondate».
+3.- L’Agenzia delle Entrate proponeva appello avverso la decisione della
+CTP di Novara, ribadendo la legittimità dei recuperi a tassazione operati,
+evidenziando l'assoluta carenza di motivazione sia con riguardo al rilievo
+afferente l'omessa contabilizzazione di maggiori ricavi, sia con riguardo al
+rilievo afferente l'omessa effettuazione di ritenute sui compensi erogati “in
+nero”.
+Con sentenza n. 1022/4/2016 pubblicata il 2 agosto 2016, la CTR del
+Piemonte rigettava l’appello dell’amministrazione finanziaria.
+4.- Avverso la predetta sentenza d’appello, l’Agenzia delle Entrate
+proponeva ricorso per cassazione che veniva accolto dall’ordinanza n.
+13004 del 2018 della S.C., con la seguente motivazione: «Con il primo
+motivo - ex art. 360, primo comma, n. 3, cod. proc. civ. - l'agenzia fiscale
+ricorrente lamenta la violazione/falsa applicazione dell'art. 39, d.P.R.
+600/1973, poiché la CTR non ha operato correttamente la valutazione delle
+prove indiziari basanti le riprese fiscali de quibus, omettendone in
+particolare una considerazione complessiva. La censura è fondata. Va
+ribadito che: - «La valutazione della prova presuntiva esige che il giudice
+di merito esamini tutti gli indizi di cui disponga non già considerandoli
+isolatamente, ma valutandoli complessivamente ed alla luce l'uno
+dell'altro, senza negare valore ad uno o più di essi sol perché equivoci, così
+da stabilire se sia comunque possibile ritenere accettabilmente probabile
+l'esistenza del fatto da provare» (Sez. 3, Sentenza n. 5787 del
+13/03/2014, Rv. 630512 - 01); - «In tema di prova per presunzioni, il
+giudice, dovendo esercitare la sua discrezionalità nell'apprezzamento e
+nella ricostruzione dei fatti in modo da rendere chiaramente apprezzabile
+4
+
+--- Pagina 5 ---
+
+il criterio logico posto a base della selezione delle risultanze probatorie e
+del proprio convincimento, è tenuto a seguire un procedimento che si
+articola necessariamente in due momenti valutativi: in primo luogo,
+occorre una valutazione analitica degli elementi indiziari per scartare quelli
+intrinsecamente privi di rilevanza e conservare, invece, quelli che, presi
+singolarmente, presentino una positività parziale o almeno potenziale di
+efficacia probatoria; successivamente, è doverosa una valutazione
+complessiva di tutti gli elementi presuntivi isolati per accertare se essi
+siano concordanti e se la loro combinazione sia in grado di fornire una
+valida prova presuntiva, che magari non potrebbe dirsi raggiunta con
+certezza considerando atomisticamente uno o alcuni di essi. Ne consegue
+che deve ritenersi censurabile in sede di legittimità la decisione in cui il
+giudice si sia limitato a negare valore indiziario agli elementi acquisiti in
+giudizio senza accertare se essi, quand'anche singolarmente sforniti di
+valenza indiziaria, non fossero in grado di acquisirla ove valutati nella loro
+sintesi, nel senso che ognuno avrebbe potuto rafforzare e trarre vigore
+dall'altro in un rapporto di vicendevole completamento» (Sez. 6 - 5,
+Ordinanza n. 5374 del 02/03/2017, Rv. 643327 - 01). Risulta evidente che
+il giudizio meritale contenuto nella sentenza impugnata contrasta con i
+principi di diritto espressi in tali arresti giurisprudenziali. La CTR
+piemontese infatti si è limitata ad elencare gli indizi utilizzati dall'Ente
+impositore a sostegno delle proprie pretese creditorie, nemmeno in modo
+esaustivo e preciso, senza tuttavia darne una valutazione complessiva
+doverosamente articolata e compiutamente espressiva dell' iter logico-
+giuridico che la induceva ad affermare la non corrispondenza alle
+caratteristiche legali (gravità, precisione, concordanza) necessarie al fine
+di ammetterne una presunzione (semplice). Il che non può certo bastare
+ai fini di una corretta applicazione della disposizione del TU
+sull'accertamento delle imposte sui redditi evocata con la censura, come
+interpretata nei citati arresti giurisprudenziali. La sentenza impugnata va
+dunque cassata in relazione al primo motivo, assorbito il secondo motivo,
+con rinvio al giudice a quo per nuovo esame.».
+5.- All’esito della riassunzione da parte della società contribuente, il
+giudice del rinvio (CTR Piemonte, in diversa composizione), con la sentenza
+oggetto dell’odierno ricorso per cassazione (n. 815/1/2019, pubblicata il
+5
+
+--- Pagina 6 ---
+
+1° luglio 2019), rigettava l’appello dell’Agenzia delle Entrate, sulla base
+della seguente motivazione: «L'appello dell'Agenzia deve essere respinto.
+Il rinvio da parte del giudice di legittimità ha ad oggetto l'obbligo di una
+complessiva ed integrale valutazione degli indizi evidenziati dall'erario, il
+quale ha sostanzialmente ricostruito una significativa entità di presunte
+entrate non dichiarate sulla scorta dei dati estratti sul computer
+dell'amministratore della società. Non è corretta la tesi della contribuente,
+secondo la quale non vi sarebbe alcuna incoerenza di dati tra quelli estratti
+dal computer dell'amministratore e quelli estratti dal computer aziendale;
+il PVC attesta infatti chiaramente che dal computer dell'amministratore
+sono emersi degli ordini che non hanno trovato riscontro nella contabilità;
+l'assunto è corroborato dall'elenco degli ordinativi reperiti per il secondo
+semestre 2008 e per il 2009 e acquisito su CD, il cui contenuto è stampato,
+con l'elenco delle presunte vendite oggetto di contestazione e prodotto
+come allegato 1 dall'Agenzia delle entrate nel fascicolo di primo grado RGR
+240/2013 e come allegato 3 di parte contribuente nel fascicolo di primo
+grado RGR 293/13. Tuttavia resta il problema di comprendere se tale
+elemento (che la contribuente ha spiegato con l'assunto secondo cui in quei
+file fossero stati indicati anche ordinativi poi non andati a buon fine) sia di
+per sé sufficiente a pervenire ad un accertamento dell'entità complessiva
+di svariati milioni di euro; come avvenuto nel caso di specie. Sul punto il
+collegio ritiene che, di fatto, questo elemento, a fronte di una società
+risultata coerente con gli studi di settore ed alla quale non è stata
+contestata alcuna irregolarità formale nella tenuta delle scritture contabili,
+non sia da solo sufficiente per pervenire alla contestazione; la stessa
+Agenzia riconosce che le presunzioni semplici richiedono una serie plurima
+di indizi gravi precisi e concordanti. La stessa Suprema Corte, in tema di
+accertamenti indiziari ha precisato: "il giudice, dovendo esercitare la sua
+discrezionalità nell'apprezzamento e nella ricostruzione dei fatti in modo
+da rendere chiaramente apprezzabile il criterio logico posto a base della
+selezione delle risultanze probatorie e del proprio convincimento, è tenuto
+a seguire un procedimento che si articola necessariamente in due momenti
+valutativi: in primo luogo, occorre una valutazione analitica degli elementi
+indiziari per scartare quelli intrinsecamente privi di rilevanza e conservare,
+invece, quelli che, presi singolarmente, presentino una positività parziale
+6
+
+--- Pagina 7 ---
+
+o almeno potenziale di efficacia probatoria; successivamente, è doverosa
+una valutazione complessiva di tutti gli elementi presuntivi isolati per
+accertare se essi siano concordanti e se la loro combinazione sia in grado
+di fornire una valida prova presuntiva, che magari non potrebbe dirsi
+raggiunta con certezza considerando atomisticamente uno o alcuni di essi.
+Ne consegue che deve ritenersi censurabile in sede di legittimità la
+decisione in cui il giudice si sia limitato a negare valore indiziario agli
+elementi acquisiti in giudizio senza accertare se essi, quand'anche
+singolarmente sforniti di valenza indiziaria, non fossero in grado di
+acquisirla ove valutati nella loro sintesi, nel senso che ognuno avrebbe
+potuto rafforzare e trarre vigore dall'altro in un rapporto di vicendevole
+completamento" (Cass. n. 9059/2018). Si procede quindi alla disamina
+analitica degli indizi invocati dall'Agenzia per poi farne sintesi. Nelle proprie
+difese l'Agenzia si è di fatto limitata a ripetere (in modo sostanzialmente
+acritico) in parte il contenuto del PVC senza fornire una ricostruzione degli
+addebiti che abbia tenuto conto delle difese della controparte svolte in esito
+al primo grado di giudizio e della stessa sentenza di primo grado; l'Ufficio
+insiste, ad esempio, in relazione alla circostanza che alcuni dei clienti
+interpellati a campione non sarebbero stati in grado di produrre
+documentazione fiscale degli acquisti. La contribuente ha replicato
+evidenziando, da un lato, la percentuale insignificante di clienti interpellati
+(0,30%) e producendo, dall'altro, sin dal primo grado di giudizio la
+documentazione fiscale relativa alle operazioni contestate. A fronte di tali
+osservazioni l'Agenzia ha ignorato le deduzioni di parte senza contestarle
+e ha semplicemente riproposto le tesi esposte nel PVC; ne consegue che,
+dall'intervista dell'esiguo campione di clienti, non è dato evincere alcun
+indizio che possa corroborare i dati acquisiti dal programma informatico,
+né può dirsi provato che alcuni non fossero stati dotati di documentazione
+fiscale, non avendo l'Agenzia nulla replicato alla prova offerta dalla
+contribuente. Ulteriore indizio che l'Agenzia sostiene riscontrare i dati
+risultanti dal PC dell'amministratore è presentato dalla testimonianza della
+signora Visca; come dettagliatamente indicato dalla contribuente, signora
+Visca ha effettivamente indicato l'esistenza di una sorta file parallelo
+denominato Mobile1 di cui non si è tuttavia trovata traccia; è pacifico che
+la signora Visca, pur essendo stata dipendente per svariati anni, ha visto il
+7
+
+--- Pagina 8 ---
+
+suo rapporto interrotto in modo traumatico, con una contestazione a fini di
+licenziamento di un significativo ammanco di cassa. Soprattutto appare
+significativo che la teste Visca abbia reso dichiarazioni incoerenti in diverse
+occasioni; ne consegue che la teste Visca non solo ha una posizione
+individuale che ne potrebbe minare la credibilità ma soprattutto ha
+menzionato circostanze non riscontrate (l'esistenza di un file non reperito
+da alcuno) e ha reso dichiarazioni incoerenti tra loro. L'Agenzia
+genericamente afferma che le dichiarazioni della Visca sarebbero
+riscontrate da quelle di altri dipendenti; la tesi non trova riscontro in atti,
+in quanto tutti gli altri dipendenti hanno semplicemente dichiarato che, di
+norma, il pagamento dell'acconto corrispondeva alla conclusione di un
+contratto; nessuno ha menzionato incassi non contabilizzati (né l'Agenzia
+indica chi lo avrebbe fatto e tanto meno spiga in modo puntuale perché
+sostiene che le dichiarazioni di altri dipendenti confermerebbero quelle
+della Visca). Pare quindi al collegio che le isolate e contraddittorie
+dichiarazioni della teste Visca non possano costituire valido riscontro a
+quanto desunto dal file dell'amministratore. Per il resto nessuna anomalia
+è stata riscontrata nelle verifiche di magazzino e cassa, oltre che di
+contabilità, tutte regolari; ancora risulta invece evidente che i ricavi
+presuntivamente ricostruiti dall'Agenzia porterebbero ad un ricarico
+percentuale abnorme per la tipologia di mercato; infine, e per le ragioni
+già esposte, non pare sia stato desunto alcun riscontro dalle interviste dei
+clienti alla luce delle repliche della contribuente. Passando quindi ad una
+valutazione complessiva degli indizi risulta che i dati estrapolati dal
+computer dell'amministratore appaiono essere l'unico indizio reperito
+dall'amministrazione, senza sufficienti e coerenti ulteriori riscontri. In
+siffatto contesto l'accertamento non trova idoneo fondamento e deve, per
+tali ragioni, essere confermato l'annullamento che ne era già stato
+disposto.».
+6.- Avverso tale sentenza, l’Agenzia delle Entrate propone ricorso per
+cassazione affidato a tre motivi.
+7.- Il Fallimento della società Cucinarredi S.r.l. ha resistito con
+controricorso.
+RAGIONI DELLA DECISIONE
+8
+
+--- Pagina 9 ---
+
+1.- Con il primo motivo, la ricorrente denuncia, ai sensi dell’art. 360,
+comma 1, n. 4), c.p.c., la nullità della sentenza impugnata per violazione
+e falsa applicazione dell’art. 384 c.p.c. e per elusione del giudicato.
+Sostiene che il decisum di cui all’ordinanza n. 13004 del 2018 della
+S.C. sarebbe stato obliterato dalla CTR in sede di rinvio con motivazione
+sostanzialmente riproduttiva del medesimo vizio già censurato,
+ripercorrendo invece la strada già percorsa dalla CTR Piemonte con la
+pronuncia cassata. Quindi, la CTR, con la sentenza oggetto dell’odierno
+ricorso per cassazione, non si sarebbe attenuta al principio di diritto
+enunciato dalla S.C. in fase rescindente.
+2.- Con il secondo motivo, la ricorrente denuncia, ai sensi dell’art. 360,
+comma 1, n. 4), c.p.c., la nullità della sentenza impugnata, per violazione
+degli artt. 112 e 132, comma 2, n. 4), c.p.c., nonché dell’art. 36 d.lgs.
+546 del 1992.
+Sostiene, al riguardo, la mera apparenza della motivazione.
+3.- Con il terzo (e ultimo) motivo, la ricorrente denuncia, ai sensi
+dell’art. 360, comma 1, n. 3), c.p.c., la violazione e falsa applicazione
+dell’art. 39 d.P.R. n. 600 del 1973, nonché degli artt. 2696, 2727 e 2729
+c.c..
+La censura si appunta innanzitutto sull’affermazione - contenuta nella
+sentenza impugnata - secondo cui «Per il resto nessuna anomalia è stata
+riscontrata nelle verifiche di magazzino e cassa, oltre che di contabilità,
+tutte regolari; ancora risulta invece evidente che i ricavi presuntivamente
+ricostruiti dall'Agenzia porterebbero ad un ricarico percentuale abnorme
+per la tipologia di mercato; infine, e per le ragioni già esposte, non pare
+sia stato desunto alcun riscontro dalle interviste dei clienti alla luce delle
+repliche della contribuente. Passando quindi ad una valutazione
+complessiva degli indizi risulta che i dati estrapolati dal computer
+dell'amministratore appaiono essere l'unico indizio reperito
+dall'amministrazione, senza sufficienti e coerenti ulteriori riscontri.».
+Alla stregua della prospettazione della ricorrente, in tal modo, la CTR
+avrebbe violato il principio secondo cui, in tema di accertamento delle
+imposte sui redditi, la presenza di scritture contabili formalmente corrette
+non esclude la legittimità dell'accertamento analitico-induttivo del reddito
+d'impresa, ai sensi dell'art. 39, comma 1, lettera d), del d.P.R. n. 600 del
+9
+
+--- Pagina 10 ---
+
+1973, in presenza di presunzioni gravi, precise e concordanti. Inoltre,
+sarebbe stato violato il principio secondo cui il rinvenimento di una
+“contabilità in nero”, costituita da appunti personali e da informazioni
+dell'imprenditore, rappresenta un valido elemento indiziario, dotato dei
+requisiti di gravità, precisione e concordanza, prescritti dall'art. 39 del
+d.P.R. n. 600 del 1973, perché nella nozione di scritture contabili,
+disciplinate dagli artt. 2709 e ss. c.c., devono ricomprendersi tutti i
+documenti che registrino, in termini quantitativi o monetari, i singoli atti
+d'impresa, ovvero rappresentino la situazione patrimoniale
+dell'imprenditore ed il risultato economico dell'attività svolta, spettando
+poi al contribuente l'onere di fornire adeguata prova contraria.
+4.- La prima censura è senz’altro fondata, con conseguente
+assorbimento dei restanti motivi.
+Deve, infatti, ribadirsi che, per giurisprudenza consolidata di
+legittimità, la contabilità in nero, costituita da appunti personali e da
+informazioni dell’imprenditore, rappresenta un valido elemento indiziario,
+dotato dei requisiti di gravità, precisione e concordanza, prescritti dall'art.
+39 d.P.R. n. 600 del 1973, perché nella nozione di scritture contabili,
+disciplinate dagli artt. 2709 e segg. c.c., devono ricomprendersi tutti i
+documenti che registrino in termini quantitativo o monetari, i singoli atti
+di impresa, ovvero rappresentino la situazione patrimoniale
+dell'imprenditore ed il risultato economico dell'attività svolta, spettando
+poi al contribuente l'onere di fornire adeguata prova contraria (Cass. civ.,
+Sez. 5, ordinanza n. 12680 del 23 maggio 2018, Rv. 648775-01; Cass.
+civ., Sez. 5, ordinanza n. 27622 del 30 ottobre 2018, Rv. 651078-02).
+Inoltre, in tema di accertamento induttivo dei redditi di impresa, di cui
+all'art. 39, comma 1, lett. d), d.P.R. n. 600 del 1973, il convincimento del
+giudice in ordine alla sussistenza di maggiori ricavi non dichiarati da
+un'impresa commerciale ben può fondarsi anche su una sola presunzione
+semplice, purché grave e precisa (Cass. civ., ordinanza n. 30803 del 22
+dicembre 2017, Rv. 646681-01, con riguardo alla discordanza tra la
+quantità di carburante acquistato da un autotrasportatore e quella da
+costui dichiarata ai fini della richiesta di agevolazioni fiscali; Cass. civ.,
+Sez. 5, sentenza n. 24051 del 16 novembre 2011, Rv. 620184-01 con
+riferimento a brogliacci reperiti presso la sede della società; Cass. civ.,
+10
+
+--- Pagina 11 ---
+
+Sez. 5, sentenza n. 4080 del 27 febbraio 2015, Rv. 634980-01, in
+relazione ad un quadernone contenente l'indicazione degli effettivi
+quantitativi di materiale prodotto).
+Orbene, con espresso riguardo alla fattispecie in esame, non è chi non
+veda come la CTR del Piemonte, con la sentenza oggetto dell’odierno
+ricorso per cassazione, sia incorsa in una patente violazione dei principi
+finora enucleati, affermando l’illegittimità dell’accertamento tributario, per
+insufficienza dell’elemento indiziario rappresentato dal rinvenimento,
+presso l’amministratore delegato della società contribuente, del file
+denominato “Easy Store 7” che riportava i dati relativi alle vendite, agli
+ordini e alle merci presenti in magazzino. In tal modo, dunque, la CTR non
+si è attenuta ai principi di diritto enunciati da questa Corte regolatrice in
+fase rescindente, non avendo proceduto ad una corretta valutazione
+analitica dell’elemento indiziario sopra menzionato, che, già di per sé
+sufficiente a legittimare la ripresa fiscale (alla stregua del consolidato
+orientamento giurisprudenziale di questa Corte regolatrice di cui si è dato
+sopra ampiamente conto), risultava, peraltro, corroborato dagli ulteriori
+elementi presuntivi forniti, a sostegno dell’accertamento tributario,
+dall’amministrazione finanziaria, quali, a titolo esemplificativo, il fatto che
+diversi clienti, interpellati a campione dall’amministrazione finanziaria,
+non erano stati in grado di produrre documentazione fiscale degli acquisti
+eseguiti.
+Né, del resto e diversamente da quanto affermato dalla CTR nella
+sentenza impugnata, poteva assumere rilevanza alcuna il dato
+rappresentato dalla regolarità delle scritture contabili, stante il principi,
+anch’esso più volte affermato da questa Corte regolatrice, secondo cui «In
+tema di accertamento delle imposte sui redditi, il giudizio di complessiva
+o intrinseca inattendibilità delle scritture contabili,
+ancorché formalmente corrette, costituisce il presupposto per procedere
+con il metodo analitico-induttivo, che consente valutazioni sulla base di
+presunzioni gravi, precise e concordanti, ai sensi dell'art. 39, comma 1,
+lett. d), del d.P.R. n. 600 del 1973, ma anche quello per procedere con
+l'accertamento induttivo "puro", fondato su presunzioni cd.
+"supersemplici", prive dei requisiti di gravità, precisione e concordanza, in
+presenza di una delle tassative condizioni previste dallo stesso art. 39,
+11
+
+--- Pagina 12 ---
+
+comma 2, il quale, inoltre, costituendo una facoltà per l'Amministrazione,
+può prescindere anche solo in parte dalle scritture contabili e dal bilancio
+e non richiede alcuna specifica motivazione per l'utilizzazione di dati
+indicati in contabilità o in dichiarazione o comunque provenienti dallo
+stesso contribuente, anche a fronte di un giudizio di complessiva
+inattendibilità della contabilità, nel rispetto di una ricostruzione operata
+sempre secondo criteri di ragionevolezza e nel rispetto del parametro
+costituzionale della capacità contributiva.» (cfr., all’uopo, Cass. civ., Sez.
+T, sentenza n. 16528 del 13 giugno 2024, Rv. 671318-01).
+5.- Dalle considerazioni finora sviluppate deriva, ai sensi dell’art. 384,
+comma 2, c.p.c., la cassazione della sentenza impugnata con rinvio della
+causa alla Corte di Giustizia Tributaria di secondo grado del Piemonte, in
+diversa composizione, la quale procederà a un nuovo esame della
+controversia uniformandosi ai principi di diritto sopra richiamati e
+provvedendo, altresì, a statuire sulle spese del presente giudizio di
+legittimità.
+P.Q.M.
+La Corte Suprema di Cassazione
+Accoglie il primo motivo di ricorso, assorbiti i restanti; cassa la sentenza
+impugnata e rinvia la causa alla Corte di Giustizia Tributaria di secondo
+grado del Piemonte, in diversa composizione, anche per la pronuncia sulle
+spese del presente giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio della Sezione Tributaria,
+in data 17 settembre 2025.
+Il Presidente
+Francesco Federici
+12

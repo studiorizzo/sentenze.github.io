@@ -1,0 +1,131 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 1575/2025 R.G. proposto da:
+AGENZIA DELLE ENTRATE-RISCOSSIONE, domiciliata “ex lege” in ROMA
+VIA DEI PORTOGHESI 12, presso l'AVVOCATURA GENERALE DELLO STATO
+(ADS80224030587) che la rappresenta e difende
+-ricorrente-
+contro
+GIUSEPPE FALCONE
+-intimato-
+avverso SENTENZA di CORTE DI GIUSTIZIA TRIBUTARIA II GRADO
+CALABRIA n. 1669/2024 depositata il 11/06/2024.
+Udita la relazione svolta nella camera di consiglio del 17/10/2025 dal
+Consigliere ANDREA ANTONIO SALEMME.
+FATTI DI CAUSA
+1. In data 31 dicembre 2018, FALCONE Giuseppe era attinto da
+intimazione di pagamento n. 09420229000422978000 ex art. 50, comma
+
+--- Pagina 2 ---
+
+2, DPR n. 602 del 1973. L’adita CTP di Reggio Calabria, dinanzi alla quale
+non s’era costituito l’agente della riscossione, con sentenza n.
+1128/8/2023, depositata in data 06/03/2023, accoglieva il ricorso,
+limitatamente alla presupposta cartella n. 09420180018836959000, per
+difetto della prova della relativa notifica.
+2. L’agente della riscossione proponeva appello; il contribuente non si
+costituiva; la CGT2 della Calabria, con la sentenza in epigrafe, giudicava
+l’appello inammissibile, sul rilievo che tra gli atti depositati
+telematicamente non figurava “anche l’atto d’appello che, secondo quanto
+risulta dalle note illustrative dell’Agenzia Entrate e Riscossione (da cui è
+stato possibile comprendere le ragioni dell'impugnazione) sarebbe stato
+notificato in data 4.5.2023 e depositato in data 9.5.2023”, con
+conseguente mancata costituzione, rilevante ai sensi dell’art. 53 D.Lgs. n.
+546 del 1992.
+3. L’agente della riscossione propone ricorso per cassazione con un
+motivo; il contribuente resta intimato.
+Considerato che:
+1. Con l’unico motivo di ricorso si denuncia: “Nullità della sentenza per
+perplessità della motivazione, nonché violazione e/o falsa applicazione
+degli artt. 22, comma 1, e 53, comma 2, del D.Lgs. n. 546 del 1992, in
+combinato disposto con gli artt. 114, 115 c.p.c. e 348, comma 1, c.p.c.,
+avendo la CGT2 deciso in palese difformità rispetto alle risultanze
+processuali (in relazione all’art. 360, comma 1, n. 4, c.p.c.)”. La CGT2 non
+ha considerato, “all’interno del fascicolo telematico, la presenza del ‘file’
+contenente l’atto di appello”, “ritualmente depositato in data 09/05/2023,
+in formato originale sottoscritto digitalmente, unitamente agli allegati ed
+alla prova delle notifiche PEC (‘files’ di accettazione e di consegna) ad
+entrambi i legali di controparte in data 04/05/2023, il tutto in formato
+nativo ‘.eml’”. “Per altro verso, l'art. 348, comma 1, c.p.c., richiamato
+2
+
+--- Pagina 3 ---
+
+dall’art. 53 del d.lgs. 546/92 […], dev'essere inteso nel senso che [la]
+sanzione [dell’inammissibilità] riguarda la mancata costituzione nei termini
+indicati dall'art. 165 c.p.c., oppure una costituzione avvenuta al di là di
+essi e non invece una costituzione avvenuta nell'osservanza di tali termini,
+ma senza il rispetto delle forme con cui doveva avvenire ai sensi dello
+stesso art. 165”.
+2. Il motivo è inammissibile, in quanto deduce un errore revocatorio,
+che avrebbe potuto e dovuto esser dedotto nella sede propria e non
+mediante ricorso per cassazione.
+2.1. Il consolidato insegnamento di questa S.C., anche a Sezioni Unite,
+è nel senso che “la verifica, da parte del giudice tributario di secondo
+grado, dell'avvenuto deposito dell'atto d'appello presso la segreteria del
+giudice che ha pronunciato la sentenza impugnata, quando il ricorso non
+sia notificato a mezzo di ufficiale giudiziario (ai sensi dell'art. 53, comma
+2, del d.lgs. n. 546 del 1992), costituisce oggetto di un accertamento di
+fatto, e non di un'interpretazione degli atti processuali. Pertanto, la parte
+la quale lamenti che il giudice d'appello abbia dichiarato inammissibile il
+gravame, sull'erroneo presupposto che il suddetto deposito non fosse
+avvenuto, ha l'onere di impugnare la sentenza con la revocazione
+ordinaria, e non col ricorso per cassazione” (Cass. n. 2702 del 2022; Cass.
+Sez. U n. 15227 del 2009).
+È ben vero che siffatto consolidato insegnamento si riferisce a depositi
+cartacei, l’erronea affermazione in ordine all’(in)esistenza dei quali,
+proprio per la materialità della consistenza cartacea, che o è presente nel
+fascicolo o non lo è, involge questioni fattuali meramente percettive,
+suscettive di rilevare, “in limine”, in sede di revocazione.
+2.2. Nondimeno, nulla cambia in relazione ai depositi telematici, di cui
+si verte nella specie.
+3
+
+--- Pagina 4 ---
+
+2.2.1. Anche in riferimento ai depositi telematici, viepiù di documenti
+informatici nativo-digitali, viene infatti in conto la mera percezione del
+deposito del “file” in sé e per sé, a prescindere dalla sua denominazione.
+Per cogliere l’efficacia rappresentativa (o raffigurativa) del “file” rispetto al
+suo contenuto, è sufficiente una semplice operazione – come,
+analogicamente, di lettura del piego cartaceo, così, digitalmente – di
+apertura del “file” stesso, attraverso un’interazione minimamente esperta,
+esigibile per definizione, a seguito dell’introduzione del processo tributario
+telematico, da qualsivoglia utente abilitato, giudice “in primis”.
+Talché l’errore commesso da quest’ultimo nell’apprezzamento del
+deposito del “file” seguita ad involgere – come nella disamina dei pieghi
+cartacei – un’attività meramente percettiva, ad esclusione di alcuna
+elaborazione, men che meno in chiave valutativa.
+In sostanza, l’uso del sistema tecnologico impone, semplicemente, di
+adattare, al passo con i tempi e con la tecnologia, il concetto di
+percezione, e dunque di errore di percezione alla base dell’errore
+revocatorio, all’uso degli strumenti informatici.
+2.3. Va enunciato il seguente principio di diritto:
+“La verifica, da parte del giudice tributario di secondo grado,
+dell'avvenuto deposito informatico dell'atto d'appello nativo-digitale
+notificato telematicamente ex art. 16-bis, comma 3, D.Lgs. n. 546 del
+1992 costituisce oggetto di un accertamento di fatto, e non di
+un'interpretazione degli atti processuali. Pertanto, la parte la quale lamenti
+che il giudice d'appello abbia dichiarato inammissibile il gravame,
+sull'erroneo presupposto che il suddetto deposito non fosse avvenuto, ha
+l'onere di impugnare la sentenza con la revocazione ordinaria, e non col
+ricorso per cassazione”.
+3. Ne consegue, come anticipato, l’inammissibilità del ricorso.
+4
+
+--- Pagina 5 ---
+
+4. Nulla è a statuirsi sulle spese, per mancata costituzione del
+contribuente intimato.
+P.Q.M.
+Dichiara inammissibile il ricorso.
+Così deciso a Roma, lì 17 ottobre 2025.
+Il Presidente
+Lucio Luciotti
+5
