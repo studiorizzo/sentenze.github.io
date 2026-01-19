@@ -1,0 +1,385 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 11271/2024 R.G. proposto da:
+AGENZIA DELLE ENTRATE, in persona del Direttore generale pro tempore,
+rappresentata e difesa ex lege dall’Avvocatura Generale dello Stato
+– ricorrente –
+CONTRO
+DYNATRACE S.R.L., in persona del legale rappresentante p.t. rappresentato
+e difeso per procura speciale in atti dall’avv. Eugenio Della Valle del foro di
+Roma
+-controricorrente–
+avverso la sentenza n. 4954/2022 della Commissione tributaria regionale
+della Lombardia, depositata in data 14.12.2022, non notificata;
+udita la relazione svolta dal consigliere Maria Clara Sali adunanza camerale
+del 3.12.2025;
+FATTI DI CAUSA
+
+--- Pagina 2 ---
+
+1. La Direzione Provinciale I di Milano – Ufficio Controlli notificava, in data
+25/03/2021, alla Dynatrace Srl, operante in Italia in qualità di Dynatrace
+Sales Organization (DSO) per conto di Dynatrace LLC, società americana
+registrata in Delaware, avente sede operativa in Michigan (Detroit),
+facente capo al “Gruppo Compuware”, l’avviso di accertamento n.
+T9B031502127/2020 relativo al periodo d’imposta 2015, per maggiori
+ritenute pari ad € 669.565,00 oltre sanzioni, per complessivi €
+1.406.086,00. Dal Modello 770/2016 per l’anno 2015 presentato dalla
+medesima Dynatrace Srl veniva rilevata (al rigo SY16) la corresponsione di
+royalties per € 3.043.478,26 nei confronti della Dynatrace LLC (società
+partecipante di diritto statunitense), con effettuazione di ritenute a titolo
+d’imposta nella misura dell’8%, come previsto dalla Convenzione Italia-
+USA contro le doppie imposizioni, in luogo di quella del 30% prevista
+dall’art. 25 co. 4 DPR n. 600/1973. Dall’esame della documentazione
+prodotta dalla società in riscontro al questionario notificato dall’Ufficio,
+emergevano delle criticità, integralmente riportate nell’invito n.
+T9BI11501263/2020 emesso al fine di instaurare il contraddittorio
+obbligatorio, ai sensi dell’art. 5 ter D.lgs. 218/97. La contribuente nel corso
+del periodo d’imposta 01/04/2015 – 31/03/2016, annotava nel conto n.
+630786 – “Commissioni v/USA” commissioni/royalties verso la
+partecipante statunitense Dynatrace LLC per € 3.159.408,34. A fronte di
+tale importo, Dynatrace Srl, nel corso del 2015 (rigo SY16) ha corrisposto
+alla Dynatrace LLC commissioni/royalties per € 3.043.478,26, come
+risultante dagli estratti conto bancari prodotti dalla Società.
+2. Con sentenza n. 122/08/2022, la Commissione Tributaria Provinciale di
+Milano accoglieva il ricorso della società.
+3.  La C.T.R. della Lombardia, adita dall’Agenzia delle Entrate, rigettava il
+gravame.
+4. Avverso la precitata sentenza l’Agenzia delle Entrate ha proposto ricorso
+per cassazione, affidato a due motivi.
+2
+
+--- Pagina 3 ---
+
+5. La società intimata resiste con controricorso.
+6. Per la trattazione della causa è stata fissata l’adunanza camerale del
+3.12.2025.
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo – rubricato «Falsa applicazione dell’art. 25 quarto
+comma, d.P.R. n. 600/1973, dell'articolo 12 della Convenzione Italia-USA
+contro le doppie imposizioni (ratificata con Legge n. 20/2009), nonché
+dell'articolo 2697 del codice civile. Denunzia ai sensi dell'art. 360, primo
+comma, n. 3 del codice di procedura civile», l’Agenzia delle Entrate deduce
+che la C.T.R. non aveva invero compiuto in concreto alcun tipo di
+accertamento in ordine alla circostanza fattuale legittimante il trattamento
+privilegiato ossia che la società destinataria della corresponsione delle
+royalties fosse effettivamente il beneficiario effettivo. Emerge dall'avviso di
+accertamento impugnato che l’analisi effettuata dalle società di revisione si
+era basata sulla medesima documentazione esaminata dall’Ufficio a seguito
+del questionario inviato alla società nonché nella successiva fase del
+procedimento di adesione, documentazione che non è stata ritenuta
+sufficiente dall’Amministrazione al fine di provare lo status di beneficiario
+effettivo e, dunque, l’applicazione della ritenuta nella misura dell’8% in
+luogo di quella accertata pari al 30% ai sensi dell’art. 25 co. 4 dPR 600/73.
+Dal momento che le relazioni delle società di revisione da sole non possono
+assurgere ad evidenza probatoria decisiva, appare evidente che la Corte
+territoriale non avesse, in concreto, effettuato alcun accertamento sulle
+ragione del trasferimento delle somme derivanti dal pagamento delle
+royalties. Anziché basarsi sulle relazioni di società di revisione remunerate
+dalla stessa contribuente, avrebbe piuttosto dovuto analizzare gli elementi
+critici emergenti dal bilancio e dalle relazioni integrative, per come
+richiesto nell’atto di appello, di cui trascrive il contenuto. 1.1. Inoltre, sotto
+altro profilo, l’Agenzia ritiene che la Corte del merito abbia errato
+nell’applicazione della disciplina sull’onere probatorio, laddove ha ritenuto
+3
+
+--- Pagina 4 ---
+
+che “Alla luce di quanto su esposto, l’ipotesi impositoria non è supportata
+da alcuna evidenza atta a non riconoscere alla Dynatrace LLC la condizione
+di “beneficiario effettivo” (beneficial owner) in riferimento alle royalties
+corrisposte dalla Dynatrace Srl.” Tale affermazione si porrebbe in contrasto
+con quanto dispone l’art. 169, d.P.R. 22 dicembre 1986, n. 917, che
+prevede l’applicazione della disciplina tributaria interna ove più favorevole
+al contribuente “anche in deroga agli accordi internazionali contro la
+doppia imposizione”. Se era corretto porre a carico dell’Ufficio la
+dimostrazione dei motivi che legittimerebbero la mancata applicazione
+della disciplina convenzionale, là dove il regime fiscale interno risulti più
+gravoso per il contribuente, sarebbe altresì vero che spetta al contribuente
+l’onere di dimostrare la sussistenza di tutti i requisiti sostanziali e formali
+che consentono di derogare all’applicazione della disciplina convenzionale.
+Dunque, spettava esclusivamente al contribuente provare la natura di
+beneficiario effettivo del percipiente residente interessi e royalties. La
+Corte di secondo grado aveva invertito l’onere della prova, pretendendo
+che fosse l’amministrazione finanziaria a dimostrare la mancanza di qualità
+in capo al percipiente quando invece l’Ufficio, anche alla luce dei principi
+generali in ambito di vicinanza della prova, era tenuto esclusivamente a
+dimostrare gli elementi di criticità spia della non disponibilità in capo allo
+stesso percipiente delle somme incassate.
+1.1. Il primo motivo è ammissibile, in quanto l’Agenzia delle Entrate
+denuncia la violazione delle regole sul riparto dell’onere della prova in
+materia di “beneficiario effettivo” e non mira ad ottenere una diversa
+valutazione del materiale probatorio a sé favorevole, ed è altresì fondato.
+1.2. La C.T.R. ha respinto il gravame con la seguente motivazione: “Il
+Collegio concorda con il primo giudice che ha riconosciuto alla Dynatrace
+LLC la condizione di “beneficiario effettivo” (beneficial owner) in
+riferimento alle royalties corrisposte dalla Dynatrace Srl., seguendo criteri
+tratti dal Commentario al Modello OCSE, come confermato in questo caso
+4
+
+--- Pagina 5 ---
+
+dalle relazioni delle società di revisione Ernst&Young e BDO USA LLP
+prodotte in giudizio. Secondo la Corte di cassazione, con ord. 22545/2022,
+“le raccomandazioni ivi [Commentario al Modello OCSE] contenute, e la
+loro natura di soft law fungono da strumento di indirizzo ed ausilio
+nell’interpretazione dell’esatto contenuto e delle finalità delle convenzioni
+internazionali basate sul relativo modello” e, con specifico riferimento al
+concetto di “beneficiario effettivo in tema di royalties”, ex plurimis con.
+ordinanza n. 3380/2022, sentenza n. 14756/2020. Così anche la
+giurisprudenza euro-unitaria (cause riunite N Luxembourg 1, C-115/16; X
+Denmark A/S, C-118/16 e Z Denmark ApS, C-299/16), secondo la quale la
+direttiva europea in materia di interessi e royalties si ispira “all’art. 11 del
+modello OCSE del 1996, perseguendone lo stesso obiettivo, vale a dire
+evitare le doppie imposizioni internazionali. La nozione di “beneficiario
+effettivo”, che figura nelle convenzioni bilaterali fondate su tale modello
+nonché nelle successive modifiche ivi apportate e nei relativi commentari
+sono pertanto pertinenti ai fini dell’interpretazione della Direttiva
+2003/49”. Con il catalogo casistico (agente, prestanome, società di
+gestione che agisce in qualità di fiduciario o amministratore) del
+Commentario, introdotto nel 2014, l’OCSE ha chiarito come il soggetto
+percipiente non possa essere ritenuto “beneficiario effettivo” di un reddito,
+allorché il diritto di tale soggetto ad utilizzare e godere delle somme
+ricevute sia vincolato da obbligo (contrattuale o legale) di trasferire quanto
+ricevuto ad altro soggetto; in assenza di tale vincolo, l’obbligo può essere
+desunto aliunde, da fatti e circostanze significativi. Il beneficiario effettivo
+ai fini fiscali non coincide necessariamente con analoghe figure previste in
+altri ambiti normativi. Comunque, non può essere ritenuto “beneficiario
+effettivo” di un reddito il diretto percipiente di dividendi, interessi e canoni,
+ove ricorrano due distinte condizioni: che il soggetto sia vincolato da un
+obbligo di trasferimento ad un terzo delle somme ricevute e che tale
+obbligo sia “dipendente” dalla percezione di tali proventi, ove la sua
+5
+
+--- Pagina 6 ---
+
+sussistenza sia condizionata nell’an e nel quantum alla loro percezione.
+Tale nesso di dipendenza dovrebbe, peraltro, investire anche il profilo
+causale, nel senso che un’obbligazione di retrocessione dei pagamenti
+ricevuti a titolo di dividendi, interessi o canoni possa ritenersi configurabile
+soltanto se il diretto percipiente sia vincolato a retrocedere tali pagamenti
+nella medesima misura e con il medesimo titolo con cui li abbia ricevuti
+(Vds. cass. sent. 3380/2022); nel caso di specie, a titolo di royalties. I
+contestati costi di sales & marketing sono essenzialmente riferibili a salari
+verso dipendenti, commissioni di vendita, assicurazioni mediche ed altri
+costi relativi al personale di vendita, come attestato da revisione della BDO
+USA LLP, e non alla retrocessione di compensi o royalties ad altre entità.
+Alla luce di quanto su esposto, l’ipotesi impositoria non è supportata da
+alcuna evidenza atta a non riconoscere alla Dynatrace LLC la condizione di
+“beneficiario effettivo” (beneficial owner) in riferimento alle royalties
+corrisposte dalla Dynatrace Srl.. La deliberazione assorbe e supera tutte le
+domande formulate nel giudizio, le cui ragioni costituiscono eccezionale
+ragione di compensazione delle spese di lite per l’intero giudizio”..
+1.3. La definizione ai fini tributari di royalty (in traduzione italiana
+“canone”) è contenuta nell’art. 26-quater, comma 3, del DPR 600/73, a
+mente del quale, per quel che qui interessa, «Si considerano canoni, i
+compensi di qualsiasi natura percepiti per l'uso o la concessione in uso:
+(…) 2) di brevetti, marchi di fabbrica o di commercio, disegni o modelli,
+progetti, formule o processi segreti o per informazioni concernenti
+esperienze di carattere industriale, commerciale o scientifico (…)». Tale
+nozione rispecchia quella presente all’articolo 12, paragrafo 2, del Modello
+OCSE di Convenzione per evitare le doppie imposizioni sui redditi, del
+1996.
+1.4. La convenzione contro le doppie imposizioni Italia-Usa (articolo 12,
+allegato L. 20/2009) definisce “canoni” i compensi di qualsiasi natura
+corrisposti per l’uso o la concessione in uso di un diritto d’autore su opere
+6
+
+--- Pagina 7 ---
+
+letterarie, artistiche o scientifiche, ivi compresi il software per computer, le
+pellicole cinematografi, le pellicole, i nastri magnetici o altri mezzi di
+registrazione per trasmissioni radiofoniche o televisive, di brevetti, marchi
+di fabbrica o di commercio, disegni o modelli, progetti, formule o processi
+segreti, od altri analoghi diritti o beni, nonché per l’uso o la concessione in
+uso di attrezzature industriali, commerciali o scientifiche o per informazioni
+concernenti esperienze di carattere industriale, commerciale o scientifico.
+Tali canoni provenienti da uno Stato contraente (Usa) e pagati ad un
+residente dell’altro Stato contraente (Italia) sono imponibili in Italia.
+Tuttavia, tali canoni possono essere tassati anche negli Stati Uniti (in
+conformità alla legislazione degli Stati Uniti), ma se la persona che
+percepisce i canoni ne è l’effettivo beneficiario, l’imposta cosi applicata non
+può eccedere: 1. il 5% dell’ammontare lordo, nel caso di canoni corrisposti
+per l’uso o la concessione in uso di software per computer, o di
+attrezzature industriali, commerciali o scientifiche; 2. l’8% dell’ammontare
+lordo in tutti gli altri casi.
+1.5. La convenzione Italia-Stati Uniti prevede il recupero delle imposte
+pagate all’estero con il meccanismo del credito di imposta (articolo 23,
+terzo paragrafo). Se un residente italiano possiede elementi di reddito che
+sono imponibili negli Stati Uniti, l’Italia, nel calcolare le proprie imposte sul
+reddito, può includere nella base imponibile delle imposte questi elementi
+di reddito deducendo però, dalle imposte italiane, l’imposta sul reddito
+pagata negli Stati Uniti: in tal caso “l’ammontare della deduzione non può
+eccedere la quota della predetta imposta italiana attribuibile ai predetti
+elementi di reddito nella proporzione in cui gli stessi concorrono alla
+formazione del reddito complessivo”. Trovano applicazione, pertanto, le
+disposizioni nazionali che riconoscono un credito per le imposte pagate
+all’estero, ai sensi dell’articolo 165 Tuir. Ai fini dell’eliminazione della
+doppia imposizione subita, se alla formazione del reddito complessivo
+concorrono redditi prodotti all'estero, le imposte ivi pagate a titolo
+7
+
+--- Pagina 8 ---
+
+definitivo su tali redditi sono ammesse in detrazione dall'imposta netta
+dovuta, fino alla concorrenza della quota d'imposta corrispondente al
+rapporto tra i redditi prodotti all'estero ed il reddito complessivo, al netto
+delle perdite di precedenti periodi d'imposta ammesse in diminuzione. Si
+precisa che, nel caso in cui il reddito prodotto all’estero abbia concorso
+solo parzialmente alla formazione del reddito complessivo in Italia, ai sensi
+dell’articolo 165, comma 10, Tuir, anche l’imposta estera deve essere
+ridotta in misura corrispondente.
+1.6. Questa Corte (cfr. Cass. n. 17746/2021) ha avuto modo di chiarire
+come la qualifica di beneficiario effettivo presupponga la “reale
+disponibilità giuridica ed economica del provento percepito”. In particolare,
+conformemente alla giurisprudenza della Corte di Giustizia dell’Unione
+Europea (cd. “sentenze danesi”) tale qualifica “deve essere accertata, in
+fatto, dal giudice di merito, sul trattenimento ed autonomo impiego dei
+dividendi medesimi ovvero sulla loro traslazione alla capogruppo residente
+nello Stato estero”. Per quanto concerne l’onere della prova, questa Corte
+ha poi evidenziato che “poiché la società italiana è il sostituto d’imposta
+che ha operato la ritenuta convenzionale, non può che gravare su di essa
+l’onere di provare la qualità di “beneficiario effettivo” della società
+destinataria dei canoni” e che la produzione, da parte della contribuente,
+del certificato di residenza fiscale rilasciato dall’Amministrazione finanziaria
+dello Stato del percettore sia “irrilevante” ai fini dell’assolvimento di
+siffatto onere probatorio. Quanto invece alla posizione dell’Ufficio, incombe
+su di esso l’onere di contestare espressamente i fatti affermati dal
+contribuente, essendo la sua posizione processuale espressa dall’atto
+impugnato (i.e. l’avviso di accertamento). Ciò significa, in altre parole, che
+graverà sull’Ufficio un onere di contestazione solo allorché il sostituto
+d’imposta abbia già adeguatamente assolto alla prova che il soggetto
+estero percettore abbia la disponibilità giuridica ed economica degli importi
+corrisposti.
+8
+
+--- Pagina 9 ---
+
+2. Nella fattispecie in esame, l’Agenzia delle Entrate ha ritenuto che
+sussistessero dubbi sul fatto che la Dynatrace LCC, avente sede negli Stati
+Uniti fosse l’effettiva beneficiaria delle royalties sulle quali la Dynatrace
+s.r.l., quale sostituto di imposta, ha operato la ritenuta dell’8% prevista
+dall’art. 12 della Convenzione Italia Usa sulle doppie imposizioni, stante il
+rilievo di una serie di criticità, analiticamente indicate, quali: l’assenza,
+nelle note integrative dei bilanci consolidati, di adeguate informazioni sui
+costi sostenuti (tipologia di servizio ricevuto ed eventuali soggetti
+prestatori), sintomo che il flusso delle royalties corrisposte alla Dynatrace
+LLC non vedeva quest’ultima quale effettiva beneficiaria, ma subiva una
+retrocessione verso altre entità del Gruppo;  dal bilancio consolidato della
+Compuware Holdings LLC (società controllante la Compuware Holding
+Corporation, che a sua volta controlla la Dynatrace LLC) non era stato
+possibile stabilire, proprio in virtù dei dati consolidati, se i software
+capitalizzati dalla Compuware Holdings LLC siano quelli di proprietà di
+Dynatrace LLC o se si tratti invece di ulteriori e diversi assets; il sistema di
+riservatezza del Delaware, Stato di registrazione delle società del Gruppo
+in esame, unitamente al regime di trasparenza fiscale tipico delle LLC di
+diritto statunitense, non consentiva di individuare l’effettivo soggetto
+percettore delle royalties.
+2.1. A fronte di tali criticità spettava pertanto alla società controricorrente
+e non all’Agenzia delle Entrate dimostrare che la società DYNATRACE LCC
+fosse l’effettiva beneficiaria.
+2.2. Quanto alle relazioni delle società di revisione Ernst & Young e BDO
+USA LLP prodotte in giudizio dalla società, va osservato che la C.T.R., da un
+lato ha invertito l’onere della prova e, dall’altro, ha assegnato pieno valore
+probatorio a relazioni provenienti da società incaricate e remunerate
+dall’interessata, senza prendere in esame alcuno degli elementi “critici”
+evidenziati nell’avviso di accertamento.
+9
+
+--- Pagina 10 ---
+
+3. Con il secondo motivo, rubricato «Nullità della sentenza per violazione
+dell'articolo 112 c.p.c. e, in ogni caso, dell'art. 36 comma n.2 n. 4 d.lgs.
+546/1992. Denunzia ai sensi dell'articolo 360 primo comma, n. 4 del
+codice di procedura civile», l’Agenzia delle Entrate assume che nell’atto di
+appello aveva sollevato a pag. 16 il vizio motivazionale di violazione e/o
+falsa applicazione dell'articolo 25 co. 4 DPR 600/73, in combinato disposto
+con gli artt. 110 co. 7 DPR 917/86 e 12 della Convenzione Italia-USA
+contro le doppie imposizioni (ratificata con Legge n. 20/2009), nonché
+violazione del principio per cui il giudizio tributario non è di mero
+annullamento, bensì di impugnazione-merito. In sostanza, l’Ufficio
+contestava la sentenza di prime cure, in quanto non aveva considerato che
+le circostanze dedotte a pagina 27 e seguenti dell'atto impositivo
+impugnato, non erano state in alcun modo contestate dalla contribuente.
+Nello specifico, in tale sede, l'Ufficio, a seguito dell’esame dei rapporti
+connessi ai servizi di commercializzazione e vendita svolti da Dynatrace Srl
+in favore della Dynatrace LLC, aveva rilevato, tramite diverso avviso di
+accertamento, l’indebita deduzione, da parte di Dynatrace Srl, di
+componenti negativi di reddito relativi a politiche di transfer pricing per €
+422.886,00, in violazione dell’art. 110, comma 7 TUIR; tale ultimo importo
+era stato rideterminato in € 225.708,00 a seguito della sottoscrizione
+dell’atto di adesione n. T9BA31500216/2021 avvenuta in data 24/03/2021.
+Rimarca la ricorrente che la Dynatrace Srl nel periodo di imposta
+01.04.2015 – 31.03.2016 aveva contabilizzato componenti negativi di
+reddito riferibili a commissioni/royalties verso la Dynatrace LLC per €
+3.159.408. A fronte del predetto importo, la Società, nel corso del 2015,
+aveva materialmente corrisposto alla Dynatrace LLC commissioni/royalties
+pari ad € 3.043.478,26, applicando sulle stesse la ritenuta convenzionale
+(8%) e versando un importo pari ad € 243.478,26, in ossequio a quanto
+previsto dall’articolo 12 della Convenzione Italia – USA. Tuttavia, alla luce
+del menzionato accordo, l’aliquota convenzionale (8%) andava applicata
+10
+
+--- Pagina 11 ---
+
+nel limite del valore di libera concorrenza delle royalties; infatti, il comma
+7 dell’art. 12 della Convenzione Italia – USA prevede che “7. Se, in
+conseguenza di particolari relazioni esistenti tra il debitore e il beneficiario
+effettivo o tra ciascuno di essi e terze persone, l'ammontare dei canoni,
+tenuto conto della prestazione per la quale sono pagati, eccede quello che
+sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di
+simili relazioni, le disposizioni del presente articolo si applicano soltanto a
+quest'ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è
+imponibile in conformità della legislazione di ciascuno Stato contraente e
+tenuto conto delle altre disposizioni della presente Convenzione”. Sarebbe
+dunque evidente che l’applicazione della ritenuta ad aliquota convenzionale
+sui canoni è subordinata alla congruità dell’importo degli stessi nell’ottica
+della disciplina dei prezzi di trasferimento contenuta nell’art. 110, comma
+7 TUIR. Ne deriverebbe, dunque, che la parte eccedente il valore di libera
+concorrenza delle commissioni/royalties corrisposte alla Dynatrace LLC nel
+corso del 2015 avrebbe dovuto essere assoggettata a ritenuta con
+l’aliquota ordinaria (30%) di cui all’art. 25, comma 4 DPR 600/1973. La
+mancanza di qualsivoglia presa di posizione sul punto da parte della Corte
+di secondo grado integra, a parere della ricorrente, un’ omessa pronuncia
+in relazione alla circostanza evidenziata, atteso che non solo non si ravvisa
+alcun passaggio nella motivazione della decisione dedicato a quanto
+dedotto, ma neppure il dispositivo statuisce alcunché in merito.
+3.1. Il motivo appare ammissibile, oltre che fondato.
+3.2. La ricorrente ha indicato la pagina dell’atto di appello contenente il
+motivo di gravame asseritamente non esaminato dalla C.T.R. e ciò è
+sufficiente a soddisfare il requisito dell’autosufficienza ed ha altresì
+prodotto il relativo atto processuale, che questa Corte è autorizzata ad
+esaminare in quanto giudice del fatto processuale. Effettivamente, a
+pagina 16, il secondo motivo di gravame è rubricato “Violazione e/o falsa
+applicazione dell’art. 25 co. 4 DPR 600/73 in combinato disposto con gli
+11
+
+--- Pagina 12 ---
+
+artt. 110 co. 7 DPR 917/86 e 12 della Convenzione Italia-USA contro le
+doppie imposizioni (ratificata con Legge n. 20/2009) – Violazione del
+principio per cui il giudizio tributario non è di mero annullamento, bensì di
+impugnazione-merito” ed il suo contenuto corrisponde a quello trascritto
+nell’odierno ricorso.
+3.3. Nella pronuncia impugnata manca qualsiasi riferimento al secondo
+motivo di gravame, configurandosi pertanto il dedotto vizio di omessa
+pronuncia.
+4. Il ricorso va dunque accolto e la causa rinviata alla C.G.T.2 della
+Lombardia, in diversa composizione, per un nuovo e motivato esame del
+gravame dell’Agenzia delle Entrate, oltre che per liquidare le spese del
+giudizio di legittimità.
+P.Q.M.
+La Corte accoglie il ricorso; cassa la sentenza impugnata e rinvia alla Corte
+di giustizia tributaria di secondo grado della Lombardia, in diversa
+composizione, per un nuovo e motivato esame, oltre che per liquidare le
+spese del giudizio di legittimità
+Così deciso in Roma, nella camera di consiglio del 3.12.2025
+Il Presidente
+(Roberta Crucitti)
+12

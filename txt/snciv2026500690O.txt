@@ -1,0 +1,290 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 18162/2020 R.G. proposto da:
+PILGEST SPA, con l’avvocato Guglielmo Fransoni
+-ricorrente-
+contro
+AGENZIA DELLE ENTRATE, rappresentata e difesa ex lege dalla
+Avvocatura Generale dello Stato
+-resistente-
+avverso la Sentenza della Commissione Tributaria Regionale della
+Campania n. 7922/2019 depositata il 23/10/2019.
+Udita la relazione svolta nella camera di consiglio del 10/12/2025
+dal Consigliere Gian Paolo Macagno.
+FATTI DI CAUSA
+1. Come si apprende dagli atti, in data 7 ottobre 2014 veniva
+redatta dalla Direzione Regionale della Campania - Ufficio Grandi
+Contribuenti la segnalazione prot. 8954, relativa al periodo
+d'imposta 2010, nei confronti della Pilgest SPA. Detta segnalazione
+scaturiva dall'attività di tutoraggio, sempre relativa al periodo
+d'imposta 2010, svolta dal citato Ufficio nei confronti della società
+Pilato SPA (società che ha aderito al regime di tassazione del
+consolidato nazionale), dalla quale emergevano, a detta dell'Ufficio,
+«anomalie in tema di indebito utilizzo di perdite e di interessi
+passivi nell'ambito del consolidato fiscale, cui la Pilgest SPA
+
+--- Pagina 2 ---
+
+partecipava quale società consolidante, e la menzionata Pilato SPA
+quale società consolidata».
+2. Ad esito di ampio contraddittorio e dell’accesso eseguito
+dall'Ufficio, la società ricorrente, a seguito del rilievo dell'errata
+variazione in diminuzione degli interessi nella dichiarazione
+originaria, in data 30 marzo 2015, per l'anno d'imposta 2010,
+presentava: i) una dichiarazione integrativa Mod. UNICO, a mezzo
+della quale correggeva l'errore commesso in sede di dichiarazione
+originaria al Quadro RF, in particolare al "prospetto interessi passivi
+non deducibili", nonché al rigo RF54 "altre variazioni in
+diminuzione"; ii) una seconda dichiarazione integrativa Mod. CNM,
+con la quale correggeva la Sez. IV "interessi passivi deducibili ex
+art. 96, commi 7 e 8, TUIR".
+3. Nello specifico, con la dichiarazione integrativa Mod. UNICO, la
+Pilgest aveva corretto l'importo complessivo degli interessi
+pregressi indeducibili da euro 320.084,00 ad euro 77.619,00,
+tenuto conto dei trasferimenti al consolidato effettuati in
+precedenza per euro 34.773,00 nell'esercizio 2008, e per euro
+177.560,00 nell'esercizio 2009. In conseguenza di ciò, la società
+rettificava gli interessi passivi indeducibili nella propria
+dichiarazione in euro 77.619, aumentando il proprio reddito
+trasferito al consolidato ad euro 459.394,00 (in luogo di euro
+401.329 della dichiarazione originaria) e, al contempo, trasferiva il
+ROL (Risultato Operativo Lordo) libero di euro 58.065,00 sempre al
+consolidato. Di talché, vista la nuova disponibilità di ROL che si era
+venuta a creare in capo alla consolidante (Pilgest), anche la società
+Pilato presentava sempre nella medesima data una dichiarazione
+integrativa dell'UNICO 2011, al fine di trasferire alla consolidante
+gli interessi passivi indeducibili capienti nel predetto ROL, per
+l'importo di euro 235.625,00.
+4. Conseguentemente, la Pilgest, in qualità di consolidante,
+presentava la suddetta dichiarazione integrativa Mod. CNM per
+2 di 9
+
+--- Pagina 3 ---
+
+accogliere le variazioni derivanti dalle dichiarazioni integrative Mod.
+UNICO della medesima (in qualità di consolidata) e della Pilato, a
+loro volta presentate per correggere l'errore commesso in sede di
+dichiarazione originaria in ordine all'esatto ammontare degli
+interessi indeducibili degli anni precedenti portati in diminuzione
+del proprio reddito e a quelli trasferiti al consolidato fiscale di
+gruppo.
+5. In data 11 dicembre 2015, l'Agenzia delle Entrate – Direzione
+Provinciale I di Napoli, notificava alla Pilgest l'avviso di
+accertamento n. TF3090204938/2015, a mezzo del quale l'Ufficio
+rettificava la dichiarazione Mod. CNM/2011, contestando una
+indebita deduzione di interessi passivi e una indebita deduzione in
+compensazione di perdite pregresse, ravvisando la violazione degli
+artt. 84 e 96 del Tuir.
+6. Avverso tale atto ricorreva la società e i giudici del merito, con
+analoghe decisioni, confermavano i rilievi dell’Amministrazione
+aventi ad oggetto il disconoscimento delle dichiarazioni integrative
+e la insussistenza dei presupposti per l'utilizzo parziale delle
+perdite, ex art. 84, comma 1, ultimo periodo TUIR, mentre  le
+ragioni della contribuente trovavano accoglimento limitatamente
+alla possibilità di scomputare dal reddito le perdite derivanti da
+rimborso IRAP, pari ad € 56.354,00.
+7. Avverso la sentenza della CTR della Campania indicata in
+epigrafe ricorre la società con due motivi.
+8. L’Agenzia delle entrate ha depositato foglio di costituzione per
+l’eventuale discussione in pubblica udienza.
+9. In prossimità dell’adunanza, il pubblico ministero, in persona del
+Sostituto procuratore generale dott. Fulvio Troncone, ha depositato
+requisitoria scritta, con richiesta di accoglimento del ricorso.
+RAGIONI DELLA DECISIONE
+1. La CTR della Campania, con la sentenza qui impugnata, ha
+respinto l’appello della società: i) sul presupposto che non fosse
+3 di 9
+
+--- Pagina 4 ---
+
+possibile prendere in considerazione le dichiarazioni integrative
+presentate in data 30 marzo 2015 poiché «finalizzate non soltanto
+ad emendare errori nella compilazione della dichiarazione [...] ma
+anche a mantenere invariato il reddito complessivo consolidato e,
+quindi la conseguente imposta, il che esula dalle finalità della
+norma [...]» (v. p. 2 della sentenza di secondo grado); ii) in
+secondo luogo, relativamente all'utilizzo delle perdite disponibili,
+segnatamente affermando, in consonanza con il rilievo operato
+dall’Agenzia delle entrate, che «La società ricorrente non ha
+provato la sussistenza dei presupposti per l'utilizzo parziale delle
+perdite [...]. Correttamente, l'Ufficio ha fatto applicazione del
+disposto della citata norma che prevede, per i soggetti IRES che la
+perdita di un periodo d'imposta è computata in diminuzione del
+reddito dei periodi d'imposta successivi, e per l'intero importo che
+trova capienza in detto ammontare».
+1.1. Di conseguenza, i giudici di appello hanno confermato la
+correttezza dei rilievi operati dall’Agenzia delle entrate secondo cui
+la società: i) avrebbe «indebitamente dedotto interessi passivi
+deducibili di € 99.797,00 (€ 177.560,00 dichiarati - € 77.763,00
+accertati) in violazione dell'art. 96 c. 1 e 7 TUIR» (v. p. 7
+dell'Avviso, riportato dalla ricorrente in ossequio
+all’autosufficienza),  ii) nonché in violazione dell'art. 84 TUIR (v. p.
+9 dell'Avviso); iii) «non ha utilizzato nell'anno 2009 l'intero
+ammontare delle perdite disponibilità (€ 1.478.987,00) per
+compensare il reddito complessivo del consolidato»; iv) «ha
+indicato nell'anno 2009 come perdite riportabili erroneamente
+l'importi di € 139.019,00 (rigo CS1 colonna 6 del modello CNM
+2010), anziché quello esatto di € 82.665,00; v) «avrebbe dovuto
+utilizzare l'intero importo delle perdite riportabili (€ 1.478.987,00)
+per abbattere il reddito conseguito dal consolidato nel 2009 (€
+1.484,629).
+4 di 9
+
+--- Pagina 5 ---
+
+2. Con il primo motivo di ricorso la società contribuente lamenta, in
+relazione all'art. 360, comma 1, n. 3), с.р.с., la violazione e/o falsa
+applicazione dell'art. 2, co. 8, del D.P.R. n. 322/1998.
+2.1. Censura, in particolare, la prima delle due statuizioni su cui si
+regge la sentenza di secondo grado, osservando che la CTR, nel
+rigettare l'appello della Pilgest, ha erroneamente ritenuto di non
+dover prendere in considerazione la dichiarazioni presentate dalla
+società poiché non riconducibili al genus delle dichiarazioni
+integrative per mancanza di una rettifica sia in malam partem, sia
+in bonam partem, e ha omesso di considerare che la natura
+"integrativa" delle dichiarazioni sussiste relativamente alle singole
+rettifiche operate anche se, poi, il saldo complessivo della
+dichiarazione sia pari a zero.
+2.2. Il motivo è fondato.
+2.3. La dichiarazione integrativa di cui all'art. 2, co. 8, del D.P.R. n.
+322/98 non impedisce di mantenere invariato il reddito
+complessivo (o l’imponibile) pur modificando altri dati. L’integrativa
+è ammessa per correggere qualsiasi dato della dichiarazione,
+compresi quelli che non hanno un impatto diretto sull’ammontare
+complessivo del reddito o dell’imponibile.
+2.4. D’altronde, come rilevato anche dalla Procura generale nella
+propria requisitoria, una tale opzione non è dissonante con
+l’orientamento consolidato della giurisprudenza di Cassazione, in
+linea con la prevalente interpretazione dottrinaria, che legge la
+dichiarazione come atto giuridico in senso stretto come
+dichiarazione di scienza a carattere informativo, priva di
+qualsivoglia efficacia negoziale, in ordine alla tassazione del fatto
+imponibile dichiarato, atteso che assume i connotati di un atto dal
+quale scaturiscono gli effetti tipici previsti dalla legge, a prescindere
+dalla volontà del soggetto dichiarante (di recente v. Cass. Sez. 5,
+22/10/2024, n. 27332, Rv. 672726 – 01, secondo cui in tema di
+dichiarazioni fiscali, l'errore commesso dal contribuente è
+5 di 9
+
+--- Pagina 6 ---
+
+emendabile quando ne possa derivare l'assoggettamento a oneri
+contributivi diversi e più gravosi di quelli che, sulla base della
+legge, devono restare a suo carico, poiché la dichiarazione dei
+redditi non ha natura di atto negoziale e dispositivo, ma reca una
+mera esternazione di scienza e di giudizio, modificabile in ragione
+dell'acquisizione di nuovi elementi di conoscenza e di valutazione
+sui dati riferiti).
+3. Con il secondo motivo di ricorso si denuncia,  in relazione all'art.
+360, comma 1, n. 3), с.р.с., la violazione e/o falsa applicazione
+dell'art. 84 del Tuir, censurandosi la seconda statuizione che fonda
+la sentenza impugnata.
+3.1. Anche tale doglianza è fondata.
+3.2. A fronte di un dato letterale del comma 1 dell’articolo 84 Tuir
+(“la perdita di un periodo d’imposta… può essere computata…”) che
+non pare lasciare spazio a particolari dubbi, l’Agenzia propugna la
+tersi della obbligatorietà dello scomputo delle perdite fiscali nel
+primo periodo d’imposta utile, ovvero nel primo periodo d’imposta
+successivo a quello di genesi della perdita fiscale in cui emerge un
+reddito imponibile.
+3.3. Tale interpretazione, condivisa dal collegio di appello, che
+verosimilmente muove dall’intento impedire al contribuente
+arbitraggi volti ad utilizzare le perdite nel periodo d’imposta più
+conveniente, si discosta dal costante orientamento di questa
+Suprema Corte.
+3.4. Secondo l’ormai prevalente orientamento giurisprudenziale di
+legittimità, che procede sin da Cass., Sez. V, 11 maggio 2012, n.
+7294, l'esercizio della facoltà di opzione, riservata al contribuente
+dall'art. 84 Tuir, di utilizzare le perdite di esercizio verificatesi negli
+anni pregressi portandole in diminuzione del reddito prodotto
+nell'anno oggetto della dichiarazione, ovvero di non utilizzare dette
+perdite riportandole in diminuzione dal reddito nei periodi di
+6 di 9
+
+--- Pagina 7 ---
+
+imposta successivi, costituisce manifestazione di volontà negoziale
+(vedi Cass. n. 6977/2015).
+3.5. Il testo della norma, infatti, riconosce una facoltà al
+contribuente e, anche con le proposizioni successive, ne
+puntualizza le modalità di esercizio.
+3.6. Questa Corte ha ribadito che «in tema di imposta sul reddito
+delle persone giuridiche, l'esercizio della facoltà di opzione di
+utilizzare le perdite di esercizio verificatesi negli anni pregressi,
+portandole in diminuzione del reddito prodotto nell'anno oggetto
+della dichiarazione, ovvero di non utilizzare dette perdite
+riportandole in diminuzione dal reddito nei periodi di imposta
+successivi, riservata al contribuente dall'art. 102 (ora 84) del d.P.R.
+n. 917 del 1986, costituisce manifestazione di volontà negoziale e
+non mera dichiarazione di scienza, con la conseguenza che non può
+essere oggetto di rettifica, salvo che il contribuente dimostri il
+carattere essenziale ed obiettivamente riconoscibile dell'errore nel
+quale è incorso, ai sensi degli artt. 1427 e ss. cod. civ.» (Cass. n.
+18043/2023; Cass. n. 16977/2019; vedi anche Cass. n.
+5105/2019; Cass. n. 25566/2017). Per l’effetto, il riporto delle
+perdite deve essere opzionato espressamente dal contribuente in
+dichiarazione e non può essere applicata dall’Amministrazione, la
+quale non può sostituirsi al contribuente nell’esercizio di tale
+opzione (Cass., n. 25566/2017, cit.).
+3.7. Quindi, secondo il consolidato indirizzo di questa Corte, si deve
+concludere che, in tema di utilizzo delle perdite fiscali pregresse, il
+contribuente è libero di decidere se e quando utilizzare le perdite
+fiscali a scomputo dei redditi futuri, in quanto la norma gli
+attribuisce la facoltà di utilizzare le perdite mediante l’esercizio di
+un’opzione da manifestarsi nella dichiarazione fiscale; tale
+dichiarazione, che in linea generale rappresenta una dichiarazione
+di scienza, nella parte in cui il contribuente decide di utilizzare le
+7 di 9
+
+--- Pagina 8 ---
+
+perdite fiscali costituisce un atto negoziale e pertanto non può
+essere oggetto di ritrattazione (Cass. n. 28064 del 05/10/2023).
+4. Infine, è opportuno rammentare che, in vicenda che presenta
+alcuni utili punti di tangenza con entrambe le questioni che qui si
+pongono, questa Corte ha affermato che «In tema di consolidato
+nazionale, mentre non è consentito alla consolidata trasferire le
+perdite pregresse al consolidato, ben possono essere trasferite al
+consolidato le perdite maturate in capo alla consolidata dopo
+l'esercizio del diritto di opzione per la tassazione di gruppo; queste
+ultime rilevano automaticamente per legge nella determinazione
+del reddito complessivo globale del gruppo, attraverso la
+dichiarazione dei redditi delle consolidate di cui all'art. 121, d.P.R.
+n. 917 del 1986, comunicata alla consolidante, in assenza di
+manifestazione di volontà, attraverso il meccanismo della somma
+algebrica, con conseguente possibilità di emenda ex art. 2, commi
+8 e 8-bis, d.P.R. n. 322 del 1998, e di difesa in giudizio avverso la
+cartella di pagamento emessa nei confronti della consolidante. La
+rettifica dell'eventuale riporto delle perdite da "consolidato" ex art.
+84, d.P.R. n. 917 del 1986, con riferimento alla "perdita fiscale
+consolidata", è, invece, nella disponibilità esclusiva del soggetto
+consolidante e costituisce manifestazione di volontà, per la cui
+rettifica sono necessari i requisiti della essenzialità e riconoscibilità
+dell'errore ex art. 1428 c.c.» (Cass. Sez. 5, 14/12/2021, n. 40048,
+Rv. 663213 - 01).
+5. Il ricorso va conseguentemente accolto e la sentenza impugnata
+va cassata con rinvio alla Corte di giustizia tributaria di secondo
+grado della Campania affinché, in diversa composizione, proceda a
+nuovo e motivato esame nel rispetto dei principi sopra illustrati,
+nonché provveda a regolare le spese del giudizio di legittimità tra le
+parti.
+P.Q.M.
+8 di 9
+
+--- Pagina 9 ---
+
+La Corte accoglie il ricorso, cassa la sentenza impugnata e rinvia
+alla Corte di giustizia tributaria di secondo grado della Campania
+affinché, in diversa composizione, proceda a nuovo e motivato
+esame nonché provveda a regolare le spese del giudizio di legittimità
+tra le parti.
+Così deciso in Roma, nella camera di consiglio del 10/12/2025.
+La Presidente
+Roberta Crucitti
+9 di 9
