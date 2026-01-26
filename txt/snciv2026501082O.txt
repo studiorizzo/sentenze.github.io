@@ -1,0 +1,550 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+n. 13169/2024 R.G.
+Cron.
+ORDINANZA
+sul ricorso (iscritto al n. 13169/2024 R.G.) proposto da:
+CAR X HAUS S.r.l. (Codice Fiscale: 03579290614), con sede in
+Pietramelara (CE), alla Contrada S. Marco, in persona del legale
+rappresentante pro tempore, rappresentata e difesa dall’avv. Antonietta
+Russo, giusta procura speciale allegata al ricorso introduttivo del presente
+giudizio di legittimità (indirizzo p.e.c. del difensore:
+“antonietta.russo72@avvocatismcv.it”);
+- ricorrente -
+contro
+AGENZIA DELLE ENTRATE (Codice Fiscale: 06363391001), in persona
+del Direttore pro tempore, rappresentata e difesa dall’Avvocatura Generale
+dello Stato e domiciliata “ope legis” presso gli uffici di quest’ultima, siti in
+Roma, alla Via dei Portoghesi n. 12 (indirizzo p.e.c.:
+“ags.rm@mailcert.avvocaturastato.it”);
+- controricorrente -
+avverso la sentenza della Corte di Giustizia Tributaria di secondo grado
+della Campania n. 6556/2023, pubblicata il 23 novembre 2023;
+udita la relazione della causa svolta, nella camera di consiglio del 17
+settembre 2025, dal Consigliere relatore dott. Francesco Graziano;
+
+--- Pagina 2 ---
+
+letta la memoria illustrativa depositata nell’interesse della ricorrente,
+ai sensi dell’art. 380-bis.1. c.p.c.;
+lette le note scritte depositate dal P.G., nella persona del dott. Stefano
+Pepe, che ha concluso, in via principale, per il rinvio a nuovo ruolo e, in via
+subordinata, per il rigetto del ricorso;
+FATTI DI CAUSA
+1.- In punto di fatto e limitando l’esposizione alle sole circostanze rilevanti
+in questa sede, si osserva che la società Car X Haus S.r.l., esercente
+esercita l’attività di commercio di autovetture, impugnò l’avviso di
+accertamento n. TF7030300041/2022 relativo a IVA, con cui
+l’amministrazione finanziaria, in forza di un p.v.c. dell’Agenzia delle
+Dogane di Caserta, sul presupposto dell’«inattendibilità delle scritture
+contabili» e con la negazione dell’applicabilità del regime del margine agli
+acquisti comunitari, ai sensi dell’art. 39, comma 2, lett. c) del d.P.R. n. 600
+del 1973 e degli artt. 24 e 25 d.lgs. n. 446 del 1997, le aveva attribuito un
+reddito e un valore della produzione dell’identico importo di €. 427.470,00,
+determinati con l’applicazione della percentuale di redditività del 15% ai
+ricavi [€. 2.849.799,00] desunti dal bilancio di esercizio, nonché un
+maggior volume di affari di €. 2.070.245,00 [di cui €. 1.238.174,00 per
+cessioni non fatturate conseguite a maggiori acquisti intracomunitari
+rilevati dalla banca dati VIES ed €. 832.071,00 relativi agli acquisti
+comunitari soggetti al regime del reverse charge e non al non applicabile,
+per mancanza dei requisiti dei 6.000 (seimila) km. percorsi, della cessione
+dopo sei mesi dalla prima immatricolazione o iscrizione nei pubblici e della
+provenienza dal privato non imprenditore, regime del margine].
+In particolare, con la primigenia impugnazione dell’atto impositivo, la
+contribuente lamentò che: 1) esso era carente di motivazione; 2) era lesivo
+dell’art. 3 l. n. 241 del 1990 e dell’art. 7 l. n. 212 del 2000 (cd. Statuto del
+Contribuente); 3) era basato su presupposti erronei; 4) aveva violato e
+falsamente applicato gli artt. 54 e 55 d.P.R. n. 633 del 1972, l’art. 36 del
+d.l. n. 41 del 1995 (regime del margine), gli artt. 2697, 2727 e 2729 c.c.,
+l’art. 39 d.P.R. n. 600 del 1973, l’art. 83 del TUIR, nonché l’art. 53 Cost.;
+5) non era stato preceduto da un necessario contraddittorio
+endoprocedimentale; 6) aveva violato e falsamente applicato le norme sul
+contraddittorio preventivo; 7) aveva violato l’art. 12, comma 7, l. n. 212
+2
+
+--- Pagina 3 ---
+
+del 2000 e gli artt. 41, 47 e 48 della Carta dei diritti fondamentali
+dell’Unione Europea.
+La CGT-1 di Caserta, accolse il ricorso motivando in ordine alla
+mancanza di contraddittorio preventivo.
+2.- La CGT-2 della Campania, con la sentenza n. 6556/2023, pubblicata
+il 23 novembre 2023, ha accolto l’appello dell’Agenzia delle Entrate e
+respinto l’originario ricorso della contribuente, alla stregua della seguente
+motivazione: «1. L’appello è fondato. Il primo giudice ha ritenuto che, a
+fronte della violazione del contraddittorio preventivo, non occorra che il
+contribuente fornisca la prova di resistenza in ordine al contributo che
+avrebbe addotto in sede di contraddittorio. Tale affermazione non è però
+condivisibile. Infatti le Sezioni Unite della S.C. hanno evidenziato che «In
+tema di tributi armonizzati, la violazione dell'obbligo del contraddittorio
+endoprocedimentale da parte dell'amministrazione comporta in ogni caso
+l'invalidità dell'atto, purché, in giudizio, il contribuente assolva l'onere di
+enunciare in concreto le ragioni che avrebbe potuto far valere, qualora il
+contraddittorio fosse stato tempestivamente attivato, e l'opposizione di
+dette ragioni (valutate con riferimento al momento del mancato
+contraddittorio) si riveli non puramente pretestuosa e tale da configurare,
+in relazione al canone generale di correttezza e buona fede ed al principio
+di lealtà processuale, sviamento dello strumento difensivo rispetto alla
+finalità di corretta tutela dell'interesse sostanziale, per la quale è stato
+predisposto» (Cass. civ., sez. un., 9/12/2015, n. 24823). Quindi anche in
+caso di tributo armonizzati, come nel caso in esame, occorre che il
+contribuente fornisca la richiesta prova di resistenza, la quale tuttavia nel
+caso in esame non è stata fornita, non avendo parte contribuente indicato
+quali argomenti avrebbe illustrato in sede endoprocedimentale per
+convincere l’amministrazione a una differente soluzione. L’appello è
+pertanto accolto. Accolto l’appello, occorre esaminare tutti i motivi
+dell’originario ricorso, rimasti assorbiti in primo grado. 2. Con il primo
+motivo dell’originario ricorso parte contribuente aveva lamentato il vizio di
+motivazione. La censura è infondata, in quanto l’avviso di accertamento e
+il PVC sono congruamente motivati in ordine ai presupposti di fatto e di
+diritto della pretesa tributaria. Peraltro la contribuente si è ampiamente
+difesa, con ciò ulteriormente provando di avere ben compreso le ragioni
+3
+
+--- Pagina 4 ---
+
+della pretesa tributaria. 3. Con ulteriore doglianza la contribuente ha
+lamentato l’abnormità e sproporzione delle sanzioni. La censura è
+infondata, in quanto le sanzioni sono calcolate nei margini di legge, facendo
+corretta applicazione del parametro normativo di riferimento, e sono
+proporzionate alla gravità delle violazioni. 4. Con i residui motivi, la
+contribuente ha contestato il merito della pretesa tributaria, lamentando
+l’erroneità dei presupposti, la inapplicabilità del secondo comma dell’art.39
+ed erronea percentuale di redditività, l’erronea determinazione dell’IVA a
+debito. Le doglianze sono prive di fondamento. In ordine alla percentuale
+di redditività, che è stata applicata nella misura del 15% sul monte ricavi
+per € 2.849.799,00 emersi dall’esame del bilancio di esercizio anno 2016,
+il Collegio rileva che corrisponde alla percentuale media applicata da
+imprese similari che operano nello stesso settore. Peraltro l’Ufficio ha
+evidenziato che dal quadro RF emerge una percentuale di redditività,
+applicata dalla contribuente, pari all’1,9 per cento: ciò deriva dal fatto che
+le omissioni o le false od inesatte indicazioni hanno compromesso
+l’attendibilità e l’utilizzabilità degli altri dati contabili, per cui correttamente
+l’Ufficio ha potuto prescindere in tutto o in parte dalle risultanze del bilancio
+e delle scritture contabili in quanto esistenti ed ha determinato l’imponibile
+in base ad elementi indiziari. Quindi l’Ufficio ha fatto corretta applicazione
+dell’art. 39, co. 2, del d. P.R. n. 600 del 1973, determinando il reddito sulla
+base dei dati e delle notizie comunque raccolti o venuti a sua conoscenza,
+tra i quali è compresa la redditività media del settore specifico in cui opera
+l’impresa sottoposta ad accertamento, ben potendo la rideterminazione del
+ricarico, sulla base di dati concreti, integrare operazione finalizzata alla
+ricostruzione del volume d’affari (Cass., sent. n. 17952 del 2013 e sent. n.
+11813 del 2002, richiamate in Cass. n.18695/18). Altra censura è relativa
+alla erronea determinazione dell’IVA a debito. Anche tale censura è
+infondata, in quanto i componenti positivi emergenti dalla contabilità non
+risultano corretti così come desumibile dall’avviso di accertamento e dal
+sotteso PVC, tanto che l’Amministrazione ha dovuto rettificare i ricavi in
+quanto incongrui. 5. Dunque è accolto l’appello, ed è respinto l’originario
+ricorso del contribuente.».
+3.- Avverso la predetta sentenza d’appello, la contribuente società Car
+X Haus S.r.l. ha proposto ricorso per cassazione affidato a quattro motivi.
+4
+
+--- Pagina 5 ---
+
+4.- L’Agenzia delle Entrate ha resistito con controricorso.
+5.- La contribuente ha depositato memoria illustrativa, ai sensi dell’art.
+380-bis.1. c.p.c..
+6.- Il Pubblico Ministero ha depositato conclusioni scritte con le quali
+ha chiesto, in via principale, il rinvio a nuovo ruolo in attesa della decisione
+della pronuncia delle Sezioni Unite sul contenuto della prova di resistenza,
+all’esito dell’Ordinanza Interlocutoria n. 7829 del 2024 e, in via
+subordinata, il rigetto del ricorso.
+RAGIONI DELLA DECISIONE
+1.- Con il primo motivo, la ricorrente denuncia, ai sensi dell’art. 360,
+comma 1, n. 3), c.p.c., la violazione e falsa applicazione degli artt. 41, 47
+e 48 della Carta dei diritti fondamentali dell’Unione Europea.
+Censura, infatti, la sentenza impugnata, laddove essa ha affermato
+che: «Quindi anche in caso di tributi armonizzati, come nel caso in esame,
+occorre che il contribuente fornisca la richiesta prova di resistenza, la
+quale tuttavia nel caso in esame non è stata fornita, non avendo parte
+contribuente indicato quali argomenti avrebbe illustrato in sede
+endoprocedimentale per convincere l’amministrazione a una differente
+soluzione».
+Diversamente la ricorrente sostiene di avere «(…) regolarmente
+assolto l’onere della c.d. “prova di resistenza” richiesta dalla
+Giurisprudenza di codesta Corte, provando con documentazione idonea e
+incontestata che le proprie argomentazioni/doglianze sull’applicabilità del
+regime del margine e sulla “duplicazione” di tassazione afferenti gli
+acquisti intracomunitari non erano, e non sono, né pretestuose né vacue,
+ma fondate, oltretutto nessuno e in nessuna sede né ha contestata la reale
+fondatezza/conferenza, sicché sul punto la sentenza della CGT di secondo
+grado è palesemente erronea e come tale va cassata».
+2.- La censura è infondata.
+Ed invero, come recentemente chiarito dal supremo organo di
+nomofilachia, «In tema di diritti e garanzie del contribuente sottoposto a
+verifiche fiscali c.d. "a tavolino", nella disciplina applicabile prima
+dell'entrata in vigore dell'art. 6-bis della l. n. 212 del 2000 (introdotto
+dall'art. 1, comma 1, lett. e, del d.lgs. n. 219 del 2023, a sua volta
+richiamato e interpretato ex artt. 7 e 7-bis del d.l. n. 39 del 2024,
+5
+
+--- Pagina 6 ---
+
+convertito con modd. dalla l. n. 67 del 2024), l'obbligo
+di contraddittorio endoprocedimentale vige, quanto ai tributi cd. non
+armonizzati, solo se espressamente previsto, mentre ha valenza
+generalizzata per soli tributi cd. armonizzati, comportando la relativa
+violazione l'invalidità dell'atto, purché il contribuente abbia assolto
+all'onere di enunciare in concreto gli elementi in fatto che avrebbe potuto
+far valere e non abbia proposto un'opposizione meramente pretestuosa,
+fittizia o strumentale, tale essendo quella non idonea a determinare un
+risultato diverso del procedimento impositivo, secondo una valutazione
+probabilistica ex ante spettante al giudice di merito.» (Cass. civ., Sez., U,
+sentenza n. 21271 del 25 luglio 2025, Rv. 675643-01).
+Orbene, con espresso riguardo alla fattispecie in esame, è la stessa
+ricorrente ad evidenziare (a pag. 17 del ricorso introduttivo del presente
+giudizio di legittimità) che, alla pag. 12 del ricorso introduttivo del giudizio
+di primo grado, essa avrebbe testualmente affermato: «Se ci fosse stato
+il contraddittorio preventivo, la società ricorrente avrebbe potuto esporre
+(prima dell’emissione dell’atto impositivo) le proprie
+argomentazioni/ragioni circa l’erroneo recupero dell’IVA sulle vendite
+correlate agli acquisti intracomunitari (dimostrando l’effettivo prezzo di
+cessione, la corrispondente e corretta base imponibile nonché la differenza
+d’imposta eventualmente recuperabile); l’oggettiva dimostrazione
+dell’applicabilità del regime del margine per tutti gli acquisti interni; la
+palese duplicazione del recupero afferente le operazioni determinate in
+euro 832.071,00 e riguardanti gli stessi acquisti in ambito comunitario.».
+Tale affermazione risulta, con tutta evidenza, palesemente generica e
+priva dell’indispensabile enunciazione degli elementi di fatto che la
+contribuente avrebbe potuto far valere ove il contraddittorio preventivo si
+fosse regolarmente realizzato.
+3.- Con il secondo motivo, la ricorrente denuncia, violazione e falsa
+applicazione, ex art. 360, comma 1, n. 3), c.p.c., dell’art. 39, comma 2,
+lett. c), del d.P.R. n. 600 del 1973, degli artt. 112 e 115 c.p.c., nonché
+dell’art. 2697 c.c., per avere l’amministrazione finanziaria applicato una
+percentuale di ricarico indimostrata; nonché omesso esame di un fatto
+decisivo per il giudizio, ex art. 360, comma 1, n. 5), c.p.c.
+6
+
+--- Pagina 7 ---
+
+Sostiene che la fattispecie di cui all’art. 39, comma 2, lett. c), d.P.R.
+n. 600 del 1973 sarebbe del tutto insussistente nel caso in esame, atteso
+che proprio in forza dell’esibizione delle scritture contabili i verificatori
+dell’Agenzia delle Dogane avevano contestato presunte violazioni in
+materia di IVA.
+Inoltre, quanto alle percentuali di ricarico, la contribuente sostiene che
+essa aveva evidenziato che gli stessi studi di settore riportavano delle
+percentuali di ricarico lorde inferiori a quella utilizzata dall’Agenzia, la
+quale non aveva mai fornito la prova della provenienza e dell’attendibilità
+del ricarico applicato.
+In tal modo, il giudice territoriale avrebbe obliterato totalmente tutte
+le argomentazioni in fatto e in diritto svolte dalla contribuente, limitandosi
+semplicemente a far proprie pedissequamente ed acriticamente le difese
+dell’amministrazione finanziaria, omettendo di esaminare concretamente
+le doglianze e il materiale probatorio prodotto dalla società, violando così
+il disposto dell’art. 39, comma 2, d.P.R. n. 600 del 1973, quello sulla
+ripartizione dell’onere della prova (art. 2697 c.c.), nonché l’obbligo
+imposto al giudice di porre a fondamento della decisione le prove offerte
+dalle parti ovvero i fatti non contestati e di esaminare e rispondere a tutte
+le domande esplicitate nel giudizio (artt. 112 e 115 c.p.c.).
+4.- La censura è infondata.
+Ed invero, premesso che la ricorrente lamenta l’errata applicazione
+dell’art. 39, comma 2, lett. c), del d.P.R. n. 600 del 1973, omettendo di
+riportare l’avviso impugnato, giova rammentare che «In tema di rettifica
+dei redditi di impresa, se l'accertamento è condotto con metodo induttivo
+di cui all'art. 39, comma 2, del d.P.R. n. 600 del 1973 o all'art. 55 del
+d.P.R. n. 633 del 1972, l'amministrazione finanziaria ha facoltà di
+prescindere, in tutto o in parte, dalle risultanze del bilancio e dalle scritture
+contabili, se esistenti, fondando l'accertamento su presunzioni prive dei
+requisiti di gravità, precisione e concordanza, essendo il contribuente
+tenuto a dimostrare - con inversione dell'onere della prova - che
+l'imponibile accertato non è stato conseguito o è stato conseguito in
+misura inferiore rispetto a quella indicata mediante l'atto impositivo»
+(Cass. civ., Sez. 5, ordinanza n. 8749 del 2025, Rv. 674417-01).
+7
+
+--- Pagina 8 ---
+
+La CGT-2 della Campania ha fatto corretta applicazione di tale principio
+rilevando che «In ordine alla percentuale di redditività, che è stata
+applicata nella misura del 15% sul monte ricavi per € 2.849.799,00 emersi
+dall’esame del bilancio di esercizio anno 2016, il Collegio rileva che
+corrisponde alla percentuale media applicata da imprese similari che
+operano nello stesso settore. Peraltro l’Ufficio ha evidenziato che dal
+quadro RF emerge una percentuale di redditività, applicata dalla
+contribuente, pari all’1,9 per cento: ciò deriva dal fatto che le omissioni o
+le false od inesatte indicazioni hanno compromesso l’attendibilità e
+l’utilizzabilità degli altri dati contabili, per cui correttamente l’Ufficio ha
+potuto prescindere in tutto o in parte dalle risultanze del bilancio e delle
+scritture contabili in quanto esistenti ed ha determinato l’imponibile in
+base ad elementi indiziari».
+Peraltro, la censura, sotto la parvenza di una dedotta violazione di
+legge si risolve, poi, in realtà, ad una richiesta di diversa valutazione di
+elementi istruttori, inammissibile in questa sede.
+Alla ricostruzione fornita dal giudice d’appello, infatti, la ricorrente
+tenta di contrapporre una lettura alternativa del compendio istruttorio,
+senza tener conto che il motivo di ricorso non può mai risolversi in
+un'istanza di revisione delle valutazioni e del convincimento del giudice di
+merito volta all'ottenimento di una nuova pronuncia sul fatto, estranea
+alla natura ed ai fini del giudizio di cassazione (Cass. civ., Sez. U, Sentenza
+n. 24148 del 25 ottobre 2013, Rv. 627790-01, nonché Cass. civ., Sez. 2,
+ordinanza n. 10927 del 23 aprile 2024, Rv. 670888-01, secondo cui «In
+tema di ricorso per cassazione, deve ritenersi inammissibile il motivo di
+impugnazione con cui la parte ricorrente sostenga
+un'alternativa ricostruzione della vicenda fattuale, pur ove risultino
+allegati al ricorso gli atti processuali sui quali fonda la propria diversa
+interpretazione, essendo precluso nel giudizio di legittimità un vaglio che
+riporti a un nuovo apprezzamento del complesso istruttorio nel suo
+insieme.»).
+Non è possibile, dunque, proporre un apprezzamento diverso e
+alternativo delle prove, dovendosi ribadire il principio per cui «L'esame dei
+documenti esibiti e delle deposizioni dei testimoni, nonché la valutazione
+dei documenti e delle risultanze della prova testimoniale, il giudizio
+8
+
+--- Pagina 9 ---
+
+sull'attendibilità dei testi e sulla credibilità di alcuni invece che di altri,
+come la scelta, tra le varie risultanze probatorie, di quelle ritenute più
+idonee a sorreggere la motivazione, involgono apprezzamenti di fatto
+riservati al giudice del merito, il quale, nel porre a fondamento della
+propria decisione una fonte di prova con esclusione di altre, non incontra
+altro limite che quello di indicare le ragioni del proprio convincimento,
+senza essere tenuto a discutere ogni singolo elemento o a confutare tutte
+le deduzioni difensive, dovendo ritenersi implicitamente disattesi tutti i
+rilievi e circostanze che, sebbene non menzionati specificamente, sono
+logicamente incompatibili con la decisione adottata» (Cass. civ., Sez. 3,
+Sentenza n. 12362 del 24 maggio 2006, Rv. 589595-01; conf. Cass. civ.,
+Sez. 1, Sentenza n. 11511 del 23 maggio 2014, Rv. 631448-01; Cass.
+civ., Sez. L, Sentenza n. 13485 del 13 giugno 2014, Rv. 631330-01).
+Del resto, questa Corte ha più volte affermato che «Le espressioni
+violazione o falsa applicazione di legge, di cui all'art. 360, comma 1, n. 3
+c.p.c., descrivono i due momenti in cui si articola il giudizio di diritto: a)
+quello concernente la ricerca e l'interpretazione della norma ritenuta
+regolatrice del caso concreto; b) quello afferente l’applicazione della
+norma stessa una volta correttamente individuata ed interpretata. Il vizio
+di violazione di legge investe immediatamente la regola di diritto,
+risolvendosi nella negazione o affermazione erronea della esistenza o
+inesistenza di una norma, ovvero nell'attribuzione ad essa di un contenuto
+che non possiede, avuto riguardo alla fattispecie in essa delineata; il vizio
+di falsa applicazione di legge consiste, o nell'assumere la fattispecie
+concreta giudicata sotto una norma che non le si addice, perché la
+fattispecie astratta da essa prevista - pur rettamente individuata e
+interpretata - non è idonea a regolarla, o nel trarre dalla norma, in
+relazione alla fattispecie concreta, conseguenze giuridiche che
+contraddicano la pur corretta sua interpretazione. Non rientra nell'ambito
+applicativo dell'art. 360, comma 1, n. 3, l'allegazione di un'erronea
+ricognizione della fattispecie concreta a mezzo delle risultanze di causa
+che è, invece, esterna all'esatta interpretazione della norma e inerisce alla
+tipica valutazione del giudice di merito, sottratta perciò al sindacato di
+legittimità.» (Cass., Sez. 1, ordinanza n. 640 del 14 gennaio 2019,
+9
+
+--- Pagina 10 ---
+
+Rv. 652398-01; conf. Cass., Sez. 3, sentenza n. 7187 del 4 marzo 2022,
+Rv. 664394-01).
+Orbene, non è chi non veda come il motivo in esame, in quanto si
+concentra sull’accertamento delle circostanze di fatto valevoli ad integrare
+gli elementi idonei all’attendibilità della percentuale di ricarico applicata,
+finisce con il risolversi nella prospettazione di una ricostruzione alternativa
+della vicenda fattuale e, dunque, nella richiesta di una nuova valutazione
+del compendio istruttorio, notoriamente preclusa in sede di giudizio di
+legittimità (cfr., al riguardo, Cass., Sez. 5, ordinanza n. 32505 del 22
+novembre 2023, Rv. 669412-01, secondo cui «Il ricorrente per cassazione
+non può rimettere in discussione, contrapponendone uno difforme,
+l'apprezzamento in fatto dei giudici del merito, tratto dall'analisi degli
+elementi di valutazione disponibili ed in sé coerente, atteso che
+l'apprezzamento dei fatti e delle prove è sottratto al sindacato di
+legittimità, in quanto, nell'ambito di quest'ultimo, non è conferito il potere
+di riesaminare e valutare il merito della causa, ma solo quello di
+controllare, sotto il profilo logico formale e della correttezza giuridica,
+l'esame e la valutazione del giudice di merito, a cui resta riservato di
+individuare le fonti del proprio convincimento e, all'uopo, di valutare le
+prove, controllarne attendibilità e concludenza e scegliere, tra esse, quelle
+ritenute idonee a dimostrare i fatti in discussione.»).
+Peraltro, con riguardo alla censura prospettata ex art. 360, comma 1,
+n. 5), c.p.c., secondo cui cui il giudice territoriale avrebbe obliterato
+totalmente tutte le argomentazioni in fatto e in diritto svolte dalla
+contribuente, il motivo di appalesa altresì inammissibile, alla stregua del
+consolidato principio secondo cui «L'art. 360, comma 1, n. 5), c.p.c., come
+riformulato ex art. 54 d.l. n. 83 del 2012, prevede un vizio specifico
+denunciabile per cassazione, relativo all'omesso esame di un fatto storico,
+principale o secondario, la cui esistenza risulti dal testo della sentenza o
+dagli atti processuali, che abbia formato oggetto di discussione tra le parti
+e abbia carattere decisivo (nel senso che, se esaminato, avrebbe
+determinato un esito diverso della controversia); va peraltro escluso che
+tale omesso esame possa riguardare l'argomentazione della parte la
+quale, svolgendo le proprie tesi difensive, non fa che manifestare il proprio
+pensiero sulle conseguenze di un certo fatto o di una determinata
+10
+
+--- Pagina 11 ---
+
+situazione giuridica.» (Cass. civ., Sez. 2, ordinanza n. 2961 del 6 febbraio
+2025, Rv. 673975-01).
+5.- Con il terzo motivo, la ricorrente denuncia, ai sensi dell’art. 360,
+comma 1, n. 3), c.p.c., la violazione e falsa degli artt. 36 e segg. del d.l.
+n. 41 del 1995, dell’art. 36 del d.lgs. n. 546 del 1992, degli artt. 112, 115
+e 132 c.p.c. e dell’art. 111 Cost., nonché l’omesso esame di un fatto
+decisivo per il giudizio, ex art. 360, comma 1, n. 5), c.p.c., circa
+l’applicabilità del regime cd. del margine.
+Sostiene che nella motivazione della sentenza impugnata non vi
+sarebbe alcun riferimento alla doglianza e alla documentazione
+concernente la legittima applicazione del regime del margine, benché nella
+parte della sentenza dedicata allo «svolgimento del processo» fosse
+richiamato, tra l’altro, proprio l’art. 36 d.l. n. 41 del 1995 (regime del
+margine).
+Dunque, la CGT-2 Campania in maniera del tutto illegittima avrebbe
+deliberatamente omesso di esaminare e pronunciarsi sia sulla pertinente
+e rilevante doglianza che sulla correlata documentazione versata in atti.
+6.- La censura risulta inammissibile.
+Ed invero, come chiarito da questa Corte regolatrice, «L'onere di
+riproposizione in appello delle eccezioni non accolte in primo grado (nella
+specie, di prescrizione) opera anche nel processo tributario, a norma
+dell'art. 56 del d.lgs. n. 546 del 1992, sicché l'omessa specifica
+riproposizione in sede di gravame preclude l'esame del relativo motivo di
+ricorso per cassazione.» (Cass. civ., Sez. 6-5, ordinanza n. 12191 del 18
+maggio 2018, Rv. 648484-01).
+Nella specie, dalla lettura e disamina della sentenza impugnata non è
+dato desumere alcuna riproposizione, in sede d’appello, della doglianza di
+cui si tratta, né, del resto, la ricorrente, a carico della quale gravava il
+relativo onere, si è minimamente premurata di trascrivere il passaggio
+dell’atto di costituzione in appello in cui essa avrebbe formulato la
+suddetta riproposizione.
+Al riguardo, infatti, può rammentarsi altresì il consolidato
+orientamento di questa Corte regolatrice secondo cui «In tema di ricorso
+per cassazione, qualora siano prospettate questioni di cui non vi è cenno
+nella sentenza impugnata, il ricorrente deve, a pena di inammissibilità
+11
+
+--- Pagina 12 ---
+
+della censura, non solo allegarne l'avvenuta loro deduzione dinanzi al
+giudice di merito, ma anche, in virtù del principio di autosufficienza,
+indicare in quale specifico atto del grado precedente ciò sia avvenuto,
+giacché i motivi di ricorso devono investire questioni già comprese nel
+"thema decidendum" del giudizio di appello, essendo preclusa alle parti,
+in sede di legittimità, la prospettazione di questioni o temi di
+contestazione nuovi, non trattati nella fase di merito e non rilevabili di
+ufficio.» (Cass. civ., Sez. L, ordinanza n. 18018 del 1° luglio 2024, Rv.
+671850-01).
+7.- Con il quarto (e ultimo) motivo, la ricorrente denuncia, ai sensi
+dell’art. 360, comma 1, n. 4), c.p.c., il difetto di motivazione con
+violazione degli artt. 36 e 61 d.lgs. n. 546 del 1992, nonché dell’art. 132
+c.p.c. e dell’art. 111 Cost..
+Sostiene, al riguardo, che il giudice d’appello si sarebbe
+manifestamente sottratto all’obbligo di esaminare e riscontrare la
+puntuale documentazione versata in atti e che la sentenza impugnata
+costituirebbe una chiara e acritica adesione all’avviso di accertamento e
+quindi alla tesi dell’amministrazione finanziaria obliterando
+completamente (ma illegittimamente) le eccezioni della ricorrente e la
+documentazione prodotta.
+8.- La censura è infondata.
+Ed invero, come chiarito da questa Corte regolatrice, «In seguito alla
+riformulazione dell'art. 360, comma 1, n. 5, c.p.c., disposta dall'art. 54
+del d.l. n. 83 del 2012, conv., con modif., dalla l. n. 134 del 2012, non
+sono più ammissibili nel ricorso per cassazione le censure di
+contraddittorietà e insufficienza della motivazione della sentenza di merito
+impugnata, in quanto il sindacato di legittimità sulla motivazione resta
+circoscritto alla sola verifica del rispetto del «minimo costituzionale»
+richiesto dall'art. 111, comma 6, Cost., che viene violato qualora la
+motivazione sia totalmente mancante o meramente apparente, ovvero si
+fondi su un contrasto irriducibile tra affermazioni inconcilianti, o risulti
+perplessa ed obiettivamente incomprensibile, purché il vizio emerga dal
+testo della sentenza impugnata, a prescindere dal confronto con le
+risultanze processuali.» [Cass. civ., Sez. 1, ordinanza n. 7090 del 3 marzo
+2022, Rv. 664120-01; cfr., altresì, in senso sostanzialmente conforme
+12
+
+--- Pagina 13 ---
+
+Cass. civ., Sez. 6-3, ordinanza n. 22598 del 25 settembre 2018,
+Rv. 650880-01, secondo cui «In seguito alla riformulazione dell'art. 360,
+comma 1, n. 5, c.p.c., disposta dall'art. 54 del d.l. n. 83 del 2012, conv.,
+con modif., dalla l. n. 134 del 2012, non è più deducibile quale vizio di
+legittimità il semplice difetto di sufficienza della motivazione, ma i
+provvedimenti giudiziari non si sottraggono all'obbligo di motivazione
+previsto in via generale dall'art. 111, sesto comma, Cost. e, nel processo
+civile, dall'art. 132, secondo comma, n. 4, c.p.c.. Tale obbligo è violato
+qualora la motivazione sia totalmente mancante o meramente apparente,
+ovvero essa risulti del tutto inidonea ad assolvere alla funzione specifica
+di esplicitare le ragioni della decisione (per essere afflitta da un contrasto
+irriducibile tra affermazioni inconciliabili oppure perché perplessa ed
+obiettivamente incomprensibile) e, in tal caso, si concreta una nullità
+processuale deducibile in sede di legittimità ai sensi dell'art. 360, primo
+comma, n. 4, c.p.c..»].
+In particolare, giova rammentare che questa Corte, a sezioni unite, ha
+chiarito che, dopo la riforma dell’art. 360, comma 1, n. 5), c.p.c., operata
+dalla l. n. 134 del 2012, il sindacato sulla motivazione da parte della
+cassazione è consentito solo quando l'anomalia motivazionale si tramuti
+in violazione di legge costituzionalmente rilevante, in quanto attinente
+all'esistenza della motivazione in sé, purché il vizio risulti dal testo della
+sentenza impugnata, a prescindere dal confronto con le risultanze
+processuali; in tale prospettiva detta anomalia si esaurisce nella
+“mancanza assoluta di motivi sotto l'aspetto materiale e grafico”, nella
+“motivazione apparente”, nel “contrasto irriducibile tra affermazioni
+inconciliabili” e nella “motivazione perplessa ed obiettivamente
+incomprensibile”, esclusa qualunque rilevanza del semplice difetto di
+“sufficienza” della motivazione (cfr. Cass. civ., Sez. U, sentenza n. 8053
+del 7 aprile 2014, Rv. 629830-01).
+Nel caso di specie, la grave anomalia motivazionale non esiste, perché
+la CTR ha senz’altro motivato - sia pure in maniera sintetica - in relazione
+alla fondatezza della pretesa tributaria, chiarendo: - che la percentuale di
+redditività, applicata nella misura del 15% sul monte ricavi per €.
+2.849.799,00, emersi dall’esame del bilancio di esercizio anno 2016,
+corrispondeva alla percentuale media applicata da imprese similari
+13
+
+--- Pagina 14 ---
+
+operanti nello stesso settore; - che le omissioni e le false o inesatte
+indicazioni avevano compromesso l’attendibilità e l’utilizzabilità degli altri
+dati contabili, per cui correttamente l’amministrazione finanziaria aveva
+potuto prescindere in tutto o in parte dalle risultanze del bilancio e delle
+scritture contabili in quanto esistenti ed aveva determinato l’imponibile in
+base ad elementi indiziari; - che, pertanto, era stata corretta l’applicazione
+dell’art. 39, comma 2, del d.P.R. n. 600 del 1973, con determinazione del
+reddito sulla base dei dati e delle notizie comunque raccolti o di cui
+l’amministrazione era venuta a conoscenza, tra i quali vi era la redditività
+media del settore specifico in cui operava l’impresa sottoposta ad
+accertamento; che era è infondata la censura concernente l’IVA, in quanto
+i componenti positivi emergenti dalla contabilità non erano corretti così
+come desumibile dall’avviso di accertamento e dal sotteso p.v.c., tanto
+che l’Amministrazione aveva dovuto rettificare i ricavi in quanto incongrui;
+- che le sanzioni erano state calcolate nei margini di legge, facendo
+corretta applicazione del parametro normativo di riferimento, e
+risultavano proporzionate alla gravità delle violazioni.
+Pertanto, la motivazione della sentenza impugnata non risulta viziata
+da apparenza, né appare manifestamente illogica, ed è idonea ad
+integrare il cd. minimo costituzionale e a dar atto dell’iter logico-
+argomentativo seguito dal giudice di merito per pervenire alla sua
+decisione (cfr. Cass. civ., Sez. U, Sentenza n. 8053 del 7 aprile 2014, Rv.
+629830).
+9.- In conclusione, alla stregua delle considerazioni finora sviluppate
+il ricorso deve essere respinto e la ricorrente condannata al pagamento
+delle spese processuali nella misura liquidata in dispositivo.
+10.- Sussistono i presupposti processuali per il versamento - ai sensi
+dell’art. 13, comma 1-quater, del d.P.R. 30 maggio 2002, n. 115 -, da
+parte della ricorrente, di un ulteriore importo a titolo di contributo unificato
+pari a quello previsto per l’impugnazione, se dovuto.
+P.Q.M.
+La Corte Suprema di Cassazione
+Rigetta il ricorso e condanna la ricorrente al pagamento, in favore della
+controricorrente, delle spese del presente giudizio di legittimità, che si
+14
+
+--- Pagina 15 ---
+
+liquidano in complessivi €. 7.800,00 (euro settemilaottocento/00), oltre
+spese prenotate a debito.
+Ai sensi dell’art. 13, comma 1-quater, del d.P.R. n. 115 del 2002, dà
+atto della sussistenza dei presupposti processuali per il versamento, da
+parte della ricorrente, di un ulteriore importo a titolo di contributo unificato
+pari a quello previsto per il ricorso a norma del comma 1-bis dello stesso
+art. 13, se dovuto.
+Così deciso in Roma, nella camera di consiglio della Sezione Tributaria,
+in data 17 settembre 2025.
+Il Presidente
+Francesco Federici
+15

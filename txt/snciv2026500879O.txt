@@ -1,0 +1,143 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 21051/2024 R.G. proposto da:
+AGENZIA DELLE DOGANE E DEI MONOPOLI, in persona del Direttore
+pro tempore, rappresentata e difesa ex lege dall’Avvocatura
+Generale dello Stato;
+-ricorrente-
+contro
+ISCHIA GAMING S.R.L., in persona del legale rappresentante pro
+tempore,
+-intimata-
+per la cassazione della sentenza della Corte di giustizia tributaria di
+secondo  grado della Campania n. 2368/2024, depositata il 9 aprile
+2024.
+Udita la relazione svolta nella camera di consiglio dell’11 novembre
+2025 dal Consigliere Gianluca Grasso.
+FATTI DI CAUSA
+
+--- Pagina 2 ---
+
+1. –  La Ischia Gaming s.r.l. è una società che opera come
+gestore nel settore degli apparecchi da intrattenimento di cui al
+comma 6 dell’art 110 T.U.LP.S., eroganti vincite in denaro, c.d. slot
+machine, sottoposti a Prelievo erariale unico (PREU).  Tali apparecchi
+da divertimento hanno un meccanismo di trasmissione telematica
+dei flussi dei dati delle giocate, che per il tramite dei providers cui si
+affidano, vengono comunicati direttamente all’Agenzia delle Dogane
+e dei Monopoli. Nel caso di specie, il flusso era comunicato
+direttamente alla Società Generale d'Informatica S.p.A. (SOGEI),
+partner tecnologico ufficiale dell’ex Amministrazione Autonoma dei
+Monopoli di Stato (AAMS), oggi Agenzia delle dogane e dei monopoli.
+Per quanto riguarda i fatti di causa, i dati relativi agli anni dal 2011
+al 2014, attinenti agli apparecchi della società, venivano trasmessi
+dall’Agenzia delle dogane alla Guardia di Finanza. La società veniva
+sottoposta a verifica fiscale, all’esito della quale, con processo
+verbale di constatazione  del 20 dicembre 2016, veniva accertato,
+per il periodo dal 2012 al 2014, un maggiore PREU dovuto per tutti
+gli apparecchi in dotazione. Dalla attività di accertamento emergeva
+la violazione dell’art. 39 quater, comma 2, d.l. n. 269/2003 poiché
+gli apparecchi, sebbene provvisti di regolare nulla osta, risultavano
+oggetto di manipolazioni mirate a modificare i dati relativi alle
+somme giocate, allo scopo di occultare il reale imponibile
+assoggettato all’aliquota ordinaria di imposta. Veniva pertanto
+recuperato a tassazione il maggiore PREU sulle somme giocate. In
+contraddittorio con la parte veniva poi quantificata la somma da
+versare per le annualità dal 2012 al 2014, individuando un maggiore
+importo PREU evaso pari ad  euro 725.538,72 per anno (2012-2013-
+2014). Conseguentemente, venivano irrogate le sanzioni nella
+misura del 240% della maggiore imposta dovuta. L’Ufficio dei
+Monopoli per la Campania emetteva tre diversi avvisi di
+accertamento, di cui quello per l’anno 2014 PREU prot. n. 86011 del
+2 di 5
+
+--- Pagina 3 ---
+
+26 novembre 2019 veniva impugnato nell'ambito del presente
+contenzioso.
+Si costituiva l'Ufficio chiedendo il rigetto del ricorso.
+La Commissione tributaria provinciale, con sentenza n.
+7822/2023 del 6 giugno 2023, rigettava il ricorso.
+2. – Avverso tale sentenza la ricorrente proponeva appello.
+Si costituiva l’Agenzia delle dogane e dei monopoli chiedendo il
+rigetto dell'impugnazione.
+Con sentenza n. 2368/2024, depositata il 9 aprile 2024, la Corte
+di giustizia tributaria di secondo  grado della Campania, accoglieva
+parzialmente l'appello, rideterminando il maggior importo a titolo di
+PREU per l’anno 2014, con proporzionale riduzione della medesima
+imposta relativamente al periodo antecedente al giugno 2012.
+3. – L’Agenzia delle dogane e dei monopoli ha proposto ricorso
+per cassazione affidato a un unico motivo.
+La contribuente non ha svolto attività difensiva.
+4. – Il ricorso è stato avviato alla trattazione camerale ai sensi
+dell’art. 380-bis.1 c.p.c.
+RAGIONI DELLA DECISIONE
+1. – Con l'unico motivo di ricorso si deduce la violazione e falsa
+applicazione dell’art. 14 d.lgs. 472 del 1997, in relazione all’art. 360,
+comma 1, n. 3 c.p.c. per avere la corte territoriale operato lo
+scorporo dall’ammontare complessivo dell’imposta evasa,
+quantificata dall’Amministrazione, dell’ammontare corrispondente al
+periodo dall’1 gennaio 2012 al giugno 2012, momento in cui gli
+apparecchi furono ceduti alla società Ischia Gaming s.r.l., atteso che
+in forza dell’art. 14 d.lgs. 472 del 1997 la società istante non avrebbe
+potuto invocare la sua estraneità rispetto alle somme dovute dal
+cedente, essendovi tenuta in solido. L’art. 14 del d.lgs. n. 472 del
+1997, applicabile ratione temporis, stabilisce, per il caso della
+cessione di azienda, che il cessionario, salvo il beneficio della
+preventiva escussione del cedente, è responsabile in solido, entro i
+3 di 5
+
+--- Pagina 4 ---
+
+limiti del valore dell’azienda o del ramo di azienda, per il pagamento
+dell’imposta e delle sanzioni riferibili alle violazioni commesse
+nell’anno della cessione e nei due precedenti, nonché per quelle già
+irrogate e contestate nel medesimo periodo ancorché per violazioni
+anteriori. La disposizione in esame, prevista per le cessioni di
+azienda, trova applicazione - stante l’identità di ratio - anche
+nell’ipotesi di cessione di un ramo di azienda, atteso che il
+fondamento dell’istituto va individuato nell’estensione al cessionario
+della responsabilità per i debiti inerenti a un insieme di beni e
+rapporti giuridici che, pur non costituendo un autonomo complesso
+aziendale, è funzionalmente idoneo, già al momento dello scorporo
+dal complesso di cui fa parte, a provvedere a uno scopo produttivo
+e, quindi, a svolgere, autonomamente dal cedente e senza
+integrazioni di rilievo da parte del cessionario, il servizio o la funzione
+cui era finalizzato nell’ambito dell’impresa cedente.
+1.1. – Il motivo è inammissibile.
+In sentenza si chiarisce che prima di giugno 2012 gli apparecchi
+erano in carico ad altra società (GI& EM s.r.l).
+La censura è peraltro inammissibile per novità perché non
+emerge che la pretesa sia stata indirizzata a Ischia Gaming s.r.l.
+nella qualità di cessionaria di ramo d’azienda, alla luce della
+disciplina stabilita dall’art. 14 del d.lgs. n. 472/97. Si consideri, al
+riguardo, che,  in tema di responsabilità solidale, di cui all'art. 14 del
+d.lgs. n. 472 del 1997, per i debiti pregressi relativi all'azienda
+ceduta, soggetto passivo dell'imposta, nei cui confronti deve essere
+svolta l'attività accertativa, è esclusivamente il cedente, nei cui soli
+confronti si è realizzato il presupposto impositivo, laddove,
+correttamente, l'amministrazione finanziaria provvede, nei confronti
+del cessionario, alla mera iscrizione a ruolo dell'importo non versato
+dal cedente, in forza della citata responsabilità solidale, senza che
+sia necessario che la cartella sia preceduta anche da un preventivo
+atto di accertamento nei suoi confronti (Cass. 10377/2022).
+4 di 5
+
+--- Pagina 5 ---
+
+2. – In conclusione, il ricorso va rigettato.
+Non si deve provvedere sulle spese stante la mancata
+costituzione della parte intimata.
+P.Q.M.
+rigetta il ricorso.
+Così deciso in Roma, nella camera di consiglio della Sezione
+Tributaria, il 11 novembre 2025.
+La Presidente
+Angelina-Maria Perrino
+5 di 5

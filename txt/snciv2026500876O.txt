@@ -1,0 +1,188 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 11436/2024 R.G. proposto da:
+AGENZIA DELLE DOGANE E DEI MONOPOLI, in persona del Direttore
+pro tempore, rappresentata e difesa dall’Avvocatura Generale dello
+Stato;
+-ricorrente-
+contro
+ISCHIA GAMING S.R.L. IN LIQUIDAZIONE, in persona del legale
+rappresentante pro tempore, rappresentata e difesa dall’avv.
+Antonio Trani;
+-controricorrente e ricorrente incidentale-
+per la cassazione della sentenza della Corte di giustizia tributaria di
+secondo grado della Campania n. 6587/2023, depositata il 24
+novembre 2023.
+Udita la relazione svolta nella camera di consiglio dell’11 novembre
+2025 dal Consigliere Gianluca Grasso.
+
+--- Pagina 2 ---
+
+FATTI DI CAUSA
+1. –  La Ischia Gaming s.r.l. opera come gestore nel settore
+degli apparecchi da intrattenimento di cui al comma 6 dell’art 110
+TULPS, eroganti vincite in denaro, slot machine, sottoposti a Prelievo
+erariale unico (PREU). Tali apparecchi da divertimento hanno un
+meccanismo di trasmissione telematica dei flussi dei dati delle
+giocate, che per il tramite dei provider cui si affidano, vengono
+comunicati direttamente all’Agenzia delle dogane e dei monopoli. Nel
+caso di specie, il flusso era comunicato direttamente alla Società
+Generale d'Informatica S.p.A. (SOGEI), partner tecnologico Ufficiale
+dell’ex Amministrazione Autonoma dei Monopoli di Stato (AAMS). Per
+quanto riguarda i fatti di causa, i dati relativi agli anni dal 2011 al
+2014, attinenti agli apparecchi della società, venivano trasmessi
+dall’Agenzia delle dogane alla Guardia di Finanza, che sottoponeva
+la società a verifica fiscale, all’esito della quale, con processo  verbale
+di constatazione del 20 dicembre 2016, veniva accertato, per il
+periodo dal 2012 al 2014, un maggiore PREU dovuto per tutti gli
+apparecchi in dotazione alla società verificata. Dall’attività di
+accertamento emergeva la violazione dell’art. 39 quater, comma 2,
+d.l. n. 269/2003 poiché gli apparecchi, sebbene provvisti di nulla
+osta, risultavano oggetto di manipolazioni mirate a modificare i dati
+relativi alle somme giocate allo scopo di occultare il reale imponibile.
+Veniva pertanto recuperato a tassazione il maggiore PREU sulle
+somme giocate. L’Agenzia delle dogane e dei monopoli emetteva
+quindi due distinti avvisi di accertamento per gli anni di imposta 2012
+e 2013, che venivano impugnati con separati ricorsi.
+L’Ufficio si costituiva contestando le censure avversarie.
+La Commissione tributaria provinciale, con sentenze n.
+13341/02/2019 e 13345/02/2019, depositate il 5 dicembre 2019,
+rigettava i ricorsi.
+2 di 6
+
+--- Pagina 3 ---
+
+2. – La società impugnava le sentenze con distinti appelli.
+Si costituiva l’Agenzia delle dogane e dei monopoli chiedendo il
+rigetto delle impugnazioni.
+La Corte di giustizia tributaria di secondo grado della Campania,
+previa riunione dei giudizi, con sentenza n. 6587/2023, depositata il
+24 novembre 2023, ha accolto parzialmente l’appello.
+3. – L’Agenzia delle dogane e dei monopoli ha proposto ricorso
+per cassazione affidato a due motivi.
+La contribuente si è costituita con controricorso e ricorso
+incidentale articolato in quattro motivi.
+4. – Il ricorso è stato avviato alla trattazione camerale ai sensi
+dell’art. 380-bis.1 c.p.c.
+La Procura generale ha depositato conclusioni scritte.
+RAGIONI DELLA DECISIONE
+1. – Con il primo motivo del ricorso principale si deduce la
+violazione o falsa applicazione dell’art. 132, comma 2, n. 4 c.p.c. e
+dell’art. 36 d.lgs. n.546/1997. L'Agenzia delle entrate si duole del
+fatto che la sentenza impugnata, nell’affermare che il periodo preso
+in considerazione per la contestazione fosse più ampio, non avrebbe
+in alcun modo indicato i criteri utilizzati per rideterminare
+l’ammontare della pretesa fiscale.
+Con il primo motivo del ricorso incidentale si censura la sentenza
+per violazione dell’art. 132, comma 1, n. 4 c.p.c. e dell’art. 36 d.lgs.
+n.546/1997, in relazione all’art. 360, comma 1, n. 4 c.p.c.  Secondo
+quanto prospettato, i giudici, pur partendo da un’affermazione
+corretta della doverosa esclusione del periodo antecedente al
+trasferimento dei beni alla società controricorrente, non hanno poi
+specificato le ragioni e i criteri di rideterminazione dell’ammontare.
+Con il terzo motivo del ricorso incidentale si censura la sentenza
+evocando l’art. 360, comma 1, n. 5 c.p.c., perché, con riferimento
+3 di 6
+
+--- Pagina 4 ---
+
+all’anno 2015, non era stata accolta l’eccezione svolta dalla società
+che avrebbe dovuto avvedersi dell’allegato all’avviso di
+accertamento che dimostrava invece che i dati utilizzati dalla SOGEI
+concernevano il periodo dal 1 gennaio 2011 al 24 giugno 2015.
+1.1. – I motivi, da trattarsi congiuntamente, sono fondati.
+In seguito alla riformulazione dell'art. 360, comma 1, n. 5,
+c.p.c., disposta dall'art. 54 del d.l. n. 83 del 2012, conv., con modif.,
+dalla l. n. 134 del 2012, non sono più ammissibili nel ricorso per
+cassazione le censure di contraddittorietà e insufficienza della
+motivazione della sentenza di merito impugnata, in quanto il
+sindacato di legittimità sulla motivazione resta circoscritto alla sola
+verifica del rispetto del «minimo costituzionale» richiesto dall'art.
+111, comma 6, Cost. (Cass. n. 13248/2020; Cass. n. 17196/2020),
+che viene violato qualora la motivazione sia totalmente mancante o
+meramente apparente, ovvero si fondi su un contrasto irriducibile tra
+affermazioni inconcilianti, o risulti perplessa ed obiettivamente
+incomprensibile, purché il vizio emerga dal testo della sentenza
+impugnata, a prescindere dal confronto con le risultanze processuali
+(Cass. n. 7090/2022).
+Nel caso di specie, sussiste una motivazione meramente
+apparente, non rispettosa del «minimo costituzionale», poiché la
+pronuncia omette di indicare i criteri utilizzati e il consequenziale
+sviluppo logico seguito per rideterminare l’ammontare della pretesa
+fiscale, finendo col lasciare all'interprete il compito di integrarla. La
+motivazione non consente di comprendere il ragionamento seguito
+dal collegio per disporre, all’esito, «una proporzionale riduzione
+come da dispositivo», e per affermare poi nel dispositivo «accoglie
+parzialmente il ricorso nei sensi di cui in motivazione», senza alcuna
+ulteriore spiegazione sulle ragioni e sui dati contabili posti a base del
+4 di 6
+
+--- Pagina 5 ---
+
+calcolo, individuato nel maggior importo a titolo di PREU pari a “€
+1.718,381”.
+2. – Con il secondo motivo del ricorso principale si prospetta la
+violazione e falsa applicazione dell’art. 14 del d.lgs. n. 472/1997 in
+relazione all’art. 360, comma 1, n. 3 c.p.c. L'Agenzia delle dogane
+contesta che la Corte di merito avrebbe errato nel ritenere che la
+decorrenza del periodo per la pretesa doveva essere individuata al 4
+giugno 2012, data in cui gli apparecchi erano stati ceduti dalla
+precedente società all’odierna controricorrente.
+2.1. – Il motivo è inammissibile.
+In sentenza si chiarisce che prima di giugno 2012 gli apparecchi
+erano in carico ad altra società (GI& EM s.r.l).
+La censura è inammissibile per novità perché non emerge che
+Ischia Gaming s.r.l. sia stata considerata nella qualità di cessionaria
+di ramo d’azienda. In senso contrario depone la circostanza che è
+stata destinataria di avvisi di accertamento.
+In tema di responsabilità solidale, di cui all'art. 14 del d.lgs. n.
+472 del 1997, per i debiti pregressi relativi all'azienda ceduta,
+soggetto passivo dell'imposta, nei cui confronti deve essere svolta
+l'attività accertativa, è esclusivamente il cedente, nei cui soli
+confronti si è realizzato il presupposto impositivo, laddove,
+correttamente, l'amministrazione finanziaria provvede, nei confronti
+del cessionario, alla mera iscrizione a ruolo dell'importo non versato
+dal cedente, in forza della citata responsabilità solidale, senza che
+sia necessario che la cartella sia preceduta anche da un preventivo
+atto di accertamento nei suoi confronti (Cass. 10377/2022).
+3. – L'accoglimento del primo e del terzo motivo del ricorso
+incidentale determina l’assorbimento del secondo e del quarto
+motivo del ricorso incidentale (con il secondo motivo si censura la
+sentenza per violazione dell’art. 7 del D.lgs. n. 546/1992; 193 e 210
+5 di 6
+
+--- Pagina 6 ---
+
+c.p.c. in relazione all’art. 360, comma 1, n. 4 c.p.c. La
+controricorrente incidentale si duole che la Commissione tributaria
+regionale ha ritenuto di dovere proporzionalmente ridurre l’importo
+dovuto senza, tuttavia, addure a fondamento «alcun dato contabile
+e documentale», in particolare i nulla osta relativi agli apparecchi
+utilizzati, e disporre una consulenza tecnica d’ufficio. Con il quarto
+motivo di ricorso si censura la sentenza per violazione art. 24 Cost.,
+artt. 91, 92, 132 comma 2, n. 4 c.p.c.  e art, 36 del d.lgs. 546/1997
+perché la Corte ha disposto l’integrale compensazione delle spese
+nonostante l’accoglimento parziale del ricorso).
+4. – In conclusione, il ricorso va accolto in relazione al primo
+motivo del ricorso principale e al primo e al terzo motivo del ricorso
+incidentale, con rinvio, anche per la determinazione delle spese del
+giudizio di legittimità, alla Corte di giustizia tributaria di secondo
+grado competente, in diversa composizione.
+P.Q.M.
+accoglie il primo motivo del ricorso principale, rigetta il secondo, e
+accoglie il primo e il terzo motivo del ricorso incidentale, assorbiti i
+restanti. Cassa la sentenza impugnata in relazione ai motivi accolti
+e rinvia, anche per la determinazione delle spese del giudizio di
+legittimità, alla Corte di giustizia tributaria di secondo grado della
+Campania, in diversa composizione.
+Così deciso in Roma, nella camera di consiglio della Sezione
+Tributaria, il 11 novembre 2025.
+La Presidente
+Angelina-Maria Perrino
+6 di 6
