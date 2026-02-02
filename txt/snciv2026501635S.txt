@@ -1,0 +1,575 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Oggetto: Avviso di accertamento per omessa ritenuta d’acconto su royalties - Convenzione Italia–Germania contro doppie imposizioni – Beneficiario effettivo delle royalties – Nozione.
+SENTENZA
+sul ricorso iscritto al n. 5368/2017 R.G. proposto da:
+AGENZIA DELLE ENTRATE, in persona del Direttore pro tempore,
+rappresentata e difesa dall’Avvocatura Generale dello Stato, presso la
+quale domicilia ope legis in Roma, alla Via dei Portoghesi n. 12;
+– ricorrente –
+contro
+SILGAN WHITE CAP ITALIA s.r.l., in persona del legale rappresentante pro
+tempore, rappresentata e difesa dall’Avv. Claudia Lazzeri, che ha indicato
+recapito Pec, con la quale è elettivamente domiciliata presso lo Studio
+Associato Legale Tributario Law Tax League sito in Roma, viale Bruno
+Buozzi n. 77, giusta procura speciale in calce al controricorso;
+– controricorrente –
+avverso la sentenza della Commissione tributaria regionale della
+Lombardia, n. 4417/2016, depositata in data 5 agosto 2016.
+Udita la relazione svolta nella pubblica udienza del 7 gennaio 2026 dal
+Consigliere Cesare Taraschi.
+
+--- Pagina 2 ---
+
+Udito il Pubblico Ministero, in persona del Sostituto Procuratore generale
+dott.ssa Paola Filippi, che ha concluso chiedendo l’accoglimento del
+ricorso.
+Udita per la ricorrente l’Avvocatura Generale dello Stato che ha chiesto
+accogliersi il ricorso.
+Udita per la controricorrente l’Avv. Claudia Lazzeri, che ha concluso per il
+rigetto del ricorso.
+FATTI DI CAUSA
+1. Dagli atti di causa emerge che la Silgan White Cap Italia s.r.l.
+appartiene ad un gruppo multinazionale facente capo alla società
+statunitense Silgan Holdings Inc., operante nel settore della produzione e
+distribuzione di chiusure in metallo, plastica e mastice per prodotti
+alimentari e bevande. In Europa il gruppo opera attraverso compagini
+societarie localizzate in diversi Paesi, sotto il coordinamento e la gestione
+della Silgan White Cap Deutsch, sita in Germania. La società contribuente,
+controricorrente nel presente giudizio, è la consociata che opera nel
+mercato italiano, utilizzando il marchio ed il know-how della Silgan White
+Cap.
+In relazione al periodo d’imposta 2009, la contribuente operava
+ritenute d’acconto, sulle royalties corrisposte alla Silgan tedesca per lo
+sfruttamento del marchio e del know-how, nella misura del 5%, aliquota
+prevista dall’art. 12 del Modello di Convenzione OCSE contro le doppie
+imposizioni, stipulata tra Italia e Germania.
+Tuttavia, all’esito dell’attività ispettiva espletata dalla Guardia di
+Finanza nel 2013, emergeva che effettiva beneficiaria del pagamento delle
+predette royalties era stata la casa madre statunitense, ossia la Silgan
+Holdings inc., sicché la misura della ritenuta d’acconto da applicare
+avrebbe dovuto essere del 10%, come previsto dall’art. 12 della
+Convezione Italia-U.S.A. per evitare le doppie imposizioni in materia di
+imposte sul reddito, con una differenza di euro 28.571,90 rispetto a
+2
+
+--- Pagina 3 ---
+
+quanto effettivamente versato sulla base della diversa misura del 5%.
+Tale conclusione era fondata sul rinvenimento di una e-mail proveniente
+dall’ufficio contabile della Silgan tedesca in cui si era dichiarato che le
+royalties non erano state inserite nel conto economico in quanto
+integralmente “girate” alla casa madre statunitense.
+L’Amministrazione finanziaria notificava, quindi, alla contribuente
+l’avviso di accertamento n. T9B07AR00049/2014, con cui accertava
+l’omesso versamento della somma di euro 28.571,90 a titolo di ritenute
+d’acconto per l’anno d’imposta 2009 e applicava la sanzione di euro
+34.286,40 per infedele dichiarazione del sostituto d’imposta ed omessa
+effettuazione di ritenute.
+La Silgan White Cap Italia s.r.l. impugnava l’atto impositivo dinanzi
+alla Commissione tributaria provinciale di Milano, assumendo, da un lato,
+che effettiva beneficiaria delle royalties era la società tedesca, che non
+poteva considerarsi una conduit company, e che, dall’altro, l’Ufficio non
+aveva attivato lo scambio di informazioni con le autorità tedesche previsto
+dalla relativa Convenzione contro le doppie imposizioni; inoltre,
+contestava l’irrogazione delle sanzioni.
+La CTP accoglieva il ricorso, ritenendo privo di fondamento l’assunto
+dell’Ufficio, posto che, da un lato, la Silgan tedesca, in forza di un
+contratto di licenza, deteneva i diritti di utilizzazione in Europa del marchio
+e del know how di proprietà della casa madre statunitense, e che,
+dall’altro, la mancata attivazione da parte dell’Ufficio della procedura dello
+scambio di informazioni con le autorità tedesche impediva di riscontrare la
+fondatezza dell’assunto stesso, restando basata l’asserita natura
+interpositiva della società tedesca su meri indizi, non confortati da
+evidenze documentali.
+2. L’Agenzia delle entrate interponeva gravame dinanzi alla
+Commissione tributaria regionale della Lombardia, che rigettava l’appello
+ritenendo insussistente una interposizione sia fittizia che reale della
+3
+
+--- Pagina 4 ---
+
+società tedesca, la quale aveva svolto l’effettivo ruolo di headquarter
+europeo del gruppo Silgan.
+3. Avverso la sentenza della CTR, l’Agenzia delle entrate ha proposto
+ricorso per cassazione formulando un unico motivo.
+La società contribuente resiste con controricorso.
+In data 08/12/2025 il Sostituto Procuratore Generale ha depositato
+memoria ex art. 378 c.p.c.
+In data 23/12/2025 la controricorrente ha depositato memoria ex
+art. 378 c.p.c.
+All’udienza pubblica del 07/01/2026 l’Avvocatura Generale dello
+Stato per la ricorrente ha chiesto accogliersi il ricorso. L’avv. Claudia
+Lazzeri, nell’interesse della controricorrente, ha concluso per il rigetto del
+ricorso. Il Sostituto Procuratore Generale, nella persona della dott.ssa
+Paola Filippi, ha chiesto accogliersi il ricorso.
+RAGIONI DELLA DECISIONE
+1. Con l’unico motivo di ricorso si deduce la «Violazione e falsa
+applicazione dell’art. 37, comma 3, del DPR 600/73, degli artt. 2697 e
+2729 c.c. e degli artt. 12 e 27 della Convenzione Italia – Germania per
+evitare le doppie imposizioni del 18 ottobre 1989, ratificata con legge n.
+459 del 24 novembre 1992, in relazione all’art. 360, comma 1, n. 3
+c.p.c.».
+Secondo la CTR, la Silgan tedesca non poteva costituire una mera
+intermediaria tra la società contribuente e la casa madre statunitense in
+quanto la prima è una società effettiva ed operante sul mercato, ragion
+per cui era inconfigurabile una fattispecie tanto di interposizione fittizia
+quanto di interposizione reale, potendo quest’ultima essere sanzionata
+secondo lo schema dell’abuso del diritto solo a fronte di «una costruzione
+societaria priva di ogni finalità economica diversa dal mero risparmio
+fiscale». Né poteva ritenersi sufficiente l’e-mail proveniente dall’ufficio
+contabilità della Silgan tedesca, posto che l’Ufficio avrebbe dovuto attivare
+4
+
+--- Pagina 5 ---
+
+la procedura di scambio di informazioni con l’autorità fiscale tedesca al
+fine di ottenere una “prova rigorosa” dell’elusione.
+Tali statuizioni, secondo la ricorrente, sono viziate per errata
+interpretazione della portata applicativa dell’art. 37, comma 3, d.P.R. n.
+600/1973, che, nel prevedere l’imputazione al contribuente dei redditi
+formalmente intestati ad altro soggetto quando, in base a presunzioni
+gravi, precise e concordanti, egli ne risulti l’effettivo titolare, non distingue
+tra interposizione fittizia e reale, posto che la condotta elusiva non
+richiede un comportamento fraudolento del contribuente, ma può attuarsi
+anche tramite operazioni effettive e reali.
+La circostanza, quindi, che la Silgan tedesca fosse società
+effettivamente operante sul mercato non escludeva che la stessa si fosse
+posta, nel caso di specie, quale intermediaria della società statunitense
+nell’incasso delle royalties, come emergeva dalla e-mail proveniente dalla
+stessa società tedesca nella quale si era affermato testualmente che «le
+royalties non sono presenti nel loro Conto Economico, in quanto vengono
+girate in rapporto 1:1 (cioè pari importo) alla casa madre americana,
+registrando sia le partite in dare che in avere sullo stesso conto».
+La CTR ha immotivatamente escluso la rilevanza probatoria di tale
+e-mail e ha erroneamente addossato all’Ufficio l’obbligo di attivare i canali
+di collaborazione con l’Autorità fiscale tedesca – procedura che, invece, ai
+sensi dell’art. 27 della Convenzione contro le doppie imposizioni,
+costituisce oggetto di una facoltà – al fine di raggiungere una “prova
+rigorosa” dell’elusione, sebbene, al contrario, l’Ufficio potesse assolvere
+l’onere probatorio su di sé gravante anche mediante il ricorso a
+presunzioni.
+2. Il motivo, in primo luogo, si sottrae alle censure di inammissibilità
+sollevate dalla società controricorrente.
+2.1 Invero, per quanto attiene all’asserita violazione del principio di
+autosufficienza, la ricorrente ha riportato la motivazione dell’impugnata
+5
+
+--- Pagina 6 ---
+
+sentenza e ha formulato specifiche censure avverso la stessa, richiamando
+sia gli orientamenti della giurisprudenza di legittimità in materia di
+condotte elusive che la documentazione prodotta fin dal primo grado di
+giudizio (in particolare, l’e-mail proveniente dall’ufficio contabilità della
+Silgan tedesca, di cui è stato trascritto anche il contenuto a pag. 10 del
+ricorso) idonea a dimostrare l’opera di intermediazione svolta dalla
+consociata tedesca, nella riscossione delle royalties, per conto della
+società madre statunitense.
+2.2 Il fatto, poi, che la ricorrente abbia riportato nel corpo del
+ricorso per cassazione l’immagine scansionata della motivazione della
+sentenza della CTR non incide sull’ammissibilità del ricorso, in quanto tale
+scansione – che, comunque, è cosa ben diversa dal mero assemblaggio di
+atti e documenti non accompagnato da uno sviluppo linguistico delle
+doglianze formulate - corrisponde, nella sostanza, alla riproduzione del
+testo della medesima sentenza e non fa venir meno l’agevole
+comprensione della censura prospettata, articolata sulla base di una chiara
+enunciazione dei profili di violazione di legge in cui sarebbe incorsa la CTR
+in relazione alle varie statuizioni della sentenza impugnata.
+Inoltre, per questa Corte non viola il principio di autosufficienza,
+avuto riguardo alla complessità della controversia, il ricorso per cassazione
+confezionato mediante inserimento di copie fotostatiche o scannerizzate di
+atti relativi al giudizio di merito, qualora la riproduzione integrale di essi
+sia preceduta o seguita da una chiara sintesi dei punti rilevanti per la
+risoluzione della questione dedotta (Cass. 10/07/2020, n. 14756; Cass.
+24/07/2018, n. 19562; Cass., Sez. U., 24/02/2014, n. 4324). Nella
+specie, la ricorrente Agenzia delle entrate, sia prima che dopo la
+riproduzione della motivazione della sentenza impugnata, ha focalizzato le
+questioni dirimenti per la soluzione della controversia.
+2.3 Neppure sussiste il profilo di inammissibilità asseritamente
+derivante dalla richiesta di un nuovo esame nel merito della controversia,
+6
+
+--- Pagina 7 ---
+
+posto che la ricorrente ha lamentato la violazione e falsa applicazione delle
+norme indicate nell’articolazione del motivo, avendone la CTR offerto,
+secondo l’Ufficio, una interpretazione non in linea con quella ricavabile
+dagli orientamenti della giurisprudenza di legittimità.
+3. Nel merito il motivo è fondato.
+3.1 Occorre premettere, in relazione al quadro normativo di
+riferimento, che, ai sensi dell'art. 12 (sotto la rubrica "Canoni") della
+Convenzione Italia – Germania contro le doppie imposizioni (ratificata e
+resa esecutiva con legge n. 459/1992): «1. I canoni provenienti da uno
+Stato contraente e pagati ad un residente dell'altro Stato contraente sono
+imponibili in detto altro Stato. 2. Tuttavia, tali canoni sono imponibili
+anche nello Stato contraente dal quale essi provengono ed in conformità
+alla legislazione di detto Stato, ma, se la persona che percepisce i canoni
+ne è l'effettivo beneficiario, l'imposta così applicata non può eccedere il 5
+per cento dell'ammontare lordo dei canoni. Le autorità competenti degli
+Stati contraenti regoleranno di comune accordo le modalità di applicazione
+di tale limitazione».
+Lo stesso articolo (comma 4) stabilisce che: «il termine "canoni"
+designa i compensi di qualsiasi natura corrisposti per l'uso o la
+concessione in uso di un diritto di autore su opere letterarie, artistiche o
+scientifiche, ivi comprese le pellicole cinematografiche e le pellicole o
+registrazioni per trasmissioni radiofoniche o televisive, di brevetti, marchi
+di fabbrica o di commercio, disegni o modelli, progetti, formule o processi
+segreti [...]».
+Nel caso in esame, si controverte dell'imposizione fiscale delle
+royalties dovute quale contropartita del diritto allo sfruttamento di beni
+immateriali (marchio e know-how).
+L'art. 9 del Protocollo, quale parte integrante della Convenzione,
+precisa che: «La persona che percepisce dividendi, interessi e canoni è
+considerata beneficiario effettivo ai sensi degli articoli 10 [dividendi], 11
+7
+
+--- Pagina 8 ---
+
+[interessi] e 12 [canoni] se ad essa spetta il diritto al quale tali pagamenti
+si ricollegano e se i redditi che ne ritrae devono essere ad essa attribuiti in
+virtù della legislazione fiscale dei due Stati».
+3.2 Ebbene, questa Corte ha già avuto occasione di delineare le
+caratteristiche del "beneficiario effettivo", in relazione a dividendi,
+interessi e canoni. Si è, infatti, evidenziato che la prassi internazional-
+tributaria ha elaborato il concetto di "beneficiario effettivo" al fine di
+contrastare quelle pratiche volte proprio a trarre profitto dalla
+autolimitazione della potestà impositiva statale; in particolare, in ambito
+OCSE, il concetto di "beneficiario effettivo" è comparso per la prima volta
+nel modello di convenzione del 1977, negli articoli 10 e 11 (dedicati
+rispettivamente al regime di tassazione dei dividendi e degli interessi).
+La prassi statale si è, quindi, conformata a tale orientamento,
+adottando la clausola del "beneficiario effettivo" (beneficial owner) nei
+diversi trattati sottoscritti (Cass. 19/07/2023, n. 21140; Cass.
+06/09/2022, n. 26290; Cass. 30/09/2019, n. 24287; Cass. 19/12/2018,
+n. 32840, in relazione alla tassazione delle royalties; Cass. 28/12/2016, n.
+27116; Cass. 16/12/2015, n. 25281).
+Tale clausola generale dell'ordinamento fiscale internazionale è volta
+ad impedire che i soggetti possano abusare dei trattati fiscali attraverso
+pratiche di treaty shopping con lo scopo di riconoscere la protezione
+convenzionale a contribuenti che, altrimenti, non ne avrebbero avuto
+diritto o che avrebbero subìto un trattamento fiscale, comunque, meno
+favorevole. Il treaty shopping implica lo sfruttamento delle differenze nei
+trattati stipulati fra le varie nazioni, mediante la frapposizione di un
+soggetto residente in uno Stato terzo (conduit) nel flusso reddituale tra lo
+Stato della fonte e quello del beneficiario effettivo. L’introduzione della
+detta clausola nell’art. 10 del Modello OCSE consente di limitare la potestà
+impositiva dello Stato della fonte (nel caso di specie l’Italia) solo laddove il
+8
+
+--- Pagina 9 ---
+
+vero percettore dei dividendi (beneficiario effettivo) abbia sede nell’altro
+Stato contraente.
+3.3 Pertanto, in virtù della clausola del "beneficiario effettivo", può
+fruire dei vantaggi garantiti dai trattati solo il soggetto sottoposto alla
+giurisdizione dell'altro Stato contraente, che abbia l'effettiva disponibilità
+giuridica ed economica del provento percepito, realizzandosi altrimenti
+una traslazione impropria dei benefici convenzionali o addirittura un
+fenomeno di non imposizione (in tal senso, ex multis, Cass. 10/07/2020,
+n. 14756, nonché Cass. 08/06/2023, n. 16173).
+In sostanza, nel caso degli agenti, dei nominees e delle conduit
+companies, che operano quali fiduciari, il percettore di interessi, dividendi
+o canoni non ne è il beneficiario effettivo, in quanto il medesimo non ha il
+diritto di disporre dei redditi percepiti, ma ha l'obbligo di trasferirli ad altro
+soggetto. La società "condotto" funge, quindi, da mero "canale di transito"
+dei redditi, ossia dalla fonte al beneficiario finale, sicché la scelta di
+"canalizzazione" si giustifica unicamente nelle più vantaggiose implicazioni
+fiscali del "transito".
+Il "beneficiario effettivo", invece, ha sia la titolarità che la
+disponibilità del reddito percepito e non è tenuto ad alcun trasferimento
+dello stesso a terzi, ragion per cui non possono essere ricomprese tra i
+"beneficiari effettivi" le società relais (società interposte), ossia società
+che, sebbene formalmente titolari di redditi, dispongono nella pratica
+soltanto di poteri molto limitati, risultando essere semplici fiduciarie o
+semplici amministratori agenti per conto delle parti interessate (in tal
+senso Corte Giustizia UE, 26/02/2019, cause riunite: n. 115/16, N.
+Luxemburg; n. 118/16, X Denmark; n. 119/16, C. Danmark; n. 299/16, Z
+Denmark; paragrafo 6). Devono, in tal caso, essere utilizzate le norme
+anti-abuso volte a far prevalere la sostanza sulla forma nonché le regole di
+"sostanza economica" (cfr. paragrafo 7 della decisione citata).
+9
+
+--- Pagina 10 ---
+
+Analoga disciplina è dettata nella direttiva 2003/49/CE Interessi-
+Royalties: una società di uno Stato membro è considerata beneficiario
+effettivo di interessi o canoni soltanto se riceve tali pagamenti in qualità di
+beneficiaria finale e non di intermediaria (art. 1 della direttiva).
+3.4 L’indagine sul “beneficiario effettivo” s’interseca, quindi, con la
+verifica del ruolo concretamente assunto dalla società intermediaria
+(conduit company o société relais), con l’ulteriore notazione, da parte
+della dottrina, che nell’ordinamento eurounitario la clausola del
+beneficiario effettivo ha lo scopo di impedire che possa attuarsi una
+particolare forma di abuso delle convenzioni contro le doppie imposizioni,
+mediante l’interposizione, reale (se la società esiste effettivamente) o
+fittizia (se la società è una costruzione puramente artificiosa, c.d. letter
+box), di società conduit in un flusso reddituale transfrontaliero. In
+particolare, l’interposizione reale - nella quale non vi è un accordo
+simulatorio tra le persone che prendono parte all'atto, il quale è
+effettivamente voluto - neppure presuppone necessariamente un
+comportamento fraudolento del contribuente, ma postula l'uso improprio,
+ingiustificato o deviante di un legittimo strumento giuridico, tale da
+consentire di eludere l'applicazione del regime fiscale costituente il
+presupposto di imposta, essendo finalizzata a stigmatizzare operazioni
+volte ad aggirare la normativa fiscale alla luce del più generale principio
+del divieto di abuso del diritto (Cass. 27/04/2021, n. 11055).
+3.5 Si è poi precisato, nella versione 2014 del Commentario al
+modello OCSE, che rileva, ai fini della individuazione del beneficiario
+effettivo, non già il diritto esclusivo ad usare e godere dei flussi reddituali
+("the full right to use and enjoy"), come previsto nel draft (bozza) del
+2011, ma la circostanza che il diritto del beneficiario dei flussi non sia
+vincolato da specifici obblighi legali o contrattuali di ritrasferimento
+("recipient's right to use and enjoy ...is constrained by a contractual or
+legai obligation to pass on the payment received to another person"; è
+10
+
+--- Pagina 11 ---
+
+esclusa, quindi, la qualifica di beneficiario effettivo qualora "il diritto di
+disporre e godere...è limitato da obbligazioni contrattuali o legali a
+trasferire il pagamento ricevuto ad altro soggetto"). Pertanto, nella prassi
+OCSE, nei casi di agente, nominee, conduit company, fiduciario o
+amministratore, il percettore non è qualificabile come beneficiario effettivo
+perché il suo diritto di godere e disporre dei flussi è limitato da
+un'obbligazione legale o contrattuale di trasferire i pagamenti ricevuti a
+terzi. Tale obbligo - che, di norma, deriva da documenti legali, ma può
+anche discendere da circostanze di fatto - deve però riguardare lo
+specifico pagamento ricevuto.
+Questa Corte ha, poi, affermato che il Commentario OCSE, pur non
+avendo valore normativo, costituisce, comunque, una raccomandazione
+diretta ai Paesi aderenti all'OCSE (Cass. 05/03/2020, n. 6242; Cass.
+28/07/2006, n. 17206), tanto che il valore interpretativo di tale modello si
+rinviene in numerosi precedenti di legittimità (Cass. 21/12/2018, n.
+33218, con riferimento alla stabile organizzazione; Cass. n. 32840/2018,
+cit., in tema di royalties per il concetto di "beneficiario effettivo"; Cass.
+07/09/2018, n. 21865, in materia di redditi percepiti all'estero dagli
+artisti; Cass. 10/11/2017, n. 26638, in relazione alla Convenzione Italia-
+Federazione Russa per l'individuazione della residenza della persona
+fisica).
+3.6 Nella già citata pronuncia della Corte di Giustizia UE 26/02/2019
+(paragrafo 124), proprio in tema di individuazione del beneficiario effettivo
+per i pagamenti di "interessi" e di "canoni" fra società consociate di Stati
+membri diversi, si è altresì affermato che la prova di una pratica abusiva
+richiede, da una parte, un insieme di circostanze oggettive dalle quali
+risulti che, nonostante il rispetto formale delle condizioni previste dalla
+normativa dell'Unione, l'obiettivo perseguito da tale normativa non sia
+stato conseguito e, dall'altra, un elemento soggettivo consistente nella
+volontà di ottenere un vantaggio derivante dalla normativa dell'Unione per
+11
+
+--- Pagina 12 ---
+
+mezzo della creazione artificiosa delle condizioni necessarie per il suo
+ottenimento. In tale decisione si chiarisce che «il termine “beneficiario
+effettivo” non è utilizzato in un’accezione ristretta e tecnica, bensì deve
+essere esteso nel suo contesto alla luce dell’oggetto e dell’obiettivo della
+convenzione, segnatamente per evitare le doppie imposizioni nonché
+prevenire la frode e l’evasione fiscale» (cfr. punto 6 della decisione che
+richiama il punto 8 del Commentario OCSE, edizione 2003).
+Inoltre, sempre nella decisione sopra indicata, si rileva che la natura
+artificiosa di una costruzione può risultare avvalorata dalla circostanza che
+il gruppo di società sia strutturato in modo tale che la società percettrice
+degli interessi versati dalla società debitrice debba essa stessa ritrasferire
+gli interessi medesimi ad un terza società, non rispondente ai requisiti
+d'applicazione della citata direttiva 2003/49/CE (regime fiscale comune
+applicabile ai pagamenti di interessi e di canoni), con la conseguenza che
+essa realizza unicamente un utile imponibile insignificante, agendo da
+società interposta al fine di consentire il flusso finanziario dalla società
+debitrice verso l'entità effettiva beneficiaria delle somme versare
+(paragrafo 130). La circostanza che una società agisca come società
+interposta può essere accertata quando l'unica attività della medesima sia
+costituita dal percepimento degli interessi e dal loro successivo
+trasferimento al beneficiario effettivo (paragrafo 131).
+Ancora, secondo la Corte di Giustizia UE, possono costituire indizio di
+una costruzione artificiosa: la sussistenza di contratti tra le società
+interessate generatori di flussi finanziari infragruppo; le modalità di
+finanziamento delle operazioni; la valutazione dei fondi propri delle società
+intermediarie; l’assenza, nelle società interposte, del potere di disporre
+economicamente dei dividendi percepiti. A tal riguardo, sono idonei a
+costituire indizi di tal genere, non solo obblighi contrattuali o legali, per la
+società percettrice dei dividendi, di ritrasferirli a terzi, ma anche il fatto
+che la società medesima, pur in assenza di un obbligo contrattuale o
+12
+
+--- Pagina 13 ---
+
+legale di tal genere, non disponga del diritto di utilizzare detti dividendi e
+di goderne. La Corte, infine, ha precisato che tali indizi possono esser
+avvalorati da coincidenze o da contiguità temporali.
+3.7 Più recentemente, questa Corte, sia pure in tema di esenzione
+degli interessi e di altri flussi reddituali dall'imposta ex art. 26-quater del
+d.P.R. n. 600/1973, ha statuito che l’indagine volta a verificare la qualità
+di “beneficiario effettivo” si articola in tre test, autonomi e disgiunti, come
+denominati dalla dottrina, la quale ha razionalizzato i princìpi cardine
+enunciati dalla giurisprudenza, comunitaria e di legittimità, e dalle Corti
+anglosassoni e mitteleuropee; trattasi di test che, in rapporto alla
+fattispecie concreta, prendono in considerazione dei "parametri spia" o
+"indici segnaletici": i) il substantive business activity test, che verifica se
+la società percipiente svolga un'attività economica effettiva, ossia se la
+società interposta sia o meno una costruzione artificiosa; ii) il dominion
+test, che verifica se la società percipiente possa disporre liberamente degli
+interessi ricevuti o se invece sia tenuta a rimetterli ad un soggetto terzo
+(che può essere anche una società appartenente allo stesso gruppo
+multinazionale); iii) il business purpose test, che verifica le ragioni
+dell'interposizione di una società nel flusso reddituale transfrontaliero, e
+cioè se abbia una funzione nell'operazione di finanziamento o se sia mera
+conduit company (o société relais), la cui interposizione è finalizzata
+esclusivamente ad un risparmio fiscale (Cass. 28/02/2023, n. 6005;
+conforme Cass. 08/06/2023, n. 16173).
+3.8 In definitiva, non può che ribadirsi il principio per cui, in tema di
+benefici o esenzioni nella fiscalità internazionale, il giudice di merito è
+tenuto ad adottare un'interpretazione coerente con i principi eurounitari di
+parità delle parti ed effettività della concorrenza, compiendo un'indagine in
+fatto fino ad individuare il concreto effettivo beneficiario, sia facendo leva
+su elementi sintomatici di una costruzione artificiosa o di una mera
+interposizione (in cui figura un soggetto comunitario atto al mero
+13
+
+--- Pagina 14 ---
+
+trasferimento a destinatario estero), se fissati dalla norma o presenti nelle
+prassi, sia considerando chi riceve il reale vantaggio economico dal
+beneficio, dallo sgravio o dall'esenzione concessa (in tal senso, Cass.
+19/07/2023, n. 21140).
+3.9 Nel caso di specie, la CTR non si è attenuta ai predetti principi,
+in quanto, sebbene dall’e-mail inviata dall’ufficio contabilità della Silgan
+tedesca risultasse che le royalties a questa versate dalla società
+contribuente erano state ritrasferite integralmente alla società madre
+statunitense, che dunque costituiva il “beneficiario effettivo” di tali redditi,
+il giudice d’appello, limitando la propria sfera d’indagine, ha ritenuto di
+dover escludere che la società tedesca fosse una «mera intermediaria per
+garantire a Silgan Italia un risparmio di imposta» in quanto non poteva
+configurarsi né una fattispecie di interposizione fittizia di tale società –
+posto che questa impiegava circa 360 dipendenti ed aveva effettuato
+ingenti investimenti per la propria attività «operando sia quale controllore
+del gruppo sul mercato europeo sia quale produttore e distributore sul
+mercato tedesco» - né un’ipotesi di interposizione reale, configurabile solo
+in presenza di «una costruzione societaria priva di ogni finalità economica
+diversa dal mero risparmio fiscale». La CTR ha, quindi, sostenuto che l’e-
+mail predetta fosse un elemento indiziante da solo non «sufficiente per
+disconoscere in capo alla società tedesca l’effettivo ruolo e le funzioni di
+headquarter europeo del gruppo».
+Così ragionando, però, la CTR non ha tenuto conto che il thema
+decidendum non verteva in via principale sull’accertamento di una
+effettiva, stabile e operativa struttura in capo alla Silgan tedesca (avendo,
+peraltro, anche l’Ufficio escluso la configurabilità di un’interposizione
+fittizia), bensì sulla individuazione del “beneficiario effettivo” - di cui
+all'art. 12 della Convenzione tra Italia e Germania contro le doppie
+imposizioni, alla luce dell’interpretazione fornita in proposito dalla
+giurisprudenza di questa Corte nonché da quella unionale - delle royalties
+14
+
+--- Pagina 15 ---
+
+versate dalla società contribuente, potendo la società conduit anche
+essere costituita da un ente effettivamente esistente ed operativo, ma
+che, tuttavia, faccia da mero intermediario nella riscossione dei canoni per
+conto di un soggetto residente in altro Stato (diverso dagli Stati contraenti
+OCSE).
+Lo scopo elusivo perseguito dalla contribuente può, in sostanza,
+anche essere realizzato con operazioni effettive e reali, non essendo
+all’uopo necessario, per escludere il predetto scopo, che il soggetto
+intermediario, ossia l’apparente beneficiario dei redditi, sia costituito da
+«una costruzione societaria priva di ogni finalità economica diversa dal
+mero risparmio fiscale»; al contrario, è ben possibile che l’attività
+economica da questo effettivamente espletata sul mercato si accompagni
+alla funzione di intermediazione, nella percezione dei redditi, svolta
+nell’interesse di altra società terza. E ciò in ragione del fatto che la
+nozione di “beneficiario effettivo”, come si evince dalla richiamata
+giurisprudenza di questa Corte, va verificata alla luce della reale
+“disponibilità" e "titolarità" del reddito percepito, rilevando, in proposito,
+anche il superamento del cd. dominion test. Trattandosi, peraltro, di
+possesso come situazione di fatto tale da comportare l'individuazione di un
+titolare effettivo del reddito complessivo diverso e divergente dal titolare
+formale (Cass. 19/10/2018, n. 26414; Cass. 30/12/2015, n. 26057), esso
+appare coerente con il fatto che la prova è affidata anche a circostanze di
+carattere indiziario (Cass. 07/04/2025, n. 9095).
+4. Nella memoria ex art. 378 c.p.c. la controricorrente assume che,
+nelle more del presente giudizio, si sarebbe formato il giudicato, tra le
+stesse parti ed in relazione al medesimo rapporto giuridico, dapprima con
+la sentenza della Commissione tributaria regionale della Campania,
+Sezione Staccata di Salerno, n. 8334/09/17 – con cui è stato rigettato
+l’appello proposto dall’Agenzia delle entrate e confermato l’annullamento
+dell’avviso di accertamento emesso nei confronti della contribuente per il
+15
+
+--- Pagina 16 ---
+
+recupero di ritenute d’imposta per l’anno 2011 - e successivamente con la
+sentenza della Commissione tributaria regionale della Campania, Sezione
+Staccata di Salerno, n. 8359 del 2019, con la quale è stato accolto
+l’appello della contribuente ed annullato l’avviso di accertamento emesso
+nei confronti della stessa per il recupero di ritenute d’imposta per l’anno
+2010.
+Con tali sentenze, entrambe divenute definitive per omessa
+impugnazione, la CTR ha escluso espressamente il carattere di conduit
+company, ossia di mera intermediaria, della Silgan tedesca, che è stata
+invece qualificata quale beneficiaria effettiva delle royalties pagate dalla
+contribuente. Trattandosi della stessa questione di fondo oggetto del
+presente giudizio, la stessa, secondo la controricorrente, sarebbe ormai
+coperta dal giudicato esterno, con conseguente nullità dell’impugnata
+sentenza.
+4.1 Tale conclusione è infondata.
+4.2 Per quanto attiene alla sentenza n. 8359/2019, non vi è prova
+dell’avvenuto passaggio in giudicato della stessa, posto che non risulta
+depositata l’attestazione ex art. 124 disp. att. c.p.c. (norma applicabile
+per analogia legis al processo tributario ex art. 1, comma 2, d.lgs. n.
+546/1992: cfr. Cass. 11/04/2025, n. 9458), emessa dalla segreteria della
+CTR.
+4.3 In relazione all’altra sentenza richiamata dalla contribuente (CTR
+Campania, Sezione Staccata di Salerno, n. 8334/09/17), tale pronuncia,
+emessa tra le stesse parti in relazione all’anno d’imposta 2011, non
+esplica, sulla questione oggetto del presente giudizio inerente all’anno
+d’imposta 2009, l’efficacia espansiva di giudicato esterno. E tale
+affermazione vale, in ogni caso, per quanto si dirà, anche per la sentenza
+della CTR campana n. 8359/2019, inerente all’anno d’imposta 2010.
+Invero, come da consolidata giurisprudenza di questa Corte, in
+materia tributaria, l'effetto vincolante del giudicato esterno, in relazione
+16
+
+--- Pagina 17 ---
+
+alle imposte periodiche, è limitato ai soli casi in cui vengano in esame fatti
+che, per legge, hanno efficacia permanente o pluriennale, producendo
+effetti per un arco di tempo che comprende più periodi di imposta, o nei
+quali l'accertamento concerne la qualificazione di un rapporto ad
+esecuzione prolungata, con la conseguenza che lo stesso è escluso nelle
+fattispecie tendenzialmente permanenti, in quanto suscettibili di variazione
+annuale (Cass. 04/03/2021, n. 5939; Cass. 28/11/2019, n. 31084; Cass.
+06/07/2018, n. 17760). In particolare, l'efficacia preclusiva di nuovi
+accertamenti, propria del giudicato esterno tra le stesse parti, presuppone
+che si tratti dei medesimi accertamenti di fatto posti in essere nello stesso
+quadro normativo di riferimento (Cass. 09/10/2015, n. 20257).
+4.4 Nel caso di specie, la sussistenza del presupposto fattuale, al
+quale la controricorrente ricollega il formarsi del giudicato (ossia la
+qualifica di beneficiario effettivo delle royalties in capo alla Silgan
+tedesca), va accertata con riferimento a ciascun anno d'imposta, in
+ragione del possibile mutamento nel tempo di detto elemento, che non
+rientra tra quelli stabili o, anche solo, tendenzialmente permanenti: ne
+consegue che il giudicato esterno sulla sussistenza o meno di tale requisito
+relativamente ad uno o piu anni d'imposta non può avere effetto con
+riferimento ad anni d'imposta diversi (Cass. 30/09/2019, n. 24287; Cass.
+21/11/2018, n. 30033).
+5. Alla luce delle anzidette considerazioni, il ricorso va accolto e la
+sentenza impugnata va cassata con rinvio alla Corte di giustizia tributaria
+di secondo grado della Lombardia perché, in diversa composizione,
+proceda a nuovo giudizio, attenendosi agli indicati principi, nonché alla
+liquidazione delle spese di legittimità.
+P.Q.M.
+La Corte accoglie il ricorso, cassa la sentenza impugnata e rinvia alla Corte
+di giustizia tributaria di secondo grado della Lombardia perché, in diversa
+17
+
+--- Pagina 18 ---
+
+composizione, proceda a nuovo giudizio ed alla liquidazione delle spese di
+legittimità.
+Così deciso nella pubblica udienza del 7 gennaio 2026.
+Il Consigliere estensore                                        Il Presidente
+Cesare Taraschi                                        Andreina Giudicepietro
+18

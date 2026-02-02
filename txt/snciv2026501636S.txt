@@ -1,0 +1,556 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Oggetto: Avviso di accertamento per Ires 2005 - Convenzione Italia–Regno Unito contro doppie imposizioni – Credito d’imposta per redditi prodotti all’estero ex art. 165 t.u.i.r. – Presupposti.
+SENTENZA
+sul ricorso iscritto al n. 2351/2017 R.G. proposto da:
+FARMEC s.r.l., in persona del legale rappresentante pro tempore,
+rappresentata e difesa dall’Avv. Raffaele De Falco, dall’avv. Luigi Sergio
+Redaelli e dall’Avv. Angelo Vallefuoco, che hanno indicato recapito Pec,
+presso lo studio di quest’ultimo elettivamente domiciliata in Roma, al viale
+Regina Margherita n. 294, giusta procura speciale in calce al ricorso;
+– ricorrente –
+contro
+AGENZIA DELLE ENTRATE, in persona del Direttore pro tempore,
+rappresentata e difesa dall’Avvocatura Generale dello Stato, presso la
+quale domicilia ope legis in Roma, alla Via dei Portoghesi n. 12;
+– controricorrente –
+avverso la sentenza della Commissione tributaria regionale della Emilia-
+Romagna, n. 1626/2/2016, depositata in data 14 giugno 2016.
+Udita la relazione svolta nella pubblica udienza del 7 gennaio 2026 dal
+Consigliere Cesare Taraschi.
+
+--- Pagina 2 ---
+
+Udito il Pubblico Ministero, in persona del Sostituto Procuratore Generale
+dott.ssa Paola Filippi, che ha concluso chiedendo il rigetto del ricorso.
+Uditi per la ricorrente l’Avv. Raffaele De Falco e l’Avv. Luigi Sergio Redaelli
+che hanno chiesto accogliersi il ricorso.
+Udita per la controricorrente l’Avvocatura Generale dello Stato, che ha
+concluso per il rigetto del ricorso.
+FATTI DI CAUSA
+1. La Farmec s.r.l. impugnava, dinanzi alla Commissione tributaria
+provinciale di Bologna, l’avviso di accertamento n. THB03B306300/2010,
+con il quale l’Amministrazione finanziaria aveva disconosciuto, ai fini Ires
+per l’anno 2005, il credito d’imposta di euro 244.945,00 per redditi
+prodotti all’estero ex art. 165, comma 6, t.u.i.r., riportato dalla
+contribuente in compensazione nella dichiarazione dei redditi del 2005,
+presentata in data 01/11/2006.
+La ricorrente assumeva di vantare un credito nei confronti della
+consociata Varity Nederland NV per due finanziamenti erogati nel 1990 e
+trasferiti nel 1995 alla AGCO Manufacturing Ltd; che tali finanziamenti,
+mai rimborsati, avevano prodotto interessi ammontanti, alla fine del 2004,
+ad euro 8.208.689,00; che, nel 2004, la ricorrente si era accordata per il
+pagamento dei predetti interessi, che sarebbero stati corrisposti al netto
+della ritenuta del 10%, da versarsi al momento del pagamento; che,
+poiché la somma che la AGCO Manufacturing Ltd avrebbe dovuto
+rimborsare alla contribuente sarebbe stata da questa utilizzata per la
+concessione di altro finanziamento fruttifero in favore della AGCO
+International Ltd, la ricorrente aveva chiesto alla AGCO Manufacturing Ltd
+di versare quanto dovuto direttamente alla AGCO International Ltd, al fine
+di evitare un doppio trasferimento di denaro; che, secondo la ricorrente, la
+AGCO Manufacturing Ltd aveva effettuato il pagamento dei predetti
+interessi per l’importo di euro 7.387.824,00, operando nel Regno Unito la
+ritenuta d’acconto del 10%, pari ad euro 820.693,00, in applicazione
+2
+
+--- Pagina 3 ---
+
+dell’art. 11 della Convenzione contro le doppie imposizioni in vigore tra
+Italia e Regno Unito; che la predetta ritenuta, quale credito d’imposta per
+redditi prodotti all’estero, era stata riportata per l’importo di euro
+575.923,00 nella dichiarazione dei redditi del 2004 e per l’importo di euro
+244.945,00, costituente l’imposta estera pagata a titolo definitivo
+eccedente la quota di imposta italiana relativa ai medesimi redditi esteri,
+nella dichiarazione dei redditi del 2005.
+L’Ufficio, tuttavia, ritenuto che non vi fosse stato effettivo
+pagamento né degli interessi, né della ritenuta d’acconto, ma solo una
+operazione contabile comportante un mutamento della società debitrice
+della Farmec s.r.l., ossia una modifica soggettiva dal lato passivo del
+rapporto obbligatorio, non aveva riconosciuto il credito per le imposte
+pagate all’estero a titolo di ritenuta d’acconto.
+La contribuente, a sostegno del ricorso tributario, deduceva: a) la
+violazione dell’art. 12, comma 7, legge n. 212/2000 e dell’art. 10, lett. b),
+legge n. 241/1990, per non aver l’Ufficio in nessun modo valutato le
+osservazioni prodotte a seguito di notifica del p.v.c.; b) l’errata
+interpretazione dell’operazione di trasferimento del debito da essa
+effettuata, posto che era intercorso un effettivo pagamento, anche ai sensi
+dell’art. 1188 c.c.; c) la mancata considerazione dell’allegato n. 7 al p.v.c.,
+che provava il pagamento della ritenuta; d) la mancata considerazione del
+possesso da parte dell’Amministrazione finanziaria dei documenti da cui
+aveva origine l’avviso di accertamento; e) l’erronea interpretazione del
+comma 6 dell’art. 165 t.u.i.r.; f) la carenza di motivazione in relazione al
+provvedimento di irrogazione delle sanzioni.
+La CTP accoglieva il ricorso, ritenendo effettivamente avvenuto il
+pagamento del credito della Farmec s.r.l. per interessi maturati fino al
+2004, anche in mancanza di un trasferimento materiale di valuta tra la
+contribuente e la AGCO Manufacturing Ltd.
+3
+
+--- Pagina 4 ---
+
+2. Contro tale decisione l’Agenzia delle entrate proponeva appello
+alla Commissione tributaria regionale della Emilia-Romagna, deducendo
+che il pagamento andava inteso in senso “reale”, sicché lo stesso non
+poteva coincidere con una mera operazione contabile modificativa del
+rapporto obbligatorio a seguito di un trasferimento del credito all’interno
+dello stesso gruppo societario; inoltre, neppure risultava che l’imposta
+estera fosse stata corrisposta a titolo definitivo, né che fosse
+effettivamente avvenuto il pagamento dalla AGCO Manufacturing Ltd alla
+AGCO International Ltd.
+La contribuente proponeva appello incidentale in ordine alla
+violazione dell’art. 12, comma 7, legge n. 212/2000 e  dell’art. 10, lett.
+b), legge n. 241/1990, nonché in relazione all’omessa motivazione
+dell’avviso di accertamento nella parte inerente alle sanzioni applicate.
+La CTR accoglieva l’appello principale dell’Ufficio, ritenendo non
+provato l’avvenuto pagamento degli interessi e delle ritenute in Gran
+Bretagna.
+3. Avverso la sentenza della CTR, la Farmec s.r.l. ha proposto
+ricorso per cassazione affidandosi a nove motivi.
+L’Agenzia delle entrate resiste con controricorso.
+In data 17/12/2025 il Sostituto Procuratore Generale ha depositato
+memoria ex art. 378 c.p.c.
+In data 23/12/2025 la ricorrente ha depositato memoria ex art. 378
+c.p.c.
+All’udienza pubblica del 07/01/2026 l’Avv. Raffaele De Falco e l’Avv.
+Luigi Sergio Redaelli per la società ricorrente hanno concluso per
+l’accoglimento del ricorso. L’Avvocatura Generale dello Stato per la
+controricorrente ha chiesto rigettarsi il ricorso. Il Sostituto Procuratore
+Generale, nella persona della dott.ssa Paola Filippi, ha chiesto rigettarsi il
+ricorso.
+RAGIONI DELLA DECISIONE
+4
+
+--- Pagina 5 ---
+
+1. Con il primo motivo di ricorso si deduce «Art. 360 c.p.c., comma
+1, n. 5: omesso esame di fatto decisivo: inesistenza di compensazione del
+credito di imposta, mancanza di reddito di Farmec nel periodo di imposta
+2005».
+La contribuente assume che il giudice d’appello ha omesso di
+esaminare un fatto decisivo, preso invece in considerazione dalla CTP e
+richiamato anche nell’atto di appello incidentale a pag. 24, ossia che il
+dichiarato credito di imposta, indipendentemente dalla sua esistenza o
+meno, non risulta utilizzato nel 2005 in quanto la ricorrente, avendo
+chiuso in perdita tale annualità, aveva un Ires pari a zero, e dunque non vi
+era nulla da compensare con il predetto credito d’imposta. Pertanto,
+l’accertamento di maggiore imposta non ha ragione di esistere per
+l’annualità 2005, oggetto di causa.
+Nell’articolazione del medesimo motivo si lamenta, altresì, l’omessa
+o apparente motivazione sulla questione in esame, essendosi limitata la
+CTR a statuire che «Non vi è stato poi alcun errore nel recupero di
+imposta da parte dell’Agenzia, in quanto è stato il contribuente ad esporre
+nella dichiarazione il credito e correttamente è stato applicato il recupero
+dell’imposta». È mancata, quindi, ogni disamina logica e giuridica della
+questione sollevata.
+2. Con il secondo motivo si deduce «Art. 360 c.p.c., comma 1, n. 3:
+violazione dell’art. 53 della Costituzione e dell’art. 72 del D.Lgs
+344/2003», per aver la CTR violato il principio secondo cui presupposto
+dell’applicazione dell’Ires è il possesso di redditi in denaro o in natura
+rientranti nelle categorie di cui all’art. 6 del d.lgs. n. 344/2003, essendo
+pacifico tra le parti che, per l’anno 2005, la dichiarazione resa dalla
+contribuente prevedeva un risultato negativo di euro 295.675,00, sicché
+non poteva essere applicata un’imposta di euro 244.945,00, non avendo
+la medesima ricorrente alcuna capacità contributiva.
+5
+
+--- Pagina 6 ---
+
+3. I primi due motivi, che possono essere esaminati congiuntamente
+stante la connessione tra gli stessi, sono infondati.
+3.1 Con l’avviso di accertamento oggetto di impugnazione, allegato
+in copia al ricorso per cassazione, l’Agenzia delle entrate non ha accertato
+una maggiore imposta a titolo di Ires, ma si è limitata a disconoscere, per
+insussistenza dei presupposti di cui all’art. 165, comma 6, t.u.i.r., il
+credito d’imposta dichiarato in compensazione dalla società contribuente
+per l’anno 2005 per i redditi prodotti all’estero, al fine di evitare, come
+dedotto dall’Ufficio, che il vantato credito venisse portato in
+compensazione per gli anni successivi. A pag. 7 dell’avviso de quo si
+legge, infatti, che «L’Ufficio accertata la violazione di quanto disposto
+dall’art. 165 del DPR 917/1986, procede pertanto ai sensi dell’art. 41 bis
+del DPR 600/1973 ad accertare un minor credito di imposta di euro
+244.945,00».
+La somma di euro 244.945,00, di cui è stato intimato il pagamento
+con l’avviso di accertamento, non attiene ad una maggiore imposta
+calcolata a titolo di Ires pur in presenza di una dichiarazione dei redditi
+negativa, ma corrisponde alla sanzione irrogata alla contribuente per
+“infedele dichiarazione” in relazione all’anno d’imposta 2005, sicché sono
+infondate le doglianze sollevate per omesso esame di un fatto decisivo e
+per violazione del principio secondo cui presupposto dell'imposta sul
+reddito delle società è il possesso dei redditi in denaro o in natura.
+4. Con il terzo motivo si deduce «con riferimento all’art. 360 c.p.c.,
+comma 1, n. 5, per omesso esame di un fatto decisivo: mancato esame
+del fatto relativo all’omessa valutazione delle osservazioni di cui all’art. 12,
+comma 7 della legge 212/2000», per non aver la CTR esaminato
+l’eccezione pregiudiziale, proposta fin dal primo grado e reiterata in
+appello, inerente all’omessa valutazione, da parte dell’Ufficio, delle
+osservazioni (riprodotte nel ricorso per cassazione) formulate dalla società
+contribuente a seguito della notifica del p.v.c.  Il giudice d’appello, anche
+6
+
+--- Pagina 7 ---
+
+questa volta con motivazione apparente, si è, infatti, limitato a sostenere
+apoditticamente che «Quanto al rito deve evidenziarsi che nell’avviso di
+accertamento l’Ufficio ha ricostruito le ragioni dell’imposizione, replicando
+puntualmente alle questioni proposte dalla società Farmec», ma nulla di
+specifico ha dedotto in ordine al merito della questione sollevata dalla
+contribuente, costituente fatto decisivo per il giudizio in quanto
+comportante la nullità dell’impugnato avviso di accertamento.
+5. Con il quarto motivo si deduce «con riferimento all’art. 360 c.p.c.,
+comma 1, n. 3 – violazione dell’art. 12, comma 7, della legge 212/2000»,
+per non aver la CTR rilevato la nullità dell’avviso di accertamento per
+violazione delle garanzie endoprocedimentali di cui al comma 7 dell’art. 12
+della legge n. 212/2000, posto che l’Ufficio non aveva esaminato le
+osservazioni formulate dalla società contribuente dopo la notifica del
+p.v.c., così violando anche l’obbligo di motivazione di cui all’art. 10, lett.
+b), della legge n. 241/1990.
+6. Il terzo ed il quarto motivo, anch’essi da esaminare
+congiuntamente in quanto vertenti sulla medesima questione sostanziale,
+sono infondati.
+6.1  Come ripetutamente affermato da questa Corte, in seguito alla
+riformulazione dell'art. 360, primo comma, n. 5, c.p.c., disposta dall'art.
+54 d.l. n. 83/2012, conv., con modif., dalla legge n. 134/2012, non sono
+più ammissibili nel ricorso per cassazione le censure di contraddittorietà e
+insufficienza della motivazione della sentenza di merito impugnata, in
+quanto il sindacato di legittimità sulla motivazione resta circoscritto alla
+sola verifica del rispetto del “minimo costituzionale” richiesto dall'art. 111,
+comma 6, Cost., che viene violato qualora la motivazione sia totalmente
+mancante o meramente apparente, ovvero si fondi su un contrasto
+irriducibile tra affermazioni inconcilianti, o risulti perplessa ed
+obiettivamente incomprensibile, purché il vizio emerga dal testo della
+7
+
+--- Pagina 8 ---
+
+sentenza impugnata, a prescindere dal confronto con le risultanze
+processuali (Cass. 03/03/2022, n. 7090; Cass. 25/09/2018, n. 22598).
+Il novellato art. 360, primo comma, n. 5, c.p.c., come riformulato
+nel 2012, ha, in sostanza, introdotto nell'ordinamento un vizio specifico
+denunciabile per cassazione, relativo all'omesso esame di un fatto storico,
+principale o secondario, la cui esistenza risulti dal testo della sentenza o
+dagli atti processuali, che abbia costituito oggetto di discussione tra le
+parti e abbia carattere decisivo, vale a dire che, se esaminato, avrebbe
+determinato un esito diverso della controversia (Cass., Sez. U.,
+07/04/2014, n. 8053); in particolare, il ricorrente per cassazione che
+propone siffatto motivo è tenuto, nel rigoroso rispetto delle previsioni
+degli artt. 366, primo comma, n. 6, e 369, secondo comma, n. 4, c.p.c.,
+ad indicare il “fatto storico”, il cui esame sia stato omesso, il “dato”,
+testuale o extratestuale, da cui esso risulti esistente, il “come” e il
+“quando” tale fatto sia stato oggetto di discussione processuale tra le parti
+e la sua “decisività” (Cass. 13/06/2022 n. 19049).
+6.2 Nella specie, le predette indicazioni sono carenti
+nell’articolazione del motivo in esame, in quanto la ricorrente non indica il
+“fatto”, inteso come evento storico-naturalistico, dato materiale, episodio
+fenomenico rilevante (Cass. 06/09/2019, n. 22397; Cass. 03/10/2018, n.
+24035; Cass. 08/09/2016, n. 17761; Cass., Sez. U., 23/03/2015, n.
+5745; Cass. 08/10/2014, n. 21152; Cass. 04/04/2014, n. 7983; Cass.
+05/03/2014, n. 5133), ma incentra la propria censura su una questione
+prettamente giuridica, ossia quella dell’omessa valutazione, da parte
+dell’Ufficio nell’ambito dell’avviso di accertamento, delle osservazioni
+formulate ai sensi dell’art. 12, comma 7, della legge n. 212/2000,
+sebbene il paradigma del n. 5 dell’art. 360 c.p.c. non possa ricomprendere
+questioni o argomentazioni (Cass. n. 22397/2019, cit.) o l’omessa
+valutazione di deduzioni difensive (Cass. 18/10/2018, n. 26305).
+8
+
+--- Pagina 9 ---
+
+6.3 In ogni caso, pur volendo ravvisare il “fatto”, di cui sarebbe
+stato omesso l’esame, nelle osservazioni controdeduttive formulate dalla
+contribuente successivamente alla notifica del p.v.c., non si tratterebbe di
+fatto “decisivo” ai fini del giudizio, in quanto, per consolidata
+giurisprudenza di questa Corte, in tema di imposte sui redditi e sul valore
+aggiunto, è valido l'avviso di accertamento che non menziona le
+osservazioni del contribuente ex art. 12, comma 7, della legge n.
+212/2000, atteso che, da un lato, la nullità consegue solo alle irregolarità
+per le quali è espressamente prevista dalla legge oppure da cui deriva una
+lesione di specifici diritti o garanzie tale da impedire la produzione di ogni
+effetto e che, dall'altro, l'Amministrazione ha l'obbligo di valutare tali
+osservazioni, ma non di esplicitare detta valutazione nell'atto impositivo
+(Cass. 07/05/2024, n. 12343; Cass. 31/03/2017, n. 8378; Cass.
+24/02/2016, n. 3583).
+7. Con il quinto motivo si deduce «con riferimento all’art. 360 c.p.c.,
+comma 1, n. 3 – violazione degli artt. 1188, 1302 e 1241 c.c.».
+La società ricorrente assume che la CTR si è limitata a sostenere che
+la contribuente «non ha provato, come rilevato dall’Agenzia, l’avvenuto
+pagamento degli interessi essendosi limitata a produrre copia di un
+accordo di compensazione», così erroneamente interpretando il disposto
+dell’art. 1188 c.c. - ai sensi del quale il pagamento del debito può essere
+fatto, tra l’altro, anche alla persona indicata dal creditore – posto che il
+documento richiamato dal giudice d’appello non conteneva affatto una
+compensazione, ma un ordine di pagamento ad un terzo (la AGCO
+International Ltd) impartito dalla creditrice Farmec s.r.l. alla propria
+debitrice AGCO Manufacturing Ltd.
+8. Con il sesto motivo, strettamente connesso al quinto, si deduce la
+contraddittorietà della motivazione dell’impugnata sentenza, in relazione
+all’art. 360, primo comma, n. 5, c.p.c., in quanto, se davvero i pagamenti
+contestati dall’Ufficio fossero avvenuti per compensazione, allora si
+9
+
+--- Pagina 10 ---
+
+configurerebbe un omesso esame su un punto decisivo, posto che con la
+compensazione vi sarebbe la prova del pagamento negato
+dall’Amministrazione finanziaria.
+9. Con il settimo motivo si deduce «con riferimento all’art. 360
+c.p.c., comma 1, n. 5 - omesso esame dei fatti che provano l’avvenuto
+pagamento (allegati 8 e 9 del PVC)».
+La ricorrente assume che dall’art. 1277 c.c. si evince che
+l’estinzione delle obbligazioni pecuniarie non richiede un trasferimento
+materiale di valuta, ben potendo avvenire, come nel caso di specie,
+mediante una regolamentazione contabile dei rapporti senza versamento
+di contanti. Invero, il credito della società contribuente verso la AGCO
+Manufacturing Ltd, consistente negli interessi maturati sui finanziamenti
+concessi a quest’ultima, è stato estinto con il pagamento eseguito dalla
+debitrice in favore della AGCO International Ltd, dedotta la ritenuta
+d’acconto del 10%, posto che la Farmec s.r.l. intendeva concedere un
+nuovo finanziamento alla beneficiaria del pagamento.
+Tali operazioni sono state annotate nei libri contabili della società
+contribuente, precisamente a pag. 117 del libro giornale 2004 ed a pag.
+131 del libro giornale del 2005, di cui agli allegati 8 e 9 del p.v.c.,
+documenti che non sono stati esaminati dalla CTR e che assumono
+carattere decisivo, in quanto comprovanti l’avvenuto pagamento degli
+interessi dalla AGCO Manufacturing Ltd in favore della AGCO International
+Ltd.
+10. Con l’ottavo motivo si deduce «con riferimento all’art. 360
+c.p.c., comma 1, n. 5 – omesso esame di un fatto decisivo consistente
+nell’avvenuto pagamento delle ritenute all’estero e omesso esame dei
+documenti allegato 7 del PVC».
+La CTR ha dichiarato che la Farmec s.r.l. non ha provato il
+pagamento delle ritenute all’estero sull’importo di euro 8.208.689,00,
+omettendo così di esaminare un documento decisivo ai fini del giudizio,
+10
+
+--- Pagina 11 ---
+
+ossia l’allegato 7 del p.v.c., attestante invece l’avvenuto pagamento delle
+ritenute in Gran Bretagna. Da tale documento si evince, infatti, che la
+ritenuta è stata versata su un importo in sterline di 571.699,70, pari al
+controvalore in euro di 8.208.689,00 (al cambio di 0,696457),
+corrispondente proprio all’ammontare degli interessi versati dalla AGCO
+Manufacturing Ltd in favore della AGCO International Ltd su indicazione
+della creditrice Farmec s.r.l. Il pagamento dell’imposta ai sensi dell’art. 11
+della Convenzione Italia-Gran Bretagna determina la nascita del credito
+esposto per l’importo di euro 244.945,00 per l’anno 2005 di cui
+all’impugnato avviso di accertamento.
+11. Il quinto, il sesto, il settimo e l’ottavo motivo possono essere
+esaminati congiuntamente, in quanto strettamente connessi.
+11.1 Tali motivi sono infondati.
+11.2 È opportuno premettere, al fine di inquadrare normativamente
+la questione oggetto di causa, che l’art. 11 della Convenzione tra il
+Governo della Repubblica italiana e il Governo del Regno Unito di Gran
+Bretagna e d'Irlanda del Nord del 21 ottobre 1988, stipulata, tra l’altro,
+per evitare le doppie imposizioni in materia di imposte sul reddito,
+ratificata con legge n. 329/1990, prevede, al comma 1, che «Gli interessi
+provenienti da uno Stato contraente e pagati ad un residente dell’altro
+Stato contraente sono imponibili in detto altro Stato» e, al comma 2, che
+«Tuttavia, tali interessi possono essere tassati anche nello Stato
+contraente dal quale essi provengono ed in conformità alla legislazione di
+detto Stato, ma, se la persona che percepisce gli interessi ne è l’effettivo
+beneficiario, l’imposta così applicata non può eccedere il 10 per cento
+dell’ammontare lordo degli interessi».
+L’art. 165 d.P.R. n. 917/1986 (t.u.i.r.), in materia di credito
+d'imposta per i redditi prodotti all'estero, per quanto interessa in questa
+sede, prevede, al comma 1, che «Se alla formazione del reddito
+complessivo concorrono redditi prodotti all'estero, le imposte ivi pagate a
+11
+
+--- Pagina 12 ---
+
+titolo definitivo su tali redditi sono ammesse in detrazione dall'imposta
+netta dovuta fino alla concorrenza della quota d'imposta corrispondente al
+rapporto tra i redditi prodotti all'estero ed il reddito complessivo al netto
+delle perdite di precedenti periodi d'imposta ammesse in diminuzione», e,
+al comma 6 (rilevante nel caso di specie), che «L'imposta estera pagata a
+titolo definitivo su redditi prodotti nello stesso Stato estero eccedente la
+quota di imposta italiana relativa ai medesimi redditi esteri, costituisce un
+credito d'imposta fino a concorrenza della eccedenza della quota d'imposta
+italiana rispetto a quella estera pagata a titolo definitivo in relazione allo
+stesso reddito estero, verificatasi negli esercizi precedenti fino all'ottavo.
+Nel caso in cui negli esercizi precedenti non si sia verificata tale
+eccedenza, l'eccedenza dell'imposta estera può essere riportata a nuovo
+fino all'ottavo esercizio successivo ed essere utilizzata quale credito
+d'imposta nel caso in cui si produca l'eccedenza della quota di imposta
+italiana rispetto a quella estera relativa allo stesso reddito di cui al primo
+periodo del presente comma».
+11.3 Questa Corte ha statuito, in tema di redditi prodotti all'estero
+da soggetti residenti in Italia, che, nel regime dell'art. 165 t.u.i.r., le
+imposte pagate all'estero a titolo definitivo sono ammesse in detrazione in
+quanto afferenti a redditi prodotti all'estero che concorrono alla
+formazione del reddito complessivo imponibile in Italia, e la detrazione
+non può mai superare il rapporto tra i redditi prodotti all'estero ed il
+reddito complessivo indicato dalla norma, escludendosi in tal modo una
+detraibilità dell'imposta pagata all'estero in relazione a redditi esteri che
+solo in parte concorrono a formare il reddito complessivo (Cass.
+11/05/2012, n. 7355).
+Per il riconoscimento, ai sensi dell’art. 165 cit., del credito d’imposta
+ai fini sia dell’Irpef che dell’Ires devono, quindi, congiuntamente sussistere
+tre condizioni: a) conseguimento di un “reddito prodotto all’estero”; b)
+concorso del reddito prodotto all’estero alla formazione del reddito
+12
+
+--- Pagina 13 ---
+
+complessivo; c) pagamento di imposte estere, aventi natura di imposte sul
+reddito, a titolo definitivo.
+11.4 Ebbene, la società ricorrente assume di aver maturato, nel
+periodo dal 1995 al 2004, nei confronti della consociata inglese AGCO
+Manufacturing Ltd, in conseguenza di finanziamenti fruttiferi a questa
+concessi negli anni ’90 e mai rimborsati, un credito per interessi di euro
+8.208.689,00 e che tale somma - su indicazione ex art. 1188 c.c. della
+stessa ricorrente che intendeva così concedere un nuovo finanziamento ad
+altra società consociata, la AGCO International Ltd - sarebbe stata versata
+dall’originaria debitrice AGCO Manufacturing Ltd direttamente in favore
+della AGCO International Ltd, previa deduzione della ritenuta d’acconto del
+10%, pari ad euro 820.693,00, versata nel Regno Unito in applicazione
+dell’art. 11 della Convenzione contro le doppie imposizioni in vigore tra
+Italia e Regno Unito.
+Tale ritenuta d’acconto è stata, poi, riportata dalla ricorrente quale
+credito d’imposta per redditi prodotti all’estero ex art. 165 t.u.i.r. ed
+inserita, per l’importo di euro 575.923,00, nella dichiarazione dei redditi
+del 2004 e, per l’importo di euro 244.945,00, costituente la quota di
+imposta estera pagata a titolo definitivo eccedente la quota di imposta
+italiana relativa ai medesimi redditi esteri ex comma 6 del medesimo art.
+165, nella dichiarazione dei redditi del 2005, oggetto del presente giudizio.
+L’Agenzia delle entrate, con l’avviso di accertamento per cui è causa,
+ha, però, disconosciuto il credito d’imposta vantato dalla contribuente,
+assumendo, per quanto interessa in questa sede, l’insussistenza dei
+presupposti previsti dall’art. 165 t.u.i.r., tra i quali, in particolare,
+l’effettivo pagamento degli interessi (e, dunque, il conseguimento dei
+redditi prodotti all’estero) e della ritenuta d’acconto sugli stessi, posto che,
+secondo l’Ufficio, si tratterebbe di una mera operazione contabile con cui
+la AGCO International Ltd ha assunto il debito per interessi già gravante
+sulla AGCO Manufacturing Ltd nei confronti della ricorrente, senza alcun
+13
+
+--- Pagina 14 ---
+
+versamento, da parte dell’originaria debitrice, della somma dovuta per
+interessi né della ritenuta d’acconto del 10% sulla stessa, così difettando
+alcuni dei requisiti per l’applicabilità della detrazione d’imposta prevista
+dall’art. 165 t.u.i.r., ossia il conseguimento dei redditi esteri ed il
+pagamento dell’imposta sugli stessi.
+11.5 La CTR, nell’esaminare la questione, ha statuito che «La società
+Farmec non ha provato, come rilevato dall’Agenzia, l’avvenuto pagamento
+degli interessi, essendosi limitata a produrre copia di un accordo di
+compensazione; manca inoltre la prova del pagamento delle ritenute in
+Gran Bretagna».
+Avverso tale statuizione la ricorrente lamenta l’omesso esame di un
+fatto decisivo consistente nei documenti - allegati 7, 8 e 9 al p.v.c. –
+idonei a dimostrare l’avvenuto pagamento degli interessi e della ritenuta
+d’acconto da parte della AGCO Manufacturing Ltd.
+11.6 In proposito, occorre innanzitutto rammentare che, come
+ripetutamente evidenziato da questa Corte, il mancato esame di un
+documento può essere denunciato per cassazione solo nel caso in cui
+determini l'omissione di motivazione su un punto decisivo della
+controversia e, segnatamente, quando il documento non esaminato offra
+la prova di circostanze di tale portata da invalidare, con un giudizio di
+certezza e non di mera probabilità, l'efficacia delle altre risultanze
+istruttorie che hanno determinato il convincimento del giudice di merito, di
+modo che la ratio decidendi venga a trovarsi priva di "fondamento", con la
+conseguenza che la denunzia in sede di legittimità deve contenere, a pena
+di inammissibilità, l'indicazione delle ragioni per le quali il documento
+trascurato avrebbe senza dubbio dato luogo a una decisione diversa
+(Cass. 26/11/2025, n. 31019; Cass. 13/06/2024, n. 16583; Cass.
+26/06/2018, n. 16812; Cass. 28/09/2016, n. 19150; Cass. 05/12/2014,
+n. 25756).
+14
+
+--- Pagina 15 ---
+
+11.7 Nel caso di specie, tuttavia, i documenti, di cui la ricorrente
+assume l’omesso esame, non sono affatto decisivi, come si ricava dallo
+stesso contenuto del ricorso per cassazione e dai suoi allegati, al fine di
+comprovare l’effettivo pagamento degli interessi e della ritenuta d’acconto
+sugli stessi, posto che: a) l’accordo del 29 dicembre 2004, intercorso tra
+la ricorrente, la AGCO Manufacturing Ltd e la AGCO International Ltd, non
+dimostra affatto che la AGCO Manufacturing Ltd abbia effettivamente
+pagato gli interessi maturati fino al 2004, risultando anzi, come emerge
+dallo stralcio dell’accordo riportato nel ricorso per cassazione, che le parti
+pattuirono che il pagamento venisse registrato in contabilità senza alcuna
+regolamentazione in contanti («…it has been agreed by the parties that all
+settlement can be reflected by book keeping entries and that no cash
+settlements are required»), come d’altra parte ammesso dalla stessa
+contribuente a pag. 27 del ricorso per cassazione («I tre soggetti coinvolti
+nel nuovo finanziamento infragruppo decisero pertanto, al fine di ridurre
+gli oneri finanziari e bancari dell’operazione, di effettuare il pagamento
+mediante la semplice annotazione nei libri contabili senza regolamento di
+contanti») e come risulta ulteriormente confermato dalla nota integrativa
+al bilancio al 31 dicembre 2004 della contribuente, richiamata nel
+controricorso, che riporta guanto segue: «…Parte del credito vantato nei
+confronti della consociata AGCO Manufacturing Ltd è stato trasferito con
+effetto dal 29 dicembre 2004 sulla consociata AGCO International Ltd…che
+è quindi debitrice di Farmec SPA per euro 8.208.693.00»: in sostanza,
+l’intera operazione viene descritta come una mera successione della AGCO
+International Ltd nel lato passivo del rapporto obbligatorio già gravante
+sulla AGCO Manufacturing Ltd; b) nessuna valenza probatoria, in tale
+contesto, assumono le annotazioni contenute a pag. 117 del libro giornale
+2004 e a pag. 131 del libro giornale 2005, trattandosi di scritture contabili
+provenienti dalla stessa contribuente che, oltre a non dimostrare l’effettivo
+pagamento degli interessi (anzi, nel libro giornale del 2004 si parla di
+15
+
+--- Pagina 16 ---
+
+“Trasferim. Credito 8.208.693,00”, anziché di pagamento), risultano
+conformi all’accordo del 29 dicembre 2004 con cui, come già rilevato, è
+stato escluso il pagamento cash delle somme e si è pattuito di procedere
+alla semplice annotazione contabile del pagamento, conformemente alla
+versione prospettata dall’Ufficio; c) anche l’allegato 7 al p.v.c., ossia il
+modello “CT61 Return Company payments and interest”, non assume
+valenza decisiva in ordine al pagamento della ritenuta d’acconto, in quanto
+trattasi di una dichiarazione rilasciata dalla AGCO Manufacturing Ltd e non
+di una certificazione emessa dall’autorità estera. In ogni caso, in
+mancanza della prova dei redditi prodotti all’estero, consistenti negli
+interessi asseritamente versati, difetterebbe comunque uno dei
+presupposti per l’operatività dell’art. 165 t.u.i.r. e risulterebbe non dovuto
+il pagamento della ritenuta d’acconto all’estero.
+11.8 Non essendo stata, quindi, fornita prova, come sostenuto dalla
+CTR, del pagamento degli interessi e della ritenuta d’acconto sugli stessi,
+risultano inconferenti i richiami operati dalla ricorrente all’art. 1188 c.c. in
+tema di “destinatario del pagamento”.
+12. Con il nono motivo si deduce, in via subordinata, «l’assoluta
+mancanza di motivazione relativamente all’applicazione delle sanzioni».
+12.1 Il motivo è inammissibile e, comunque, palesemente infondato.
+12.2 L’inammissibilità discende sia dal fatto che con il motivo non si
+contesta direttamente la sentenza della CTR, bensì il contenuto dell’avviso
+di accertamento, sebbene quello di legittimità sia un giudizio vertente sul
+provvedimento giudiziale impugnato e non sul rapporto sottostante, sia
+dal difetto di specificità, in quanto nel motivo non è comunque riportato il
+contenuto dell’avviso di accertamento nella parte inerente alla
+determinazione della sanzione, così impedendo a questa Corte di valutare
+il lamentato profilo dell’assenza di motivazione.
+12.3 La palese infondatezza, invece, emerge proprio dal contenuto
+dell’avviso di accertamento (allegato al ricorso per cassazione), posto che
+16
+
+--- Pagina 17 ---
+
+alle pagg. 7, 10 e 11 dello stesso sono analiticamente indicate, anche con
+puntuali richiami normativi, le ragioni dell’applicazione della sanzione ed i
+criteri di determinazione della stessa (nel minimo edittale).
+13. Alla luce delle anzidette considerazioni, il ricorso va
+integralmente rigettato.
+Le spese giudiziali seguono la soccombenza della ricorrente e sono
+liquidate come in dispositivo.
+Sussistono, infine, i presupposti, ai sensi dell’art. 13, comma 1-
+quater, d.P.R. n. 115/2002, per il versamento, da parte della ricorrente,
+dell’ulteriore importo a titolo di contributo unificato pari a quello previsto
+per il ricorso, a norma del comma 1-bis del citato art. 13, se dovuto.
+P.Q.M.
+La Corte rigetta il ricorso e condanna la ricorrente al pagamento, in favore
+dell’Agenzia delle entrate, delle spese del presente giudizio, che liquida in
+euro 7.600,00 per compenso, oltre spese prenotate a debito.
+Dà atto della sussistenza dei presupposti, ai sensi dell’art. 13, comma 1-
+quater, d.P.R. n. 115/2002, per il versamento, da parte della ricorrente,
+dell’ulteriore importo a titolo di contributo unificato pari a quello previsto
+per il ricorso a norma del comma 1-bis del citato art. 13, se dovuto.
+Così deciso nella pubblica udienza del 7 gennaio 2026.
+Il Consigliere estensore                                        Il Presidente
+Cesare Taraschi                                        Andreina Giudicepietro
+17
