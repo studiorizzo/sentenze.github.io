@@ -1,0 +1,247 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 30053/2019 R.G. proposto da:
+PITOCCO GIANLUCA, elettivamente domiciliato  in ROMA VIA XXIV
+MAGGIO 43, presso lo studio dell’avvocato PAOLO PURI che lo
+rappresenta e difende unitamente all'avvocato NICOLA
+LUCARIELLO
+-ricorrente-
+AGENZIA DELLE ENTRATE, elettivamente domiciliata in ROMA VIA
+DEI PORTOGHESI 12, presso l'AVVOCATURA GENERALE DELLO
+STATO che la rappresenta e difende
+-resistente-
+avverso SENTENZA di COMMISSIONE TRIBUTARIA REGIONALE DEL
+LAZIO n. 3863/2018 depositata il 07/06/2018.
+
+--- Pagina 2 ---
+
+Udita la relazione svolta nella camera di consiglio del 25/11/2025
+dal Consigliere SALVATORE LEUZZI.
+FATTI DI CAUSA
+Gianluca Pitocco, dal 2006, svolge attività di commercio al dettaglio
+di prodotti non alimentari via Internet, effettuando acquisti e
+vendite attraverso il portale eBay. L’attività consiste nell’acquistare
+aspirapolveri usati da soggetti privati e rivenderli, dopo averli
+opportunamente riparati e riassemblati.
+Il 21 settembre 2012 la Guardia di Finanza – Compagnia di Tivoli –
+ha effettuato una verifica fiscale nei confronti del contribuente,
+relativamente ai periodi d’imposta dal 2006 al 2012. Gli esiti della
+verifica sono stati formalizzati in un processo verbale di
+constatazione del 18 ottobre 2012.
+Sulla base di tali rilievi, l’Agenzia delle Entrate ha notificato, il 15
+aprile 2015, l’avviso di accertamento n. TK7011500806/2015,
+relativo a IRPEF, IVA e IRAP per l’anno 2011. Con tale atto
+impositivo veniva contestata l’irregolare registrazione di fatture
+ricevute dalla società lussemburghese eBay Europe, concernenti
+servizi elettronici connessi all’utilizzo del portale eBay. Si assumeva
+che le fatture, annotate esclusivamente nel registro IVA degli
+acquisti, avrebbero dovuto essere integrate con l’imposta secondo
+l’aliquota vigente in Italia, in applicazione del meccanismo di
+inversione contabile di cui all’art. 17, comma 2, del DPR n.
+633/1972, e annotate sia nel registro IVA delle fatture emesse (art.
+23) sia nel registro IVA degli acquisti (art. 25). Da tale rilievo
+derivava il recupero di IVA a debito, senza riconoscimento della
+corrispondente imposta a credito. Venivano inoltre censurati gli
+illeciti di irregolarità relative agli elenchi Intrastat, illegittima
+detrazione d’imposta, dichiarazione con imposta inferiore a quella
+dovuta, mancata o irregolare tenuta dei registri IVA, con
+conseguente irrogazione di un’unica sanzione pecuniaria.
+2 di 8
+
+--- Pagina 3 ---
+
+L’avviso di accertamento veniva impugnato dal contribuente dinanzi
+alla CTP di Roma, che respingeva il ricorso. Anche il successivo
+appello del contribuente veniva respinto dalla CTR del Lazio.
+Avverso tale decisione Pitocco propone ricorso per cassazione,
+affidato a due motivi. L’Agenzia si è costituita ai soli fini
+dell’eventuale partecipazione all’udienza di discussione della causa,
+ai sensi dell’art. 370, comma 1, c.p.c.
+MOTIVI DELLA DECISIONE
+Con il primo motivo di ricorso il contribuente deduce la violazione
+e falsa applicazione degli artt. 17 e 19 del DPR n. 633 del 1972, in
+relazione all’art. 360, comma 1, n. 3, c.p.c., assumendo che, a
+fronte del maggior debito d’imposta contestato, non gli è stato
+riconosciuto un equivalente diritto di detrazione della medesima
+imposta. Sostiene che la mancata osservanza degli adempimenti
+previsti in materia di “reverse charge”, tra cui la mancata
+presentazione del modello “INTRA”, precludono la detraibilità
+dell’imposta.
+Con il secondo motivo di ricorso si denuncia la violazione e falsa
+applicazione dell’art. 6, comma 5-bis, D.Lgs. n. 472 del 1997,
+dell’art. 6, comma 9-bis, del D.Lgs. n. 471 del 1997, e dell’art. 3
+del D.Lgs. n. 472 del 1997, in relazione all’art. 360, comma 1, n. 3,
+c.p.c., per non avere la CTR rilevato l’illegittimità delle sanzioni
+applicate dall’Ufficio.
+Il primo motivo è infondato.
+La CTR ha evidenziato che l’art. 17 del DPR n. 633 del 1972, in
+materia di acquisti tra Paesi comunitari da parte di soggetti passivi,
+prevede un’apposita procedura di registrazione e contabilizzazione
+delle fatture e dei documenti contabili. Tale procedura consiste
+nell’obbligo di autofatturazione e nell’applicazione del meccanismo
+del reverse charge, che consente di registrare il documento
+contabile contemporaneamente nel registro degli acquisti e nel
+3 di 8
+
+--- Pagina 4 ---
+
+registro delle fatture emesse, in modo che l’imposta dovuta resti
+neutrale per effetto della contestuale detrazione.
+Il mancato adempimento di tale meccanismo, unitamente agli
+obblighi successivi – tra cui la dichiarazione periodica Intrastat –
+oltre a costituire un’omissione sanzionabile, rappresenta un
+impedimento alla regolarizzazione dell’IVA tra gli Stati comunitari,
+che avviene proprio attraverso la dichiarazione.
+La statuizione è in linea con la giurisprudenza nomofilattica, che ha
+invero precisato: “In tema di inversione contabile (o
+"reverse charge"), la violazione consistente nel trattare
+l'operazione come se fosse fuori campo IVA, con omissione
+dell'autofattura e delle conseguenti registrazioni e dichiarazioni,
+non costituisce una violazione meramente formale, atteso che,
+determinando un "vulnus" all'azione di controllo, impedisce
+all'amministrazione finanziaria di verificare l'applicazione del
+regime dell'inversione contabile, esclude il tempestivo assolvimento
+dell'imposta, sia pure mediante il meccanismo di compensazione
+proprio dell'inversione contabile, ed incide sui tempi di esercizio del
+diritto alla detrazione” (Cass. n. 1690 del 2022). Il sistema
+dell’inversione contabile rappresenta un meccanismo di
+assolvimento dell’imposta che non incide sulla struttura del tributo,
+poiché le operazioni soggette a tale regime restano imponibili.
+L’adempimento richiesto al cessionario o committente non è
+meramente formale, ma costituisce condizione essenziale per
+garantire il corretto funzionamento del sistema: occorre integrare
+la fattura ricevuta, annotarla nei registri IVA delle vendite e degli
+acquisti e dichiarare l’operazione. L’omissione di tali obblighi non
+può essere considerata una semplice irregolarità, poiché produce
+effetti sostanziali.
+In primo luogo, la mancata applicazione del regime di inversione
+contabile, con conseguente trattamento dell’operazione come fuori
+campo IVA, determina un vulnus all’azione di controllo, impedendo
+4 di 8
+
+--- Pagina 5 ---
+
+all’Amministrazione finanziaria di verificare la corretta applicazione
+della normativa e creando un rischio di perdita di gettito. Tale
+principio è stato affermato anche dalla giurisprudenza unionale, che
+ha evidenziato come il rispetto degli obblighi connessi al reverse
+charge sia indispensabile per garantire l’efficacia del sistema di
+riscossione dell’imposta (Corte di giustizia, 6 febbraio 2014, causa
+C-424/12, Fatorie; 26 aprile 2017, causa C-564/15, Farkas).
+Inoltre, l’omissione degli adempimenti esclude il tempestivo
+assolvimento dell’imposta, sia pure attraverso il meccanismo di
+compensazione proprio dell’inversione contabile. Non è ostativo, in
+tal senso, il principio di neutralità fiscale, che non impedisce
+l’irrogazione di sanzioni quando il soggetto passivo non adempie
+nei termini previsti dalla legge, anche se successivamente
+regolarizza la propria posizione (Corte di giustizia, 20 giugno 2013,
+causa C-259/12, Rodopi).
+La violazione incide anche sul diritto alla detrazione. Sebbene la
+mancata osservanza degli obblighi formali non precluda
+l’insorgenza del diritto, purché sussistano i requisiti sostanziali, il
+suo esercizio è subordinato al rispetto delle formalità e dei termini
+stabiliti dalla normativa nazionale. L’omissione o il ritardo
+comportano la decadenza dal diritto, come affermato sia dalla
+giurisprudenza unionale (Corte di giustizia, 11 dicembre 2014,
+causa C-590/13, Idexx Laboratories Italia; 11 aprile 2019, causa
+C-691/17, PORR Építési Kft.) sia da quella nazionale (Cass., 15
+luglio 2015, n. 14767; Cass., 3 marzo 2017, n. 2401; Cass., 27
+settembre 2018, n. 23283; Cass., 30 luglio 2020, n. 16367; Cass.,
+9 aprile 2021, n. 9394). Non vi è ragione di distinguere, sotto
+questo profilo, tra operazioni soggette a reverse charge e
+operazioni ordinarie.
+Ne consegue che la violazione degli obblighi di autofatturazione,
+registrazione e dichiarazione non può essere qualificata come
+5 di 8
+
+--- Pagina 6 ---
+
+meramente formale, poiché arreca pregiudizio all’attività di
+controllo e al tempestivo assolvimento dell’imposta.
+Il secondo motivo è parzialmente fondato e va accolto nei limiti
+che seguono.
+Con riferimento al primo profilo di censura, la Corte di Cassazione
+ha affermato che, in tema di acquisti intracomunitari soggetti al
+meccanismo del reverse charge, l’omessa integrazione dell’IVA e la
+registrazione delle fatture nel solo registro degli acquisti
+costituiscono violazioni sanzionabili ai sensi dell’art. 6, comma 1,
+del D.Lgs. 471/1997 (Cass. n. 31274/2024). Non è sufficiente, per
+escludere o attenuare la sanzione, che l’operazione sia fiscalmente
+neutrale o che l’Amministrazione disponga delle informazioni
+necessarie per accertare i requisiti sostanziali: la doppia
+registrazione, previa integrazione dell’imposta, persegue uno scopo
+sostanziale, ossia far emergere l’operazione imponibile e consentire
+i controlli.
+Pertanto, l’obbligo di autofatturazione e di corretta registrazione
+non ha natura meramente formale, ma è funzionale alla
+liquidazione dell’imposta dovuta dal cessionario e alla tracciabilità
+delle operazioni. Ne discende che la violazione è sanzionabile anche
+se non incide sui versamenti o sulla base imponibile; solo eventuali
+ritardi che influiscono sulla liquidazione periodica possono rilevare
+ai fini della graduazione della sanzione (art. 13 D.Lgs. 471/1997).
+Merita, del resto, soggiungere che in materia di sanzioni per
+violazioni degli obblighi IVA, l’art. 6 del D.Lgs. 471/1997, come
+modificato dal D.Lgs. 158/2015, prevede un sistema graduato nei
+commi 9-bis e seguenti, ispirato a criteri di proporzionalità rispetto
+al danno erariale e alla pericolosità della condotta per i controlli
+fiscali. Il comma 9-bis disciplina l’inosservanza degli adempimenti
+connessi al meccanismo dell’inversione contabile (reverse charge)
+da parte del cessionario o committente, distinguendo sanzioni fisse
+per irregolarità formali nell’applicazione del reverse charge;
+6 di 8
+
+--- Pagina 7 ---
+
+sanzioni proporzionali per omessa annotazione ai fini delle imposte
+sui redditi; ulteriori sanzioni proporzionali per indebita detrazione e
+dichiarazione infedele, applicabili anche in caso di omessa
+autofatturazione o mancata regolarizzazione della fattura. I commi
+9-bis.1 e 9-bis.2 riguardano le ipotesi di “concorde errore” nella
+qualificazione dell’operazione, quando l’IVA è assolta dal cedente
+anziché con reverse charge, o viceversa. In tali casi, poiché il
+diritto alla detrazione permane, la sanzione è in misura fissa. Il
+comma 9-bis.3 esclude la sanzionabilità quando il reverse charge è
+applicato a operazioni esenti, non imponibili o non soggette a
+imposta, per assenza di danno erariale. Fa eccezione l’ipotesi di
+operazioni inesistenti, per le quali è prevista una sanzione dal 5%
+al 10% dell’imponibile, con minimo di € 1.000.
+Diversamente, è fondata la censura relativa alla mancata
+applicazione dello ius superveniens introdotto dal D.Lgs. n. 158 del
+2015, che ha modificato l’art. 6, comma 9-bis, del D.Lgs. n.
+471/1997, prevedendo un trattamento sanzionatorio più mite.
+Come chiarito da questa Corte, il principio del favor rei impone che,
+in presenza di successione di norme sanzionatorie, sia applicata
+quella più favorevole al trasgressore. Spetta al giudice di merito
+individuare la sanzione più favorevole tra quelle succedutesi nel
+tempo, verificando la concreta incidenza delle modifiche normative
+e rideterminando il quantum secondo il regime più mite (Cass. n.
+24561/2022).
+Pertanto, il motivo va accolto nei limiti indicati, con rinvio alla Corte
+di giustizia tributaria di secondo grado affinché provveda alla
+rideterminazione delle sanzioni secondo il regime più favorevole.
+In ultima analisi, va respinto il primo motivo di ricorso, con
+accoglimento del secondo nei limiti sopra esposti. La sentenza
+d’appello va cassata e la causa rinviata per un nuovo esame e per
+la regolazione delle spese del giudizio alla Corte di giustizia
+tributaria di secondo grado del Lazio.
+7 di 8
+
+--- Pagina 8 ---
+
+P.Q.M.
+La Corte respinge il primo motivo di ricorso; accoglie il secondo
+motivo nei limiti indicati in motivazione; cassa la sentenza
+impugnata in relazione al motivo accolto e rinvia alla Corte di
+giustizia tributaria di secondo grado del Lazio, in diversa
+composizione, anche per la regolazione delle spese del presente
+giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio del 25/11/2025.
+La Presidente
+TANIA HMELJAK
+8 di 8
