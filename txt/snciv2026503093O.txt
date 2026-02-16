@@ -1,0 +1,373 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 9786/2023 R.G. proposto da:
+AGENZIA DELLE ENTRATE, domiciliata in Roma, via dei Portoghesi n. 12,
+presso la sede dell’Avvocatura Generale dello Stato, che la rappresenta e
+difende
+contro
+EDP RENEWABLES ITALIA S.R.L., elettivamente domiciliata in Roma, via
+dei Due Macelli n. 66, presso lo studio degli avvocati Antonio Tomassini ed
+Andrea Di Dio, che la rappresentano e difendono
+- controricorrente -
+avverso la sentenza della CORTE DI GIUSTIZIA TRIBUTARIA DI SECONDO
+GRADO DELLA BASILICATA n. 266/2022, depositata il 24 ottobre 2022.
+Udita la relazione svolta nella camera di consiglio del 28/1/2026 dal
+Consigliere CARMELA ROMANO.
+FATTI DI CAUSA
+Con sentenza n. 262/2022, depositata il 24 ottobre 2022, la Corte di
+Giustizia Tributaria di secondo grado della Basilicata, in accoglimento
+
+--- Pagina 2 ---
+
+dell’appello proposto dalla EDP Renewables Italia s.r.l., ha annullato
+l’avviso di accertamento catastale in rettifica n. MT0030286.
+Avverso la sentenza l’Agenzia delle Entrate propone ricorso per
+cassazione, illustrato con memoria,  mentre la EDP Renewables Italia s.r.l.
+resiste mediante controricorso.
+RAGIONI DELLA DECISIONE
+1. Col primo motivo di ricorso si denuncia la violazione degli artt. 132
+cod. proc. civ. e 118 disp. att. cod. proc. civ., nonché dell’art. 36 d.lgs. n.
+546/1992, in relazione all’art. 360, primo comma, num. 4, cod. proc. civ.,
+per aver la C.G.T. escluso il valore del cd. palo eolico dal calcolo della
+rendita catastale con motivazione apparente.
+1.1. La doglianza è infondata.
+1.2. Secondo giurisprudenza unanime di questa Corte, il sindacato di
+legittimità sulla motivazione resta circoscritto alla sola verifica del rispetto
+del "minimo costituzionale" richiesto dall'art. 111, comma 6, Cost. (Cass.
+13248/2020; 17196/2020), che viene violato qualora la motivazione sia
+totalmente mancante o meramente apparente, ovvero si fondi su un
+contrasto irriducibile tra affermazioni inconcilianti o risulti perplessa ed
+obiettivamente incomprensibile, purché il vizio emerga dal testo della
+sentenza impugnata, a prescindere dal confronto con le risultanze
+processuali (Cass. 23580/2025; 23577/2025; 7090/2022; 22598/2018;
+sez. U. 8053/2014).
+1.3. Non è, però, questo il caso di specie. Il giudice di appello ha,
+infatti, dato conto delle ragioni poste alla base della ritenuta esclusione del
+valore della torre dal calcolo della rendita, affermando che la torre
+“costituisce parte dell’impianto produttivo in uno al rotore e navicella
+(aerogeneratore), cioè componente impiantistica da escludere per
+espressa disposizione normativa (novella del 2015) dalla stima diretta ai
+fini della determinazione della rendita catastale”.
+2
+
+--- Pagina 3 ---
+
+1.3.1. Questi i principali passaggi motivazionali: “I parchi eolici, in
+quanto costituiscono centrali elettriche, sono accatastabili nella categoria
+"D/1- Opificio"; “tuttavia, per effetto dell'art. 1, comma 21, della legge n.
+208 del 2015 (Legge di stabilità per il 2016) - con cui sono stati innovati i
+criteri di determinazione della stima dei fabbricati speciali, escludendosi
+dalla stima diretta i macchinari, i congegni, le attrezzature e gli altri
+impianti funzionali allo specifico processo produttivo (cc.dd. "imbullonati")
+- è rimasto sottratto dal carico impositivo il valore delle componenti
+impiantistiche”; pertanto, “ai fini del calcolo della rendita catastale
+dell'impianto eolico, ai sensi dell'art. 1, comma 21, l. n. 208 del 2015”,
+“non si deve tenere conto di tutte quelle dotazioni che sono meramente
+funzionali al processo produttivo, ancorché esse risultino in qualche modo
+integrate o strutturalmente connesse al fabbricato”, sicché “non va
+computata la torre in acciaio che sostiene il peso della navicella e del
+rotore, trattandosi di elemento funzionale allo specifico processo
+produttivo”.
+1.4. Resta, invece, esclusa qualunque rilevanza del semplice difetto di
+sufficienza della motivazione: non è, cioè, consentito alla ricorrente
+impugnare la sentenza per criticare la sufficienza del discorso
+argomentativo a giustificazione della decisione adottata sulla base degli
+elementi fattuali acquisiti e ritenuti dal giudice di merito determinanti
+ovvero scartati in quanto non pertinenti o recessivi (ex multis, Cass.
+22748/2025, che cita Cass. 13366/2016).
+2. Col secondo motivo di ricorso si espone il vizio di violazione e/o
+falsa applicazione dell’art. 1, comma 21, legge n. 208/2015 e dell’art. 1,
+comma 244, legge n. 190/2014, in relazione all’art. 360, primo comma,
+num. 3, cod. proc. civ., per aver la CGT escluso che la torre rientri nel
+computo della rendita catastale in acritica adesione ai pareri pro veritate
+prodotti dalla contribuente.
+3
+
+--- Pagina 4 ---
+
+2.1. La censura è inammissibile, giacché la ricorrente, sotto lo
+schermo del vizio di violazione di legge, deduce in verità l’errore di
+valutazione del giudice di appello sulla funzionalità della torre eolica al
+processo di produzione di energia elettrica, insistendo in una ricostruzione
+del fatto diversa ed alternativa rispetto a quella operata dal giudice a quo.
+2.2. In definitiva, attraverso la censura di cui all’art. 360, comma
+primo, num. 3, cod. proc. civ., si richiede una rilettura nel merito degli
+elementi di prova acquisiti nel corso del processo, in violazione del
+principio secondo cui il motivo di ricorso non può risolversi in un'istanza di
+revisione delle valutazioni e del convincimento del giudice di merito, volta
+all'ottenimento di una nuova pronuncia sul fatto, estranea alla natura ed ai
+fini del giudizio di cassazione (Cass. 232/2026, che richiama i precedenti
+n. 10927/2024, n. 32505/2023 e n. 24148/2013).
+2.3. Il ricorrente per cassazione non può, infatti, rimettere in
+discussione, contrapponendone uno difforme, l'apprezzamento in fatto dei
+giudici del merito, tratto dall'analisi degli elementi di valutazione
+disponibili ed in sé coerente, atteso che l'apprezzamento dei fatti e delle
+prove è sottratto al sindacato di legittimità, in quanto, nell'ambito di
+quest'ultimo, non è conferito il potere di riesaminare e valutare il merito
+della causa, ma solo quello di controllare, sotto il profilo logico formale e
+della correttezza giuridica, l'esame e la valutazione del giudice di merito, a
+cui resta riservato di individuare le fonti del proprio convincimento e,
+all'uopo, di valutare le prove, controllarne attendibilità e concludenza e
+scegliere, tra esse, quelle ritenute idonee a dimostrare i fatti in
+discussione (Cass. 32505/2023, cit.).
+2.4. Il motivo è, perciò, sotto questo profilo, all’ evidenza
+inammissibile, in quanto, contestando che la torre eolica partecipi al
+processo produttivo, mira a sollecitare una rivalutazione degli esiti
+probatori del tutto preclusa in sede di legittimità, pena l'introduzione di un
+terzo giudizio di merito non previsto dall'ordinamento (cfr., con riguardo a
+4
+
+--- Pagina 5 ---
+
+fattispecie analoghe a quella in esame: Cass., Sez. V, 27, nn. 5224, 5226,
+5228, 5230, 5231, 5233, 5235 del 2025, tutte richiamate da Cass.
+22299/2025: “La prospettata nullità della sentenza perché esclusivamente
+basata su pareri pro-veritate è del tutto infondata, in quanto la censura
+finisce per contestare la formazione della decisione all'esito dell'istruttoria.
+La contestazione omette, infatti, di considerare che il principio del libero
+convincimento, posto a fondamento degli artt. 115 e 116 c.p.c., opera
+interamente sul piano dell'apprezzamento di merito, insindacabile in sede
+di legittimità, sicché la denuncia della violazione delle predette regole da
+parte del giudice di merito non configura un vizio di violazione o falsa
+applicazione di norme processuali, sussumibile nella fattispecie di cui
+all'art. 360, primo comma, n. 4, c.p.c., bensì un errore di fatto che va
+censurato nei limiti consentiti dall'art. 360,primo comma, n. 5, c.p.c.
+(Cass., Sez. VI - 2, n. 27847 del 12 ottobre 2021, Rv. 662803 - 01, Sez.
+V, n. 18082 del 2022), errore di fatto non dedotto in alcun modo nel caso
+in esame”).
+2.5. Ad ogni modo, la censura è, anche, infondata, ritenendo il
+Collegio di dare continuità all’ormai consolidato indirizzo giurisprudenziale
+secondo cui la torre di sostegno degli impianti eolici, in quanto funzionale
+al processo di produzione di energia elettrica, è soggetta ad esenzione ai
+sensi della legge n. 208 del 2015, art. 1, comma 21 (Cass. n. 20726, n.
+20727, n. 20728, n. 21460, n. 21461, n. 21462, n. 21286, n. 21287, n.
+21288, 27028, 27029, 26173, 26172, 25406, 25405, 23230, 22355,
+23230, 22355, 25406, 25405, 23230, 22355, 22354, 22353, 22352,
+21781, 21782 del 2020; nn. 1010, 6728, 7115, 25784, 25793, 34548 del
+2021; nn. 7922, 22551 e 37710 del 2022; nn. 6685, 12482 e 29903 del
+2023; tra le più recenti, n. 34230 del 2024, nn. 7396, 31322, 31326 e
+33185 del 2025).
+2.6. Alla base dell’orientamento di questa Corte la considerazione che,
+per la legge del 2015, va esclusa la rilevanza catastale di quegli elementi
+5
+
+--- Pagina 6 ---
+
+che, sebbene strutturalmente connessi al suolo o alla costruzione,
+nonostante le notevoli dimensioni e modalità costruttive, siano coinvolti
+nel processo produttivo, come la torre di sostegno dell'impianto eolico, la
+quale, in quanto strutturalmente integrata alla navicella ed al rotore,
+risulta funzionale al processo di produzione di energia elettrica, svolgendo
+una funzione di contrasto della forza impressa dal vento sulle pale, al fine
+di consentire loro di offrire la massima resistenza possibile ed al
+generatore di sfruttare la potenza del vento per generare così l'energia
+elettrica (Cass. 7922/2022, cit.; 21462/2020, cit.).
+2.7. Si è, peraltro, aggiunto come non sia neppure “necessario
+rimettere, come avvenuto talvolta in passato, alcun accertamento di fatto
+al giudice del merito relativamente alla partecipazione della torre eolica al
+processo produttivo, tenuto conto dell'affinamento dell'orientamento
+giurisprudenziale di questa Corte in tale materia e della circostanza che,
+proprio alla luce del contenzioso esaminato, sono emerse le caratteristiche
+ordinarie degli impianti eolici (in cui la torre di sostegno, come
+evidenziato, partecipa al processo produttivo)” (in termini, Cass. 37710
+del 2022, cit.).
+3. Col terzo motivo di ricorso si deduce, ai sensi dell'art. 360, primo
+comma, num. 4, cod. proc. civ., il vizio di violazione e/o falsa applicazione
+dell’art. 112 cod. proc. civ., per non aver il giudice del secondo grado
+rideterminato il valore della rendita catastale, al netto del valore della
+torre di sostegno, omettendo di pronunciare sull'intero contenuto della
+pretesa fiscale, che non si esauriva nella stima della torre di sostegno, ma
+comprendeva anche tutti gli altri elementi che l’ufficio aveva ritenuto
+rilevanti ai fini dell’accertamento catastale oggetto di impugnazione (i.e.
+C1 “Valore lotto”; C2 “Fondazione aerogeneratore”; C4 “Spese tecniche”;
+C5 “Oneri concessori”; C7 “Oneri finanziari”; C9 “Profitto imprenditore”) e
+che il contribuente aveva contestato.
+3.1. La censura è fondata e va accolta.
+6
+
+--- Pagina 7 ---
+
+3.2. In caso di classamento di immobili con destinazione speciale,
+come nel caso degli impianti eolici, l'attribuzione della rendita catastale
+proposta dal proprietario con la cd. procedura DOCFA è determinata, ex
+art. 10, r.d.l. n. 652 del 1939, conv. in legge n. 1249 del 1939, con stima
+diretta per ogni singola unità, utilizzando o un procedimento diretto,
+fondato sul reddito lordo (canone di locazione) ordinariamente ritraibile,
+detratte spese ed eventuali perdite (ex artt. 15 - 26 d.P.R. n. 1142 del
+1949), ovvero un procedimento indiretto, che individua il valore del
+capitale fondiario, costituito dal valore di mercato dell'immobile (secondo,
+dunque, il relativo mercato delle compravendite, ex art. 28, c. 1, d.P.R. n.
+1142 del 1949) o dal costo di ricostruzione (ex art. 28, c. 2, d.P.R. n. 1142
+del 1949), tenendo conto, in tale ultimo caso, di un adeguato coefficiente
+di riduzione in rapporto allo stato attuale delle unità immobiliari (cfr. Cass.
+33799/2024; 7984/2022; 4837/2022; 13778/2019; 1476/2018;
+888/2018).
+3.3. Recependo il dettato legislativo, la Circolare n. 6/T emanata
+dall'Agenzia del Territorio il 30 novembre 2012 (in materia di
+"Determinazione della rendita catastale delle unità immobiliari a
+destinazione speciale e particolare: profili tecnico-estimativi"), elevata a
+rango normativo dalla legge n. 190/2014, prevede che, "con la locuzione
+"stima diretta" si intende la stima effettuata in maniera puntuale sugli
+immobili a destinazione speciale o particolare, per i quali, proprio in
+relazione alla peculiarità delle relative caratteristiche, non risulta possibile
+fare riferimento al sistema delle tariffe", chiarendo che "la rendita
+catastale può essere determinata con "procedimento diretto" o con
+"procedimento indiretto"" (par. 2). Nell’ambito del procedimento indiretto,
+la Circolare precisa che "Il valore venale può essere individuato tramite
+un'indagine del mercato delle compravendite, e in via subordinata
+attraverso il costo di ricostruzione", indagando, "in modo simile al
+procedimento relativo all'approccio reddituale, il mercato delle
+7
+
+--- Pagina 8 ---
+
+compravendite, riferite al biennio economico 1988-89 e relative alla
+tipologia di immobili simili a quello oggetto di accertamento" (par. 5).
+3.4. Più in dettaglio, i criteri tecnici per la determinazione della rendita
+catastale con l'approccio di costo sono fissati dall'allegato II alla predetta
+Circolare, con particolare riguardo al costo di produzione, che risulta dalla
+sommatoria del valore del lotto, comprensivo dell'area coperta e delle aree
+scoperte, accessorie e pertinenziali, del costo di realizzazione a nuovo
+delle strutture, del costo a nuovo degli impianti fissi, delle spese tecniche
+relative alla progettazione, alla direzione lavori ed al collaudo, degli oneri
+concessori e di urbanizzazione e degli oneri finanziari, nonché al profitto
+normale del promotore immobiliare, che risulta "dalla remunerazione
+ordinaria, connessa al rischio assunto nell'operazione e comprensiva degli
+interessi sull'eventuale capitale proprio investito, che il promotore ritrae
+per lo svolgimento la sua attività".
+Tale modo di procedere nasce dalla necessità di svincolare le
+operazioni di accertamento catastale da circostanze non ordinarie,
+assicurando, per la determinazione della rendita, criteri perequativi non
+condizionati dalla individuale capacità di gestione dell'immobile da parte
+del proprietario (sugli immobili a destinazione speciale o particolare, cfr.
+Cass. 9109/2024; 9947/2023; 7850/2020; 13778/2019, cit.; 7377/2019;
+1476/2018, cit.; 888/2018, cit.; in particolare con riferimento all'approccio
+di costo, Cass. 22558/2022 e Cass. 3918/2022).
+3.5. Orbene, si è già detto che il metodo di determinazione della
+rendita catastale è stato modificato, con riferimento agli impianti da
+includere ai fini del calcolo, dall'art. 1, commi 21 e 22, della legge 28
+dicembre 2015, n. 208, con cui il legislatore ha voluto sottrarre dal carico
+impositivo del tributo locale il valore delle componenti impiantistiche
+secondo un criterio distintivo che privilegia la destinazione ad attività
+produttive dei settori della siderurgia, manifattura, energia,
+8
+
+--- Pagina 9 ---
+
+indipendentemente dalla natura strutturale e dalla rilevanza dimensionale
+del manufatto che fosse o meno infisso al suolo.
+3.6. Tuttavia, ritiene il Collegio che l'entrata in vigore (dall'1 gennaio
+2016) dell'art. 1, commi 21 e 22, della legge 28 dicembre 2015, n. 208,
+non abbia comportato l'abrogazione, nemmeno in forma tacita, dell'art. 1,
+comma 244, della legge 23 dicembre 2014, n. 190, nella parte relativa -
+attraverso l'espresso rinvio per relationem alla Circ. n. 6/T del 30
+novembre 2012 (con i relativi allegati) - alle metodologie estimative degli
+immobili con destinazione speciale o particolare (Cass. 33185/2025;
+22299/2025, cit.; 13831/2025, cit; 13732/2025; 3918/2022).
+3.7. La legge n. 208 del 2015, infatti, con l'art. 1, comma 21, si è
+limitata a ridefinire l'oggetto della stima catastale ai fini della
+determinazione della rendita, prevedendo che: "A decorrere dal 1 gennaio
+2016, la determinazione della rendita catastale degli immobili a
+destinazione speciale e particolare, censibili nelle categorie catastali dei
+gruppi D e E, è effettuata, tramite stima diretta, tenendo conto del suolo e
+delle costruzioni, nonché degli elementi ad essi strutturalmente connessi
+che ne accrescono la qualità e l'utilità, nei limiti dell'ordinario
+apprezzamento" e, nel secondo periodo, disponendo che: "Sono esclusi
+dalla stessa stima diretta macchinari, congegni, attrezzature ed altri
+impianti, funzionali allo specifico processo produttivo”.
+3.8. In definitiva, l'entrata in vigore della legge 28 dicembre 2015, n.
+208, non ha alterato né eliminato le dettagliate indicazioni della Circolare
+n. 6/T del 30 novembre 2012 sui profili tecnico-estimativi per la
+determinazione della rendita, con particolare riguardo ai vari approcci del
+procedimento diretto (approccio di mercato) ed indiretto (approccio di
+costo).
+3.9. Pertanto, anche dopo l'entrata in vigore dell'art. 1, commi 21 e
+22, della legge 28 dicembre 2015, n. 208, il criterio della stima diretta,
+nella duplice variante del "procedimento diretto" e del "procedimento
+9
+
+--- Pagina 10 ---
+
+indiretto", continua a trovare applicazione, ma soltanto per il "suolo", per
+le "costruzioni" e per gli "elementi ad essi strutturalmente connessi che ne
+accrescono la qualità e l'utilità, nei limiti dell'ordinario apprezzamento" (in
+termini: Cass. nn. 34232, 34233, 34234 e 34235 del 2024; più di recente,
+22299/2025, cit.; 13806/2025; 7394/2025).
+3.10. In conclusione, una volta escluso che il valore della torre sia
+computabile nella determinazione della rendita, la stima diretta deve
+concentrarsi sul valore cumulativo degli immobili residui (rispetto alla
+torre ed agli aerogeneratori), vale a dire sul valore del suolo, delle
+fondazioni, della piazzola e della cabina prefabbricata, elementi sui quali -
+secondo il procedimento indiretto di stima della rendita catastale con
+approccio di costo (in base alle istruzioni fornite dall'allegato II alla Circ. n.
+6/T del 30 novembre 2012) - vanno computate le componenti delle spese
+tecniche, del profitto dell'imprenditore e degli oneri finanziari (Cass.
+13732/2025).
+3.11. Ciò posto sul piano sostanziale, tornando alla censura, la
+decisione sullo scomputo della torre eolica dal calcolo della rendita
+catastale non dispensava il giudice di merito dall'obbligo di rideterminare
+la rendita, valorizzando l'entità delle spese tecniche, del profitto
+dell'imprenditore e degli oneri finanziari secondo i criteri della menzionata
+Circolare, nonché gli altri elementi di fatto da calcolarsi sulle componenti
+residue che, secondo la normativa vigente in materia catastale, incidono
+sulla quantificazione della complessiva rendita catastale dell'unità
+immobiliare (in termini, 31322/2025, cit.; 22299/2025, cit.; 13831/2025,
+cit; 5452/2025; 22558/2022; 3918/2022, cit.).
+3.12. Il processo tributario, infatti, pur introdotto mediante
+l’impugnazione di un atto, ha ad oggetto il rapporto sostanziale posto a
+fondamento dello stesso ed è, quindi, annoverabile tra i processi di
+"impugnazione-merito", essendo diretto ad una decisione sostitutiva sia
+della dichiarazione resa dal contribuente, sia dell'accertamento dell'Ufficio.
+10
+
+--- Pagina 11 ---
+
+3.13. Pertanto, il giudice, ove ritenga invalido l'avviso di accertamento
+per motivi non formali, ma di carattere sostanziale, non può limitarsi al
+suo annullamento, ma deve esaminare nel merito la pretesa e ricondurla
+alla corretta misura, entro i limiti posti dalle domande di parte,
+avvalendosi degli ordinari poteri di indagine e di valutazione dei fatti e
+delle prove consentiti dagli artt. 115 e 116 c.p.c., senza che, da un lato,
+ciò costituisca attività amministrativa di nuovo accertamento e, da un
+altro, determini una violazione del principio di corrispondenza tra chiesto e
+pronunciato (Cass. 1209/2023; 39660/2021; 18777/2020; 25629/2018).
+3.14. A tale obbligo si è, invece, sottratta la Corte territoriale, la quale,
+esclusa la rilevanza catastale della torre, si è limitata ad annullare l’avviso,
+omettendo di valutare la correttezza della stima delle residue componenti
+costituenti l'impianto eolico, sulle quali l'amministrazione ha computato le
+spese tecniche, il profitto dell'imprenditore e gli oneri finanziari e, dunque,
+di rideterminare la rendita alla stregua dei su menzionati criteri normativi,
+così incorrendo nel vizio lamentato. Rimane assorbito il quarto motivo con
+il quale si denuncia la violazione dell’art. 10 r.d.l. n. 652/1939, dell’art.28,
+comma 2, d.P.R. n. 1142/1949, dell’art. 2 d.l. 16/1993 e dell’art. 1 d.m.
+701/1994, in relazione all’art. 360, primo comma, num. 3, cod. proc. civ.
+4. L’impugnata sentenza va, pertanto, cassata in relazione al terzo
+motivo di ricorso con rinvio, anche per le spese di questo giudizio di
+legittimità, alla Corte di giustizia tributaria di secondo grado della
+Basilicata, che, in diversa composizione, procederà al riesame della
+controversia al fine di rideterminare la rendita catastale in contestazione,
+attenendosi ai principi di diritto sopra esposti.
+P.Q.M.
+La Corte accoglie il terzo motivo di ricorso, rigetta il primo ed il
+secondo, assorbito il quarto; cassa la sentenza impugnata in relazione al
+motivo accolto e rinvia alla Corte di Giustizia Tributaria di secondo grado
+11
+
+--- Pagina 12 ---
+
+della Basilicata, in diversa composizione, anche per la disciplina delle
+spese del presente giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio della Sezione Tributaria
+della Corte Suprema di Cassazione, in data 28 gennaio 2026.
+Il Presidente
+FABIO DI PISA
+12

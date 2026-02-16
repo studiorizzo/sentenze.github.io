@@ -1,0 +1,524 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 7628/2024 R.G. proposto da:
+SESTO S.R.L. (c.f. 08500651008), costituitasi in persona del sig. Fabrizio
+Bevilacqua, dichiaratosi legale rappresentante pro tempore, rappresentata
+e difesa dall'Avvocato Italia Camperchioli (c.f. CMPTLI68B42A080P);
+contro
+AGENZIA DELLE ENTRATE (c.f. 06363391001), in persona del Direttore
+pro tempore, rappresentata e difesa dall'Avvocatura Generale dello Stato
+-controricorrente-
+avverso la sentenza della Corte di Giustizia Tributaria di secondo grado di
+Lazio n. 4557/2022 depositata il 20/10/2022.
+Udita la relazione svolta nella camera di consiglio del 10/12/2025 dal
+Consigliere Giovanni Galasso.
+
+--- Pagina 2 ---
+
+FATTI DI CAUSA
+1.1 Con ricorso alla Commissione Tributaria Provinciale di Roma, la Sesto
+S.r.l. impugnava l’avviso di accertamento n. TK3035104138/2013 con il
+quale l’Agenzia delle Entrate aveva accertato, per il periodo d'imposta
+2008, maggiori IVA, IRES e IRAP. Tale atto scaturiva da un accertamento
+relativo ad un’operazione immobiliare compiuta nel 2005 (che produceva
+effetti, sotto il profilo fiscale, anche negli anni successivi) tra alcune
+società appartenenti al medesimo gruppo che aveva indotto
+l’Amministrazione ad escludere che i canoni di leasing versati dalla Sesto
+S.r.l. potessero essere qualificati come tali, anziché come restituzione di
+mutuo, per la parte eccedente il valore dell’immobile (pari ad €
+59.800.000) al quale si riferivano, con evidenti conseguenze ai fini della
+deducibilità e della detraibilità, in relazione alle diverse imposte, delle
+somme versate.
+Gli atti dai quali trae origine la controversia, come indicati dalle parti, posti
+in essere tutti nella stessa data, il 19/7/2005, possono essere così
+riassunti:
+- la IRG S.r.l. acquistava dalla Rio Grande S.r.l. (società estranea al
+gruppo) un immobile (cosiddetta Torre Wind) in Sesto San Giovanni
+per il corrispettivo di € 59.800.000 oltre IVA;
+- la IRG S.r.l. stipulava con la Sesto S.r.l. un contratto preliminare di
+vendita con il quale si impegnava a vendere in favore di quest’ultima o
+di altra società da nominare, il medesimo immobile verso il
+corrispettivo di € 90.000.000 oltre IVA ed a garantire un reddito annuo
+pari al 7,9% del prezzo di acquisto (superiore a quello derivante dai
+contratti di locazione all’epoca in essere) «per un certo numero di anni
+prestabilito»; in esecuzione di tale pattuizione si impegnava altresì a
+versare alla Sesto S.r.l., quale anticipo, l’importo di € 22.500.000 oltre
+IVA, in relazione al quale quest’ultima emetteva, in data 21/7/2005, la
+2
+
+--- Pagina 3 ---
+
+fattura di importo corrispondente n. 1/2005 per «acconto come da
+contratto rendimento garantito»;
+- l’immobile veniva così acquistato per il prezzo di € 90.000.000 dalla
+Mercantile Leasing S.p.A. che poi lo concedeva in leasing alla Sesto
+S.r.l., pattuendo un maxi canone iniziale di € 22.500.000 oltre IVA.
+L’Amministrazione riteneva ingiustificato l’aumento di prezzo dell’immobile
+e, dunque, per la parte corrispondente qualificava l’operazione come un
+mutuo ed il pagamento delle rate di leasing come restituzione del mutuo.
+Rilevava, altresì, che a seguito del pagamento dell’importo indicato nella
+fattura 1/05 a titolo di reddito minimo garantito, era stato compiuto un
+prestito fruttifero in favore dei soci e che altri ne erano stati compiuti nel
+2006 e nel 2009, senza che risultassero mai contabilizzati i relativi
+interessi; pertanto recuperava a tassazione i predetti interessi attivi,
+calcolandoli al tasso vigente pro tempore sull’importo residuo del credito
+vantato nei confronti dei soci per ciascuno dei successivi anni d’imposta
+(per l’anno 2008 i maggiori ricavi derivanti da tale operazione erano
+determinati in € 369.488).
+1.2 Avverso tale atto proponeva ricorso la società, deducendo violazioni
+delle norme che regolano il procedimento, vizi di motivazione dell’avviso
+e, nel merito, l’insussistenza dei presupposti per il recupero a tassazione
+delle somme indicate.
+La CTP di Roma annullava l’avviso, ritenendo che l’intera operazione
+avesse una giustificazione dal punto di vista economico finanziario –
+giacché l’aumento del prezzo dell’immobile era dovuto alla clausola che
+garantiva la redditività del capitale - e non fosse stata compiuta al solo
+fine di ottenere vantaggi di natura fiscale.
+2. A seguito dell’appello principale proposto dall’Agenzia delle Entrate e di
+quello incidentale della società, la Corte di giustizia tributaria di secondo
+grado del Lazio riformava integralmente la sentenza di primo grado,
+riconoscendo la legittimità della pretesa dell’Amministrazione; accoglieva
+3
+
+--- Pagina 4 ---
+
+un solo motivo di appello incidentale relativo alla determinazione delle
+sanzioni che andava compiuta applicando il cumulo giuridico in base
+all’art. 12 commi 2 e 5 d.lgs. 472/1997. Osservava, in particolare, che
+l’operazione non trovava giustificazione economica e che aveva la finalità
+di finanziamento per la parte eccedente il valore dell’immobile; sebbene
+ciascuno dei contratti avesse in astratto una causa economica e giuridica
+ben definita, la concatenazione dei negozi, anche in considerazione dei
+vincoli esistenti tra le società, aveva «una finalità complessiva di natura
+fraudolenta degli obblighi fiscali». A tale conclusione perveniva sulla base
+delle seguenti considerazioni: la IRG S.r.l. era stata costituita il
+19/5/2005, cioè poco prima dell’operazione; non si comprendeva la
+ragione per la quale la Sesto S.r.l. non avesse chiesto alla Mercantile
+Leasing S.p.A. di acquistare l’immobile direttamente dalla Rio Grande
+S.r.l. per un prezzo notevolmente inferiore; la pattuizione della clausola di
+rendimento minimo garantito era contenuta nel preliminare di vendita, ma
+non produceva effetti nei confronti della Mercantile Leasing S.p.A.; non
+risultava che quest’ultima fosse stata indicata dalla Sesto S.r.l., giacché
+nel contratto di compravendita non si faceva menzione della nomina da
+parte della promissaria acquirente; il compendio immobiliare era già
+locato e, dunque, l’inserimento della clausola di rendimento minimo
+garantito non trovava alcuna giustificazione; l’importo versato dalla IRG
+S.r.l. alla Sesto S.r.l. a titolo di anticipo in relazione alla clausola di
+redditività corrispondeva a quello dovuto dalla seconda alla Mercantile
+Leasing S.p.A. quale maxi canone di leasing.
+3. Avverso tale sentenza, la Sesto S.r.l. ha proposto ricorso per
+cassazione affidato a tre motivi.
+Ha resistito con controricorso l’Agenzia delle Entrate.
+RAGIONI DELLA DECISIONE
+1.1 Con il primo motivo di ricorso, la società ha lamentato il vizio di cui
+all’art. 360, comma 1°, n. 3) c.p.c. per violazione e falsa applicazione
+4
+
+--- Pagina 5 ---
+
+dell’art. 102, comma 7°, d.P.R. 917/1986, degli artt. «1362 – 1370 c.c.
+sotto il profilo della erronea qualificazione giuridica del contratto di leasing
+posto in essere dalle parti» e dell’art. 1322 c.c.. Con tale motivo si
+afferma che la CGT di secondo grado avrebbe erroneamente qualificato il
+contratto di leasing come contratto di mutuo, escludendo,
+conseguentemente, l’applicazione della disciplina sulla deducibilità ex art.
+107, comma 2, d.P.R. 917/1986 e sulla detraibilità ex artt. 19 e ss. d.P.R.
+633/1972. Dopo aver sostenuto l’ammissibilità del motivo – riguardante
+non l’interpretazione del contratto, bensì la sua qualificazione giuridica,
+suscettibile di verifica in sede di legittimità (ha richiamato Cass. n.
+26504/2022 e Cass. n. 15603/2021) - ha osservato che, nel compiere tale
+operazione, la CGT di secondo grado avrebbe violato gli artt. 1362 e ss.,
+1322 e 1813 c.c., incorrendo così nel vizio di violazione di legge. Ha quindi
+riportato giurisprudenza di questa Corte in ordine alla clausola di
+redditività del capitale nella compravendita (segnatamente, Cass. n.
+7255/2009, Cass. n. 6331/2016, Cass. n. 6332/2016) dalla quale
+desumere che l’aumento del prezzo del bene è giustificato proprio dalla
+garanzia concessa dal venditore. Ha infine dedotto che l’appartenenza
+delle società al medesimo gruppo non escludeva la liceità dell’operazione
+(ha richiamato Cass. n. 12044/2009; Cass. n. 6663/1997), potendo al più
+assimilarsi la stessa al sale and lease back, contratto ben distinto dal
+mutuo e lecito nel caso di specie, non essendo violato il divieto del patto
+commissorio in quanto il valore del bene non era notevolmente inferiore al
+corrispettivo.
+1.2 Il motivo così formulato è inammissibile, giacché non coglie la ratio
+decidendi che sorregge la sentenza impugnata.
+Va infatti osservato che la questione in esame non riguarda il problema
+della qualificazione giuridica del contratto, bensì delle finalità perseguite
+con l’operazione in questione.
+5
+
+--- Pagina 6 ---
+
+Ed infatti «In materia tributaria, l'operazione economica che abbia quale
+suo elemento (non necessariamente unico, ma comunque) predominante
+e assorbente lo scopo elusivo del fisco costituisce condotta abusiva, ed è,
+pertanto, vietata allorquando non possa spiegarsi altrimenti (o, in ogni
+caso, in modo non marginale) che con il mero intento di conseguire un
+risparmio di imposta, incombendo, peraltro, sull'Amministrazione
+finanziaria la prova sia del disegno elusivo che delle modalità di
+manipolazione e di alterazione degli schemi negoziali classici, considerati
+come irragionevoli in una normale logica di mercato e perseguiti solo per
+pervenire a quel risultato fiscale, mentre grava sul contribuente l'onere di
+allegare l'esistenza di ragioni economiche alternative o concorrenti che
+giustifichino operazioni in quel modo strutturate» Cass. n. 3938/2014;
+nello stesso senso, Cass. n. 21390/2012; Cass. n. 4603/2014; Cass. n.
+5090/2017; Cass. n. 9610/2017).
+È stato osservato, in particolare, che «il carattere abusivo, sotto il profilo
+fiscale, di una determinata operazione, nel fondarsi normativamente sul
+difetto di valide ragioni economiche e sul conseguimento di un indebito
+vantaggio fiscale (cfr. Cass., SU, n.n. 30055/08 e 30057/08; v. C. Giust.
+UE nei casi 3M Italia, Halifax, Part Service), presuppone quanto meno
+l'esistenza di un adeguato strumento giuridico che, pur se alternativo a
+quello scelto dai contraenti, sia comunque funzionale al raggiungimento
+dell'obiettivo economico perseguito (Cass. 21390/12, p.3.2) e si deve
+indagare se vi sia reale fungibilità con le soluzioni eventualmente
+prospettate dal fisco (cfr. Cass. n. 4604/2014);
+2.8. nell'intento di perseguire la pianificazione fiscale aggressiva, la
+Commissione Europea ha diramato la raccomandazione 2012/772/UE agli
+Stati membri ad intervenire ogniqualvolta vi sia «una costruzione di puro
+artificio o una serie artificiosa di costruzioni che è stata posta in essere
+essenzialmente allo scopo di eludere l'imposizione e che comporti un
+vantaggio fiscale» (montages articiels, artificial arrengement, mecanismo
+6
+
+--- Pagina 7 ---
+
+artificial nelle varie versioni linguistiche); a tal fine precisa che «una
+costruzione o una serie di costruzioni è artificiosa se manca di sostanza
+commerciale» (p.4.4), o più esattamente di «sostanza economica»
+(p.4.2), e «consiste nell'eludere l'imposizione quando, a prescindere da
+eventuali intenzioni personali, contrasta con l'obiettivo, lo spirito e la
+finalità delle disposizioni fiscali», mentre «una data finalità deve essere
+considerata fondamentale se qualsiasi altra finalità che è o potrebbe
+essere attribuita alla costruzione o alla serie di costruzioni sembri per lo
+più irrilevante alla luce di tutte le circostanze del caso» (cfr. Cass. n.
+438/2015; 439/2015, p.8.3)» (così Cass. 30404/2018, in motivazione).
+Tali principi sono poi stati sostanzialmente recepiti dal legislatore nell’art.
+10 bis l. 212/2000, introdotto con d.lgs. 128/2015 successivamente al
+compimento delle operazioni oggetto di causa (con efficacia dal 1° ottobre
+2015 e dunque non applicabile alla presente controversia).
+1.3 Sulla base dei principi esposti, appare evidente che non si tratta di un
+problema di qualificazione giuridica del singolo contratto, che è di per sé
+irrilevante, bensì di valutazione complessiva dei risultati perseguiti con
+l’intera operazione e delle ragioni per le quali tali risultati sono stati
+ottenuti stipulando determinati contratti in luogo di altri.
+In pratica la CGT di secondo grado ha ritenuto che, attraverso i contratti
+posti in essere dalle tre società, che non ha affatto riqualificato, come
+invece sostiene la ricorrente, si volesse dar luogo ad un leasing e ad un
+finanziamento ed ha indicato le ragioni per le quali, a suo avviso, i
+contratti posti in essere non trovavano alcuna giustificazione sotto il
+profilo economico, prima tra tutte la sopravvalutazione dell’immobile, il cui
+valore è passato nella stessa giornata da € 59.800.000 a € 90.000.000;
+secondo il giudice d’appello tale aumento non trova spiegazione nella
+clausola di garanzia della redditività del capitale, in quanto all’epoca della
+compravendita gli immobili erano già tutti locati. È evidente che avverso le
+argomentazioni adottate dal giudice d’appello non poteva proporsi un
+7
+
+--- Pagina 8 ---
+
+motivo di ricorso ai sensi dell’art. 360 comma 1° n. 3) c.p.c. per erronea
+qualificazione del contratto, perché non è stata compiuta tale operazione,
+bensì la valutazione delle finalità complessive perseguite con i diversi
+contratti posti in essere nello stesso giorno. Al più si sarebbe dovuto far
+valere un vizio di motivazione nei limiti in cui ciò è possibile in base all’art.
+360 comma 1° n. 5) c.p.c.; se anche si volesse riqualificare in questi
+termini il motivo in esame – essendo ammessa tale possibilità (Cass. sez.
+U. 17931/2013; Cass. n. 4036/2014; Cass. n. 25557/2017; Cass. n.
+759/2025) - lo stesso risulterebbe però privo di specificità, non essendo
+indicato il fatto decisivo trascurato, né gli elementi fondamentali per
+valutare la vicenda (durata della garanzia, durata dei contratti di locazione
+in essere ecc.).
+Per quanto esposto, il motivo è inammissibile.
+2.1 Con il secondo motivo di ricorso, la società ha denunciato il vizio di cui
+all’art. 360, comma 1°, n. 3) c.p.c. per violazione e falsa applicazione
+degli artt. 39 d.P.R. 600/1973, 54 d.P.R. 633/1972 e 2729 c.c. per avere
+il giudice di appello fondato la propria decisione su presunzioni prive dei
+caratteri di gravità, precisione e concordanza. Dopo aver affermato che,
+quando il giudice ha fondato la presunzione su indizi privi di gravità,
+precisione e concordanza, l’errore integra violazione di legge e può quindi
+essere ricondotto all’ipotesi di cui all’art. 360, comma 1°, n. 3, ha rilevato
+che la “presunzione di sproporzione” del prezzo era priva dei requisiti di
+gravità e precisione, in quanto non teneva conto del fatto che era stato
+garantito il rendimento minimo; del pari era priva di tali requisiti
+l’affermazione che tale clausola dopo la vendita dell’immobile alla società
+di leasing non operava tra la IRG S.r.l. e la Sesto S.r.l.; priva di tale
+requisiti era infine anche la considerazione della recente costituzione della
+IRG S.r.l., non essendo rara la costituzione di società al fine di compiere
+singole operazioni commerciali.
+2.2 Il motivo è inammissibile.
+8
+
+--- Pagina 9 ---
+
+L’art. 2727 c.c. stabilisce infatti che «le presunzioni sono le conseguenze
+che la legge o il giudice trae da un fatto noto per risalire a un fatto
+ignorato».
+Nel caso di specie, la ricorrente sostiene che gli elementi dai quali la CGT
+di secondo grado ha desunto l’inesistenza di un’autonoma finalità
+economica dell’operazione posta in essere, sarebbero privi dei caratteri
+indicati dall’art. 2729, comma 1°, c.c..
+Occorre osservare che le SS.UU. hanno affermato, al riguardo che «la
+peculiare conformazione del controllo sulla motivazione non elimina,
+sebbene riduca (ma sarebbe meglio dire, trasformi), il controllo sulla
+sussistenza degli estremi cui l'art. 2729 c.c., comma 1, subordina
+l'ammissione della presunzione semplice. In realtà è in proposito possibile
+il sindacato per violazione di legge, ai sensi dell'art. 360 c.p.c., n. 3. Ciò
+non solo nell'ipotesi (davvero rara) in cui il giudice abbia direttamente
+violato la norma in questione deliberando che il ragionamento presuntivo
+possa basarsi su indizi che non siano gravi, precisi e concordanti, ma
+anche quando egli abbia fondato la presunzione su indizi privi di gravità,
+precisione e concordanza, sussumendo, cioè, sotto la previsione dell'art.
+2729 c.c., fatti privi dei caratteri legali, e incorrendo, quindi, in una falsa
+applicazione della norma, esattamente assunta nella enunciazione della
+"fattispecie astratta", ma erroneamente applicata alla "fattispecie
+concreta".
+14.8.2. In altre parole, poiché la sentenza, sotto il profilo della
+motivazione, si sostanzia nella giustificazione delle conclusioni, oggetto del
+controllo in sede di legittimità è la plausibilità del percorso che lega la
+verosimiglianza delle premesse alla probabilità delle conseguenze.
+L'implausibilità delle conclusioni può risolversi tanto nell'apparenza della
+motivazione, quanto nell'omesso esame di un fatto che interrompa
+l'argomentazione e spezzi il nesso tra verosimiglianza delle premesse e
+probabilità delle conseguenze e assuma, quindi, nel sillogismo, carattere
+9
+
+--- Pagina 10 ---
+
+di decisività: l'omesso esame è il "tassello mancante" alla plausibilità delle
+conclusioni rispetto alle premesse date nel quadro del sillogismo
+giudiziario.
+14.8.3. Ciò non significa che possa darsi ingresso, in alcun modo, ad una
+surrettizia revisione del giudizio di merito, dovendosi tener per fermo,
+mutatis mutandis, il rigoroso insegnamento di questa Corte secondo cui:
+"in sede di legittimità il controllo della motivazione in fatto si compendia
+nel verificare che il discorso giustificativo svolto dal giudice del merito
+circa la propria statuizione esibisca i requisiti strutturali minimi
+dell'argomentazione (fatto probatorio - massima di esperienza - fatto
+accertato) senza che sia consentito alla Corte sostituire una diversa
+massima di esperienza a quella utilizzata (potendo questa essere disattesa
+non già quando l'interferenza probatoria non sia da essa necessitata, ma
+solo quando non sia da essa neppure minimamente sorretta o sia
+addirittura smentita, avendosi, in tal caso, una mera apparenza del
+discorso giustificativo) o confrontare la sentenza impugnata con le
+risultanze istruttorie, al fine di prendere in considerazione un fatto
+probatorio diverso o ulteriore rispetto a quelli assunti dal giudice del
+merito a fondamento della sua decisione" (Cass. n. 14953 del 2000)»
+(così Cass. Sez. U. 8053/2014, in motivazione).
+In una successiva pronuncia le SS.UU. hanno altresì chiarito che «la
+gravità allude ad un concetto logico, generale o speciale (cioè rispondente
+a principi di logica in genere oppure a principi di una qualche logica
+particolare, per esempio di natura scientifica o propria di una qualche lex
+artis), che esprime nient'altro - almeno secondo l'opinione preferibile - che
+la presunzione si deve fondare su un ragionamento probabilistico, per cui
+dato un fatto A noto è probabile che si sia verificato il fatto B (non è
+condivisibile, invece, l'idea che vorrebbe sotteso alla "gravità" che
+l'inferenza presuntiva sia "certa").
+10
+
+--- Pagina 11 ---
+
+La precisione esprime l'idea che l'inferenza probabilistica conduca alla
+conoscenza del fatto ignoto con un grado di probabilità che si indirizzi solo
+verso il fatto B e non lasci spazio, sempre al livello della probabilità, ad un
+indirizzarsi in senso diverso, cioè anche verso un altro o altri fatti.
+La concordanza esprime - almeno secondo l'opinione preferibile - un
+requisito del ragionamento presuntivo (cioè di una applicazione "non falsa"
+dell'art. 2729 c.c.), che non lo concerne in modo assoluto, cioè di per sé
+considerato, come invece gli altri due elementi, bensì in modo relativo,
+cioè nel quadro della possibile sussistenza di altri elementi probatori
+considerati, volendo esprimere l'idea che, in tanto la presunzione è
+ammissibile, in quanto indirizzi alla conoscenza del fatto in modo
+concordante con altri elementi probatori, che, peraltro, possono essere o
+meno anche altri ragionamenti presuntivi.
+Ebbene, quando il giudice di merito sussume erroneamente sotto i tre
+caratteri individuatori della presunzione fatti concreti accertati che non
+sono invece rispondenti a quei caratteri, si deve senz'altro ritenere che il
+suo ragionamento sia censurabile alla stregua dell'art. 360 c.p.c., n. 3 e
+compete, dunque, alla Corte di cassazione controllare se la norma dell'art.
+2729 c.c., oltre ad essere applicata esattamente a livello di proclamazione
+astratta dal giudice di merito, lo sia stata anche a livello di applicazione a
+fattispecie concrete che effettivamente risultino ascrivibili alla fattispecie
+astratta. Essa può, pertanto, essere investita ai sensi dell'art. 360 c.p.c.,
+n. 3, dell'errore in cui il giudice di merito sia incorso nel considerare grave
+una presunzione (cioè un'inferenza) che non lo sia o sotto un profilo logico
+generale o sotto il particolare profilo logico (interno ad una certa
+disciplina) entro il quale essa si collochi. La stessa cosa dicasi per il
+controllo della precisione e per quello della concordanza.
+4.1.1. In base alle considerazioni svolte la deduzione del vizio di falsa
+applicazione dell'art. 2729 c.c., comma 1, suppone allora un'attività
+argomentativa che si deve estrinsecare nella puntuale indicazione,
+11
+
+--- Pagina 12 ---
+
+enunciazione e spiegazione che il ragionamento presuntivo compiuto dal
+giudice di merito - assunto, però, come tale e, quindi, in facto per come è
+stato enunciato - risulti irrispettoso del paradigma della gravità, o di quello
+della precisione o di quello della concordanza.
+Occorre, dunque, una preliminare attività di individuazione del
+ragionamento asseritamente irrispettoso di uno o di tutti tali paradigmi
+compiuto dal giudice di merito e, quindi, è su di esso che la critica di c.d.
+falsa applicazione si deve innestare ed essa postula l'evidenziare in modo
+chiaro che quel ragionamento è stato erroneamente sussunto sotto uno o
+sotto tutti quei paradigmi.
+4.1.2. Di contro la critica al ragionamento presuntivo svolto da giudice di
+merito sfugge al concetto di falsa applicazione quando invece si concreta o
+in un'attività diretta ad evidenziare soltanto che le circostanze fattuali in
+relazione alle quali il ragionamento presuntivo è stato enunciato dal
+giudice di merito, avrebbero dovuto essere ricostruite in altro modo
+(sicché il giudice di merito è partito in definitiva da un presupposto
+fattuale erroneo nell'applicare il ragionamento presuntivo), o nella mera
+prospettazione di una inferenza probabilistica semplicemente diversa da
+quella che si dice applicata dal giudice di merito, senza spiegare e
+dimostrare perché quella da costui applicata abbia esorbitato dai
+paradigmi dell'art. 2729, comma 1 (e ciò tanto se questa prospettazione
+sia basata sulle stesse circostanze fattuali su cui si è basato il giudice di
+merito, quanto se basata altresì su altre circostanze fattuali).
+In questi casi la critica si risolve in realtà in un diverso apprezzamento
+della ricostruzione della quaestio facti, e, in definitiva, nella prospettazione
+di una diversa ricostruzione della stessa quaestio e ci si pone su un
+terreno che non è quello dell'art. 360 c.p.c., n. 3 (falsa applicazione
+dell'art. 2729 c.c., comma 1), ma è quello che sollecita un controllo sulla
+motivazione del giudice relativa alla ricostruzione della quaestio facti.
+Terreno che, come le Sezioni Unite, (Cass., Sez. Un., nn. 8053 e 8054 del
+12
+
+--- Pagina 13 ---
+
+2014) hanno avuto modo di precisare, vigente dell'art. 360 c.p.c., nuovo
+n. 5, è percorribile solo qualora si denunci che il giudice di merito l'esame
+di un fatto principale o secondario, che avrebbe avuto carattere decisivo
+per una diversa individuazione del modo di essere della detta quaestio ai
+fini della decisione, occorrendo, peraltro, che tale fatto venga indicato in
+modo chiaro e non potendo esso individuarsi solo nell'omessa valutazione
+di una risultanza istruttoria» (Cass. Sez. U. n. 1785/2018, in
+motivazione).
+È stato altresì specificato che «la denuncia, in cassazione, di violazione o
+falsa applicazione del citato art. 2729 c.c., ai sensi dell'art. 360, comma 1,
+n. 3, c.p.c., può prospettarsi quando il giudice di merito affermi che il
+ragionamento presuntivo può basarsi su presunzioni non gravi, precise e
+concordanti ovvero fondi la presunzione su un fatto storico privo di gravità
+o precisione o concordanza ai fini dell'inferenza dal fatto noto della
+conseguenza ignota e non anche quando la critica si concreti nella diversa
+ricostruzione delle circostanze fattuali o nella mera prospettazione di una
+inferenza probabilistica diversa da quella ritenuta applicata dal giudice di
+merito o senza spiegare i motivi della violazione dei paradigmi della
+norma» (Cass. n. 9054/2022); resta invece «escluso che la sola mancata
+valutazione di un elemento indiziario possa dare luogo al vizio di omesso
+esame di un punto decisivo, e neppure occorre che tra il fatto noto e
+quello ignoto sussista un legame di assoluta ed esclusiva necessità
+causale, essendo sufficiente che il fatto da provare sia desumibile dal fatto
+noto come conseguenza ragionevolmente possibile, secondo criterio di
+normalità, visto che la deduzione logica è una valutazione che, in quanto
+tale, deve essere probabilmente convincente, non oggettivamente
+inconfutabile» (Cass. n. 22366/2021)
+Sulla base di tali principi si è anche ritenuto che possa essere censurata
+per violazione di legge con ricorso per cassazione una sentenza in cui il
+giudice si sia limitato ad escludere la rilevanza probatoria dei singoli
+13
+
+--- Pagina 14 ---
+
+elementi indiziari valutati atomisticamente, senza però verificare se,
+considerati nel loro complesso, avessero tale rilevanza (Cass. n.
+8115/2025; Cass. n. 9059/2018).
+Ovviamente rimane la possibilità di impugnazione ai sensi dell’art. 360,
+comma 1°, n. 5 c.p.c. (Cass. n. 10253/2021).
+2.3 Nel caso di specie, è evidente che la ricorrente non ha formulato il
+proprio motivo di ricorso nel rispetto dei principi indicati, ma ha richiesto,
+sostanzialmente, una nuova valutazione nel merito degli elementi di fatto
+posti dal giudice d’appello a fondamento del proprio ragionamento, non
+consentita al giudice di legittimità.
+Ed infatti, in primo luogo, non ha esaminato singolarmente tutti i fatti
+considerati dal giudice d’appello ed anzi ha trascurato completamente i
+due elementi principali sui quali si fonda il ragionamento presuntivo: la
+considerazione che la clausola di garanzia del rendimento non aveva senso
+alcuno in quanto l’immobile era già locato (cfr. paragrafo 5.4 della
+sentenza impugnata, penultimo capoverso) e la circostanza del
+pagamento anticipato di € 22.500.000 da parte della IRG S.r.l. in favore
+della Sesto S.r.l. e del successivo pagamento della medesima somma da
+parte di quest’ultima in favore della società di leasing (cfr. paragrafo 5.5
+della sentenza impugnata). Inoltre, si è limitata alla valutazione dei singoli
+fatti considerati atomisticamente, senza procedere anche ad una critica
+della valutazione complessiva degli stessi; non a caso non ha lamentato
+l’assenza del requisito della concordanza.
+2.4 Va altresì osservato che nelle sentenze citate dalla ricorrente in ordine
+alla natura ed alla validità della clausola di garanzia del rendimento (Cass.
+n. 7225/2009), la stessa viene inserita per l’ipotesi in cui il conduttore
+degli immobili receda dal contratto in essere e non per maggiorare la
+rendita che l’immobile già produce per effetto dei contratti di locazione in
+corso al momento dell’acquisto, sicché tali pronunce avvalorano
+addirittura il ragionamento presuntivo del giudice d’appello; nella
+14
+
+--- Pagina 15 ---
+
+giurisprudenza di questa Corte (Cass. n. 6331/2016; Cass. n. 3368/2013),
+infatti, essa viene considerata sempre come caratterizzata da aleatorietà,
+sicché la previsione già al momento dell’acquisto della corresponsione, per
+effetto di tale clausola, di una somma di danaro determinata anche nel
+quantum la snatura completamente. Tale clausola, infatti, ha senso solo
+se collegata ad elementi variabili (durata della locazione in essere,
+variazione del canone ecc.); ove venga stabilita a priori in misura
+maggiore ai canoni di locazione dovuti dai conduttori al momento della
+compravendita, non appare irragionevole dedurre, come ha fatto la CGT,
+che si tratti di un artificio idoneo ad incidere di fatto sugli effetti economici
+del contratto.
+2.5 Deve aggiungersi, infine, che il motivo di ricorso è anche privo del
+necessario requisito della specificità, non contenendo alcun riferimento ad
+elementi dei vari contratti necessari per la valutazione della questione
+(durata della garanzia, durata dei contratti di locazione in essere, ecc.).
+Il motivo è dunque inammissibile.
+3.1 Con il terzo motivo di ricorso la società ha denunciato il vizio di cui
+all’art. 360, comma 1°, n. 4) c.p.c. per violazione dell’art. 132, comma 2°,
+n. 4) c.p.c. e 36, comma 2°, n. 4 d.lgs. 546/1992 per mancanza di
+motivazione in ordine al recupero a tassazione dei maggiori interessi attivi
+sui finanziamenti ai soci. Ha rilevato, infatti, che la CGT di secondo grado
+ha accolto in toto l’appello dell’Agenzia delle Entrate, senza però motivare
+in ordine all’autonomo rilievo dei maggiori interessi attivi determinati
+dall’Ufficio ai fini IRES per l’anno 2008 in € 369.488, nonostante le
+specifiche contestazioni sul punto contenute a pagina 23 delle
+controdeduzioni depositate dalla stessa nel giudizio di appello.
+Il motivo è fondato.
+3.2 Si versa in un’ipotesi di omessa motivazione – non di omessa
+pronuncia, giacché l’appello dell’Amministrazione è stato accolto in toto –
+in quanto nulla viene detto nella sentenza in ordine alle ragioni che hanno
+15
+
+--- Pagina 16 ---
+
+condotto all’accoglimento dell’impugnazione anche con riguardo a tale
+profilo (Cass. Sez. U. n. 8053/2014). Né potrebbe ritenersi che vi sia una
+motivazione implicita sul punto, giacché dall’accoglimento dell’appello
+dell’amministrazione con riguardo alla questione principale relativa
+all’operazione di acquisto dell’immobile e di successivo leasing, non può
+farsi conseguire l’accoglimento anche con riguardo alla questione del
+prestito ai soci, trattandosi di un’operazione autonoma, sebbene posta in
+essere con l’importo oggetto della fattura n. 1/05, in ordine alla quale
+erano state sollevate anche doglianze relative all’entità degli interessi
+calcolati nell’avviso di accertamento.
+4. Va quindi accolto il terzo motivo di ricorso e la sentenza va cassata in
+relazione allo stesso con rinvio alla Corte di giustizia tributaria di secondo
+grado del Lazio, in diversa composizione, perché decida nel merito su tale
+questione e provveda anche alla regolazione delle spese del giudizio di
+legittimità.
+P.Q.M.
+La Corte accoglie il terzo motivo di ricorso e dichiara inammissibili i primi
+due; cassa la sentenza impugnata in relazione al motivo accolto e rinvia
+alla Corte di giustizia tributaria di secondo grado del Lazio, in diversa
+composizione, cui demanda di provvedere anche in ordine alle spese del
+presente giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio del 10/12/2025.
+Il Presidente
+Lucio Luciotti
+16

@@ -1,0 +1,315 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+sul ricorso 9732/2016 proposto da:
+AGENZIA DELLE ENTRATE, in persona del Direttore pro tempore, rap-
+presentata e difesa dall’Avvocatura Generale dello Stato, con domicilio
+eletto in Roma, via Dei Portoghesi, n. 12;
+- ricorrente -
+contro
+
+--- Pagina 2 ---
+
+MONZA IMMOBILIARE S.R.L. IN LIQUIDAZIONE, in persona del legale
+rappresentante p.t., rappresentata e difesa dall'Avv. Alessandro Fu-
+sillo, elettivamente domiciliata presso il suo studio in Roma, Viale delle
+Milizie, 22 e all’indirizzo PEC alessandro.fusillo@pec.it;
+- controricorrente -
+proposto avverso la sentenza n.380/35/2016 della COMM.TRIB.REG.
+del LAZIO, depositata il 27/1/2016;
+Udita la relazione della causa svolta in data 14/11/2025 dal Consigliere
+PIERPAOLO GORI.
+FATTI DI CAUSA
+1. La Commissione tributaria regionale del Lazio con sentenza n.
+380/35/2016 depositata il 27/1/2016 rigettava l’appello proposto
+dall’Agenzia delle entrate avverso la sentenza della Commissione tri-
+butaria provinciale di Roma n. 17669/38/2014 di accoglimento del ri-
+corso introduttivo proposto dalla società Monza Immobiliare in Liqui-
+dazione avente ad oggetto l’avviso di accertamento per II.DD. e IVA
+2005.
+2. Si legge nella sentenza impugnata che l’Amministrazione contestava
+alla contribuente l’operazione realizzata con la società MIT Monza In-
+strument Transformes S.r.l. Da tale società la contribuente aveva rice-
+vuto un finanziamento per l’acquisto di un immobile con contestuale
+stipula di un contratto di locazione con la stessa società, divenuta mo-
+rosa e poi fallita. Il curatore fallimentare della società proponeva revo-
+catoria fallimentare sia contro il contratto di locazione sia contro il con-
+tratto di finanziamento.
+Le parti addivenivano ad una transazione in forza della quale, per l’ab-
+bandono di tutti i giudizi pendenti, la contribuente si obbligava a pagare
+al fallimento euro 1.300.000 oltre alla risoluzione consensuale del con-
+tratto di locazione-conduzione e la rinuncia a tutti i canoni pregressi.
+La contribuente emetteva nota di credito relativa ai canoni pregressi e
+2
+
+--- Pagina 3 ---
+
+procedeva alla deduzione della differenza della somma da restituire al
+fallimento.
+L’Agenzia contestava la prima operazione in quanto la nota risultava
+emessa oltre un anno dopo la transazione e la seconda perché corri-
+spondente alla penale da pagare a seguito della transazione stessa.
+3. L’Agenzia ricorre per cassazione per due motivi, cui replica la società
+contribuente con controricorso.
+RAGIONI DELLA DECISIONE
+1. Preliminarmente, va dato atto dell’eccezione sollevata dalla società
+di inammissibilità del ricorso erariale ex art. 365 cod. proc. civ. per
+mancanza di sottoscrizione digitale idonea che consenta l’identifica-
+zione del firmatario, con conseguente nullità dell’avviso, oltre che per
+modalità di notifica prescelte dall’Avvocatura asseritamente contra-
+stanti con la notificazione a mezzo PEC di cui alla legge n. 53/1994,
+senza possibilità di applicazione dell’art. 156 cod. proc. civ..
+2. L’eccezione non è accoglibile.
+2.1. Cass. Sez. U. n. 6477 del 2024 ha chiarito che, se privo dell’ap-
+posizione della firma digitale, il ricorso per Cassazione in forma di do-
+cumento informatico è affetto da un vizio di nullità che è sanabile per
+raggiungimento dello scopo ogni qualvolta possa desumersi la pater-
+nità certa dell’atto processuale da elementi qualificanti, tra i quali la
+notificazione del ricorso nativo digitale dalla casella PEC dell’Avvoca-
+tura generale dello Stato censita nel REGINDE e il successivo deposito
+della sua copia analogica con attestazione di conformità sottoscritta
+dall’Avvocato dello Stato.
+2.2. Quanto poi alla contestazione relativa alla notifica del ricorso,
+essa è assolutamente generica ed esplorativa, non indicando neppure
+quale sia il preteso vizio occorso nel caso in esame, con conseguente
+reiezione dell’eccezione preliminare.
+3
+
+--- Pagina 4 ---
+
+3. Con il primo motivo l’Agenzia ricorrente - ai fini dell’art.360, primo
+comma, n.3, cod. proc. civ. – in riferimento al recupero IVA concer-
+nente la nota di credito, deduce la violazione e falsa applicazione
+dell’art.26, comma 2 e 3, d.P.R. n.633/72 da parte del giudice che ha
+ritenuto corretta l’emissione della nota di credito successivamente al
+perfezionamento della transazione, senza considerare che la nota si
+riferisce a fatture per canoni di locazione maturati da aprile 2003 a
+dicembre 2004.
+4. Il motivo è fondato, nei termini che seguono.
+4.1. L’art. 26, comma 2, d.P.R. n. 633/1972 dispone: «Se un'opera-
+zione per la quale sia stata emessa fattura, successivamente alla re-
+gistrazione di cui agli articoli 23 e 24, viene meno in tutto o in parte,
+o se ne riduce l'ammontare imponibile, in conseguenza di dichiara-
+zione di nullità, annullamento, revoca, risoluzione, rescissione e simili
+o per mancato pagamento in tutto o in parte a causa di procedure
+concorsuali o di procedure esecutive rimaste infruttuose o in conse-
+guenza dell'applicazione di abbuoni o sconti previsti contrattualmente,
+il cedente del bene o prestatore del servizio ha diritto di portare in
+detrazione ai sensi dell'art. 19 l'imposta corrispondente alla varia-
+zione, registrandola a norma  dell'art. 25 (…).».
+Il meccanismo contabile così normato in buona sostanza permette,
+facoltativamente, al prestatore o al cedente, nell’ambito di un’opera-
+zione imponibile, al fine di esercitare il diritto alla detrazione, di emet-
+tere una nota di credito con lo scopo di rettificare l’IVA addebitata a
+titolo di rivalsa, e già versata all’erario, al committente o cessionario,
+e che questa sia registrata nel registro acquisti (art.25) prima della
+liquidazione periodica o della dichiarazione annuale nella quale è eser-
+citato il diritto alla detrazione.
+4
+
+--- Pagina 5 ---
+
+Il successivo comma 3, pone poi un limite temporale qualora, come
+nella presente fattispecie, l’emissione della nota dipende da un ac-
+cordo transattivo: «Le disposizioni del comma precedente non pos-
+sono essere applicate dopo il decorso di un anno dalla effettuazione
+dell'operazione imponibile qualora gli eventi ivi indicati si verifichino
+in dipendenza di sopravvenuto accordo fra le parti e possono essere
+applicate, entro lo stesso termine, anche in caso di rettifica di inesat-
+tezze della fatturazione che abbiano dato luogo all'applicazione del
+settimo comma dell'art. 21.».
+La ratio è all’evidenza non permettere forme di elusione degli obblighi
+verso l’erario e l’Unione europea attraverso lo schermo del meccani-
+smo di variazione dell’IVA.
+4.2. Tale quadro normativo delinea una stringente cornice temporale,
+costantemente applicata dalla Corte (v. ad es. Cass. n.20445 del
+2011; Cass. n.25987 del 2014), che a ben vedere non è neppure con-
+testato dal fallimento, il quale si limita ad affermare che l’accordo sa-
+rebbe stato concluso «nella sua sostanza economica sin dal 2 febbraio
+2005», ma non fornisce alcuna prova di tale circostanza fattuale. Al
+contrario, l’Agenzia fa riferimento al momento, necessariamente do-
+cumentato dalla data del contratto, della sottoscrizione dell’accordo
+transattivo (cfr. p. 4 ricorso «a seguito della transazione di cui sopra,
+in data 28.7.2005 la società vendeva…»), cui ha fatto seguito, in data
+16.11.2005, l’emissione della nota di credito (ibidem); la data della
+transazione è individuata alle pagg. 2 e 11 del ricorso nel 22.7.2005.
+4.3. Pertanto, astrattamente, potrebbe non essere decorso l’anno
+dalla effettuazione dell'operazione imponibile per tutti i canoni di lo-
+cazione: il giudice del rinvio deve accertare, in relazione alle contesta-
+zioni e interpretando il contratto di transazione, innanzitutto se una
+parte dei canoni maturati da aprile 2003 a dicembre 2004 e non pagati
+5
+
+--- Pagina 6 ---
+
+sono divenuti imponibili entro l’ombrello annuale calcolato dalla data
+del contratto di transazione. Inoltre, affinché venga ritenuta (in parte)
+corretta l’emissione della nota di credito, il giudice deve accertare se
+sussistono gli ulteriori presupposti individuati dalla giurisprudenza,
+solo una parte dei quali sono incontestati nella fattispecie: in sintesi,
+serve la prova anche della realizzazione di una operazione imponibile,
+per la quale sia stata emessa fattura, che deve essere vera e reale e
+non già del tutto inesistente (Cass. n.12353 del 2005) e di una causa
+di scioglimento del contratto (Cass. n.987 del 2010); identità delle
+parti dell'accordo risolutorio e del negozio oggetto di risoluzione con-
+sensuale (Cass. n.3380 del 2010); il regolare adempimento degli ob-
+blighi di registrazioni previsti dal d.P.R. n.633/1972 (Cass. n. 9195 del
+2001).
+5. Con il secondo motivo l’Agenzia ricorrente, in relazione all’art.360,
+primo comma, n.3, cod. proc. civ., prospetta la violazione e falsa ap-
+plicazione degli artt.101 e 109 TUIR, per aver il giudice ritenuto inte-
+ramente deducibile l’importo di euro 247.036,34 in quanto stretta-
+mente inerente all’unico bene di proprietà della società in grado di
+produrre reddito, ossia l’immobile prima locato e poi venduto, pur trat-
+tandosi della penale pagata a seguito di una transazione.
+6. Il motivo è infondato, per le ragioni che seguono.
+6.1. Sul piano normativo, va tenuto presente che, in base all’art.109
+T.U.I.R., le spese e gli altri componenti negativi di reddito, di norma,
+sono deducibili se e nella misura in cui si riferiscono ad attività o beni
+da cui derivano ricavi od altri proventi che concorrono a formare il
+reddito. La Corte (Cass., Sez. 5, n. 33574 del 2018; Cass., sez. 5, n.
+450 del 2018) ha condivisibilmente affermato che, in tema di detra-
+zione di costi, l'inerenza dev’essere valutata secondo un giudizio di
+6
+
+--- Pagina 7 ---
+
+carattere qualitativo, e non quantitativo, correlato all'attività di im-
+presa, con la conseguenza che, in tema di IVA, la stessa non può es-
+sere esclusa solo in virtù di un giudizio sulla congruità del costo che
+non condiziona né esclude il diritto alla detrazione, salvo che l'ammi-
+nistrazione finanziaria dimostri la macroscopica antieconomicità della
+operazione, che costituisce elemento sintomatico dell'assenza di cor-
+relazione della stessa con l'esercizio dell'attività imprenditoriale.
+Inoltre, a norma dell’art.101, comma 4, TUIR, nel testo applicabile
+ratione temporis, «Si considerano sopravvenienze passive il mancato
+conseguimento di ricavi o altri proventi che hanno concorso a formare
+il reddito in precedenti esercizi, il sostenimento di spese, perdite od
+oneri a fronte di ricavi o altri proventi che hanno concorso a formare
+il reddito in precedenti esercizi e la sopravvenuta insussistenza di at-
+tività iscritte in bilancio in precedenti esercizi diverse da quelle di cui
+all'articolo 87.».
+Il mezzo di impugnazione afferma che «l’importo in contestazione, de-
+riva dalla differenza tra l’importo da restituire alla società MIT in falli-
+mento pari ad euro 1.300.000 (comprensivo di “penale” come stabilito
+con atto di transazione del 22.7.2005 tra la società verificata e la so-
+cietà fallimento MIT)» (p. 11 ricorso), ossia censura la deducibilità
+dell’importo pagato a titolo di penale.
+Se così fosse, sarebbe applicabile la giurisprudenza della Corte la
+quale ha affermato (cfr. Cass. Sez. 5, n. 16561 del 2017, conforme a
+Cass. n. 19702 del 2011), in tema di imposte dei redditi, che sono
+deducibili dal reddito d'impresa le penalità contrattuali per ritardata
+consegna alla clientela, stabilite in base all'art. 1382 cod. civ., in
+quanto, per la natura di patto accessorio del contratto, inidoneo ad
+interrompere il nesso sinallagmatico, non hanno finalità sanzionatorie
+o punitive, ma, assolvendo la funzione di rafforzare il vincolo negoziale
+7
+
+--- Pagina 8 ---
+
+e predeterminare la misura del risarcimento in caso d'inadempimento,
+sono inerenti all'attività d'impresa.
+6.2. Il Collegio, tuttavia, non condivide la qualificazione giuridica di
+penale contrattuale che, benché usata da entrambe le parti, non può
+vincolare il giudice se non corretta. Il controricorso, a p. 4 afferma che
+la “penale” di euro 247.036,34 è stata pattuita in sede di stipula del
+contratto di transazione «per il risarcimento dei potenziali danni subiti
+dal Fallimento MIT in relazione a vicende societarie pregresse» e, la
+stessa ricorrente specifica che non si tratta di una “penale” vera e
+propria, ma di un importo «precisamente, quale “monetizza-
+zione…dell’ulteriore pregiudizio per la MIT S.r.l., conseguente alla per-
+dita dell’immobile”» (p. 12 ricorso che cita la transazione stessa).
+Dunque, non si tratta di una clausola contrattuale che, ex art. 1382
+cod. civ., rafforzi la garanzia all’adempimento di una prestazione de-
+dotta nel contratto, liquidando in via anticipata (ex ante) l’ammontare
+del danno attraverso la quantificazione di una somma di denaro che
+debba essere pagata se una delle parti non rispetta le obbligazioni
+dedotte nel contratto.
+Piuttosto, l’importo fa parte del contenuto dell’accordo transattivo, ed
+è convenuta dalle parti quale contropartita per l’abbandono delle do-
+mande di revocatoria fallimentare presentate dal curatore fallimentare
+contro la contribuente.
+Quindi, non essendo una penale contrattuale, la giurisprudenza della
+Corte la giurisprudenza della Corte elaborata in base all'art. 1382 cod.
+civ. che ammette la deducibilità della penale contrattuale non trova
+applicazione nel caso in esame.
+6.3. Infatti, per le ragioni sopra esposte, il costo relativo al risarci-
+mento danni scaturito dall'atto di transazione, non origina come la
+penale contrattuale di cui all’art. 1382 cod. civ. da inadempimento, ad
+8
+
+--- Pagina 9 ---
+
+es. per ritardata consegna del bene o esecuzione del servizio e, dun-
+que, pur sempre, attiene al rapporto tra costi e attività d'impresa, non
+riducibile, perciò, ad una relazione necessaria del costo con il reddito
+o con i ricavi e come tali deducibili (Cass. Sez. 5, n. 22938 del 2018).
+Non trova affatto origine in un fatto antigiuridico, qual è l'inadempi-
+mento contrattuale, per sua natura al di là della sfera aziendale, che
+innesca la mora debendi (v. Cass. Sez. 5, n. 1525 del 2023), bensì è
+parte del contenuto stesso del sinallagma transattivo che, semmai, è
+stato determinato dall’inadempimento della società conduttrice la
+quale non ha versato i canoni, e la somma pattuita nella transazione
+costituisce la controprestazione pattuita per l’abbandono delle do-
+mande di revocatoria fallimentare fondate sul prospettato pregiudizio
+della garanzia patrimoniale generica della società (ad es. v. Cass. Sez.
+6-3 n.14478 del 2021) a causa dei due contratti, di finanziamento e
+di vendita con locazione-conduzione, stipulati con la contribuente
+nell’imminenza del fallimento.
+6.4. Del resto, sempre in tema di imposte sui redditi, la Sezione ha
+più volte affermato (v. Cass. n.7722 del 2025; Cass. n.28355 del
+2019), in relazione al comma 5 dell’art.101 TUIR che riguarda il caso
+in cui il debitore è assoggettato a procedure concorsuali, che le somme
+erogate dalla banca ai propri clienti, per prevenire o definire un con-
+tenzioso fondato sulla responsabilità precontrattuale o contrattuale
+dell'istituto di credito nell'espletamento dei servizi finanziari, inte-
+grano costi deducibili nell'esercizio in cui interviene la relativa spesa,
+essendo attinenti al concreto svolgimento dell'attività di impresa.
+Per contra, è importante che le scelte imprenditoriali non siano contra
+ius, ossia antitetiche rispetto al corretto esercizio dell'attività di im-
+presa (v. per un es. di fattispecie in tema di risarcimento transattivo
+di danno biologico in favore di lavoratori affetti da patologie connesse
+9
+
+--- Pagina 10 ---
+
+all'esposizione all'amianto, Cass. n.31930 del 2021), ma la circostanza
+nella presente controversia non è in alcun modo dedotta.
+6.5. Piuttosto, anche nel presente caso di transazione (ragionando, da
+Cass. 27096 del 2025) conta il fatto che la sentenza impugnata ha
+esplicitamente dato conto di aver valutato le ragioni economiche sot-
+tese alla scelta di addivenire a un accordo transattivo con il fallimento,
+accertando, tra l’altro, che «soltanto con la vendita la società avrebbe
+potuto estinguere i debiti con la MIT che, a sua volta, avrebbe potuto
+(cosa che di fatto è avvenuta) pagare integralmente i lavoratori, i quali
+hanno perciò rinunziato al sequestro sull’immobile».
+La transazione intervenuta con il debitore consente al creditore di de-
+durre la perdita che ne deriva e l’intervenuta valutazione positiva del
+giudice sui presupposti di deducibilità della perdita è fondata sulla con-
+siderazione di fatti oggettivi, che rendono ragionevole e giustificata la
+scelta del contribuente di transigere per importo inferiore al credito
+originario, essendo sufficiente che le perdite risultino documentate in
+modo certo e preciso, secondo quanto stabilito dall’art.101, comma 5,
+TUIR.
+Da quanto sopra discende la reiezione della censura.
+7. In conclusione, in accoglimento del primo motivo, nei limiti indicati,
+rigettato il secondo, la sentenza impugnata dev’essere cassata, con
+rinvio alla Corte di giustizia tributaria di secondo grado del Lazio, in
+diversa composizione, in relazione al profilo accolto e per le spese.
+P.Q.M.
+la Corte accoglie il primo motivo ricorso, nei termini di cui in motiva-
+zione, rigettato il secondo, cassa la sentenza impugnata e rinvia alla
+Corte di giustizia tributaria di secondo grado del Lazio, in diversa com-
+posizione, anche per le spese.
+10
+
+--- Pagina 11 ---
+
+Così deciso in Roma, nella camera di consiglio del 14 novembre 2025
+Il Presidente
+Lucio Luciotti
+11
