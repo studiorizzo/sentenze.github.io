@@ -1,0 +1,294 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 2504/2024 R.G. proposto da:
+AGENZIA DELLE ENTRATE (c.f. 06363391001) in persona del Direttore pro
+tempore, rappresentata e difesa dall’Avvocatura Generale dello Stato (c.f.
+80224030587);
+contro
+HCB S.R.L. IN LIQUIDAZIONE (c.f. 02365550900), costituitasi in persona
+della sig.ra Assunta Fiscardi, dichiaratasi liquidatrice, rappresentata e
+difesa dall’Avv. Federica Fortini (c.f. FRTFRC73M43F839A);
+-controricorrente e ricorrente incidentale-
+avverso la sentenza della Corte di Giustizia Tributaria di secondo grado
+della Campania n. 3995/2023 depositata il 23/06/2023.
+Udita la relazione svolta nella camera di consiglio del 26/11/2025 e, a
+seguito di riconvocazione, del 5/2/2026 dal Consigliere Giovanni Galasso.
+FATTI DI CAUSA
+
+--- Pagina 2 ---
+
+1.1 Dalla sentenza impugnata e dagli atti del giudizio risulta che, con
+ricorso alla Commissione tributaria provinciale di Napoli, la HCB S.r.l.
+impugnava l’avviso di accertamento n. TF503AG05279-2019, con il quale
+l’Agenzia delle Entrate aveva accertato, per il periodo d'imposta 2014, ai
+sensi degli artt. 39 e 41 bis del d.P.R. 600/73, e dell’art. 54 comma 5°
+d.P.R. 633/72, maggiori IVA, IRAP ed IRES per l’importo complessivo di €
+701.987,00 in relazione ad operazioni ritenute soggettivamente inesistenti
+rese dalla HCB S.r.l. alla Club Esse S.r.l. In particolare, nell’atto
+impugnato, si affermava che le prestazioni di manutenzione e ristorazione
+rese dalla HCB S.r.l. erano svolte da personale solo formalmente a carico
+di tale società, ma di fatto alle dipendenze della Club Esse S.r.l., sicché la
+HCB S.r.l. era da considerare quale società fittiziamente interposta al solo
+scopo di generare vantaggi di natura fiscale per la Club Esse S.r.l..
+La ricorrente sollevava contestazioni di carattere formale (vizi della
+sottoscrizione digitale, difetto dei poteri di rappresentanza del soggetto
+che aveva sottoscritto l’avviso, carenza di motivazione per mancata
+allegazione del PVC), nonché sostanziale (cessazione della materia del
+contendere per sottoscrizione da parte dalla Club Esse S.r.l. di atti di
+adesione relativi ai medesimi fatti oggetto del PVC posto a fondamento
+dell’avviso, con conseguente estinzione della pretesa anche nei confronti
+della HCB S.r.l., insussistenza della pretesa impositiva, non essendo
+dimostrata l’interposizione fittizia della HCB S.r.l. che, invece, operava
+realmente).
+1.2 Con sentenza n. 630/2022, la Commissione tributaria provinciale di
+Napoli rigettava il ricorso, evidenziando che non erano ravvisabili i vizi
+formali indicati dalla ricorrente e che neppure sussisteva il difetto di
+motivazione, essendo riprodotte nell’avviso le parti rilevanti del PVC ed
+essendo stato svolto il contraddittorio endoprocedimentale. Quanto alle
+rimanenti questioni, rilevava che il pagamento di quanto concordato in
+sede di adesione dalla Club Esse S.r.l. non estingueva la pretesa anche nei
+2
+
+--- Pagina 3 ---
+
+confronti della HCB S.r.l. - giacché le pretese erano solo in minima parte
+coincidenti - e che era dimostrato, in base agli elementi indicati nell’atto, il
+ruolo di società cartiera della HCB S.r.l..
+2. Proponeva appello la HCB S.r.l., ribadendo le contestazioni formali ed
+evidenziando che i poteri del funzionario che aveva sottoscritto l’atto
+erano limitati ad avvisi di accertamento di valore fino ad € 1.000.000,
+mentre, nel caso di specie, il valore dell’atto era superiore; evidenziava
+altresì che la CTP aveva trascurato sostanzialmente le argomentazioni
+volte a sostenere l’infondatezza della pretesa - ed in particolare gli esiti
+del procedimento penale ed i fatti da cui si desumeva che l’HCB era una
+società che operava realmente - nonché l’estinzione della pretesa per
+effetto degli accordi intervenuti tra l’Amministrazione e la Club Esse S.r.l.;
+infine, neppure aveva considerato che solo una delle dieci fatture oggetto
+dell’avviso si riferiva a servizi di manutenzione e ristorazione, mentre le
+altre nove, pure considerate ai fini della determinazione delle imposte
+dovute, erano relative a prestazioni differenti ed in particolare a
+prenotazioni di soggiorni.
+L’Agenzia delle Entrate resisteva all’impugnazione.
+Con sentenza n. 3995/2023 la Corte di giustizia tributaria di secondo
+grado della Campania accoglieva parzialmente l’appello, annullando l’atto
+impugnato limitatamente alla pretesa relativa alle imposte dirette, e
+compensava le spese.
+Riteneva condivisibili le considerazioni svolte dalla CTP in ordine alla
+correttezza sotto il profilo formale dell’atto. Con riguardo al merito,
+considerava dimostrato quanto affermato nell’avviso circa la natura di
+società cartiera della HCB S.r.l.; escludeva tuttavia che dalle fatture per
+operazioni soggettivamente inesistenti potesse desumersi, anche solo in
+via induttiva, un maggior reddito ed annullava per tale motivo l’avviso in
+relazione alle imposte dirette.
+3
+
+--- Pagina 4 ---
+
+3. Avverso tale sentenza l’Agenzia delle Entrate ha proposto ricorso per
+cassazione affidato ad un unico motivo con il quale si sostiene che
+erroneamente la CGT di secondo grado avrebbe annullato l’avviso in
+relazione all’IRES per i maggiori redditi induttivamente accertati.
+Ha resistito con controricorso la HCB S.r.l. che ha altresì proposto ricorso
+incidentale fondato su tre motivi.
+Ha anche depositato memoria ex art. 380 bis.1 c.p.c..
+RAGIONI DELLA DECISIONE
+1. Va preliminarmente osservato che il controricorso con ricorso
+incidentale, notificato e depositato il 4/3/2024, è tempestivo, operando la
+proroga di cui all’art. 155, comma 4°, c.p.c., giacché il termine di
+quaranta giorni dalla notifica del ricorso principale (avvenuta il 23/1/2024)
+scadeva il 3/3/2024 che però era domenica.
+2. Occorre logicamente esaminare prima i motivi di ricorso incidentale,
+giacché si lamenta la nullità della sentenza o, comunque, l’erroneità della
+decisione in ordine alla natura di operazioni soggettivamente inesistenti
+delle prestazioni indicate nelle fatture emesse dalla HCB S.r.l. nei confronti
+della Club Esse S.r.l.; è evidente, quindi, che, ove venisse accolto uno di
+tali motivi, risulterebbe superfluo l’esame dell’unico motivo di ricorso
+principale che riguarda solo i maggiori importi dovuti per le imposte
+dirette, il cui accertamento presuppone l’inesistenza delle operazioni poste
+in essere dall’HCB S.r.l..
+3.1 Con il primo motivo di ricorso incidentale, la società contribuente
+lamenta il vizio di cui all’art. 360, comma 1°, n. 4) c.p.c. per violazione
+degli artt. 32, comma 2°, n. 4) c.p.c. e 36, comma 2°, n. 4) d.lgs.
+546/1992. Con tale motivo la società sostiene che la CGT di secondo
+grado avrebbe reso una motivazione solo apparente in ordine alle ragioni
+per le quali doveva ritenersi che l’HCB S.r.l. aveva emesso fatture per
+operazioni soggettivamente inesistenti, neppure richiamando la già scarna
+motivazione della sentenza di primo grado, né dando atto delle
+4
+
+--- Pagina 5 ---
+
+contestazioni sul punto sollevate con l’atto di appello. La motivazione si
+esauriva infatti nella seguente espressione «nel caso in esame - in
+presenza di una società c.d. “cartiera”, caratterizzata dall’assenza di
+versamenti di imposte; di organizzazione aziendale - si ravvedono tutti gli
+indizi per avvalorare una presunzione, grave, precisa e concordante, che
+assurge ad elemento di prova della fittizietà delle operazioni attive poste
+in essere».
+3.2 Con il terzo motivo di ricorso incidentale - strettamente legato al
+primo e pertanto da esaminare congiuntamente ad esso – la società
+deduce il vizio di cui all’art. 360, comma1°, n. 4) c.p.c. per violazione
+degli artt. 132, comma 2, n. 4 c.p.c. e 36, comma 2, n. 4, d.lgs. n.
+546/1992 in quanto la CGT non aveva fornito alcuna motivazione in ordine
+alla questione dell’entità delle imposte accertate; la contribuente, sia con
+il ricorso di primo grado che con quello di appello, aveva dedotto che le
+operazioni ritenute soggettivamente inesistenti erano solo quelle che
+riguardavano i servizi di ristorazione e manutenzione; ciò nonostante,
+l’entità delle imposte dovute era stata calcolata tenendo conto di tutte le
+dieci fatture emesse dalla HCB S.r.l. nei confronti della Club Esse S.r.l.,
+nove delle quali, però, riguardavano prestazioni diverse, aventi ad oggetto
+prenotazioni di soggiorni.
+3.3 I motivi sono fondati.
+Va osservato che il vizio di mancanza di motivazione o di motivazione
+apparente (che comporta la nullità della sentenza), dopo la riforma
+dell’art. 360 c.p.c. ad opera del d.l. 83/2012 conv. in l. 134/2012, ricorre
+solo quando la motivazione sia del tutto mancante sotto il profilo grafico o
+meramente apparente oppure quando sia caratterizzata da un «contrasto
+irriducibile tra affermazioni inconciliabili» o da affermazioni incomprensibili
+(così Cass. Sez. U. 8053/2014).
+In particolare, «la motivazione è solo apparente, e la sentenza è nulla
+perchè affetta da "error in procedendo", quando, benché graficamente
+5
+
+--- Pagina 6 ---
+
+esistente, non renda, tuttavia, percepibile il fondamento della decisione,
+perché recante argomentazioni obbiettivamente inidonee a far conoscere il
+ragionamento seguito dal giudice per la formazione del proprio
+convincimento, non potendosi lasciare all'interprete il compito di integrarla
+con le più varie, ipotetiche congetture» (Cass. Sez. U. 22232/2016; nello
+stesso senso Cass. n. 22598/2018).
+Nel caso di specie non è possibile individuare il percorso logico seguito dal
+giudice d’appello per pervenire al proprio convincimento in ordine alla
+natura fittizia, sotto il profilo soggettivo, delle operazioni in esame. Ed
+infatti, la CTR si limita a fare riferimento ad una società “caratterizzata
+dall’assenza di versamenti di imposte; di organizzazione aziendale”,
+sintomi tipici della natura fraudolenta delle operazioni poste in essere dalla
+società, senza però alcuna indicazione degli elementi fattuali dai quali tali
+sintomi sono stati desunti. In particolare, non deduce alcunché in ordine
+alle circostanze da cui dovrebbe trarsi l’assenza di organizzazione
+aziendale che resta, dunque, un’affermazione astratta, slegata dai fatti
+dedotti dalle parti.
+3.4 Il fatto che la motivazione così stringata e priva di riferimenti ad
+elementi di fatto non raggiunga il cd. “minimo costituzionale”,
+indispensabile per escludere il vizio denunciato con il primo motivo di
+ricorso incidentale, emerge anche da quanto dedotto con il terzo motivo.
+Ed infatti, la società sia con il ricorso di primo grado che con il quinto
+motivo di appello (nel rispetto del principio di specificità la ricorrente ha
+sia trascritto il motivo, sia indicato che la questione era trattata alle
+pagine 20 e 21 dell’atto di appello) aveva osservato che, sebbene le
+operazioni ritenute soggettivamente inesistenti fossero soltanto quelle che
+riguardavano i servizi di ristorazione e manutenzione, tuttavia l’entità
+delle imposte dovute era stata calcolata tenendo conto di tutte le dieci
+fatture emesse dalla HCB S.r.l. nei confronti della Club Esse S.r.l., nove
+6
+
+--- Pagina 7 ---
+
+delle quali, però, riguardavano prestazioni diverse, aventi ad oggetto
+prenotazioni di soggiorni.
+Su tale questione, però, il giudice d’appello non ha fornito alcuna
+motivazione. Essa peraltro è di particolare rilievo, atteso che non è solo
+destinata ad incidere sul quantum della pretesa; se fosse fondata, infatti,
+potrebbe escludere anche la circostanza – posta dalla CTR, in maniera del
+tutto astratta, a fondamento della scarna motivazione sopra riportata -
+che la società è priva di organizzazione aziendale, giacché dovrebbe
+concludersi che essa sarebbe comunque in grado di svolgere quanto meno
+le prestazioni di prenotazione di soggiorni. È dunque evidente che la
+sentenza resa dal giudice di appello - che trascura i fatti evidenziati dalle
+parti per giungere a conclusioni astratte e prive di riferimento agli
+elementi sulle quali le stesse dovrebbero fondarsi - è viziata da
+motivazione apparente.
+Pertanto, il primo ed il terzo motivo del ricorso incidentale devono essere
+accolti.
+4.1 Con il secondo motivo di ricorso incidentale, infine, la contribuente
+denuncia il vizio di nullità della sentenza di cui all’art. 360, comma 1°, n.
+4) c.p.c. per violazione degli artt. 132, comma 2, n. 4) c.p.c., 36, comma
+2, n. 4 d.lgs. 546/1992; osserva infatti che la CGT di secondo grado ha
+omesso di pronunciarsi in ordine al quarto motivo di appello (che, nel
+rispetto del principio di specificità, la ricorrente ha trascritto nel ricorso per
+cassazione, indicando altresì che era trattato nelle pagine 13 e 14 dell’atto
+di appello), con il quale si contestava la decisione adottata dal giudice di
+prime cure con riguardo all’estinzione della pretesa fiscale per effetto degli
+accordi raggiunti in sede di adesione (di cui la HCB S.r.l. aveva dichiarato
+di voler approfittare ai sensi dell’art. 1304 c.c.) tra l’Agenzia delle Entrate
+e la coobbligata Club Esse S.r.l., non rinvenendosi nella sentenza
+impugnata alcun accenno alla questione.
+7
+
+--- Pagina 8 ---
+
+4.2 Anche tale motivo è fondato, sebbene la ricorrente, tra le norme
+violate, avrebbe dovuto più correttamente indicare l’art. 112 c.p.c.;
+l’omessa indicazione di tale norma nell’intestazione del motivo non ne
+determina comunque l’inammissibilità, essendo chiaro il contenuto dello
+stesso (cfr. Cass. n. 4233/2012; Cass. n. 25044/2013; Cass. n.
+21819/2017).
+Al riguardo va ricordato che «l'omessa pronuncia su alcuni dei motivi di
+appello - così come l'omessa pronuncia su domanda, eccezione o istanza
+ritualmente introdotta in giudizio - risolvendosi nella violazione della
+corrispondenza tra il chiesto e il pronunciato, integra un difetto di attività
+del giudice di secondo grado, che deve essere fatto valere dal ricorrente
+non con la denuncia della violazione di una norma di diritto sostanziale ex
+art. 360, n.3, c.p.c., o del vizio di motivazione ex art. 360, n.5, c.p.c., in
+quanto siffatte censure presuppongono che il giudice del merito abbia
+preso in esame la questione oggetto di doglianza e l'abbia risolta in modo
+giuridicamente non corretto ovvero senza giustificare (o non giustificando
+adeguatamente) la decisione al riguardo resa, ma attraverso la specifica
+deduzione del relativo "error in procedendo" - ovverosia della violazione
+dell'art. 112 c.p.c., in relazione all'art. 360, n.4, c.p.c. - la quale soltanto
+consente alla parte di chiedere e al giudice di legittimità - in tal caso
+giudice anche del fatto processuale - di effettuare l'esame, altrimenti
+precluso, degli atti del giudizio di merito e, così, anche dell'atto di appello
+[…]» (Cass. n. 29952/2022; nello stesso senso, cfr. Cass. n. 1755/2006;
+Cass. n. 21444/2024).
+Nel caso di specie, su tale motivo di appello, autonomamente e
+specificamente dedotto, la CGT di secondo grado non si è pronunciata,
+sicché certamente sussiste il vizio denunciato.
+Deve escludersi, peraltro, che possa ritenersi che sia intervenuta una
+statuizione implicita, giacché tale ipotesi sussiste «quando la pretesa non
+espressamente esaminata risulti incompatibile con l'impostazione logico-
+8
+
+--- Pagina 9 ---
+
+giuridica della pronuncia, nel senso che la domanda o l'eccezione, pur non
+espressamente trattate, siano superate e travolte dalla soluzione di altra
+questione, il cui esame presuppone, come necessario antecedente logico-
+giuridico, la loro irrilevanza o infondatezza» (Cass. n. 25710/2024; nello
+stesso senso, cfr. Cass. n. 12131/2023). La questione degli effetti sulla
+pretesa fiscale dell’accertamento con adesione, invece, non è
+incompatibile con la ritenuta inesistenza sotto il profilo soggettivo delle
+prestazioni rese dalla HCB S.r.l. sulla quale si fonda la sentenza
+impugnata.
+Il motivo deve quindi essere accolto.
+5. Resta quindi assorbito l’unico motivo di ricorso principale, dal momento
+che esso presupponeva che rimanesse ferma la decisione della CGT in
+ordine all’inesistenza sotto il profilo soggettivo delle operazioni compiute
+dalla HCB S.r.l..
+6. In definitiva, vanno accolti i tre motivi di ricorso incidentale e va
+dichiarato assorbito l’unico motivo di ricorso principale. La sentenza
+impugnata va dunque cassata in relazione ai motivi accolti, con rinvio alla
+Corte di giustizia tributaria di secondo grado della Campania che, in
+diversa composizione, dovrà decidere la controversia e provvedere anche
+in ordine alle spese del giudizio di legittimità.
+P.Q.M.
+La Corte accoglie i tre motivi di ricorso incidentale e dichiara assorbito
+l’unico motivo di ricorso principale; cassa la sentenza impugnata in
+relazione ai motivi accolti e rinvia alla Corte di giustizia tributaria di
+secondo grado della Campania, in diversa composizione, cui demanda di
+provvedere anche in ordine alle spese del giudizio di legittimità.
+Così deciso all’esito della camera di consiglio del 26/11/2025 e, a seguito di
+riconvocazione, del 05/02/2026.
+La Presidente
+Tania Hmeljak
+9

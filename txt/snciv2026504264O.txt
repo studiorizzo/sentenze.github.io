@@ -1,0 +1,364 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Oggetto: operazioni intracomunitarie
+ORDINANZA
+sul ricorso iscritto al n. 10247/2025 proposto da
+CORE INFORMATICA S.R.L. in liquidazione giudiziale in persona del legale
+rappresentante pro tempore rappresentata e difesa in forza di procura
+speciale in atti dall’avv. Gabriele Sepio
+– ricorrente –
+contro
+AGENZIA DELLE ENTRATE in persona del Direttore pro tempore
+rappresentata e difesa come per legge dall’Avvocatura Generale dello Stato
+- controricorrente –
+per la cassazione della sentenza della Corte di giustizia tributaria di II grado
+del Piemonte n. 222/02/2025, depositata in data 18/03/2025, non
+notificata;
+
+--- Pagina 2 ---
+
+udita la relazione della causa svolta nell’adunanza camerale del 16/01/2026
+dal Consigliere Roberto Succio
+Fatti di causa
+Con distinti ricorsi, poi riuniti, la CORE INFORMATICA s.r.l. adiva la
+Corte di Giustizia Tributaria di primo grado di Torino al fine di proporre
+impugnazione avverso gli avvisi di accertamento n. T7G030102412/2020
+(per il 2015) e n. T7G030102413/2020 (per il 2016), nonché avverso gli
+atti di irrogazione sanzioni n. T7GIR0100003/2021 (per il 2015) e n.
+T7GIR0100002/2021 (per il 2016). Con tali atti impostivi, l’Agenzia delle
+Entrate, Direzione Provinciale II di Torino, aveva disconosciuto la detrazione
+dell’Iva “a monte” relativa a compravendite di beni, operate dalla ricorrente
+con fattura senza applicazione di imposta, inerenti a cessioni
+intracomunitarie ritenute soggettivamente inesistenti.
+Il giudice di primo grado aveva accolto il ricorso della società,
+ritenendo che l’IVA fosse stata regolarmente assolta dai fornitori, salvo un
+caso, e che la documentazione prodotta comprovasse l’effettivo trasporto
+dei beni, rafforzato dalle fatture di trasportatori e spedizionieri. Inoltre,
+riteneva che gli elementi indiziari di consapevolezza della frode da parte
+della CORE INFORMATICA fossero insufficienti e che non risultasse
+coinvolgimento degli amministratori nel procedimento penale
+Appellava l’Ufficio.
+La sentenza di secondo grado ha accolto l’impugnazione rilevando
+come vi fosse stato un incremento anomalo delle compravendite di prodotti
+informatici, con fatturati elevati e prodotti di scarsa varietà. Vi era inoltre
+la presenza di un broker (N2C S.r.l., rappresentato da Alessio Pozzoli) che
+organizzava interamente le operazioni, indicando fornitori, clienti, prezzi e
+margini, con un ruolo passivo della CORE INFORMATICA. I Clienti e fornitori
+avevano strutture aziendali inconsistenti o inesistenti, assenza di
+Cons. Est. Roberto Succio - 2
+
+--- Pagina 3 ---
+
+dipendenti, bilanci mancanti o in perdita, codici attività non coerenti con il
+commercio di prodotti informatici. Avevano luogo ordini e pagamenti
+anticipati anomali, con frequenti sostituzioni di clienti e fornitori, e trasporti
+effettuati tra siti di logistica senza passare dalla CORE INFORMATICA. La
+documentazione formale (fatture, DDT, lettere di vettura) era nei fatti
+presente ma insufficiente a provare l’effettività delle operazioni. Con
+riguardo al procedimento penale, infine, vi erano ivi elementi di indagine
+penale che confermavano la frode carosello, con la descrizione dettagliata
+del meccanismo illecito, qualificando la CORE INFORMATICA come società
+“innesco” coinvolta nel sistema fraudolento; venivano in rilevo anche
+dichiarazioni di indagati che confermavano la natura fittizia delle operazioni
+e la ripetizione continua degli stessi beni in molteplici “giri”.
+La Corte evidenzia che la società non ha contestato i fatti ma ha
+negato la propria consapevolezza, sostenendo di aver adottato procedure
+di controllo. Tuttavia, tali procedure – secondo la sentenza di appello - si
+limitavano a controlli formali (verifica partita IVA, visure camerali) senza
+approfondimenti sostanziali sulle reali capacità operative dei fornitori e
+clienti. La presenza di un broker che gestiva integralmente le operazioni e
+la frequenza e dimensione anomale delle transazioni avrebbero dovuto
+indurre la società a sospettare la frode. Inoltre, il legale rappresentante ha
+ammesso dubbi sulla regolarità soggettiva delle operazioni e che alcune
+licenze software non erano mai state attivate, segno di una consapevolezza
+almeno sospetta. La documentazione formale e i pagamenti non sono stati
+ritenuti sufficienti a escludere la partecipazione alla frode. La Corte ha
+quindi riformato la pronuncia di primo grado e confermata la legittimità del
+recupero IVA e delle sanzioni irrogate, ritenendo proporzionata la misura
+minima prevista dalla legge, anche in ragione della gravità del
+comportamento fraudolenta.
+Ricorre a questa Corte la società contribuente con atto affidato a
+quattro motivi di impugnazione illustrati da memoria.
+Cons. Est. Roberto Succio - 3
+
+--- Pagina 4 ---
+
+Resiste l’Agenzia delle Entrate con controricorso.
+Il Consigliere delegato ha depositato proposta di definizione
+accelerata ex art. 380 bis c.p.c. a fronte della quale parte ricorrente ha
+chiesto la decisione del Collegio
+Ragioni della decisione
+Il primo motivo di ricorso lamenta la violazione e/o falsa applicazione
+dell’art. 115 c.p.c., nonché degli artt. 2697 c.c. e 19 del d.P.R. 633 del
+1972, ai sensi dell’art. 360, comma 1, n. 3) del codice di procedura civile.
+In relazione alla violazione dell’art. 115 c.p.c. Con il primo sottoparagrafo,
+CORE censura la violazione dell’art. 115 c.p.c. per avere il Giudice d’appello
+ritenuto erroneamente applicabile il principio di non contestazione a fronte
+di fatti che in realtà sono stati ampiamente, espressamente e puntualmente
+contestati nel giudizio di merito. La sentenza di appello ha, dunque –
+secondo la ricorrente - violato l’art. 115 c.p.c., dando valore a elementi
+considerati “non contestati” senza che ne ricorressero i presupposti. In
+relazione alla violazione e/o falsa applicazione degli artt. 19 del d.P.R. 633
+del 1972 e 115 c.p.c., con il secondo sottoparagrafo, CORE censura la
+sentenza nella parte in cui, nuovamente errando nell’applicazione del
+principio di non contestazione, ha posto alla base della decisione non solo
+fatti specificatamente contestati ma anche fatti estranei al thema
+decidendum et probandum e, per tale ragione, non rientranti nell’onere di
+contestazione della Società. Il Giudice, infatti, avrebbe dovuto – ancora
+secondo la ricorrente - preliminarmente valutare se i fatti ritenuti non
+contestati fossero funzionali ad accertare se la contribuente avesse assolto
+l’onere di diligenza per potersi avvedere dell’esistenza di una frode
+commessa da soggetti terzi: tuttavia questa verifica è stata omessa e il
+Giudice ha posto alla base della decisione fatti oggettivamente non
+conoscibili dalla ricorrente, in violazione anche dell’art. 19 del d.P.R. 633
+Cons. Est. Roberto Succio - 4
+
+--- Pagina 5 ---
+
+del 1972, che subordina l’esclusione del diritto alla detrazione solo in
+presenza di elementi oggettivi conoscibili al contribuente. In relazione alla
+successiva violazione e/o falsa applicazione degli artt. 2697 c.c. e 19 del
+d.P.R. 633 del 1972, proposta con il terzo sottoparagrafo, è stata censurata
+la sentenza impugnata nella parte in cui ha addossato alla società un onore
+probatorio che non è a suo carico, in violazione degli artt. 2697 c.c. e 19
+del d.P.R. 633 del 1972. Con riferimento alla contestazione relativa alle
+operazioni soggettivamente inesistenti, ha – secondo la ricorrente -
+ingiustamente ritenuto non sufficiente gli adempimenti, tutti documentati,
+posti in essere da CORE per accertarsi dell’esistenza delle sue controparti
+contrattuali. Con riferimento alla contestazione relativa alle operazioni
+oggettivamente inesistenti, il Giudice ha – sempre a detta della ricorrente -
+ingiustamente ritenuto insufficiente tutta la documentazione prodotta da
+CORE, conforme al diritto europeo e nazionale, volta ad attestare l’esistenza
+oggettiva delle operazioni, attribuendole l’onere di provare la destinazione
+dei beni al consumo finale, pur essendo la Società un soggetto intermedio
+della catena commerciale.
+Il motivo è inammissibile.
+Sotto l’apparente denuncia della violazione di legge, si contestano suo
+tramite accertamenti e valutazioni di fatto compiuti dal giudice d’appello,
+che si risolvono nella contestazione della valorizzazione degli elementi
+istruttori, ossia in una richiesta di revisione dei mezzi probatori che il giudice
+di seconde cure ha ritenuto idonei per il raggiungimento della prova,
+riesame estraneo alla natura ed alla finalità del giudizio di legittimità (Cass.
+SS. UU. n. 34476/2019; Cass. n. 27992/2024).
+Inoltre, la doglianza è inammissibile perché l'accertamento della
+sussistenza di una contestazione ovvero d'una non contestazione – sul
+quale si insiste ancora anche in memoria - rientrando nel quadro
+dell'interpretazione del contenuto e dell'ampiezza dell'atto della parte, è
+Cons. Est. Roberto Succio - 5
+
+--- Pagina 6 ---
+
+funzione del giudice di merito, sindacabile in cassazione solo per vizio di
+motivazione (Cass. n. 27490/2019).
+Non risulta, poi, la dimostrazione che il giudice di seconde cure abbia
+posto a fondamento della decisione prove non introdotte dalle parti e
+disposte di sua iniziativa fuori dei poteri officiosi riconosciutigli, essendo
+invece consentito dall’art. 116 c.p.c. che nell’attività di valutazione delle
+prove proposte dalle parti il giudice abbia attribuito maggior forza di
+convincimento ad alcune piuttosto che ad altre, né che il giudice d’appello
+abbia attribuito l'onere della prova ad una parte diversa da quella su cui
+esso avrebbe dovuto gravare (Cass. n. 26739/2024; Cass. n. 26769/2018).
+Il rimando operato, anche in memoria, agli elementi di fatto non
+valorizzati dalla sentenza impugnata (pag. 8 della memoria, ultime righe),
+è indice ulteriore della sollecitazione a rivisitare il merito, sollecitazione che
+non può trovare spazio in questa sede di Legittimità.
+Il secondo motivo di ricorso censura la pronuncia gravata per
+violazione e/o falsa applicazione degli artt. 2727 e 2729 c.c.: denunzia ai
+sensi dell’art. 360, comma 1, n. 3) del codice di procedura civile.
+Con il secondo motivo, CORE censura la sentenza di merito nella parte
+in cui, da un lato, ha valorizzato elementi di fatto, non funzionali al thema
+decidendum, e per tale ragione – si sostiene - non idonei a integrare delle
+presunzioni semplici a norma degli artt. 2727 e 2729 c.c. e, da un altro lato,
+ha omesso di valutare atomisticamente i singoli elementi addotti dall’Ufficio,
+limitandosi ad esaminarli sommariamente nel loro insieme, incorrendo così
+nella violazione delle norme appena citate.
+Tale secondo motivo è inammissibile.
+La censura qui in esso proposta impinge nel merito, chiedendo un
+accertamento di fatto in ordine alla valorizzazione degli elementi idonei ad
+integrare le presunzioni semplici; la censura è, altresì, inammissibile anche
+per violazione dell’art. 360 bis c.p.c., avendo il giudice d’appello deciso la
+questione di diritto in modo conforme alla giurisprudenza di questa Corte
+Cons. Est. Roberto Succio - 6
+
+--- Pagina 7 ---
+
+(Cass. n. 24471/2022; Cass. n. 12895/2024; Cass. n. 3948/2025; Cass. n.
+8711/2025) e l’esame del motivo non offre elementi per mutarne
+l’orientamento.
+Né può ritenersi viziata la valutazione degli elementi indiziari operata
+dalla sentenza impugnata, come si ribadisce in memoria. E’ certo vero che
+il grado di probabilità che, partendo dalla conoscenza del fatto noto giunge
+a provare l’esistenza del fatto ignoto, passa non solo dalla necessaria
+intermediazione della massima di comune esperienza (che nel caso di specie
+dovrebbe portare a escludere la conoscenza o conoscibilità del meccanismo
+fraudolento dell’IVA messo in atto dal cedente), ma anche dalla valutazione
+complessiva di tutti gli elementi indiziari a disposizione del giudice, che deve
+verificare se siano concordanti e se la loro combinazione consenta una
+valida prova presuntiva (c.d. convergenza del molteplice), non
+raggiungibile, invece, attraverso un'analisi atomistica degli stessi (Cass. n.
+9054/2022). Ma è altrettanto vero che nel presente caso la sentenza di
+merito, attenendosi alle indicazioni della giurisprudenza di questa Corte
+(cfr., anche ex multis, Cass. n. 11267/2020, Cass. n. 22625/2022, Cass. n.
+21926/2024), ha proceduto a una valutazione complessiva e comparata
+degli elementi indiziari offerti hinc et inde. Non appare, pertanto,
+configurabile la prospettata violazione dell’art. 2729 c.c.
+Il terzo motivo di ricorso si incentra sulla nullità della sentenza per
+violazione degli artt. 111, comma 6 Cost. e 132, comma 2, n. 4 c.p.c. per
+avere il Giudice omesso di motivare in ordine al quantum di diligenza
+necessario ai fini dell’art. 19 del d.P.R. n. 633 del 1972: denunzia ai sensi
+dell’art. 360, comma 1, n. 4) del codice di procedura civile.
+Con il terzo motivo, CORE ha censura il capo della sentenza relativo
+all’accertamento del quantum di diligenza ad essa richiesto per escludere il
+disconoscimento del diritto alla detrazione dell’IVA. In particolare, a detta
+della società ricorrente, il Giudice ha ritenuto insufficiente la diligenza di
+CORE (che aveva posto in essere controlli documentali, interrogazioni VIES,
+Cons. Est. Roberto Succio - 7
+
+--- Pagina 8 ---
+
+visure, in conformità a quanto richiesto dalla legge e dalla giurisprudenza
+elaborata sul punto), senza chiarire, tuttavia, quale avrebbe dovuto essere
+il quantum di diligenza richiesto per conservare il diritto alla detrazione IVA.
+Così operando, sostiene ancora la ricorrente, il giudice di appello si è
+pronunciato in maniera del tutto apparente poiché ha omesso di spiegare
+quale condotta avrebbe dovuto seguire CORE per integrare la diligenza ad
+essa richiesta.
+Il motivo, che denuncia l’apparenza della motivazione, è
+manifestamente infondato.
+Non ricorre nella fattispecie alcuna anomalia motivazionale che si
+tramuta in violazione di legge costituzionalmente rilevante (Cass. Sez. Un.
+n. 8053/2014), potendosi altresì ricavare il procedimento logico-
+motivazionale dall’intero corpo della articolata pronuncia (Cass. n.
+32102/2018).
+Il quarto motivo deduce la violazione e/o falsa applicazione degli artt.
+2697 c.c. e dell’art. 45-bis del regolamento UE di esecuzione n. 282/2011:
+denunzia ai sensi dell’art. 360, comma 1, n. 3) del codice di procedura civile.
+Con il quarto motivo, CORE censura la sentenza impugnata nella parte
+in cui ha ritenuto non integrata la presunzione legale di cui all’art. 45 bis
+del Regolamento UE n. 282 del 2011, pur a fronte dell’allegazione di tutta
+la documentazione richiesta dalla disposizione citata (documenti CMR,
+lettere di vettura e fatture di trasporto, etc.). In particolare, il Giudice ha
+ritenuto la documentazione irrilevante e non idonea a integrare la
+presunzione legale di effettività delle operazioni, nonostante l’esistenza e la
+veridicità di tali documenti costituisce fatto pacifico. Così operando, sostiene
+la ricorrente, esso ha violato le norme in rubrica, poiché ha tratto dal fatto
+noto (il possesso dei documenti) non già la conseguenza prevista dalla legge
+(ossia la prova della cessione intracomunitaria) bensì una conseguenza
+differente, ossia l’irrilevanza del possesso dei documenti medesimi ad
+integrare la presunzione in esame.
+Cons. Est. Roberto Succio - 8
+
+--- Pagina 9 ---
+
+Il motivo è manifestamente infondato.
+In primo luogo, va sottolineato che l’art. 45 bis del regolamento di
+esecuzione n. 282/2011 è la disposizione che prevede, ai fini
+dell’applicazione delle esenzioni di cui all’art. 138 della direttiva IVA, norme
+relative alla cessione intracomunitaria di beni. In particolare, l’art. 45 bis di
+tale regolamento di esecuzione dispone, in sostanza, che si presume che i
+beni siano stati spediti o trasportati dal territorio di uno Stato membro verso
+una destinazione esterna al proprio territorio ma nell’Unione nei casi previsti
+al paragrafo 1, lettere a) o b).
+Pertanto, occorre, in sostanza, che il venditore di tali beni sia in
+possesso di documenti che soddisfino dei requisiti specifici menzionati in tali
+disposizioni.
+Tuttavia, in forza dell’art. 45 bis, paragrafo 2, di tale regolamento di
+esecuzione, un’autorità fiscale può refutare tale presunzione. Per quanto
+riguarda l’interpretazione letterale dell’art. 45 bis del regolamento di
+esecuzione n. 282/2011, occorre constatare che tale articolo elenca i casi
+nei quali esiste una presunzione che i beni siano stati spediti o trasportati
+dal territorio di uno Stato membro verso una destinazione esterna al proprio
+territorio ma nell’Unione, ai fini dell’esenzione dall’IVA di cui all’art. 138,
+paragrafo 1, della direttiva IVA. Dalla formulazione dell’articolo 45 bis di
+detto regolamento di esecuzione risulta che tale articolo prevede i casi in
+cui si applica una presunzione, ma non elenca in modo esaustivo gli
+elementi di prova necessari per dimostrare l’esistenza di una cessione
+intracomunitaria. Di conseguenza, qualora le condizioni di applicazione della
+presunzione non siano soddisfatte, le autorità fiscali sono tenute a valutare
+qualsiasi elemento di prova fornito dal venditore dei beni al fine di
+determinare se quest’ultimo sia riuscito a dimostrare che tali beni sono stati
+oggetto di una cessione intracomunitaria.
+Invero, la presunzione di cessione dei beni prevista dall’art. 45-bis del
+Regolamento UE n. 282/2011 può essere rifiutata (Cass. n. 30889/2023),
+Cons. Est. Roberto Succio - 9
+
+--- Pagina 10 ---
+
+potendo l’Ufficio fornire la prova contraria in ordine all’operatività di tale
+presunzione; nel caso di specie, è stato contestato il profilo relativo –
+quanto alle operazioni contestate – della loro falsità: la falsità investe infatti
+l’intera operazione commerciale, che si assume non esistente o comunque
+non esistente tra i soggetti formalmente indicati nelle fatture e nella
+documentazione, mentre la non applicazione dell’iva investe – ferma
+restando l’esistenza in natura dell’operazione – la collocazione fisica,
+geografica, dei beni oggetto dell’operazione, che esistono ma sono venuti a
+collocarsi in un luogo differente da quello indicato nella fatture e nella
+documentazione.
+Si tratta di un profilo del tutto diverso, quindi, da quello disciplinato
+dalla disposizione sopra richiamata, la quale – secondo la Corte del
+Lussemburgo – va interpretata nel senso che osta a che un’esenzione
+dall’imposta sul valore aggiunto ai sensi dell’art. 138, paragrafo 1, della
+direttiva 2006/112, come modificata dalla direttiva 2018/1910, sia negata
+per il solo motivo che non sono stati forniti gli elementi di prova
+dell’esistenza di una cessione intracomunitaria quali previsti all’articolo
+45 bis del regolamento di esecuzione n. 282/2011, come modificato dal
+regolamento di esecuzione 2018/1912 e, dall’altro lato, essi impongono alle
+autorità fiscali nazionali di valutare qualsiasi elemento di prova prodotto per
+determinare che i beni sono stati spediti o trasportati dal territorio di uno
+Stato membro verso una destinazione esterna al proprio territorio ma
+nell’Unione, fuori dai casi di presunzione di cui all’art. 45 bis, paragrafo 1,
+del regolamento di esecuzione n. 282/2011, come modificato dal
+regolamento di esecuzione 2018/1912 (CGUE, sent. 13 novembre 2025, C-
+639/24, Flo Veneer d.o.o.).
+Conclusivamente, quindi, il ricorso va rigettato.
+Le spese di lite sono regolate dalla soccombenza.
+Poiché la presente decisione fa seguito ad istanza di decisione
+proposta al Collegio in seguito alla comunicazione di proposta di definizione
+Cons. Est. Roberto Succio - 10
+
+--- Pagina 11 ---
+
+accelerata del giudizio ex art. 380 bis c.p.c. va applicata la giurisprudenza
+di questa Corte (si vedano in termini le pronunce Cass. Sez. Un. n.
+28540/2023; Cass. Sez. Un. n. 27195/2023; ancora, conforme alle
+precedenti risulta la recente Cass. n. 31839/2023) secondo la quale in tema
+di procedimento per la decisione accelerata dei ricorsi inammissibili,
+improcedibili o manifestamente infondati, l'art. 380 - bis, comma 3, c.p.c.
+(come novellato dal d. Lgs. n. 149 del 2022) - che, nei casi di definizione
+del giudizio in conformità alla proposta, contiene una valutazione legale
+tipica della sussistenza dei presupposti per la condanna ai sensi del terzo e
+del quarto comma dell'art. 96 c.p.c. codifica un'ipotesi normativa di abuso
+del processo, poiché il non attenersi ad una valutazione del proponente, poi
+confermata nella decisione definitiva, lascia presumere una responsabilità
+aggravata del ricorrente.
+Pertanto, va liquidata a carico di parte ricorrente in favore della
+controricorrente la somma di euro 30.000,00 per compensi e l’ulteriore
+somma di euro 15.000,00 ex art. 96 c. 3 c.p.c., cui aggiungersi la somma
+di euro 5.000,00 ex art. 96 c. 4 c.p.c. da versarsi – sempre ad opera di
+parte ricorrente – alla cassa delle ammende
+p.q.m.
+rigetta il ricorso; condanna parte ricorrente al pagamento delle spese
+processuali in favore di parte controricorrente che liquida in euro 30.000,00,
+oltre a spese prenotate a debito cui aggiungersi – sempre a favore della
+parte controricorrente - la somma di euro 15.000,00 ex art. 96 c. 3 c.p.c.,
+oltre alla somma ulteriore di euro 5.000,00 ex art. 96 c. 4 c.p.c. da versarsi
+– sempre ad opera di parte ricorrente – alla cassa delle ammende.
+Ai sensi dell'art. 13 comma 1 quater del d.p.r. n. 115 dei 2002,
+inserito dall'art. 1, comma 17 della L. n. 228 del 2012, si dà atto della
+sussistenza dei presupposti processuali per il versamento, da parte della
+Cons. Est. Roberto Succio - 11
+
+--- Pagina 12 ---
+
+ricorrente, dell'ulteriore importo a titolo di contributo unificato pari a quello
+dovuto per il ricorso a norma del comma 1-bis, dello stesso art. 13, se
+dovuto.
+Così deciso in Roma, il 16 gennaio 2026.
+Il Presidente
+Giuseppe Fuochi Tinarelli
+Cons. Est. Roberto Succio - 12
