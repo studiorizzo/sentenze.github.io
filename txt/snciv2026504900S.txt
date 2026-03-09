@@ -1,0 +1,303 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 514/2024 R.G. proposto da:
+AGENZIA DELLE ENTRATE, elettivamente domiciliata in ROMA, VIA DEI
+PORTOGHESI 12, presso l'AVVOCATURA GENERALE DELLO STATO
+(ADS80224030587), che la rappresenta e difende
+-ricorrente-
+contro
+DI ROCCO CAMILLO, elettivamente domiciliato in ROMA, VIA CESARE
+BARONIO 69, presso lo studio dell’avvocato COSTAGLIOLA CHIARA
+(CSTCHR73B42H501S) che lo rappresenta e difende
+-controricorrente-
+avverso la SENTENZA di CORTE DI GIUSTIZIA TRIBUTARIA II GRADO
+MOLISE n. 272/20/23 depositata il 04/10/2023.
+Udita la relazione della causa svolta nella pubblica udienza del 13/05/2025
+dal Consigliere GIACOMO MARIA NONNO.
+Udita la requisitoria del P.G., in persona del sostituto procuratore generale
+dott. Mauro Vitiello, che ha concluso per il rigetto del ricorso.
+Sentiti l’avv. Giammario Rocchitta per la ricorrente e l’avv. Chiara
+Costagliola per la controricorrente.
+
+--- Pagina 2 ---
+
+FATTI DI CAUSA
+1. Con la sentenza n. 272/02/2023 del 23/10/2023, la Corte di
+giustizia tributaria di secondo grado del Molise (di seguito CGT2)
+respingeva l’appello proposto dall’Agenzia delle entrate (di seguito AE)
+avverso la sentenza n. 212/02/20 della Commissione tributaria provinciale
+di Isernia (di seguito CTP), che aveva accolto il ricorso del sig. Camillo Di
+Rocco nei confronti di un diniego di rimborso per IVA relativa all’anno
+d’imposta 2018.
+1.1. Come emerge dalla sentenza impugnata, il diniego conseguiva ad
+una richiesta di rimborso presentata «dopo circa dieci anni dalla emissione
+delle fatture a carico delle società Ittierre Spa e Plus It Spa riferite all’anno
+2008 per prestazioni di servizi comprendenti Iva pari ad € 241.466,00 in
+seguito alla emissione di relative note di variazione».
+1.1.1. Le succitate società erano state ammesse alla procedura di
+Amministrazione straordinaria delle grandi imprese in crisi, con la nomina
+dei commissari straordinari per la gestione delle stesse. Nella
+prospettazione dell’Ufficio le note di variazione sarebbero state emesse in
+violazione del disposto di cui all’art. 26, secondo comma, del d.P.R. 26
+ottobre 1972, n. 633 (decreto IVA).
+2. La CTR respingeva l’appello di AE evidenziando che: a) «in base ai
+principi sanciti dalla Corte di Giustizia UE di cui alla sentenza n. C-
+246/2016 del 23/11/2017, non [era] più necessario attendere la chiusura
+della procedura concorsuale ma basta[va] che il soggetto passivo
+(debitore) segnala[sse] in qualche modo una ragionevole probabilità che il
+debito non ven[isse] saldato. Indi per accordare il diritto alla riduzione
+della base imponibile [era] sufficiente che il soggetto passivo
+evidenzi[asse] l’esistenza di una probabilità ragionevole che il debito non
+[fosse] saldato, anche a rischio che la base imponibile [fosse] rivalutata al
+rialzo nell’ipotesi in cui il pagamento avven[isse] comunque (Cass. n.
+2
+
+--- Pagina 3 ---
+
+25896/2020)»; b) la legislazione italiana si era adeguata a tale
+orientamento, a far data dal 25/05/2021, veniva introdotto l’art. 26,
+comma 3 bis, del decreto IVA che così recitava: «per le procedure
+concorsuali avviate a decorrere dal 26/05/2021 è possibile emettere nota
+di accredito IVA in caso di mancato pagamento, in tutto o in parte da
+parte del cessionario o committente, dalla data in cui il debitore è
+assoggettato ad una procedura concorsuale»; c) in questo contesto, nel
+caso in esame, in cui la procedura durava da anni, vi era la certezza che le
+fatture non sarebbero state mai liquidate, posto che il ricorrente aveva
+ottenuto certificazione dai commissari delle procedure dalle quali si
+evinceva che non sussistevano previsioni di riparto in favore dei creditori
+concorsuali chirografari, qual era il contribuente, in quanto l'attivo
+realizzato e quello da realizzare avrebbe coperto solo parzialmente i crediti
+privilegiati e in prededuzione.
+1. AE impugnava la sentenza della CTR con ricorso per cassazione,
+affidato a un unico motivo, illustrato da memoria ex art. 378 cod. proc.
+civ.
+2. Camillo Di Rocco resisteva con controricorso.
+RAGIONI DELLA DECISIONE
+1. Con l’unico motivo di ricorso AE contesta, in relazione all’art. 360,
+primo comma, n. 3, cod. proc. civ., violazione e falsa applicazione dell’art.
+26 del decreto IVA e dell’art. 11, parte C, § 1, secondo comma, della
+direttiva n. 77/388/CEE del Consiglio del 17 maggio 1977 (cd. sesta
+direttiva), come interpretato dalla sentenza della Corte di Giustizia
+Europea del 23 settembre 2017 in causa C-246/16, per avere la CGT2
+erroneamente applicato retroattivamente le modifiche normative al
+decreto IVA apportate dal d.l. 26 maggio 2021, n. 73, conv. con modif.
+nella l. 23 luglio 2021, n. 106 (cd. decreto sostegni bis).
+3
+
+--- Pagina 4 ---
+
+1.1. Invero, nella prospettazione di AE la superiore disciplina
+troverebbe applicazione con riferimento alle procedure concorsuali aperte
+a far data dal 26/05/2021, data di entrata in vigore del decreto stesso,
+con esclusione di ogni efficacia retroattiva. Di conseguenza, dovendo
+applicarsi il previgente testo dell’art. 26 del decreto IVA, il contribuente
+avrebbe potuto emettere una nota di variazione in diminuzione e
+recuperare l’IVA soltanto a seguito dell’esito infruttuoso conseguente allo
+svolgimento della procedura concorsuale.
+2. Il motivo è infondato.
+2.1. In termini generali, va ricordato che il cedente è tenuto al
+pagamento dell’imposta per il semplice fatto che la stessa sia indicata in
+fattura, anche in assenza di operazione imponibile (cfr. Cass. n. 13091 del
+30/06/2020, che fa riferimento ad un consolidato orientamento della Corte
+di giustizia). Tuttavia, la base imponibile dell’IVA deve essere
+necessariamente ragguagliata al corrispettivo realmente ricevuto dal
+soggetto passivo e l'Amministrazione finanziaria non può riscuotere a tale
+titolo un importo superiore a quello percepito dal soggetto passivo.
+2.2. Di qui la previsione dell'art. 90, § 1, della direttiva n.
+2006/112/CE del Consiglio del 28 novembre 2006 (direttiva IVA), in tutto
+corrispondente all'art. 11, parte C, della sesta direttiva, che obbliga gli
+Stati membri a ridurre la base imponibile e, quindi, l'importo dell’IVA
+dovuta dal soggetto passivo, ogni volta che, successivamente alla
+conclusione di un'operazione, una parte o la totalità del corrispettivo non
+sia da lui percepita.
+2.3. Dopo alterne vicende (si fa riferimento all’art. 1, commi 126 e
+127, della legge 28 dicembre 2015, n. 208, che aveva introdotto nel
+nostro ordinamento una disciplina analoga a quella di cui subito si dirà;
+disposizione poi abrogata dall’art. 1, comma 567, lettera d), della legge 11
+dicembre 2016, n. 232) il nostro ordinamento ha da ultimo recepito la
+previsione di cui alla disposizione citata operando una modifica all’art. 26
+4
+
+--- Pagina 5 ---
+
+del decreto IVA. Invero, l’art. 18 del d.l. 25 maggio 2021, n. 73 (cd.
+Decreto Sostegni-bis), conv. con modif. nella l. 23 luglio 2021, n. 106, ha
+introdotto, tra l’altro, un nuovo terzo comma bis. Ne consegue che la
+disciplina dell’art. 26 del decreto IVA, applicabile dal 25/07/2021, è
+attualmente la seguente:
+«(…) 2. Se un'operazione per la quale sia stata emessa fattura,
+successivamente alla registrazione di cui agli articoli 23 e 24, viene meno
+in tutto o in parte, o se ne riduce l'ammontare imponibile, in conseguenza
+di dichiarazione di nullità, annullamento, revoca, risoluzione, rescissione e
+simili o in conseguenza dell'applicazione di abbuoni o sconti previsti
+contrattualmente, il cedente del bene o prestatore del servizio ha diritto di
+portare in detrazione ai sensi dell'articolo 19 l'imposta corrispondente alla
+variazione, registrandola a norma dell'articolo 25.
+3. La disposizione di cui al comma 2 non può essere applicata dopo il
+decorso di un anno dall'effettuazione dell'operazione imponibile qualora gli
+eventi ivi indicati si verifichino in dipendenza di sopravvenuto accordo fra
+le parti e può essere applicata, entro lo stesso termine, anche in caso di
+rettifica di inesattezze della fatturazione che abbiano dato luogo
+all'applicazione dell'articolo 21, comma 7.
+3-bis. La disposizione di cui al comma 2 si applica anche in caso di
+mancato pagamento del corrispettivo, in tutto o in parte, da parte del
+cessionario o committente:
+a) a partire dalla data in cui quest'ultimo è assoggettato a una procedura
+concorsuale o dalla data del decreto che omologa un accordo di
+ristrutturazione dei debiti di cui all'articolo 182-bis del Regio Decreto 16
+marzo 1942, n. 267, o dalla data di pubblicazione nel registro delle
+imprese di un piano attestato ai sensi dell'articolo 67, terzo comma,
+lettera d), del regio decreto 16 marzo 1942, n. 267; b) a causa di
+procedure esecutive individuali rimaste infruttuose. (…)».
+5
+
+--- Pagina 6 ---
+
+2.3.1. In buona sostanza, il terzo comma bis dell’art. 26 del decreto
+IVA consente la procedura di variazione per l’ipotesi in cui sia venuta
+meno la prestazione (secondo comma) entro un anno
+dall’assoggettamento del debitore ad una procedura concorsuale.
+2.4. Se è vero che la fattispecie di cui ci si occupa esula dal regime
+applicativo della disposizione richiamata in quanto antecedente all’entrata
+in vigore delle modifiche (25/07/2021), sicuramente non aventi efficacia
+retroattiva, ritiene, tuttavia, questa Corte che il diritto al rimborso del
+contribuente si fondi legittimamente sulla normativa europea per come
+interpretata dalla Corte di giustizia, così come correttamente ritenuto dalla
+CGT2. Valgano le seguenti considerazioni.
+2.5. Come evidenziato da Cass. n. 25795 del 01/09/2022, la
+giurisprudenza unionale ha chiarito che le formalità che i soggetti passivi
+devono adempiere per esercitare, di fronte alle autorità tributarie, il diritto
+di procedere a una riduzione della base imponibile dell'IVA sono quelle che
+consentono di dimostrare che, successivamente alla conclusione
+dell'operazione, una parte o la totalità della controprestazione non potrà
+più, in modo definitivo, essere percepita (CGUE, causa C-398/20, Elvospol
+s.r.o., punto 27). E spetta ai giudici nazionali verificare che tale limite sia
+rispettato nel caso delle formalità richieste dallo Stato membro interessato
+(CGUE, causa C-672/17, Tratave, cit., punto 34 e la giurisprudenza ivi
+citata).
+2.5.1. In particolare, una condizione che subordina la riduzione della
+base imponibile in caso di non pagamento, all'insinuazione, da parte del
+soggetto passivo, del credito insoluto nel procedimento fallimentare
+instaurato nei confronti del debitore, è, in via di principio, idonea a
+contribuire sia ad assicurare l'esatta riscossione dell’IVA e ad evitare le
+evasioni, sia ad eliminare il rischio di perdita di entrate fiscali, e persegue
+dunque i legittimi obiettivi enunciati all'art. 90, § 1, e all'art. 273 della
+direttiva IVA (CGUE, causa C-588/10, Kraft Foods Polska, punti 32 e 33;
+6
+
+--- Pagina 7 ---
+
+CGUE, causa C-146/19, SCT d.d., in amministrazione fallimentare, punto
+38).
+2.5.2. Una tale condizione, o una condizione simile, si rende ultronea
+soltanto qualora il soggetto passivo dimostri che, anche se l'avesse
+rispettata, il credito non sarebbe stato comunque riscosso: in tal caso,
+anche rispettandola, nessun pregiudizio supplementare per lo Stato
+avrebbe potuto essere evitato (CGUE, causa C-146/19, cit., punto 40). Pur
+sempre occorre, tuttavia, la prova della definitività della riduzione degli
+obblighi del debitore del soggetto passivo. Lo stesso fine potrebbe essere
+perseguito qualora il soggetto passivo evidenzi l'esistenza di una
+probabilità ragionevole che il debito non sia saldato, anche a rischio che la
+base imponibile sia rivalutata al rialzo nell'ipotesi in cui il pagamento
+avvenga comunque (CGUE, causa C-246/16, Di Maura, punto 27; CGUE,
+causa C-242/18, Unicredit Leasing EAD, punto 62; CGUE, causa C-398/20,
+cit., punto 30); al punto che la giurisprudenza unionale è arrivata a
+stabilire che l'art. 11, parte C, paragrafo 1, secondo comma, della sesta
+direttiva deve essere interpretato nel senso che uno Stato membro non
+può subordinare la riduzione della base imponibile dell'imposta sul valore
+aggiunto all'infruttuosità di una procedura concorsuale qualora una tale
+procedura possa durare più di dieci anni (CGUE, causa C-246/16, cit.,
+richiamata anche da Cass. n. 25896 del 16/11/2020). Spetta, tuttavia, in
+ogni caso alle autorità nazionali stabilire, nel rispetto del principio di
+proporzionalità e sotto il controllo del giudice, quali siano le prove che in
+tali ipotesi il soggetto passivo deve fornire.
+2.5.3. A ciò può aggiungersi che, indipendentemente dal suo
+recepimento nell’ordinamento italiano, l’art. 90, § 1, della direttiva IVA
+può essere direttamente applicato, come stabilito anche da CGUE 29
+febbraio 2024, causa C-314/22, Consortium Remi Group AD, pur avendo
+lo Stato italiano usufruito della deroga prevista dall’art. 90, § 2, della
+direttiva IVA. Ne consegue che, allorquando si verifichi una situazione di
+7
+
+--- Pagina 8 ---
+
+rilevante incertezza non contemplata dalle norme statali è autorizzata
+un’applicazione diretta dell’art. 90, § 1.
+2.6. Applicando i superiori principi di diritto alla fattispecie, deve
+ritenersi che l’Amministrazione finanziaria abbia riscosso dal sig. Di Rocco,
+che non ha ottenuto alcun pagamento da parte dei suoi debitori, un
+importo superiore a titolo di IVA rispetto a quello dallo stesso percepito. Il
+contribuente, pertanto, ha legittimamente esercitato il proprio diritto ad
+ottenere il rimborso a seguito della cessazione dell’attività.
+2.6.1. In particolare, deve essere nella specie disapplicata la previsione
+per la quale il contribuente avrebbe dovuto attendere la chiusura delle
+procedure di amministrazione straordinaria dei propri debitori per ottenere
+il rimborso, posto che dette procedure hanno una durata ultradecennale
+(ritenuta irragionevole da CGUE, causa C-246/16, cit.). Del resto, il
+contribuente aveva inizialmente atteso l’esito delle procedure concorsuali,
+così come previsto dalla legge nazionale, ma, tenuto conto della
+cessazione dell’attività e dell’accertamento di fatto contenuto in sentenza
+sulla certezza del non conseguimento di alcuna utilità, in base alla
+dichiarazione dei Commissari straordinari in ordine alla sostanziale
+impossibilità di vedere soddisfatto il proprio credito in sede di distribuzione
+dell’attivo, ha legittimamente richiesto il rimborso dell’imposta all’Erario
+senza attendere la definizione della procedura.
+2.6.2. In proposito, non rileva che la procedura concorsuale in cui il
+contribuente si sia insinuato al passivo sia un’amministrazione
+straordinaria e non un fallimento (oggi liquidazione giudiziale). Sotto un
+primo profilo, il presupposto di entrambe le procedure è pur sempre la
+situazione di insolvenza in cui si è venuto a trovare il debitore (cfr. in
+proposito Cass. n. 25897 del 16/11/2020; tanto ciò è vero, che il nuovo
+art. 26, terzo comma bis, del decreto IVA fa riferimento generico alle
+procedure concorsuali, tra cui rientra, dunque, anche l’amministrazione
+straordinaria); secondariamente, come evincibile dalla relazione dei
+8
+
+--- Pagina 9 ---
+
+Commissari straordinari prodotta in atti, l’attività della procedura era
+ormai meramente liquidatoria, essendo cessata l’attività d’impresa: il che
+giustifica ulteriormente l’assimilabilità della procedura concorsuale di
+amministrazione straordinaria di cui si tratta a quella di fallimento.
+2.6.3. Neppure rileva la circostanza che nella fattispecie si discuta di
+rimborso di un’IVA già versata e non già di versamento di un’IVA non
+assolta, essendo all’evidenza due situazioni del tutto speculari, meritando,
+anzi, maggiore tutela il contribuente che ha già adempiuto i propri obblighi
+con l’Erario nonostante il mancato pagamento del debitore.
+2.7. Va, dunque, enunciato il seguente principio di diritto: «Poiché la
+base imponibile dell’IVA è ragguagliata al corrispettivo realmente ricevuto
+dal soggetto passivo, deve essere accolta l’istanza di rimborso presentata
+dal contribuente che, a seguito di emissione di regolare fattura, ha versato
+l’imposta senza ricevere il pagamento dal debitore e quest’ultimo sia
+sottoposto a procedura concorsuale di durata ultradecennale (nella specie,
+amministrazione straordinaria) non ancora definita, purché risulti
+ragionevolmente comprovata l’impossibilità di ottenere soddisfazione del
+proprio credito in sede di riparto (nella specie, attestata dal commissario
+straordinario). Fattispecie antecedente alla modifica dell’art. 26 del d.P.R.
+n. 633 del 1972, con l’introduzione del terzo comma bis, apportata
+dall’art. 18 del d.l. n. 73 del 2021».
+3. In conclusione, il ricorso va rigettato e la ricorrente va condannata
+al pagamento, in favore della controricorrente, delle spese del presente
+procedimento, liquidate come in dispositivo avuto conto di un valore
+dichiarato della lite di euro 241.466,00.
+9
+
+--- Pagina 10 ---
+
+P.Q.M.
+La Corte rigetta il ricorso e condanna la ricorrente al pagamento, in favore
+del controricorrente, delle spese del presente procedimento, che si
+liquidano in euro 7.600,00, oltre alle spese forfettarie nella misura del
+15%, ad euro 200,00 per spese borsuali e agli accessori di legge.
+Così deciso in Roma, il 13/05/2025.
+Il Giudice estensore
+GIACOMO MARIA NONNO
+La Presidente
+ANGELINA-MARIA PERRINO
+10

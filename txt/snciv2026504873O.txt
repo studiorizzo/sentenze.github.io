@@ -1,0 +1,410 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 3359/2024 R.G. proposto da:
+Agenzia Delle Entrate, rappresentata e difesa dalla Avvocatura Generale
+Dello Stato
+-ricorrente-
+contro
+Società per Azioni Lucchese Olii e Vini - Salov S.p.a., con l'avvocato
+Gaetano Chianura
+-controricorrente-
+avverso la sentenza della Commissione Tributaria Regionale della Toscana
+n. 983/2022 depositata il 06/09/2022.
+Udita la relazione svolta nella camera di consiglio del 17/02/2026 dal
+Consigliere Gian Paolo Macagno.
+FATTI DI CAUSA
+1. La Società per Azioni Lucchese Olii e Vini S.P.A, (nel prosieguo
+Salov) era oggetto di una verifica fiscale da parte della Direzione
+Regionale della Toscana - Ufficio Grandi Contribuenti ai fini Ires, Irap,
+Ritenute e Iva per l’anno d’imposta 2010/2011, conclusasi con la
+consegna del processo verbale di constatazione notificato alla contribuente
+in data 14 febbraio 2013.
+2. In esito, l’Agenzia delle entrate notificava gli avvisi di accertamento
+n. TZB030200078, n. TZB0C0200078 e n. TZB060200080, con cui
+
+--- Pagina 2 ---
+
+contestava: a) ai sensi dell’art. 110, comma 7, del Tuir, il mancato
+riaddebito alle consociate Salov North America (di seguito anche SNA) e
+Filippo Berio UK (di seguito anche FB UK), dei costi sostenuti da Salov,
+pari a euro 4.227.553, a titolo di tutela e promozione del marchio Berio;
+b) l’indeducibilità, per difetto del requisito dell’inerenza, di costi pari a
+euro 189.349,40, riferiti a servizi che sarebbero stati resi nell’esclusivo
+interesse delle controllate Salov North America e Filippo Berio UK; c) la
+violazione della disciplina dei cd. costi black list (di cui ai commi 10 e 11
+dell’art. 110 Tuir vigente ratione temporis) in relazione ad alcune
+operazioni intercorse con imprese domiciliate fiscalmente in stati con
+regime fiscale privilegiato.
+3. La società impugnava gli atti impositivi e, con sentenza depositata il
+16/01/2019, la CTP di Firenze accoglieva parzialmente il ricorso.
+3.1. I giudici di prime cure ritenevano, diversamente da quanto
+accertato dall’Agenzia delle entrate, che non fosse stata violata la
+normativa in tema di transfer pricing. La CTP, infatti, riteneva meritevole
+di accoglimento, sulla base della consulenza tecnica esperita, quanto
+eccepito dalla società ricorrente con riferimento ad alcuni specifici punti, e
+in particolare riteneva: i) che le società selezionate dall’Amministrazione
+non fossero comparabili; ii) che, comunque, l’Agenzia non avesse tenuto
+conto dei componenti straordinari di reddito che avevano inciso sui
+risultati fiscali del 2010/2011, sì che in considerazione di tali componenti il
+margine di redditività sarebbe stato ampiamente compatibile con il
+margine medio di redditività delle stesse società comparabili indicate
+dall'Ufficio; iii) che il rilievo attinente alla mancata remunerazione dell’uso
+del marchio “Filippo Berio” fosse da respingere, poiché la suddetta
+remunerazione era insita nel prezzo di vendita del prodotto quale
+componente dello stesso.
+La CTP confermava, invece, il rilievo di indeducibilità dei costi per
+alcuni servizi di consulenza legale, perché non inerenti.
+2
+
+--- Pagina 3 ---
+
+3.2. Ricorrevano le parti avverso le rispettive statuizioni di
+soccombenza e, con la sentenza indicata in epigrafe, la CTR della Toscana
+rigettava l’appello principale dell’Agenzia delle entrate ed accoglieva quello
+incidentale proposto dalla società contribuente.
+4. Avverso la predetta sentenza ricorre l’Amministrazione finanziaria
+con tre motivi e resiste la società contribuente con controricorso, illustrato
+con il deposito di memoria ex art. 380-bis.1 c.p.с.
+5. Il pubblico ministero, nella persona del Sostituto procuratore
+generale dott. Fulvio Troncone, ha depositato requisitoria scritta,
+chiedendo il rigetto del primo motivo del ricorso e l’accoglimento del
+secondo e del terzo motivo.
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo di ricorso l’Agenzia delle entrate lamenta, in
+relazione all’art. 360, primo comma, num. 3, c.p.с., la violazione e falsa
+applicazione dell’art. 110, comma 7, e art. 9, comma 3, del d.P.R. n.
+917/1986 e degli artt. 2697, 2727, 2729 c.c.
+1.1. Osserva la ricorrente che la società Salov Spa si occupa della
+produzione e distribuzione di olio extravergine di oliva e di semi in diverse
+aree geografiche. Essa rappresenta la holding del Gruppo ed è proprietaria
+dei marchi Filippo Berio e Sagra. Mentre la Salov S.p.A. vende in Italia i
+propri prodotti a marchio Sagra, l’olio confezionato e distribuito all’estero
+è riconducibile direttamente al marchio “Filippo Berio”.
+Il marchio “Filippo Berio” è dunque il fattore produttivo che permette il
+relativo posizionamento sul mercato (USA e UK) ed è sviluppato da Salov,
+che investe nella sua evoluzione (marketing strategico) e che si adopera
+per sostenerne il pregio (campagne pubblicitarie, sito internet, etc..).
+La forza competitiva del Gruppo, nei mercati in analisi, risiede quindi
+nell’esistenza di un’attività immateriale (brand) detenuta e custodita dalla
+Legal entity italiana.
+3
+
+--- Pagina 4 ---
+
+1.2. Nel corso del controllo relativo all’anno d’imposta 2010 è stata
+posta particolare attenzione alle transazioni effettuate da Salov S.p.a. con
+le due società - rispettivamente di diritto statunitense e inglese – Salov
+North America e Filippo Berio UK, rilevandosi che i canali distributivi nei
+mercati statunitensi e anglosassoni di olio di oliva prodotto e confezionato
+in Italia a marchio Filippo Berio sono affidati esclusivamente alle due
+controllate SNA e FBUK. La società italiana Salov Spa riveste nei confronti
+delle stesse il ruolo di casa madre, detenendone l’intero controllo.
+Quindi è stata posta l’attenzione all’analisi delle prestazioni di servizi
+infragruppo prestati dalla casa madre a favore delle consociate Salov
+North America e Filippo Berio UK (oltre che della spagnola SEEAE),
+riferendosi in particolare a tutte quelle attività svolte da Salov S.p.A. che
+sono connesse alla concessione d’uso del marchio e che comportano per la
+Salov S.p.A. il sostenimento di costi, i cui ricavi correlati non trovano
+manifestazione nel bilancio della stessa, ma in quello delle consociate.
+1.3. In sintesi, osserva la ricorrente: i) la Salov S.p.A. è proprietaria
+dei marchi Sagra e Filippo Berio; ii) essa acquista olii grezzi da produttori
+terzi, li sottopone ad un processo produttivo di filtrazione o raffinazione e
+li vende confezionati a distributori infragruppo e a terzi; iii) SNA e FB UK
+distribuiscono olio a marchio “Filippo Berio” rispettivamente nel mercato
+americano e britannico e tuttavia, a fronte di ciò, la concessione del
+marchio non risulta regolata da alcuna convenzione scritta, né risulta
+remunerata in alcun modo, con ciò violando il combinato disposto dell’art.
+110, comma 7 e art. 9, comma 3, del d.P.R. n. 917/1986.
+1.4. Da qui il rilevo, ai sensi dell’art. 110, comma 7, del Tuir, avente
+ad  oggetto il mancato riaddebito alle consociate Salov North America e
+Filippo Berio UK dei costi sostenuti da Salov, pari a euro 4.227.553, a
+titolo di tutela e promozione del marchio Berio.
+1.5. Tanto premesso in fatto, la ricorrente osserva, in diritto, che in
+relazione al principio dell’incombenza dell’onere della prova in materia di
+4
+
+--- Pagina 5 ---
+
+transfer pricing, l'Amministrazione finanziaria deve dimostrare l'esistenza
+di transazioni tra imprese collegate, senza alcuna necessità di dimostrarne
+l’intento elusivo, e/o l’esistenza, nella fattispecie negli USA o nel Regno
+Unito, di un livello di tassazione inferiore rispetto a quello italiano,
+spettando invece al contribuente, secondo le regole ordinarie di vicinanza
+della prova di cui all'art. 2697 c.c., dimostrare che tali transazioni sono
+intervenute per valori di mercato da considerarsi normali ai sensi dell'art.
+9, comma 3, del Tuir.
+1.6. Richiama quindi l’art. 110, comma settimo, del d.P.R. n.
+917/1986 che, nel testo vigente all'epoca dei fatti, dispone: «I componenti
+del reddito derivanti da operazioni con società non residenti nel territorio
+dello Stato che direttamente o indirettamente, controllano l'impresa, ne
+sono controllate o sono controllate dalla stessa società che controlla
+l'impresa, sono valutati in base al valore normale dei beni ceduti, dei
+servizi prestati e dei beni e servizi ricevuti, determinato a norma del
+comma 2, se ne deriva aumento del reddito; […]».
+1.7. Pacifico in causa il rapporto di controllo tra la società residente
+e quelle estere, osserva l’Agenzia che, per quanto attiene alla
+identificazione del valore normale delle transazioni, che, come da
+previsione della art. 9 del Tuir, è il prezzo praticato per analoghi beni o
+servizi, in regime di libera concorrenza e nel tempo e nel luogo - o in
+quello più prossimo - in cui i beni o servizi sono stati acquistati,
+risulterebbe corretto il riferimento dell'Ufficio al prezzo di mercato -
+determinato con il metodo della comparazione dei margini netti delle
+transazioni (TNMM), non dovendosi chiedere all'Ufficio nessuna ulteriore
+prova o accertamento.
+1.8. Tale metodo, si osserva, si presterebbe in particolare a risolvere
+situazioni, come nel caso di specie, nelle quali una delle parti coinvolte
+nella transazione è un full fledged manufacturer o detiene beni intangibili
+unici, la cui misurazione è spesso molto complessa: in questi casi
+5
+
+--- Pagina 6 ---
+
+applicando un TNMM alla controparte meno complessa (tested party) si
+determina un margine netto arm’s lenght di quest’ultima e quindi la
+remunerazione del Principal risulta in modo residuale lasciando allo stesso
+tutto il margine residuo.
+1.9. Su tali premesse, la ricorrente chiede la cassazione della
+sentenza impugnata per aver disatteso tali principi ed in particolare,
+perché sarebbe risultato provato lo scambio di beni ad un valore non di
+mercato tra la società italiana e le consociate estere.
+1.10. La CTR avrebbe, pertanto, erroneamente ritenuto che
+l’Amministrazione finanziaria non potesse esimersi dall’obbligo di fornire la
+prova che tra Salov S.p.A. e controllate (SNA e FBUK) fosse stato pattuito
+un corrispettivo inferiore al valore di mercato, e che ciò non fosse stato
+dimostrato. Nel giungere a tale conclusione, osserva la ricorrente, i giudici
+di appello non avrebbero tenuto in alcun conto gli elementi evidenziati
+dall’Ufficio.
+2. Procedendo all’esame delle censure della ricorrente, va
+opportunamente premesso che questa Corte ha affermato che, in tema di
+transfer pricing, l'art. 110, comma 7, del d.P.R. n. 917 del 1986, non
+integrando una disciplina antielusiva in senso proprio, ma avendo lo scopo
+di reprimere i fenomeni di spostamento artificioso dei profitti in un'altra
+giurisdizione, pone a carico dell'amministrazione finanziaria l'onere di
+provare che le transazioni infragruppo siano avvenute ad un prezzo
+inferiore al valore di mercato normale, da valutarsi, ai sensi dell'art. 9,
+comma 3, del cit. d.P.R., facendo riferimento sia ai listini o alle tariffe del
+fornitore dei beni, sia alle linee guida OCSE, adottando il metodo più
+appropriato al caso concreto, senza alcun criterio gerarchico, e potendo il
+contribuente, a sua volta, fornire la prova del contrario, evidenziando
+altresì i costi eventualmente aggiunti, gli sconti riconosciuti e le
+complessive condizioni economiche praticate (Cass. Sez. 5, 16/07/2024,
+n. 19512, Rv. 672013 - 01).
+6
+
+--- Pagina 7 ---
+
+2.1. Si è inoltre precisato che, in tema di determinazione del reddito
+di impresa, la disciplina di cui all'art. 110, comma 7, del d.P.R. n. 917 del
+1986, finalizzata alla repressione del fenomeno economico del transfer
+pricing, cioè dello spostamento dell'imponibile fiscale in seguito ad
+operazioni tra società appartenenti al medesimo gruppo e soggette a
+normative nazionali differenti, impone la determinazione dei prezzi
+ponderati di trasferimento per operazioni similari poste in essere da
+imprese concorrenti sul mercato, al cui fine è possibile utilizzare il metodo
+elaborato dall'Ocse, che si basa sulla determinazione del margine netto
+della transazione (cd. "TNMM"), a condizione che sia selezionato il periodo
+di indagine, siano identificate le società comparabili, siano apportate le
+appropriate rettifiche contabili al bilancio della parte testata, siano tenute
+in debito conto le differenze tra la parte testata e le società comparabili in
+termini di rischi assunti o di funzioni svolte e sia assunto un indicatore
+affidabile del livello di profitto di redditività (Cass. Sez. 5, 31/01/2024, n.
+2853, Rv. 670249 – 01; Cass. Sez. 5, 17/05/2022, n. 15668, Rv. 664741
+– 01).
+2.2. Ancora, in precedenza, questa Corte aveva affermato che in
+tema di determinazione del reddito di impresa, la disciplina di cui all'art.
+110, comma 7, d.P.R. n. 917 del 1986, finalizzata alla repressione del
+fenomeno economico del transfer pricing, cioè dello spostamento
+dell'imponibile fiscale in seguito ad operazioni tra società appartenenti al
+medesimo gruppo e soggette a normative nazionali differenti, non richiede
+di provare, da parte dell'amministrazione, la funzione elusiva, bensì la sola
+esistenza di "transazioni" tra imprese collegate a un prezzo
+apparentemente inferiore a quello normale, mentre grava sul
+contribuente, in virtù del principio di vicinanza della prova ex art. 2697
+c.c. e in tema di deduzioni fiscali, l'onere di dimostrare che tali
+"transazioni" sono intervenute per valori di mercato da considerare
+normali ai sensi dell'art. 9, comma 3, del medesimo decreto, tali essendo i
+7
+
+--- Pagina 8 ---
+
+prezzi di beni e servizi praticati in condizioni di libera concorrenza, al
+medesimo stadio di commercializzazione, nel tempo e luogo in cui i beni e
+servizi sono stati acquistati o prestati e, in mancanza, nel tempo e luogo
+più prossimi e con riferimento, in quanto possibile, a listini e tariffe d'uso,
+non escludendosi dunque l'utilizzabilità di altri mezzi di prova (Cass. Sez.
+5, 19/05/2021, n. 13571, Rv. 661309 - 01).
+2.3. Ora, è pur vero che la denuncia, mossa dalla ricorrente, del
+vizio di violazione di legge in relazione alle regole in tema di riparto
+dell’onere della prova muove dall’estrapolazione, dal contesto della
+sentenza impugnata, di un passaggio motivazionale della sentenza
+impugnata («l’A.E. non ha dato dimostrazione dell’intento elusivo in tema
+di transfer pricing)» che, in sé, per quanto sinora si è esposto, è in effetti
+erroneo.
+Tuttavia, tanto non inficia il principio di diritto affermato dai giudici
+dell’appello, inoltre coerente, in fatto, con la valutazione degli elementi
+istruttori addotti.
+2.4. Ed invero la CTR, nella sentenza impugnata, non si è discostata
+dall’orientamento affermato da questa Corte, e supra richiamato, laddove
+ha affermato che all’Agenzia incombeva l’onere di dimostrare, in
+applicazione del metodo prescelto, che tra la Salov S.p.A. e le controllate
+SNA e FB UK fosse stato pattuito, per le transazioni in esame, un
+corrispettivo inferiore al valore normale di mercato.
+2.5. È opportuno, ancora, chiarire che la denuncia dei vizi riscontrati
+nell’adozione del metodo (TNMM) utilizzato, in ragione della Consulenza
+tecnica di parte depositata nel corso del giudizio non integrava, alla luce di
+quanto già esposto in ricorso nel merito, una questione nuova consegnata
+alla cognizione dei giudici dell’appello.
+2.6. La Commissione territoriale ha, dunque, ampiamente
+argomentato la propria decisione, nel senso di non ritenere soddisfatto
+l’onere probatorio incombente sull’Amministrazione.
+8
+
+--- Pagina 9 ---
+
+La CTR ha richiamato gli esiti della sentenza di primo grado, che ha
+fatto propri, riportandone ampi stralci nella parte narrativa del
+provvedimento, in particolare con riguardo alla ritenuta inaffidabilità delle
+società comparabili selezionate dall’Agenzia delle entrate quali tested
+parties ed alla esistenza di componenti straordinari di reddito,
+analiticamente scrutinati anche a mezzo di indagine tecnica, che avevano
+inciso sui risultati, rilevando che «ove L’AE avesse depurato (rectius:
+normalizzato) il reddito operativo, dalle componenti straordinarie, il
+rapporto tra reddito operativo normalizzato ed il valore della produzione
+sarebbe stato pari al 2,55% e non al 5,16% e, quindi, in linea con quelle
+delle comparabili».
+E dunque ha ritenuto che la remunerazione dell’utilizzo del marchio
+fosse avvenuta, in maniera indiretta, aumentando il prezzo di vendita del
+prodotto.
+Ha, inoltre analiticamente motivato perché l’Agenzia delle entrate, a
+giudizio della Commissione, avesse commesso rilevanti errori nel cercare
+di dare prova che il corrispettivo pattuito fosse superiore al valore normale
+di mercato, atteso che i soggetti individuati per la comparazione erano
+pochi di numero e, soprattutto, perché non possedevano gli elementi
+necessari per la richiesta comparazione.
+E, segnatamente, ha affermato che: «Con riferimento alla
+controllata “FBUK” è sufficiente ricordare che la comparabile Wanis
+Limited non solo non era un soggetto indipendente ma, addirittura
+operava in un settore diverso rispetto a quello dell’olio di oliva. Infatti,
+operava nel settore dell’importazione, in Inghilterra, di cibo e bibite
+africane e caraibiche. Allo stesso modo la Prescott-Thomas Limited
+operava nel settore della distribuzione di frutta e verdura. Così come la
+H.T. White e Company Limited, la F.G. HALLADEY and SONS LIMITED e la
+DRINK INC. LIMITED, operavano nel settore della ristorazione. Sempre
+con riferimento alla controllata “FBUK” ai fini del calcolo dei margini
+9
+
+--- Pagina 10 ---
+
+operativi, l’AE ha preso in considerazione le risultanze reddituali del
+triennio 2007-2009. Queste risultanze le ha messe a confronto con quelle
+della comparabile DRINK Inc. Limited e H.T. White e Company LTD
+relative, però, al triennio 2008-2010. Appare evidente l’errore commesso
+dall’A.F. nel mettere a confronto due dati temporali non omogenei e,
+quindi, inutilizzabili per lo scopo da soddisfare. Anche il campione scelto
+per “SNA” è risultato inattendibile. Ciò in quanto, per 14 comparabili non è
+stato possibile accertare l’effettiva loro comparabilità. In particolare, né i
+database usati per il mercato americano, né il database Orbis, come
+lamentato dalla società “SALOV spa” nelle controdeduzioni, hanno
+consentito di controllare i presunti dati, delle 14 società, utilizzate dall’AE
+per dimostrare la violazione della normativa sul transfer pricing».
+2.7. A fronte di tale lineare dispiegarsi delle argomentazioni dei
+giudici di appello, le corpose contestazioni dell’Agenzia delle entrate non
+enucleano alcuna precisa violazione di legge, tale da poter essere
+sindacata da questa Corte, ma, a ben vedere, ripropongono la
+ricostruzione fattuale alternativa che, con idonea motivazione, i giudici
+dell’appello hanno ritenuto di non condividere.
+2.8. Il motivo è, pertanto, inammissibile.
+3. Con il secondo motivo di ricorso l’Amministrazione finanziaria
+lamenta, in relazione all’art. 360, primo comma, num. 3 c.p.с., la
+violazione e falsa applicazione dell’art. 109, comma 5 del d.P.R. n.
+917/1986 e degli artt. 2697, 2727, 2729 c.c.
+3.1. Lamenta la ricorrente che la CTR, nell’accogliere l’appello
+incidentale della Salov S.p.A., non abbia correttamente rilevato che
+quest’ultima aveva sostenuto e dedotto dei costi privi del requisito di
+inerenza, relativi a servizi di consulenza legale, imputabili invece
+esclusivamente alle controllate del gruppo, SNA, FB UK e SEAE, ed in
+particolare, dei costi per assistenza legale fornita dallo studio Carmini,
+10
+
+--- Pagina 11 ---
+
+dallo studio legale spagnolo Gomez-Acebo e Pombo, dallo studio del Dott.
+Calabrò.
+3.2. Giova rammentare che, in tema di imposte sui redditi delle
+società, la deducibilità di costi ed oneri richiede la loro inerenza all'attività
+di impresa, da intendersi come necessità di riferire i costi sostenuti
+all'esercizio dell'attività imprenditoriale, escludendo quelli che si collocano
+in una sfera estranea ad essa, senza che si debba compiere alcuna
+valutazione in termini di utilità - anche solo potenziale ed indiretta -
+secondo valutazione qualitativa e non quantitativa, la cui prova, in caso di
+contestazioni dell'amministrazione finanziaria, è a carico del contribuente,
+dovendo egli provare e documentare l'imponibile maturato e, quindi,
+l'esistenza e la natura del costo, i relativi fatti giustificativi e la sua
+concreta destinazione alla produzione, quale atto di impresa perché in
+correlazione con l'attività di impresa e non ai ricavi in sé (Cass. Sez. 5,
+18/08/2022, n. 24880, Rv. 665495 – 01; Cass. Sez. 5, 13/02/2025, n.
+3747, Rv. 673830 - 01).
+3.3. A tale riguardo la CTR, pur dopo aver evocato un orientamento
+coerente con i principi ora esposti, ha assertivamente affermato, nella
+coda della motivazione, che «I costi relativi alle fatture emesse dallo
+studio CARMINI (euro 146.326,93), dallo studio GOMEZ (euro 25.248) e
+dal Dott. Calabrò (euro 17.575) sono inerenti poiché riferiti all’attività
+della “SALOV spa”», soggiungendo che «Con riferimento alla specificità dei
+costi si rinvia a quanto illustrato in fatto», ove tuttavia si rinviene
+esclusivamente, a tale riguardo, la mera trascrizione sintetica delle -
+generiche - deduzioni della parte privata.
+3.4. Dunque, la CTR non ha in alcun modo verificato se e come la
+società avesse dimostrato l’inerenza dei costi portati in deduzione e
+disconosciuti dall’Amministrazione. La censura, peraltro, si sottrae al
+rilievo di inammissibilità, essendo diretta, con esito favorevole per quanto
+11
+
+--- Pagina 12 ---
+
+si è detto, a denunciare la errata applicazione dell’art. 109, comma 5 del
+Tuir.
+3.5. Il motivo è quindi, in conclusione, fondato.
+4. Con il terzo  motivo di ricorso l’Agenzia delle entrate deduce, in
+relazione all’art. 360, primo comma, num. 4, c.p.с., la nullità della
+sentenza per violazione e falsa applicazione dell’articolo 36, comma 2, del
+d.lgs. n. 546/1992, e degli artt. 132, comma 2 num. 4 e 112 c.p.c.
+4.1. In particolare, osserva, i giudici di seconde cure, nella
+motivazione della sentenza, e nell’accogliere l’appello incidentale della
+società contribuente, avrebbero omesso ogni specifico riferimento al
+rilievo riguardante i componenti negativi di reddito derivanti da operazioni
+intercorse con imprese domiciliate fiscalmente in stati o territori non
+appartenenti all’unione europea aventi regime fiscale privilegiato,
+curandosi esclusivamente del tema dei costi per spese di assistenza legale
+ritenuti non inerenti.
+4.2. Il motivo, che trova pacifico riscontro in atti, va anch’esso
+accolto, comportando, come richiesto dalla stessa parte controricorrente
+alla p. 57 del proprio atto difensivo, il rinvio al giudice di appello, in
+assenza di pronuncia o comunque di motivazione sul relativo capo
+decisorio da parte della sentenza qui impugnata.
+5. In conclusione, dichiarato inammissibile il primo motivo di ricorso
+e accolti il secondo e terzo motivo, la sentenza impugnata va cassata, in
+relazione ai motivi accolti, con rinvio alla Corte di giustizia tributaria di
+secondo grado della Toscana affinché, in diversa composizione, proceda a
+nuovo e motivato esame nel rispetto dei principi sopra illustrati, nonché
+provveda a regolare le spese del giudizio di legittimità tra le parti.
+P.Q.M.
+La Corte accoglie il secondo e terzo motivo di ricorso, dichiara
+inammissibile il primo, cassa la sentenza impugnata in relazione ai motivi
+accolti e rinvia alla Corte di giustizia tributaria di secondo grado della
+12
+
+--- Pagina 13 ---
+
+Toscana affinché, in diversa composizione, proceda a nuovo e motivato
+esame nonché provveda a regolare le spese del giudizio di legittimità tra le
+parti.
+Così deciso in Roma, nella camera di consiglio del 17/02/2026.
+Il Presidente
+Lucio Napolitano
+13

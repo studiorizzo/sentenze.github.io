@@ -1,0 +1,994 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Ires, Irap e Iva- Operazioni inesistenti-Avviso accertamento-Firma digitale
+SENTENZA
+sul ricorso iscritto al n. 10534/2021 R.G. proposto da:
+FALLIMENTO AUTOTRASPORTI LUSSO S.R.L., in persona del curatore
+fallimentare, rappresentato e difeso dall’avv. Caterina Corrado Oliva in
+forza di procura in calce al ricorso ed elettivamente domiciliato in
+Roma, via Nazionale n. 200;
+– ricorrente –
+contro
+AGENZIA DELLE ENTRATE, in persona del Direttore pro tempore,
+domiciliata in Roma alla via dei Portoghesi n. 12, presso l’Avvocatura
+Generale dello Stato che la rappresenta e difende;
+– controricorrente –
+
+--- Pagina 2 ---
+
+avverso la sentenza della Commissione tributaria regionale del
+Piemonte n. 604/2020 depositata in data 12 ottobre 2020, non
+notificata;
+udita la relazione della causa tenuta nella pubblica udienza del
+2/12/2025 dal consigliere dott. Federico Lume;
+udito il PM in persona del sostituto Procuratore generale dott. Aldo
+Ceniccola;
+udita l’avv. Caterina Corrado Oliva per la ricorrente;
+udito l’avv. Alessandro Maddalo per l’Avvocatura Generale dello Stato.
+FATTI DI CAUSA
+1. Con distinti ricorsi la Autotrasporti Lusso s.r.l.  impugnava avanti
+alla Commissione tributaria provinciale di Torino gli avvisi di
+accertamento relativi agli anni di imposta 2008, 2009, 2010, 2011,
+2012, 2013 e 2014 con i quali l'Agenzia delle Entrate aveva accertato
+maggiori imposte dovute dalla contribuente a titolo di IRES, IRAP e
+IVA. La pretesa impositiva aveva origine nelle indagini svolte dalla
+Guardia di Finanza, da cui era scaturito anche un processo penale,
+all'esito delle quali era emerso l'illecito comportamento della
+Autotrasporti Lusso s.r.l., la quale, secondo la prospettazione degli
+accertatori, negli anni in questione aveva acquisito commesse da propri
+clienti ed a sua volta aveva affidato a società subvettrici i servizi di
+trasporto commissionati dai propri clienti. In proposito, era infatti
+emerso che tali subvettrici erano società «interposte», appositamente
+create al fine di assumere, solo formalmente, personale di fatto
+dipendente dalla Lusso, evadendo l'IVA relativa ai servizi prestati,
+nonché le ritenute fiscali e previdenziali relative ai dipendenti. In tal
+modo le imposte evase dalle subvettrici avevano determinato un illecito
+guadagno fiscale per la Lusso, che aveva anche portato in detrazione
+l'IVA mai versata dalle proprie fornitrici.
+2
+
+--- Pagina 3 ---
+
+La Commissione tributaria provinciale, davanti alla quale si
+costituiva la curatela del fallimento della società, dichiarato nel corso
+del giudizio, accoglieva i ricorsi, per vizi formali degli atti e
+precisamente perché gli avvisi di accertamento non potevano essere
+sottoscritti digitalmente non essendo applicabili gli artt. 2 e 23 CAD
+all’esercizio delle attività e funzioni ispettive e di controllo, tra cui quella
+di accertamento fiscale.
+2. La Commissione tributaria regionale del Piemonte accoglieva
+l’appello erariale e in riforma della sentenza di primo grado rigettava
+integralmente i ricorsi.
+In particolare i giudici d’appello affermavano la piena validità della
+firma digitale sugli avvisi di accertamento e la legittimità della notifica
+cartacea conforme all’originale informatico, richiamando il principio del
+raggiungimento dello scopo; confermavano la fondatezza degli
+accertamenti, ritenendo provata l’esistenza di un meccanismo
+fraudolento basato su fatture per operazioni inesistenti e
+sovrafatturazioni, con conseguente indeducibilità dei costi ai fini IRES
+e IRAP e indetraibilità dell’IVA; respingevano le contestazioni sulle
+sanzioni, ritenendole legittime. In conclusione, rigettavano tutti i ricorsi
+e condannavano il Fallimento Autotrasporti Lusso s.r.l. al pagamento
+delle spese di lite per entrambi i gradi di giudizio.
+3. Contro tale decisione la curatela del fallimento ha proposto
+ricorso affidato a ventitre motivi.
+L’Agenzia delle entrate ha resistito con controricorso.
+La causa è stata rimessa alla pubblica udienza del 2/12/2025, per
+la quale la ricorrente ha depositato memoria illustrativa.
+Il PM, in persona del sostituto Procuratore generale dott. Aldo
+Ceniccola, ha rassegnato conclusioni scritte chiedendo l’accoglimento
+del ventunesimo motivo, rigettati gli altri, ribadendo in udienza
+analoghe conclusioni.
+3
+
+--- Pagina 4 ---
+
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo si deduce «Nullità della sentenza o del
+procedimento. Violazione dell’art. 36 del d.lgs. n. 546 del 1992, dell’art.
+118 disp. att. c.p.c. e dell’art. 156 c.p.c. in relazione all’art. 360, n. 4
+c.p.c. La sentenza di secondo grado è soltanto apparentemente
+motivata con riferimento al positivo accertamento dell’inesistenza delle
+fatturazioni contestate e la conseguente conferma degli avvisi di
+accertamento originariamente impugnati».
+Il motivo sostanzialmente deduce: a) che la sentenza contenga
+un’acritica riproduzione dell’appello dell’ufficio e un apodittico vaglio
+positivo delle difese, laddove essa aveva invece contestato la valenza
+probatoria di tutti gli elementi valorizzati dall’ufficio (palese
+sovradimensionamento della Autotrasporti Lusso, utilizzo da parte delle
+sub-vettrici delle strutture della Lusso, esercizio del potere direttivo da
+parte di Ivan Lusso, crescita repentina dei ricavi in regime di
+monocommittenza, travaso di dipendenti e utilizzo di carburante da
+una società all’altra, prelevamenti dalle casse delle sub-vettrici); b) che
+la motivazione della sentenza è apparente anche con riferimento al
+valore della prova contraria offerta dal Fallimento Lusso, che non si era
+limitata alla regolarità delle registrazioni contabili; c) che la
+motivazione è apparente sul rilievo della sovrafatturazione; d) che la
+motivazione è apparente anche con riguardo al richiamo alla sentenza
+di condanna resa nel giudizio penale.
+1.1. Il motivo è infondato.
+La mancanza della motivazione, rilevante ai sensi dell’art. 132 n. 4
+c.p.c. (e nel caso di specie dell’art. 36, secondo comma, n. 4, d.lgs.
+546/1992) e riconducibile all’ipotesi di nullità della sentenza ai sensi
+dell’art. 360, primo comma, n. 4, c.p.c. si configura quando la
+motivazione manchi del tutto - nel senso che alla premessa
+dell'oggetto del decidere risultante dallo svolgimento del processo
+4
+
+--- Pagina 5 ---
+
+segue l'enunciazione della decisione senza alcuna argomentazione –
+ovvero ... essa formalmente esista come parte del documento, ma le
+sue argomentazioni siano svolte in modo talmente contraddittorio da
+non permettere di individuarla, cioè di riconoscerla come giustificazione
+del decisum. Tale anomalia si esaurisce nella "mancanza assoluta di
+motivi sotto l'aspetto materiale e grafico", nella "motivazione
+apparente", nel "contrasto irriducibile tra affermazioni inconciliabili" e
+nella "motivazione perplessa ed obiettivamente incomprensibile",
+esclusa qualunque rilevanza del semplice difetto di "sufficienza" della
+motivazione, sempre che il vizio emerga immediatamente e
+direttamente dal testo della sentenza impugnata (Cass. Sez. U. n.
+8053/2014; successivamente tra le tante Cass. n. 22598/2018; Cass.
+n. 6626/2022).
+In particolare si è in presenza di una motivazione apparente
+solo allorché la motivazione, pur essendo graficamente (e, quindi,
+materialmente) esistente, come parte del documento in cui consiste il
+provvedimento giudiziale, non rende tuttavia percepibili le ragioni della
+decisione, perché consiste di argomentazioni obiettivamente inidonee
+a far conoscere l'iter logico seguito per la formazione del
+convincimento, di talché essa non consente alcun effettivo controllo
+sull'esattezza e sulla logicità del ragionamento del giudice non
+potendosi lasciare all'interprete il compito di integrarla con le più varie,
+ipotetiche congetture.
+Occorre inoltre evidenziare che questa Corte  ha già ritenuto che
+nel processo civile ed in quello tributario, la sentenza la
+cui motivazione si limiti a riprodurre il contenuto di un atto di parte (o
+di altri atti processuali o provvedimenti giudiziari), senza niente
+aggiungervi, non è nulla qualora le ragioni della decisione siano, in ogni
+caso, attribuibili all'organo giudicante e risultino in modo chiaro,
+univoco ed esaustivo, atteso che, in base alle disposizioni costituzionali
+5
+
+--- Pagina 6 ---
+
+e processuali, tale tecnica di redazione non può ritenersi, di per sé,
+sintomatica di un difetto d'imparzialità del giudice, al quale non è
+imposta l'originalità né dei contenuti né delle modalità espositive, tanto
+più che la validità degli atti processuali si pone su un piano diverso
+rispetto alla valutazione professionale o disciplinare del magistrato
+(Cass. Sez. U. n. 642/2015).
+Nel caso di specie il vizio evidentemente non sussiste in quanto
+nella sua ampia motivazione la CTR ha illustrato le riprese,
+condividendo i rilievi dell’ufficio e il loro fondamento, ed esaminato le
+difese della parte, per cui la ratio decidendi è perfettamente evincibile.
+2. Con il secondo motivo si deduce «Violazione dell’art. 115 c.p.c.
+in relazione all’art. 360, n. 3 c.p.c. Il giudice di seconde cure ha omesso
+di valutare le prove decisive dedotte in causa con riferimento alla
+effettiva esistenza delle società sub-vettrici, con conseguente esistenza
+dei contratti di trasporto e di lavoro dipendente, nonché sulla asserita
+sovrafatturazione delle prestazioni».
+La ricorrente deduce che, poiché la ragione fondante del recupero
+impositivo basato sull’inesistenza delle società sub-vettrici è
+rappresentata dall’asserito controllo direttivo esercitato da Ivan Lusso
+sugli autisti delle sub-vettrici, la CTR ha omesso di esaminare tutta una
+serie di prove, consistenti soprattutto in intercettazioni telefoniche, le
+quali erano tese a dimostrare come il potere direttivo sugli autisti delle
+sub-vettrici fosse esercitato dagli amministratori di fatto delle sub-
+vettrici e dai loro dipendenti, mentre le telefonate di Ivan Lusso
+potevano e dovevano essere ricondotte al normale alveo dei rapporti
+tra vettore principale e autisti del sub-vettore; nonché tutte le
+dichiarazioni rese nell’ambito delle indagini difensive svolte nel
+processo penale.
+Con riferimento, invece, al fatto ritenuto rilevante per cui è più che
+normale che il vettore principale, o a volte anche il cliente finale,
+6
+
+--- Pagina 7 ---
+
+possieda e a volte contatti l’autista del sub-vettore, la Lusso aveva
+prodotto altri verbali di investigazioni difensive ed il decreto del
+tribunale di Torino del 4 dicembre 2017.
+Analoga conclusione, poi, vale con riferimento alle prove
+(documenti e perizie di riconciliazione dei documenti contabili ed
+extracontabili) relative all’effettiva esecuzione di quei trasporti che
+l’Agenzia ha ritenuto non effettuati e, quindi, sovrafatturati.
+2.1. Il motivo è inammissibile.
+Questa Corte nella sua massima funzione nomofilattica, infatti, ha
+ritenuto che in tema di ricorso per cassazione, per dedurre la violazione
+dell'art. 115 c.p.c., occorre denunciare che il giudice, in contraddizione
+espressa o implicita con la prescrizione della norma, abbia posto a
+fondamento della decisione prove non introdotte dalle parti, ma
+disposte di sua iniziativa fuori dei poteri officiosi riconosciutigli (salvo il
+dovere di considerare i fatti non contestati e la possibilità di ricorrere
+al notorio), mentre è inammissibile la diversa doglianza che egli, nel
+valutare le prove proposte dalle parti, abbia attribuito maggior forza di
+convincimento ad alcune piuttosto che ad altre, essendo tale attività
+valutativa consentita dall'art. 116 c.p.c. (Cass. Sez. U. n. 20867/2020),
+mentre nel caso di specie la doglianza censura un omesso
+apprezzamento favorevole di alcune circostanze istruttorie.
+Ciò è del resto in linea con Cass. Sez. U. nn. 8053 e 8054 del 2014,
+secondo cui «il cattivo esercizio del potere di apprezzamento delle
+prove non legali da parte del giudice di merito non dà luogo ad alcun
+vizio denunciabile con il ricorso per cassazione, non essendo
+inquadrabile nel paradigma dell'art. 360, primo comma, n. 5, c.p.c.
+(che attribuisce rilievo all'omesso esame di un fatto storico, principale
+o secondario, la cui esistenza risulti dal testo della sentenza o dagli atti
+processuali, abbia costituito oggetto di discussione tra le parti e
+presenti carattere decisivo per il giudizio), né in quello del precedente
+7
+
+--- Pagina 8 ---
+
+n. 4, disposizione che - per il tramite dell'art. 132, n. 4, c.p.c. - dà
+rilievo unicamente all'anomalia motivazionale che si tramuta in
+violazione di legge costituzionalmente rilevante».
+3. Con il terzo motivo si deduce «Violazione degli artt. 2727 e 2729
+c.c. in relazione all’art. 360, n. 3 c.p.c. La sentenza di seconde cure ha
+illegittimamente presunto l’inesistenza delle società sub-vettrici e la
+sovrafatturazione di trasporti mai eseguiti da elementi inconferenti».
+Con il quarto motivo si deduce «Nullità della sentenza o del
+procedimento. Violazione dell’art. 36 del d.lgs. n. 546 del 1992, dell’art.
+118 disp. att. c.p.c. e dell’art. 156 c.p.c. in relazione all’art. 360, n. 4
+c.p.c. La sentenza di secondo grado è soltanto apparentemente
+motivata con riferimento al valore presuntivo degli elementi addotti
+dall’Agenzia delle Entrate a sostegno della pretesa impositiva». La
+sentenza sarebbe viziata anche nella parte in cui ha valutato
+positivamente la prova presuntiva fornita dall’Agenzia delle Entrate
+senza da un lato esaminare e valutare gli elementi dedotti in causa e
+provati dalla contribuente, anche di oggettiva portata indiziante, e
+dall’altro senza portare a sintesi tutti gli elementi raccolti.
+3.1. Il terzo e il quarto motivo vanno esaminati congiuntamente e
+sono da respingere.
+In tema di prova presuntiva e giudizio di legittimità questa Corte
+ha ritenuto che le competa, nell'esercizio della funzione di
+nomofilachia, controllare se la norma dell'art. 2729, c.c., oltre ad
+essere applicata a livello di proclamazione astratta, lo sia stata anche
+sotto il profilo dell'applicazione a fattispecie concrete che
+effettivamente risultino o meno ascrivibili alla fattispecie astratta
+(Cass. n. 17535/2008; Cass. n. 19485/2017), qualora il giudice di
+merito sussuma erroneamente sotto i tre caratteri individuatori della
+presunzione (gravità, precisione e concordanza) fatti concreti che non
+sono invece rispondenti a quei requisiti.
+8
+
+--- Pagina 9 ---
+
+Inoltre, se è sicuramente devoluta al monopolio del giudice di
+merito la valutazione della ricorrenza dei requisiti enucleabili dagli artt.
+2727 e 2729, c.c., per valorizzare elementi di fatto come fonti di
+presunzione, tale giudizio, tuttavia, non può sottrarsi al controllo in
+sede di legittimità, ai sensi dell'invocato art. 360, primo comma, n. 3,
+c.p.c. (Cass. n. 9760/2015 e Cass. n. 19894/2005). Le circostanze
+sulle quali la presunzione si fonda devono essere tali da lasciare
+apparire l'esistenza del fatto ignoto come una conseguenza (solo)
+ragionevolmente probabile del fatto noto, dovendosi ravvisare una
+connessione fra i fatti accertati e quelli ignoti secondo regole di
+esperienza che convincano di ciò, sia pure con qualche margine di
+opinabilità (Cass. n. 6220/2005).
+Si è anche precisato (Cass. n. 6154/2021) che, a tal fine, il giudice
+di merito non può limitarsi ad enunciare il giudizio nel quale consiste la
+sua valutazione, ma deve impegnarsi anche nella descrizione del
+processo cognitivo attraverso il quale è giunto al finale giudizio. Il
+procedimento che deve necessariamente seguirsi in tema di prova per
+presunzioni, per non incorrere in vizi di legittimità della decisione
+(Cass. n. 13819/2003), si articola in due momenti valutativi: (i) prima
+occorre che il giudice esamini ognuno degli elementi indiziari per
+eliminare quelli intrinsecamente privi di rilevanza e, invece, conservare
+quelli che, presi singolarmente, presentino una positività parziale o
+almeno potenziale di efficacia probatoria; (ii) successivamente occorre
+che egli proceda a una valutazione complessiva di tutti gli elementi
+presuntivi così isolati e accerti se essi siano concordanti e se la loro
+combinazione sia in grado di fornire una prova logicamente valida, in
+rapporto di vicendevole completamento (Cass. n. 9108/2012) e
+secondo crismi di ragionevole probabilità e non necessariamente di
+certezza (Cass. n. 4306/2010).
+9
+
+--- Pagina 10 ---
+
+Si è poi precisato però che la deduzione del vizio del ragionamento
+presuntivo, cioè falsa applicazione dell'art. 2729, primo comma, c.c.,
+suppone un'attività argomentativa che si deve estrinsecare nella
+puntuale indicazione, enunciazione e spiegazione che il ragionamento
+presuntivo compiuto dal giudice di merito - assunto, però, come tale e,
+quindi, in facto per come è stato enunciato - risulti irrispettoso del
+paradigma della gravità, o di quello della precisione o di quello della
+concordanza. Occorre, dunque, una preliminare attività di
+individuazione del ragionamento asseritamente irrispettoso di uno o di
+tutti tali paradigmi compiuto dal giudice di merito e, quindi, è su di esso
+che la critica di c.d. falsa applicazione si deve innestare ed essa postula
+l'evidenziare in modo chiaro che quel ragionamento è stato
+erroneamente sussunto sotto uno o sotto tutti quei paradigmi (Cass.
+n. 19485/2017).
+Nel caso di specie la CTR ha evidenziato i singoli elementi presuntivi
+e proceduto ad una valutazione di sintesi, mentre in realtà, esclusa
+ogni apparenza della motivazione, in base ai principi già esposti
+nell’esame del primo motivo (da cui la infondatezza del quarto motivo),
+il terzo motivo è inammissibile in quanto mira ad un nuovo
+apprezzamento in fatto delle risultanze istruttorie evidenziate dalla
+società (e complessivamente disattese dalla CTR), operazione
+inammissibile in questa sede. La censura in merito all’efficacia
+presuntiva dei singoli elementi valorizzati dalla CTR appare inoltre
+genericamente intesa a sminuire la pregnanza dei medesimi laddove
+invece essi appaiono avere le caratteristiche di cui all’art. 2729 c.c.
+4. Con il quinto motivo si deduce «Nullità della sentenza o del
+procedimento. Violazione dell’art. 112 c.p.c. in relazione all’art. 360 n.
+4 c.p.c. La Commissione tributaria regionale ha pronunciato oltre i limiti
+delle domande delle parti, accogliendo la domanda dell’Agenzia riferita
+all’esistenza solo cartolare delle sub-vettrici perché si tratterebbe di
+10
+
+--- Pagina 11 ---
+
+operazioni soggettivamente inesistenti, diversamente da quanto
+ritenuto dagli avvisi di accertamento». In particolare, in base a due
+passaggi contenuti a pag. 7 e a pag. 11 della sentenza, si evidenzia
+l’errore del giudice, che ha condotto l’intero giudizio di idoneità delle
+prove ed ha confermato gli avvisi di accertamento, accogliendo la
+domanda dell’Agenzia delle Entrate, per una ragione giuridica diversa
+(operazioni soggettivamente inesistenti) da quella a sostegno degli
+avvisi stessi, e, quindi, della domanda (operazioni oggettivamente
+inesistenti). Quanto sopra determina una violazione dell’art. 112 c.p.c.,
+che impone al giudicante di pronunciarsi entro e non oltre la domanda
+posta in giudizio dalle parti.
+4.1. Il motivo è infondato.
+L’oggetto dei rilievi contenuti negli avvisi di accertamento risulta
+pacificamente riportato in modo analogo dalle parti del giudizio.
+L’Ufficio negli avvisi di accertamento con un primo rilievo ha
+ritenuto l’inesistenza oggettiva di alcune operazioni (a differenza del
+PVC della Guardia di Finanza, secondo cui le fatture erano
+soggettivamente inesistenti), in quanto poste in essere non dalle sub-
+vettrici ma dalla stessa società Autotrasporti Lusso s.r.l., e di
+conseguenza ha disconosciuto integralmente l’Iva relativa alle fatture
+delle società sub-vettrici portata in detrazione, e ha però considerato
+le somme pagate per tali fatture quali costi del personale, pertanto
+deducibili ai fini Ires, ma non ai fini Irap.
+Con un secondo rilievo ha contestato la parziale oggettiva
+inesistenza di alcune operazioni in quanto sovrafatturate, e ciò a fini
+Ires, Irap e Iva.
+Ciò premesso, se è vera la presenza di alcune imprecisioni
+terminologiche (a pag. 7) e una parzialmente non precisa descrizione
+dei due rilievi mossi dall’ufficio (a pag. 11), nulla consente di ritenere
+che la CTR abbia riformulato i rilievi contenuti nell’avviso di
+11
+
+--- Pagina 12 ---
+
+accertamento e mutato l’oggetto del giudizio, posto che tutto il resto
+dell’apparato motivazionale è di piena adesione alle conclusioni
+dell’Agenzia delle entrate.
+5. Con il sesto motivo si deduce «Nullità della sentenza o del
+procedimento. Violazione dell’art. 36 del d.lgs. n. 546 del 1992, dell’art.
+118 disp. att. c.p.c. e dell’art. 156 c.p.c. in relazione all’art. 360, n. 4
+c.p.c. La sentenza di secondo grado è soltanto apparentemente
+motivata con riferimento alla legittima irrogazione delle sanzioni».
+5.1. Anche tale motivo appare infondato alla luce della citata
+giurisprudenza in tema di vizio di motivazione, in quanto una
+pronuncia, sebbene succinta, esiste anche sul punto.
+6. Con il settimo motivo si deduce «Violazione dell’art. 2 e dell’art.
+23 d.lgs. n. 82 del 2005, dell’art. 42 d.p.r. n. 600 del 1973 in relazione
+all’art. 360, n. 3 c.p.c. L’avviso di accertamento emesso prima del 27
+gennaio 2018 non poteva essere sottoscritto digitalmente e notificato
+al contribuente mediante notifica cartacea, come avvenuto nel caso di
+specie».
+Il motivo contiene varie censure.
+La ricorrente, in primo luogo, deduce che la CTR ha errato nella
+parte in cui ha ritenuto legittima la sottoscrizione digitale degli avvisi
+di accertamento nonostante tali atti siano stati emessi il 29 novembre
+2016, e quindi prima della modifica dell’art. 2, comma 6, d.lgs. n. 82
+del 2005 e dell’aggiunta in tale norma del comma 6-bis, modifica
+introdotta dall’art. 2, comma 1, del d.lgs. n. 217 del 2017, in vigore
+soltanto dal 27 gennaio 2018. L’art. 2, comma 6, d.lgs. n. 82 del 2005,
+vigente ratione temporis, recitava: «Le disposizioni del presente Codice
+non si applicano limitatamente all'esercizio delle attività e funzioni
+ispettive e di controllo fiscale…», dovendosi intendere l’attività di
+accertamento tributario compresa in quella di controllo; la modifica
+normativa appena descritta avrebbe natura innovativa e
+12
+
+--- Pagina 13 ---
+
+confermerebbe il fatto che prima del 27 gennaio 2018 la sottoscrizione
+digitale di cui al d.lgs. n. 82/2005 non potesse apporsi agli avvisi di
+accertamento.
+La ricorrente deduce inoltre che la norma deve essere interpretata
+nel senso che al contribuente non può pervenire una copia, anche
+conforme, priva di sottoscrizione ma, al contrario, deve essergli
+notificato un atto sottoscritto, come previsto dall’art. 42 d.P.R. n. 600
+del 1973, eventualità che nel caso di specie non si è verificata, giacché
+gli avvisi di accertamento pervenuti al contribuente in forma cartacea
+mediante notifica a mezzo posta non erano sottoscritti, ma recavano
+semplicemente la dicitura: «firmato digitalmente Il Direttore
+Provinciale Dr. Raffaele Gentile» In altre parole, l’avviso di
+accertamento sottoscritto digitalmente avrebbe potuto essere
+rispettoso dell’art. 42 del d.P.R. n. 600 del 1973 soltanto ove notificato
+in forma digitale a mezzo p.e.c.
+La ricorrente deduce poi che le copie degli avvisi di accertamento
+notificate non siano rispettose dell’art. 23 del d.lgs. n. 82 del 2005 e
+che la sentenza è errata nella misura in cui ha sostenuto che la
+ricorrente avrebbe dovuto indicare le specifiche difformità della copia
+notificata rispetto all’originale informatico. Ancora, la sentenza deve
+essere cassata laddove afferma che il potere certificatorio del
+funzionario Iafisco conseguirebbe dalla sua qualifica di responsabile del
+procedimento, mentre invece l’art. 23 d.lgs. n. 82 del 2005 al comma
+1 prevede che «le copie su supporto analogico di documento
+informatico, anche sottoscritto con firma elettronica avanzata,
+qualificata o digitale, hanno la stessa efficacia probatoria dell'originale
+da cui sono tratte se la loro conformità all'originale in tutte le sue
+componenti è attestata da un pubblico ufficiale a ciò autorizzato». La
+norma, quindi, imporrebbe la presenza di una specifica delega alla
+13
+
+--- Pagina 14 ---
+
+certificazione di conformità, non essendo sufficiente a tale scopo la
+mera qualifica di responsabile del procedimento.
+6.1. Le censure sono infondate.
+E’ orientamento ormai consolidato di questa Corte quello per cui
+l'avviso di accertamento firmato digitalmente nel regime di cui all'art.
+2, comma 6, d.lgs. n. 82 del 2005 (ratione temporis vigente dal 14
+settembre 2016 fino al 26 gennaio 2018) non è nullo per difetto di
+sottoscrizione, posto che l'esclusione dell'utilizzo di strumenti
+informatici prevista per l'esercizio delle attività e funzioni ispettive fino
+all'entrata in vigore del d.lgs. n. 217 del 2017 riguarda la sola attività
+di controllo fiscale e non può estendersi agli avvisi di  accertamento ed
+in genere agli atti impositivi (Cass. n. 32692/2021; Cass. n.
+6142/2024; Cass. n. 10829/2024; Cass. n. 16293/2024).
+Le argomentazioni svolte in tali pronunce, che il Collegio condivide,
+si fondano essenzialmente su tali passaggi:
+- la normativa in tema di digitalizzazione della pubblica
+amministrazione, anche in conseguenza degli obblighi di adeguamento
+al Regolamento comunitario noto con l’acronimo eIDAS, entrato in
+vigore direttamente in tutti gli Stati Membri UE, senza necessità di atti
+di recepimento, il 17 settembre 2014, e divenuto applicabile a
+decorrere dal 1 luglio 2016, impone come regola generale l’adozione
+dei documenti informatici, residuando ad eccezione il mantenimento
+dei documenti analogici; infatti, ai sensi dell’art. 40 CAD, le pubbliche
+amministrazioni formano gli originali dei propri documenti con mezzi
+informatici secondo le regole tecniche fissate dal D.P.C.M. 13 novembre
+2014;
+- la regola generale è divenuta, quindi, il ricorso ai documenti
+informatici e le limitazioni ne costituiscono l’eccezione;
+- una serie di valutazioni ermeneutiche sia di tipo letterale che
+sistematico fanno propendere per un’interpretazione dell'art. 2, comma
+14
+
+--- Pagina 15 ---
+
+6, del CAD, ratione temporis vigente, nel senso che nell'esercizio delle
+attività e funzioni ispettive non rientrino gli atti impositivi;
+- innanzitutto, sul piano terminologico gli atti impositivi non
+rientrano tra gli atti emessi «nell'esercizio» delle attività e funzioni
+ispettive e di controllo fiscale, a cui sono certamente riconducibili gli
+atti adottati in occasione di indagini e verifiche ispettive propedeutiche
+all'esercizio del potere di accertamento e di irrogazione di sanzioni,
+bensì tra gli atti eventualmente emessi «all'esito» delle attività e
+funzioni ispettive e di controllo fiscale, attività che potrebbero anche
+concludersi con un esito favorevole per il contribuente, e quindi senza
+l'emissione di un atto impositivo;
+- la distinzione tra l'attività accertativa e quella preliminare di
+verifica e controllo risulta poi immanente nella normativa fiscale
+vigente (artt. 32 e 33, da un lato, e artt. 36-bis, 36-ter, 38 e 39,
+dall’altro, del d.P.R. n. 600 del 1973 per le imposte dirette; anche in
+tema di IVA il d.P.R. n. 633 del 1972 regola separatamente all'art. 52
+gli accessi, ispezioni e verifiche ed agli artt. 54 e ss. le rettifiche e gli
+accertamenti). Correttamente la ratio dell'esclusione degli atti
+propedeutici all'esercizio del potere di accertamento è stata rinvenuta
+nel fatto che nell'ambito di tali attività di verifica si impone la
+partecipazione del contribuente che potrebbe non essere munito di
+firma digitale, sicché l'applicazione del CAD determinerebbe un
+aggravio dei suoi diritti di difesa ed un ostacolo al rapporto di
+collaborazione che dovrebbe sempre ispirare tali incombenti.
+- una diversa interpretazione si porrebbe in disarmonia con la
+volontà del legislatore come manifestata negli interventi normativi
+successivi. La modifica apportata all'art. 60 del d.P.R. n. 600 del 1973,
+ad opera dell'art. 7-quater, comma 6, del d.l. n. 193 del 2016, con
+l'inserimento del comma 6 che ha introdotto la possibilità della notifica
+a mezzo PEC degli avvisi di accertamento, tende ad una
+15
+
+--- Pagina 16 ---
+
+implementazione dell'utilizzo dei documenti informatici. Il comma 6-
+bis, aggiunto all'art. 2 del CAD dall'art. 2, lett. e), del d.lgs. n. 217 del
+2017, ne sancisce espressamente l'applicabilità «agli atti di
+liquidazione, rettifica, accertamento e di irrogazione delle sanzioni di
+natura tributaria» (e conseguentemente alla lett. d ha soppresso le
+parole «ispettive e di controllo fiscale» di cui alla prima parte del
+comma 6) e rimette ad un successivo decreto l'adozione delle modalità
+e dei termini per l'applicazione anche alle «attività e funzioni ispettive
+e di controllo fiscale». Seppure non si voglia attribuire a tale ultima
+disposizione la natura di norma di interpretazione autentica con portata
+retroattiva, è indubbio che da essa non può che trarne conferma
+l'impostazione esegetica che distingue l'attività di accertamento da
+quella di controllo fiscale.
+Dalla ritenuta applicabilità al caso di specie dell’art. 2, comma 6,
+CAD, nella versione vigente ratione temporis, consegue altresì la
+legittimità della notifica di una copia analogica conforme ad un
+documento informatico; la copia analogica dell'avviso di accertamento,
+sottoscritta digitalmente dal funzionario incaricato e dichiarata
+conforme all'originale informatico nel rispetto della previsione dell'art.
+23 del d.lgs. n. 82 del 2005, tiene luogo del menzionato originale ed è
+validamente notificata al contribuente, oltre che a mezzo posta
+elettronica certificata, anche a mezzo del servizio postale (Cass. n.
+16293/2024 citata; Cass.  n. 13995/2024).
+Né appare fondato l’assunto per cui occorreva che la certificazione
+provenisse da funzionario munito di specifica delega, requisito non
+previsto dall’art. 23 del CAD, che richiede solo la sussistenza del potere
+certificativo in capo al funzionario («… se la loro conformità all'originale
+in tutte le sue componenti è attestata da un pubblico ufficiale a ciò
+autorizzato»).
+16
+
+--- Pagina 17 ---
+
+A ciò aggiungasi che correttamente la CTR ha ritenuto necessario
+un espresso disconoscimento, in ciò conformandosi allo specifico
+dettato normativo del comma 2, prima parte, del citato art. 23 CAD,
+che prevede che «Le copie e gli estratti su supporto analogico del
+documento informatico, conformi alle vigenti regole tecniche, hanno la
+stessa efficacia probatoria dell'originale se la loro conformità non è
+espressamente disconosciuta», dettato normativo già valorizzato da
+questa Corte in tutti i citati precedenti.
+Altrettanto correttamente la CTR ha ritenuto di fare applicazione
+del principio consolidato secondo cui, ai sensi dell'art. 156, terzo
+comma, c.p.c., ove l'atto, malgrado l'irritualità della notifica, sia venuto
+a conoscenza del destinatario, la nullità non può essere dichiarata per
+il raggiungimento dello scopo (cfr., tra le tante, Cass. S.U. n.
+7665/2016; Cass. n. 20625/2017; Cass. n. 27561/2018; Cass. n.
+24568/2018), principio ritenuto applicabile anche alla fattispecie in
+esame (Cass. n. 13995/2024; Cass. n. 18373/2025; Cass. n.
+7720/2025).
+7. Con l’ottavo motivo si deduce «Violazione degli artt. 2727 e 2729
+c.c. in relazione all’art. 360, n. 3 c.p.c. Divieto di presumere fatti ignoti
+da altri fatti ignoti», in quanto la CTR avrebbe avallato l’utilizzo di una
+doppia presunzione con violazione dell’art. 2727 c.c. e dell’art. 2729
+c.c. i quali escludono che possano trarsi presunzioni da altre
+presunzioni. La censura attiene ad entrambi i rilievi dell’ufficio.
+In relazione al rilievo relativo alla sovrafatturazione e quindi alle
+operazioni considerate oggettivamente inesistenti ma solo
+parzialmente si deduce che da una prima presunzione – le somme
+prelevate dai conti societari sono consegnate a Lusso – il giudice ne
+trae una seconda – le somma attengono a operazioni fatturate ma non
+eseguite.
+17
+
+--- Pagina 18 ---
+
+In relazione all’altro rilievo, si deduce che illegittimamente l’ufficio
+ha desunto dall’utilizzo della struttura del Lusso da parte dei sub-
+vettori, da telefonate e da altri fatti noti, che Ivan Lusso esercitasse
+direttamente il potere direttivo sui dipendenti delle sub-vettrici e che
+ci fosse una gestione accentrata delle società di sub-vezione. Da questi
+primi fatti ignoti la Commissione ha poi apparentemente presunto,
+senza motivare, ulteriori fatti ignoti, ossia l’inesistenza delle società
+sub-vettrici.
+7.1. Il motivo è infondato poiché costante giurisprudenza di questa
+Corte ritiene che nel sistema processuale non esista il divieto della
+cd. doppia presunzione, non riconducibile né agli artt. 2729 e 2697 c.c.
+né a qualsiasi altra norma, ben potendo il fatto noto, accertato in via
+presuntiva, costituire la premessa di un'ulteriore presunzione idonea a
+fondare l'accertamento del fatto ignoto, a condizione che la
+concatenazione di inferenze presuntive non sia debole, cioè
+inattendibile e infondata, e si fondi su una serie lineare di inferenze,
+ciascuna delle quali, nella sua conclusione, sia la premessa di una
+inferenza successiva e sia conforme ai criteri di precisione, gravità e
+concordanza di cui all'art. 2729 c.c. (Cass. n. 19993/2025; Cass. n.
+14788/2024). Ed infatti in tema di presunzioni, la prova inferenziale
+che sia caratterizzata da una serie lineare di inferenze, ciascuna delle
+quali sia apprezzata dal giudice secondo criteri di gravità, precisione e
+concordanza, fa sì che il fatto «noto» attribuisca un adeguato grado di
+attendibilità al fatto «ignorato», il quale cessa pertanto di essere tale
+divenendo noto, ciò che risolve l'equivoco logico che si cela nel divieto
+di doppie presunzioni (Cass. n. 27982/2020).
+La censura è inammissibile laddove poi riguarda l’apprezzamento
+concreto delle presunzioni.
+8. Con il nono motivo si deduce «Nullità della sentenza o del
+procedimento. Violazione dell’art. 36, n. 4), del d.lgs. n. 546 del 1992
+18
+
+--- Pagina 19 ---
+
+e dell’art. 156 c.p.c. in relazione all’art. 360, n. 4) c.p.c.», e si deduce
+l’omessa motivazione in merito all’implicito rigetto dei motivi relativi a
+carenza di motivazione dell’avviso di accertamento; violazione delle
+norme in tema di simulazione contrattuale; carenza dei presupposti per
+l’accertamento parziale; violazione dell’art. 8 del d.l. n. 16 del 2012;
+illegittimità delle sanzioni per esser state irrogate oltre il limite di legge
+(anni 2009-2014) ed in violazione del principio di proporzionalità.
+8.1. Il motivo è infondato.
+Si è già precisato che la mancanza della motivazione, rilevante ai
+sensi dell’art. 132 n. 4, c.p.c. (e nel caso di specie dell’art. 36, secondo
+comma, n. 4, d.lgs. 546/1992) e riconducibile all’ipotesi di nullità della
+sentenza ai sensi dell’art. 360, primo comma, n. 4, c.p.c. si configura
+quando la motivazione manchi del tutto ovvero essa formalmente
+esista come parte del documento, ma le sue argomentazioni siano
+svolte in modo talmente contraddittorio da non permettere di
+individuarla, cioè di riconoscerla come giustificazione del decisum,
+sempre che il vizio emerga immediatamente e direttamente dal testo
+della sentenza impugnata (Cass. Sez. U. n. 8053/2014).
+Del resto, l'obbligo di motivazione del giudice è ottemperato
+mediante l'indicazione delle ragioni della sua decisione mentre non è
+necessario che egli confuti espressamente - pur dovendoli prendere in
+considerazione - tutti gli argomenti portati dalla parte interessata a
+sostegno delle proprie domande, eccezioni o motivi disattesi e cioè
+anche gli argomenti assorbiti o incompatibili con le ragioni
+espressamente indicate dal giudice stesso, dovendosi ritenere,
+diversamente, che la motivazione non possa qualificarsi come succinta
+nel senso voluto dall'art. 118 disp. att. c.p.c. (Cass. n. 12123/2013).
+Le questioni sottese sono comunque tutte infondate, come
+dall’esame dei motivi che segue, ad eccezione di quanto si dirà in tema
+di sanzioni.
+19
+
+--- Pagina 20 ---
+
+9. Con il decimo motivo si deduce «Nullità della sentenza o del
+procedimento. Violazione dell’art. 112 c.p.c. Omessa pronuncia sul motivo
+inerente alla violazione dell’art. 42 del d.p.r. n. 600 del 1973, dell’art. 56
+del d.p.r. n. 633 del 1972 ed alla contraddittoria e insufficiente
+motivazione degli avvisi di accertamento».
+Con l’undicesimo motivo si deduce «Violazione dell’art. 42 del d.p.r.
+n. 600 del 1973 e dell’art. 56 del d.p.r. n. 633 del 1972 in relazione
+all’art. 360 n. 3 c.p.c. Gli avvisi di accertamento e di rettifica devono
+indicare i presupposti di fatto, tra cui quali siano le fatture o i trasporti
+inesistenti, e non devono essere contraddittori».
+9.1. I due motivi, che attengono alla motivazione degli avvisi di
+accertamento, possono essere trattati congiuntamente e sono
+infondati.
+Secondo questa Corte per integrare gli estremi del vizio di omessa
+pronuncia non basta la mancanza di un'espressa statuizione del
+giudice, ma è necessario che sia stato completamente omesso il
+provvedimento che si palesa indispensabile alla soluzione del caso
+concreto: ciò non si verifica quando la decisione adottata comporti la
+reiezione della pretesa fatta valere dalla parte, anche se manchi in
+proposito una specifica argomentazione, dovendo ravvisarsi una
+statuizione implicita di rigetto quando la pretesa avanzata col capo di
+domanda non espressamente esaminato risulti incompatibile con
+l'impostazione logico-giuridica della pronuncia (Cass. n. 24155/2017;
+nello stesso senso Cass. n. 29191/2017 e Cass. n. 25710/2024).
+E’ stato, altresì, precisato che, è configurabile la decisione implicita
+di una questione (connessa a una prospettata tesi difensiva) o di
+un'eccezione di nullità (ritualmente sollevata o rilevabile d'ufficio)
+quando queste risultino superate e travolte, benché non
+espressamente trattate, dalla incompatibile soluzione di un'altra
+questione, il cui solo esame presupponga e comporti, come necessario
+20
+
+--- Pagina 21 ---
+
+antecedente logico giuridico, la loro irrilevanza o infondatezza; ne
+consegue che la reiezione implicita di una tesi difensiva o di una
+eccezione è censurabile mediante ricorso per cassazione non per
+omessa pronunzia (e, dunque, per la violazione di una norma sul
+procedimento), bensì come violazione di legge, sempreché la soluzione
+implicitamente data dal giudice di merito si riveli erronea e censurabile
+oltre che utilmente censurata, in modo tale, cioè, da portare il controllo
+di legittimità sulla decisione inespressa e sulla sua decisività (Cass. n.
+12131/2023).
+Per integrare il vizio di omessa pronuncia è necessaria
+l'illustrazione del carattere decisivo della prospettata violazione,
+dimostrando che la minuspetizione ha riguardato una questione
+astrattamente rilevante, posto che, altrimenti, si dovrebbe cassare
+inutilmente la decisione gravata (Cass. n. 10290/2025).
+Infine, questa Corte (Cass. n. 17416/2023) ha ritenuto che ove
+ricorra omessa pronuncia questa Corte, in forza del principio della
+ragionevole durata del processo, possa comunque decidere la causa
+nel merito o emendare la decisione se il vizio omissivo attiene a
+questione di diritto (e analogamente in caso di omessa motivazione:
+Cass. n. 6145/2019).
+9.2. Ciò premesso la doglianza di omessa pronuncia è infondata in
+quanto la decisione sul merito della pretesa tributaria deve far ritenere
+implicitamente decisa, con pronuncia di rigetto, anche la questione
+della validità formale dell’atto (con conseguente infondatezza del
+decimo motivo).
+Quanto all’undicesimo motivo, questa Corte ha più volte
+evidenziato che l’avviso di accertamento non può essere supportato da
+motivazione contraddittoria, poiché in tal caso esso non consente al
+contribuente di avere certezza degli elementi fondanti le ragioni della
+pretesa; e ha specificato che tale vizio si configura anche laddove
+21
+
+--- Pagina 22 ---
+
+vengano indicate ragioni concorrenti ma contraddistinte da assoluta
+eterogeneità e, come tali, inidonee a fungere da complessivo
+presupposto della pretesa (Cass. n. 18767/2020; Cass. n. 6104/2020;
+Cass. n. 25197/2009).
+Tale circostanza evidentemente non ricorre nel caso di specie
+poiché, per come evidenziato dalla stessa ricorrente, non si è in
+presenza di contestazioni concorrenti o subordinate ma di due rilievi
+diversi anche ai fini delle imposte recuperate.
+L’oggetto dell’accertamento è stato poi compiutamente inteso e
+censurato dalla parte e valutato dal giudice.
+Anche l’undicesimo motivo è quindi infondato.
+10. Con il dodicesimo motivo si deduce «Nullità della sentenza o
+del procedimento. Violazione dell’art. 112 c.p.c. Omessa pronuncia sul
+motivo inerente alla violazione degli artt. 1414 e 109 Tuir per aver
+giudicato indeducibili trasporti asseritamente frutto di una simulazione
+assoluta e, contemporaneamente, di una simulazione relativa»; si
+evidenzia che la contraddizione non è solo motivazionale ma anche
+concettuale: non si vede, infatti, come possano gli stessi contratti di
+trasporto essere nulli per simulazione assoluta derivante
+dall’inesistenza della società ed essere al contempo frutto di una
+simulazione relativa con riferimento ad alcuni trasporti, fatturati ma
+mai effettuati.
+Con il tredicesimo motivo si deduce «Violazione dell’art. 1414 c.c.
+in relazione all’art. 360 n. 3 c.p.c. La simulazione assoluta di un
+contratto esclude la simulazione relativa del medesimo», formulando
+in termini di violazione di legge la censura agli atti impositivi sulla quale
+denuncia l’omessa pronuncia con il dodicesimo motivo.
+10.1. Anche tali motivi vanno esaminati congiuntamente e vanno
+disattesi.
+22
+
+--- Pagina 23 ---
+
+Il dodicesimo motivo, sull’omessa pronuncia, è infondato per le
+medesime ragioni già esposte nel par. 9.1, trattandosi di questioni
+implicitamente disattese dal giudice. Ove si tratti, come nel caso di
+specie, di mere argomentazioni difensive vale infatti il principio che il
+giudice non è comunque tenuto a prendere in considerazione ogni
+argomentazione proposta dalle parti, essendo sufficiente che nella
+motivazione indichi le ragioni che sorreggono la decisione adottata,
+dimostrando di aver tenuto così presente ogni fatto decisivo, tanto che
+l’ipotizzabilità di una diversa valutazione delle medesime risultanze
+processuali non costituisce vizio di motivazione valutabile in sede di
+legittimità. Costituisce principio consolidato che è sufficiente e
+necessario che il giudice esponga in maniera concisa gli elementi in
+fatto e in diritto posti a fondamento della sua decisione (v. tra
+numerosissime altre Cass. n. 22801/2009), dovendo reputarsi per
+implicito disattesi tutti gli argomenti, le tesi e i rilievi che, seppure non
+espressamente esaminati, siano incompatibili con la soluzione adottata
+(tra le moltissime v. Cass. nn. 17145/2006 e 2272/2007).
+La questione è altresì infondata in diritto poiché non sussiste alcun
+contrasto concettuale tra i due rilievi effettuati dall’ufficio, peraltro
+finalizzati in parte a recuperi diversi.
+Ne consegue il rigetto anche del tredicesimo motivo.
+11. Con il quattordicesimo motivo si deduce «Nullità della sentenza
+o del procedimento. Violazione dell’art. 112 c.p.c. Omessa pronuncia
+sul motivo inerente alla necessaria espunzione dai ricavi della Lusso
+dei trasporti non effettuati eppure fatturati ai clienti». La ricorrente
+aveva dedotto in primo grado e riproposto in appello la doglianza per
+cui la mancata indicazione dei trasporti asseritamente sovrafatturati
+effettuati dalle sub-vettrici determina una violazione dell’art. 8, comma
+2, del d.l. n. 16 del 2012, a mente del quale ai fini dell'accertamento
+delle imposte sui redditi non concorrono alla formazione del reddito
+23
+
+--- Pagina 24 ---
+
+oggetto di rettifica i componenti positivi direttamente afferenti a spese
+o altri componenti negativi relativi a beni o servizi non effettivamente
+scambiati o prestati, entro i limiti dell'ammontare non ammesso in
+deduzione delle predette spese o altri componenti negativi ed aveva
+quindi chiesto di non conteggiare nel proprio reddito i componenti
+positivi afferenti un’operazione non realizzata o comunque di
+riconoscerne il rimborso.
+Con il quindicesimo motivo si deduce, in relazione alla medesima
+questione di cui al precedente motivo, la «Violazione dell’art. 8, comma
+2, d.l. n. 16 del 2012 in relazione all’art. 360 n. 3 c.p.c. I ricavi
+avrebbero dovuto essere diminuiti dei trasporti asseritamente non
+effettuati».
+11.1. I motivi vanno trattati congiuntamente e sono da respingere.
+Si è visto che per integrare il vizio di omessa pronuncia o omessa
+motivazione è necessaria l'illustrazione del carattere decisivo della
+prospettata violazione, dimostrando che la minuspetizione ha
+riguardato una questione astrattamente rilevante, posto che,
+altrimenti, si dovrebbe cassare inutilmente la decisione gravata
+(Cass. n. 10290/2025).
+Nel caso di specie la doglianza riportata dalla parte appare del tutto
+generica mancando di indicare quali siano i ricavi correlati ai costi
+disconosciuti, laddove in tema di imposte sui redditi, e con riguardo ad
+operazioni oggettivamente inesistenti, questa Corte ha ritenuto
+gravare sul contribuente l'onere di provare la natura fittizia dei
+componenti positivi del reddito che - ai sensi dell'art. 8, comma 2, del
+d.l. n. 16 del 2012, conv., con modif., dalla l. n. 44 del 2012 - siano
+direttamente afferenti a spese o ad altri componenti negativi relativi a
+beni e servizi non effettivamente scambiati o prestati e non devono
+pertanto concorrere alla formazione del reddito oggetto di rettifica,
+entro i limiti dell'ammontare non ammesso in deduzione delle predette
+24
+
+--- Pagina 25 ---
+
+spese o altri componenti negativi (Cass. n. 33915/2019; Cass. n.
+7896/2016; Cass. n. 21189/2014). Si è infatti ulteriormente chiarito
+che per le operazioni oggettivamente inesistenti non vi è simmetria, né
+automatismo biunivoco tra costi per acquisti inesistenti e ricavi
+dichiarati, ciò che giustifica l’onere della prova gravante sul
+contribuente in merito alla corrispondenza tra ricavi e costi attinenti a
+beni non effettivamente scambiati (Cass. n. 19000/2018).
+Tali considerazioni consentono di rigettare quindi il quattordicesimo
+e il quindicesimo motivo.
+12. Con il sedicesimo motivo si deduce «Nullità della sentenza o del
+procedimento. Violazione dell’art. 112 c.p.c. Omessa pronuncia sul
+motivo inerente alla carenza dei presupposti per l’accertamento
+parziale».
+Con il diciassettesimo motivo si deduce «Violazione dell’art. 41-bis
+del d.p.r. n. 600 del 1973 in relazione all’art. 360, n. 3 c.p.c.
+L’accertamento parziale è riservato a fattispecie differenti, dove non
+viene messa in discussione l’intera posizione del contribuente per sette
+anni d’imposta e l’Agenzia modifica addirittura il rilievo del PVC». La
+ricorrente deduce infatti che l’art. 41-bis d.P.R. n. 600 del 1973
+disciplina quelle ipotesi in cui all’Agenzia delle entrate vengono
+segnalati elementi di reddito non dichiarati e l’Agenzia, senza
+procedere ad un controllo dell’intera posizione del contribuente,
+procede limitatamente a quegli elementi; evidenzia che debba trattarsi
+di casi semplici, quasi immediati, caratterizzati da un’istruttoria
+«leggera» mentre al contrario, nel caso di specie, la verifica ha
+coinvolto l’intera operatività dell’Autotrasporti Lusso per sette anni
+d’imposta, fruendo anche del raddoppio dei termini conseguente
+all’inoltro di notizia di reato.
+12.1. Anche tali motivi vanno esaminati congiuntamente e sono da
+respingere.
+25
+
+--- Pagina 26 ---
+
+Trattandosi di rilievo attinente alla validità formale degli avvisi
+impugnati, la questione deve ritenersi implicitamente rigettata, in base
+alle considerazioni già esposte nel par. 9.1.; ne segue la infondatezza
+del vizio di omessa pronuncia (sedicesimo motivo).
+Comunque, anche la doglianza in diritto posta dal diciassettesimo
+motivo è infondata.
+Si è infatti avuto modo di affermare che l'accertamento parziale di
+cui agli artt. 41-bis del d.P.R. n. 600 del 1973 e 54, quinto comma, del
+d.P.R. n. 633 del 1972, «è uno strumento diretto a perseguire la finalità
+di sollecita emersione della materia imponibile, ove le attività istruttorie
+diano contezza della sussistenza di attendibili posizioni debitorie», ma
+non costituisce «un metodo di accertamento autonomo rispetto alle
+previsioni di cui agli artt. 38 e 39 del d.P.R. n. 600 del 1973 e 54 e 55
+del d.P.R. n. 633 del 1972, bensì una modalità procedurale che ne
+segue le stesse regole» (Cass. n. 21984/2015, Cass. n. 28681/2019;
+Cass. n. 23685/2018; Cass. n. 8406/2018). La differenza qualitativa di
+tale tipo di accertamento rispetto a quello ordinario non discende
+invero dalla particolare semplicità della segnalazione, potendo esso
+basarsi anche su una verifica generale (Cass. n. 11057/2006; Cass. n.
+2833/2008; Cass. n. 2761/2009; Cass. n. 1150/2010), bensì dalla
+disponibilità, in capo all'Amministrazione, di elementi (non
+necessariamente provenienti da segnalazione di soggetti ad essa
+estranei, ben potendo derivare anche da fonti interne) idonei a dare
+contezza della sussistenza, a qualsiasi titolo, di attendibili posizioni
+debitorie, senza richiedere, in ragione della loro oggettiva consistenza,
+l'esercizio di un ufficio valutativo ulteriore rispetto a quello che si risolve
+nel recepire e fare proprio il contenuto della segnalazione o lo
+svolgimento di ulteriori attività di approfondimento (appannaggio di
+accertamenti più complessi), valendosi di una «sorta di automatismo
+argomentativo» indotto da quelle fonti di conoscenza, per modo che il
+26
+
+--- Pagina 27 ---
+
+confezionamento dell'atto risulta possibile sulla base della sola
+segnalazione senza necessità di ulteriore approfondimento (cfr. Cass.
+n. 27323/2014; Cass. n. 2633/2016).
+La tesi difensiva, secondo cui l’accertamento parziale deve
+riguardare «casi semplici, quasi immediati, caratterizzati da
+un’istruttoria leggera» è quindi infondata in diritto, con conseguente
+rigetto del diciassettesimo motivo.
+13. Con il diciottesimo motivo si deduce «Nullità della sentenza o
+del procedimento. Violazione dell’art. 112 c.p.c. Omessa pronuncia sul
+motivo inerente alla violazione del principio di proporzionalità in tema
+di sanzioni irrogate».
+Con il diciannovesimo motivo si deduce «Violazione del principio di
+proporzionalità in tema di sanzioni in relazione all’art. 360, n. 3 c.p.c.
+L’irrogazione di una sanzione pari al 200% dell’imposta, oltretutto
+irrogata, per quanto concerne l’Iva, sia per l’infedele dichiarazione sia
+per l’indebita detrazione, è illegittima» lamentando che il giudice non
+abbia valutato alcun elemento al riguardo della dedotta proporzionalità
+delle sanzioni, applicate nella misura del 200 per cento dell’imposta per
+ogni anno di imposta, oltre all’aumento per la recidiva, nonché per
+entrambe le violazioni IVA.
+13.1. I due motivi vanno scrutinati congiuntamente.
+La CTR, che pure si è pronunciata sulla legittimità delle sanzioni
+irrogate, con conseguente esclusione dell’omessa pronuncia
+denunciata con il diciottesimo motivo, che va quindi respinto, con la
+scarna affermazione secondo cui «anche l’irrogazione delle sanzioni
+risulta avvenuta da parte dell’ufficio in modo del tutto legittimo»
+dimostra però di non aver compreso il tenore della censura che
+riguardava il fatto che le stesse non fossero commisurate al principio
+di proporzionalità, limitandosi a dire che il loro calcolo era legittimo
+sulla base delle relative previsioni di legge, laddove avrebbe dovuto
+27
+
+--- Pagina 28 ---
+
+invece valutare gli elementi del caso concreto, alla luce anche del
+principio di proporzionalità di cui era stata dedotta la violazione;
+principio già ritenuto  applicabile da questa Corte (Cass. n.
+14767/2015, in tema di IVA) nonché la cui centralità nel sistema
+sanzionatorio è stata riconosciuta anche da Corte Cost. n. 46 del 2023.
+Conseguentemente va respinto il diciottesimo motivo ma va accolto
+il diciannovesimo.
+14. Con il ventesimo motivo si deduce «Nullità della sentenza o del
+procedimento. Violazione dell’art. 112 c.p.c. Omessa pronuncia sul
+motivo inerente alla illegittima quantificazione delle imposte in misura
+anche superiore al 200% e in tema di recidiva».
+Con il ventunesimo motivo si deduce «Violazione dell’art. 7 del
+d.lgs. n. 472 del 1997 nonché degli artt. 5 e 6 del d.lgs. n. 471 del
+1997 in relazione all’art. 360 n. 3 c.p.c.» e ciò in relazione alla misura
+della sanzione e all’applicazione della recidiva.
+14.1. I due motivi vanno scrutinati congiuntamente, vertendo su
+altro profilo del trattamento sanzionatorio.
+Il ventesimo motivo, formulato in termini di omessa pronuncia, è
+infondato poiché la CTR espressamente esamina il tema delle sanzioni.
+Il ventunesimo motivo, ove si riferisce all’applicazione dell’istituto
+della recidiva per gli anni dal 2009 in poi, in percentuali variabili, è
+invece fondato nei seguenti termini.
+Questa Corte, infatti, in tema di sanzioni amministrative per
+violazioni di norme tributarie, ha già ritenuto che la recidiva di cui
+all'art. 7, comma 3, del d.lgs. n. 472 del 1997, postula un definitivo
+accertamento della violazione antecedente della stessa indole per
+effetto di una pronuncia giurisdizionale ovvero della mancata
+impugnazione della contestazione, con la conseguente compatibilità,
+ricorrendone i presupposti, dell'istituto del cumulo giuridico (Cass. n.
+13742/2019; Cass. n. 5115/2024).
+28
+
+--- Pagina 29 ---
+
+La CTR non ha compiuto tale accertamento e quindi sul punto la
+sentenza va cassata.
+15. Con il ventiduesimo motivo si deduce «Nullità della sentenza o
+del procedimento. Violazione dell’art. 36 del d.lgs. n. 546 del 1992,
+dell’art. 118 disp. att. c.p.c. e dell’art. 156 c.p.c. in relazione all’art.
+360, n. 4 c.p.c. La sentenza di secondo grado è soltanto
+apparentemente motivata con riferimento al rigetto dei motivi in tema
+di notifica». La ricorrente deduce che l’affermazione per cui anche alle
+notificazioni per via telematica sarebbe applicabile la sanatoria degli
+atti processuali per raggiungimento dello scopo di cui all’art. 156 c.p.c.
+è contraddittoria con la pacifica circostanza che nel caso di specie la
+notifica non sia avvenuta per mezzo della posta telematica, bensì per
+mezzo della posta ordinaria.
+15.1. Il motivo è inammissibile in quanto, secondo quanto già
+indicato nell’esame del primo motivo, la contraddittorietà della
+motivazione è deducibile solo nel caso in cui essa sia irriducibile,
+viziando la stessa possibilità di comprendere la ratio decidendi.
+Nel caso di specie la CTR ha fatto corretta applicazione del principio
+del conseguimento dello scopo, del tutto irrilevante essendo a tal fine
+la modalità della notificazione, emergendo peraltro dall’intero corpo
+della motivazione (ed in particolare nella parte iniziale di essa, alla
+quarta pagina) che la CTR avesse ben chiaro che la notificazione era
+avvenuta a mezzo posta ordinaria.
+16. Con il ventitreesimo motivo si deduce «Violazione dell’art. 14
+della legge n. 890 del 1982 e dell’art. 60 del d.p.r. n. 600 del 1973 in
+relazione all’art. 360 n. 3 c.p.c. La notifica diretta a mezzo posta da
+parte dell’Agenzia delle Entrate è inesistente, e non nulla». Si censura
+la sentenza giacché la notifica da parte dell’Agenzia delle Entrate
+direttamente a mezzo posta è inesistente e non nulla non potendo
+29
+
+--- Pagina 30 ---
+
+l’avviso di accertamento essere notificato dall’ufficio direttamente
+mediante posta ordinaria.
+16.1. Il motivo è infondato in quanto sostiene una tesi contraria
+alla consolidata giurisprudenza della Corte che ritiene legittima la
+notificazione dell’avviso di accertamento secondo schemi meno rigidi
+rispetto alla notificazione degli atti giudiziari, anche senza il ministero
+dell'Ufficiale giudiziario, direttamente dagli Uffici finanziari a mezzo
+posta (Cass. n. 15315/2014; Cass.  n. 29642/2019; Cass.  n.
+6702/2025) senza addurre alcun elemento di critica alla medesima.
+17. Concludendo, vanno accolti il diciannovesimo e il ventunesimo
+motivo del ricorso, rigettati o dichiarati inammissibili gli altri.
+Su tali motivi la sentenza va cassata con rinvio della causa alla
+Corte di giustizia tributaria di secondo grado del Piemonte, in diversa
+composizione, per nuovo esame, e ad essa si demanda di provvedere
+sulle spese del giudizio di legittimità.
+P.Q.M.
+La Corte accoglie il diciannovesimo e il ventunesimo motivo del ricorso,
+rigettati e dichiarati inammissibili gli altri; cassa la sentenza impugnata
+in relazione ai motivi accolti e rinvia la causa alla Corte di giustizia
+tributaria di secondo grado del Piemonte, in diversa composizione, per
+nuovo esame, cui demanda di provvedere sulle spese del giudizio di
+legittimità.
+Così deciso in Roma, in data 2 dicembre 2025.
+Il Consigliere est. Il Presidente
+Federico Lume Lucio Napolitano
+30
