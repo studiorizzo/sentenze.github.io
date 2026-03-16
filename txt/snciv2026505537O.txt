@@ -1,0 +1,224 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+IVA – Controllo ex art. 54 bis dPR 633/1972 – Iva – Compensazione in dichiarazione inferiore a quella già compensata con modelli F24
+ORDINANZA
+Sul ricorso n. 27728-2017, proposto da:
+AGENZIA DELLE ENTRATE, cf 06363391001, in persona del Direttore p.t.
+rappresentata e difesa dall’Avvocatura Generale dello Stato –
+CONTRO
+INDUSTRIA OLEARIA BIAGIO MATALUNI s.r.l., in persona del legale
+rappresentate p.t. –
+della sentenza n. 2284/2017 della Commissione tributaria regionale del
+Lazio, depositata il 19 aprile 2017;
+udita la relazione della causa svolta nell’adunanza camerale del 24
+settembre 2025 dal Consigliere dott. Francesco Federici,
+FATTI DI CAUSA
+Dalla sentenza e dal ricorso si evince che l’Agenzia delle entrate, a
+seguito di controllo automatizzato eseguito ai sensi dell’art. 54 bis, d.P.R. n.
+633/1972, notificò alla società una cartella di pagamento, con la quale,
+relativamente all’anno 2010, ingiunse il pagamento della maggiore Iva (per
+
+--- Pagina 2 ---
+
+2
+l’importo di € 57.211,00), pari alla differenza tra quella effettivamente
+compensata con i modelli F24 2010  e l’importo inferiore dichiarato nel
+modello Iva 2011 per l’anno 2010. All’importo richiesto l’ufficio applicò le
+relative sanzioni ed interessi.
+La cartella, che conteneva anche contestazioni per presunti omessi
+versamenti periodici, relativi ai mesi da gennaio ad aprile e da luglio a
+dicembre 2010, fu impugnata dalla società dinanzi alla Commissione
+tributaria provinciale di Roma. All’esito del giudizio, nelle more del quale
+l’Amministrazione finanziaria aveva già provveduto allo sgravio relativo ai
+pagamenti con i modelli F24, insistendo invece sulla contestazione dei
+maggiori crediti d’imposta detratti rispetto al dichiarato, il giudice di primo
+grado accolse il ricorso della contribuente con sentenza n. 7521/2016.
+L’appello erariale fu respinto dalla Commissione tributaria regionale del
+Lazio con sentenza n. 2284/2017, ora al vaglio della Corte.
+Il giudice regionale ha affermato come non fosse stata operata alcuna
+illegittima compensazione, in quanto nell’anno 2009 il credito d’imposta era
+complessivamente pari ad € 649.833,00, riportato poi nel quadro VL della
+dichiarazione Iva 2011 per l’anno 2010. Pertanto, pur sommando alle
+detrazioni in compensazione dichiarate nel modello 2011 (€ 131.476,00)
+quelle utilizzate nel medesimo periodo e non dichiarate (€ 57.211,00), la
+somma complessiva (€ 188.867,00) doveva considerarsi pur sempre
+inferiore a quella a credito (€ 649.833,00), così che l’errore pur compiuto
+dal contribuente non poteva risolversi in una richiesta di restituzione,
+mancando un danno all’Erario. Ha aggiunto che non poteva neppure
+condividersi la prospettazione dell’ufficio, secondo cui l’errore commesso
+dalla società avrebbe comportato il trascinamento negli anni di un credito
+non spettante.
+Per la cassazione della sentenza l’Agenzia delle entrate ha proposto
+ricorso, affidato a due motivi. La società è rimasta intimata.
+Nell’adunanza camerale del 24 settembre 2025 la causa è stata discussa
+e decisa.
+RAGIONI DELLA DECISIONE
+Con il primo motivo l’Agenzia delle entrate ha denunciato la violazione e
+falsa applicazione dell’art. 17, d.lgs. n. 241/1997, come modificato dall’art.
+10 d.l. n. 78/2009, in relazione all’art. 360, primo comma n. 3 cpc.
+RGN 27728/2017 Consigliere rel. Federici
+
+--- Pagina 3 ---
+
+3
+Erroneamente il giudice d’appello avrebbe ritenuto che la dichiarazione di
+importi portati in compensazione, inferiore a quanto effettivamente
+utilizzato, a fronte di un complessivo credito d’imposta di entità superiore
+all’utilizzo, non poteva ingenerare una pretesa erariale restitutoria,
+mancando un danno.
+Il primo motivo è fondato, ma nei termini appresso chiariti.
+La questione che si pone afferisce alla differenza tra il credito d’imposta
+utilizzato in compensazione con i modelli F24 (€ 188.867,00), e il minor
+credito d’imposta dichiarato come compensato nella medesima annualità (€
+131.476,00), differenza appunto pari ad € 57.211,00.
+A prescindere dalle ulteriori contestazioni erariali, poi escluse in
+autotutela, la controversia si era sviluppata sull’assunto che, pur non
+disconoscendo il disallineamento tra quanto dichiarato e quanto
+effettivamente utilizzato in compensazione, la difesa del contribuente,
+seguita dalla CTP e poi dalla CTR, aveva contestato la cartella con cui le si
+ingiungeva il pagamento di quella differenza, perché, assumeva, nell’anno
+precedente il credito d’imposta accumulato, pari ad ulteriori 649.833,00 €,
+pur se compensato per la maggior somma riscontrata mediante il controllo
+degli F24, copriva ampiamente la somma corretta, così che per esso non vi
+era necessità di chiedere il recupero.
+L’Agenzia invece contesta tale ricostruzione perché, tenendo conto delle
+modifiche aggiunte nel 2009 all’art. 17, d.lgs. 9 luglio 1997, n. 241, secondo
+cui «I contribuenti eseguono versamenti unitari delle imposte,  dei contributi
+dovuti all'INPS  e  delle altre somme a favore dello Stato, delle  regioni e
+degli  enti previdenziali, con eventuale compensazione dei crediti,  dello
+stesso  periodo,  nei  confronti dei medesimi soggetti, risultanti dalle
+dichiarazioni e dalle denunce  periodiche  presentate  successivamente alla
+data di  entrata  in vigore del presente decreto. Tale compensazione deve
+essere effettuata entro la data di presentazione della dichiarazione
+successiva. La compensazione del credito annuale o relativo a periodi
+inferiori all'anno dell'imposta sul valore aggiunto, per importi superiori a
+10.000 euro annui, può essere effettuata a partire dal giorno sedici del mese
+successivo a quello di presentazione della dichiarazione o dell'istanza
+da cui il credito emerge».
+RGN 27728/2017 Consigliere rel. Federici
+
+--- Pagina 4 ---
+
+4
+Ebbene, quel maggior credito, già utilizzato in compensazione con i
+modelli F24 nel 2010, disallineato rispetto al dichiarato dalla stessa società,
+perché indicato nel quadro VL nel minor importo di € 131.476,00 della
+dichiarazione iva 2011 per l’anno 2010, avrebbe costituito un indebito
+arricchimento della contribuente, sopravvivendo nelle successive
+dichiarazioni perché appunto, omessa l’esposizione in quella che doveva
+darne atto.
+Questa Corte ha rilevato come l'art. 36 bis, comma 2, lett. e), d.P.R. n.
+600/1973, prevede che il controllo automatizzato sulle dichiarazioni
+presentate dal contribuente può riguardare anche la riduzione dei crediti di
+imposta esposti in misura superiore a quella prevista dalla legge, o non
+spettanti sulla base dei dati risultanti dalle dichiarazioni. In termini generali,
+dunque, ai fini del legittimo ricorso all'art. 36-bis, d.P.R. n. 600/1973,
+l'ufficio è legittimato alla verifica del corretto riporto in dichiarazione di un
+credito di imposta indicato dal contribuente nella dichiarazione dei redditi, e
+ciò anche facendo riferimento alle dichiarazioni presentate dal contribuente
+negli anni precedenti, senza che tale verifica comporti un accertamento
+sostanziale che presuppone valutazioni giuridiche o esame di atti non
+consentiti dalla procedura (Cass. civ., 16 novembre 2018, n. 29582).
+Tuttavia, fermo restando il potere erariale di controllo automatico della
+correttezza delle dichiarazioni dei redditi, nonché della correzione degli
+eventuali errori materiali o di calcolo, ai fini invece della emissione della
+cartella ex art. 36 bis e 54 bis cit., quando con essa si intenda anche
+recuperare un credito utilizzato in misura superiore o non spettante,
+l'emissione della cartella di pagamento risulta legittima solo laddove, a
+seguito della verifica compiuta in sede di controllo automatizzato,
+l'amministrazione finanziaria accerti che, a causa di errori materiali o di
+calcolo, il contribuente abbia illegittimamente utilizzato il credito di imposta,
+così da prospettare un debito del contribuente nei confronti
+dell'amministrazione finanziaria. Solo in questa ipotesi l’erario è legittimato
+al recupero dell'importo mediante la notifica della cartella di pagamento.
+Diversamente, nel caso di mancato utilizzo del credito di imposta, ma ove
+accertato che lo stesso non era stato correttamente esposto,
+l'amministrazione finanziaria può solo procedere alla rettifica dell'errore
+RGN 27728/2017 Consigliere rel. Federici
+
+--- Pagina 5 ---
+
+5
+materiale o di calcolo, ma non può emettere una cartella di pagamento ai
+fini del recupero di un credito di imposta che, in quanto non utilizzato, non
+si è tradotto in un debito del contribuente nei confronti dell'amministrazione
+finanziaria (cfr. Cass., 20 luglio 2021, n. 20643; da ultimo, non massimata,
+cfr. 17 novembre 2025, n. 30320).
+Il discrimine tra l’attivazione o meno della pretesa restitutoria sta
+nell’utilizzo effettivo o meno del credito, ciò che qui emerge con chiarezza
+nel senso della prima opzione.
+Ad un tempo è necessario che da tale utilizzo sia derivato un debito del
+contribuente per aver impropriamente utilizzato un credito non spettante.
+Ed infatti, come questa Corte ha evidenziato, in tema di IVA, ove il
+contribuente, dopo aver utilizzato parzialmente un relativo credito mediante
+compensazione con altro tributo, negli anni successivi continui a dichiararlo
+in misura superiore alla residua parte spettante, non è configurabile una
+violazione equiparabile all’indebito o fraudolento uso di tale credito se
+all'irregolarità formale della dichiarazione non segua il mancato versamento
+di imposte, cui solo è riconducibile un concreto danno erariale, non potendo
+ipotizzarsi un tentativo di illecito fiscale qualora il contribuente tenga una
+condotta in buona fede e non ponga in essere atti diretti all’utilizzo del
+maggior credito erroneamente riportato nelle dichiarazioni successive
+(Cass., 3 febbraio 2017, n. 2882; 30 giugno 2020, n. 13101).
+La sentenza del giudice regionale, nel respingere in toto le ragioni
+erariali, non si è confrontata con i principi di diritto ora esposti.
+Nel caso di specie è infatti pacifico che il maggior credito fosse stato
+utilizzato in compensazione, senza che di ciò vi fosse traccia nella
+dichiarazione Iva 2011 per l’anno 2010. Ciò si pone in contrasto con gli
+obblighi del contribuente, tanto più che il citato art. 17, d.lgs. n. 241/1997,
+dispone che la compensazione debba essere effettuata entro la data di
+presentazione della dichiarazione successiva, il che ne impone la sua
+esposizione.
+A fronte di tale obiettiva circostanza non assumeva di per sé sufficiente
+rilievo che il credito d’imposta complessivo, di cui godeva la società, fosse
+comunque superiore al maggior credito utilizzato, perché ciò non incideva
+sugli importi che la contribuente avrebbe proseguito a dichiarare nelle
+annualità seguenti.
+RGN 27728/2017 Consigliere rel. Federici
+
+--- Pagina 6 ---
+
+6
+Né risulta che l’errore sia stato oggetto di correzione, nulla emergendo
+in tal senso.
+Quello che allora il giudice del merito avrebbe dovuto accertare, è se,
+ovviamente sulla base della documentazione e delle difese allegate dalle
+parti nello sviluppo processuale della causa nei gradi di merito, a quella
+omessa esposizione fosse seguita una correzione, anche nelle annualità
+successive, o se da tale condotta fosse seguito comunque il mancato
+pagamento di imposte, da ciò potendo derivare un danno erariale e la
+legittima ripresa di un credito d’imposta non spettante.
+Il motivo deve in conclusione accogliersi nei termini chiariti.
+Con il secondo motivo l’Ufficio ha lamentato la violazione e falsa
+applicazione dell’art. 54 bis, dpr n. 633/1972, in relazione all’art. 360, primo
+comma, n. 3, cpc. Erroneamente la Commissione regionale ha ritenuto che
+la cartella avrebbe dovuto essere preceduta da un avviso d’irregolarità,
+posto che l’avviso bonario afferisce a sole ipotesi di incertezze sulla
+dichiarazione, nel caso di specie insussistenti.
+È fondato anche il secondo motivo.
+Si trattava di un errore evidente, nel contrasto tra il credito utilizzato
+come dichiarato e quello utilizzato effettivamente, così come emergeva dai
+modelli F24, così che la fattispecie non richiedeva la comunicazione
+preventiva di irregolarità.
+In definitiva il ricorso trova accoglimento nei termini di cui in
+motivazione. La sentenza per l’effetto va cassata e la causa deve essere
+rinviata alla Corte di giustizia tributaria di II grado del Lazio, che procederà,
+in diversa composizione, all’esame del ricorso d’appello, tenendo conto dei
+principi sopra enunciati.
+P.Q.M.
+La Corte accoglie il primo ed il secondo motivo di ricorso nei termini di cui in
+motivazione. Cassa la sentenza e rinvia alla Corte di giustizia tributaria di II
+grado del Lazio, cui demanda, in diversa composizione, anche la liquidazione
+delle spese del giudizio di legittimità.
+Così deciso in Roma, all’esito dell’adunanza camerale del 24 settembre 2025
+Il Presidente
+Giovanni LA ROCCA
+RGN 27728/2017 Consigliere rel. Federici

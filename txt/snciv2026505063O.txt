@@ -1,0 +1,598 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Oggetto: art. 110, comma 7, t.u.i.r. - agevolazione fiscale concessa alla consociata estera- rilevanza sul valore normale dei prezzi -esclusione
+ORDINANZA
+sul ricorso iscritto al n.12275/2024 R.G. proposto da:
+EPTA S.p.A. (CF 04160730968), in persona del legale
+rappresentante, rappresentata e difesa dall’Avv. Enrico Ceriana e
+dall’Avv. Raffaele Sgambato, come da procura allegata al ricorso;
+– ricorrente –
+contro
+Agenzia delle Entrate, in persona del Direttore pro tempore
+rappresentata e difesa dall’Avvocatura generale dello Stato;
+– controricorrente –
+avverso
+
+--- Pagina 2 ---
+
+la sentenza n. 1084/2023, pronunciata in data 19/06/2023 e
+depositata il 15/11/2023 dalla Corte di Giustizia Tributaria di II grado
+del Veneto;
+ascoltata la relazione della causa svolta nella camera di consiglio
+del 22 gennaio 2026 dal consigliere Sabrina Serrelli;
+La Corte osserva:
+FATTI DI CAUSA
+1. L’Agenzia delle Entrate ha emesso l’avviso di accertamento n.
+T5B0ET200157/2018 ai fini IRES per l’anno d’imposta 2014 e l’avviso
+di accertamento n. T5B0CT200163/2018 a fini IRAP per l’anno
+d’imposta 2014, per la mancata rettifica in aumento del reddito della
+società a seguito della variazione in diminuzione operata dalla società
+consociata ungherese, con conseguente accertamento di profitti non
+dichiarati per euro 4.044.545,00, pari all’art. 83% delle transazioni
+straniere costituenti la quota parte di competenza della società.
+La società contribuente aveva posto in essere un’operazione di
+riorganizzazione dell’attività commerciale infragruppo, tramite la
+cessione del ramo d’azienda comprendente tre tranches di clienti in
+favore della consociata ungherese Epta International KFT per le
+annualità 2012, 2013, 2014. L’Agenzia delle Entrate aveva sottoposto
+a verifica fiscale la società Costan S.p.A., poi incorporata in Epta S.p.A.,
+con conseguente processo verbale di constatazione nel quale rettificava
+la valutazione del prezzo di vendita dell’avviamento riferibile alle tre
+tranches di clienti cedute alla società ungherese.
+Gli avvisi di accertamento sono stati emessi a seguito dell’analisi dei
+bilanci della società ungherese dai quali emergeva una variazione
+ingente che riduceva la base imponibile a seguito di rettifica fiscale
+riferibile al transfer price relativo alle transazioni effettuate tra
+2
+
+--- Pagina 3 ---
+
+consociate, con conseguente disallineamento rispetto ai valori di
+mercato dei componenti economici negativi.
+Gli avvisi di accertamento ai fini IRES e IRAP relativi agli anni 2012 e
+2013 sono stati definitivi dalla società con accertamento in adesione,
+con l’abbandono da parte dell’Ufficio del rilievo relativo alla rettifica del
+valore normale dell’avviamento e la conferma dei maggiori proventi
+omessi derivati dalla mancata variazione in aumento da parte
+dell’EPTA, contestati per l’anno 2014 nel presente giudizio.
+2. La società ha impugnato gli atti impositivi ritenendo illegittima
+l’applicazione della normativa in materia di transazioni con società non
+aventi sedi nel territorio dello Stato, erronea la valutazione sulla natura
+agevolativa della disposizione ungherese, irrilevante dal punto di vista
+probatorio la scelta di adesione operata in relazione alle annualità 2012
+e 2013. Costituitasi l’Agenzia delle Entrate, che ha insistito per la
+legittimità del suo operato, la Corte di Giustizia Tributaria di secondo
+grado del Veneto ha rigettato i ricorsi riuniti, ritenendo l’operato
+dell’Ufficio coerente con la disposizione di cui all’art. 110, comma 7, del
+d.P.R 917/1986.
+3. La società ha proposto appello censurando la sentenza di primo
+grado per vizio di motivazione apparente e per l’illegittima applicazione
+della normativa in tema di operazioni con consociate non aventi sede
+in territorio nazionale, ribadendo la propria prospettazione difensiva, e
+l’Agenzia si è costituita a sostegno degli avvisi emessi. La Corte di
+Giustizia Tributaria di secondo grado del Veneto ha rigettato l’appello
+della società, ritenendo corretto l’operato dell’Ufficio a fronte della
+violazione dell’art. 110, comma 7, del d.P.R. 917/1986.
+4. La società contribuente ricorre per cassazione proponendo due
+motivi di ricorso. L’Agenzia delle Entrate resiste con controricorso.
+5. Le parti non hanno depositato memorie.
+3
+
+--- Pagina 4 ---
+
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo di ricorso la società deduce, in relazione
+all’art. 360, primo comma, num. 4, c.p.c., la nullità della sentenza
+impugnata per vizio di motivazione apparente in violazione dell’art. 36
+del d.lgs. 546/1992.
+In particolare, ad avviso della società ricorrente, la Corte di giustizia
+tributaria di secondo grado si è appiattita sulla circostanza che la
+società avrebbe dovuto conoscere il ruling ottenuto dalla consociata
+ungherese per il solo fatto che la normativa ungherese prevede che
+esso sia condizionato alla sussistenza di un documento sottoscritto da
+entrambe le parti, in ogni caso senza esplicitare le ragioni per le quali
+detto beneficio avrebbe dovuto avere efficacia in Italia; inoltre, dalla
+sentenza impugnata non è possibile individuare il ragionamento che ha
+condotto la Corte di Giustizia Tributaria di secondo grado a ritenere
+applicabile l’art. 110, comma sette, del d.P.R. 917/1986; infine, i
+giudici di appello non si sono pronunciati sulla natura agevolativa della
+variazione fiscale, mentre risultano inseriti richiami inconferenti ad
+istituti quali il Patent box, il superammortamento e l’iper
+ammortamento; da ultimo, la Corte ha risposto, senza fornire effettiva
+motivazione, alla censura di nullità della sentenza di primo grado per
+motivazione insufficiente e contraddittoria.
+1.1. Il motivo è infondato.
+1.2. Va premesso, in via generale, che il vizio di motivazione,
+prospettato ai sensi dell’art. 360, comma 1, n. 4 c.p.c., può essere
+rilevato laddove l’impugnazione della sentenza si fondi su
+un’interpretazione della legge che, sorretta da una motivazione
+contraddittoria e/o insufficiente, debba ritenersi errata. Ed infatti, la
+motivazione è strumentale alla ricostruzione dell’iter logico seguito dal
+giudice nella stesura del provvedimento e, pertanto, non rileva di per
+4
+
+--- Pagina 5 ---
+
+sé, potendo essere censurata soltanto laddove sorregga una decisione
+fondata sulla errata applicazione o interpretazione della legge. Più
+precisamente, l’anomalia motivazionale denunciabile in cassazione è
+quella che si tramuta in una violazione di legge costituzionalmente
+rilevante, in quanto attinente all'esistenza della motivazione, purché il
+vizio risulti dal testo della sentenza impugnata, a prescindere dal
+confronto con le risultanze processuali. Tale anomalia si esaurisce nella
+mancanza assoluta di motivi sotto l'aspetto materiale e grafico, nella
+motivazione apparente, nel contrasto irriducibile tra affermazioni
+inconciliabili e nella motivazione perplessa ed obiettivamente
+incomprensibile, esclusa qualunque rilevanza del semplice difetto di
+sufficienza della motivazione, dovendosi garantire il c.d. minimo
+costituzionale (cfr. Cass. Sez. U, 07/04/2014, n. 8053, Cass.n.
+19573/2025, Cass.  n.26206/2025, Cass. n.21537/2022, Cass., n.
+7090/2022, Cass. n. 22598/2018).
+La Corte di giustizia di secondo grado del Veneto ha premesso che:
+-la società ha realizzato un'operazione di riorganizzazione
+dell'attività commerciale infragruppo, tramite la cessione del ramo
+d'azienda comprendente tre tranches di clienti, in favore della
+consociata ungherese, Epta International kft per le annualità 2012,
+2013 e 2014;
+-l’Agenzia delle Entrate aveva sottoposto a verifica fiscale la società
+Costan SpA -successivamente incorporata da Epta SpA - a conclusione
+della quale emetteva p.v.c. nel quale rettificava la valutazione del
+prezzo di vendita dell'avviamento riferibile alle tre tranches di clienti
+cedute alla società ungherese. Dall'analisi dei bilanci della società
+ungherese, secondo i verificatori, emergeva una variazione ingente che
+riduceva la base imponibile a seguito della rettifica fiscale riferibile al
+transfer price relativo alle transazioni inter-company effettuate, con un
+conseguente disallineamento rispetto ai valori di mercato dei
+5
+
+--- Pagina 6 ---
+
+componenti economici negativi contenuti in bilancio ed emissione di
+avvisi di accertamento ai fini IRES e IRAP per gli anni d’imposta
+interessati.
+La Corte di giustizia di secondo grado ha poi osservato quanto
+segue:
+-la società Costan, prima dell’incorporazione in EPTA, aveva ceduto
+un ramo d’azienda, comprendente tre tranches di clienti, in favore della
+consociata ungherese nelle annualità 2012, 2013 e 2014,
+determinando un prezzo di cessione che costituiva un pari costo per la
+società ungherese. La società ungherese -a seguito di un interpello
+presentato all’Autorità fiscale ungherese “request for binding tax
+ruling”-  aveva apportato una variazione fiscale in diminuzione per euro
+4.872.288,00 risultante al bilancio chiuso al 31/12/2014 alla voce
+“rapporti con parti correlate” in trasfer pricing; conseguentemente, il
+valore attribuito alle liste di clienti cedute è stato contabilizzato in
+entrambi i bilanci delle Parti (e pagato in anticipo), mentre il valore
+aggiuntivo del contratto di distribuzione internazionale (non ancora
+definito nel prezzo) è stato rilevato nella sola dichiarazione fiscale
+ungherese,- come variazione in diminuzione dell’imponibile - ma non è
+stato simmetricamente rilevato nella società italiana come variazione
+in aumento dell’imponibile .
+Per l’anno 2014 l’Ufficio -sulla base dell’accordo che ha definito le
+annualità 2012 e 2013 e dello studio sul “transfer pricing” dell’Autorità
+fiscale ungherese-, esaminato il bilancio di EPTA Ungheria, ha
+contestato alla società italiana proventi non dichiarati, pari all’83%
+delle transazioni ungheresi, derivanti dall’applicazione del valore
+normale del margine operativo stabilito dal suddetto studio, e pari
+all’1,53%, nonché una variazione in diminuzione che a giudizio
+dell’Amministrazione finanziaria comportava una speculare rettifica in
+aumento del reddito di EPTA (Costan) per la quota parte di sua
+6
+
+--- Pagina 7 ---
+
+competenza per l’importo di euro 4.044.545,00 (pari all’83% della
+variazione in diminuzione di EPTA Ungheria), da cui sono derivate le
+riprese a tassazione per l’importo di euro 1.112.250,00 per IRES e di
+euro 159.287,00 per IRAP;
+-con riguardo alla natura agevolativa della normativa ungherese
+applicata, l’appellante  ribadiva che essa era stata istituita dallo Stato
+ungherese al fine di attrarre investimenti dall'estero mediante il
+riconoscimento di un maggior valore, ai fini fiscali interni, dei beni
+ricevuti, in quanto nessuna parte indipendente sarebbe disponibile ad
+acquisire un ramo aziendale riconoscendo, al cedente, delle royalties
+riferibili alla propria struttura organizzativa e alla proprie capacità di
+attrarre e di sviluppare nuovi mercati. Per la società la circostanza che
+questo maggiore valore del ramo ceduto sia stato determinato con
+metodi e criteri relativi al “transfer pricing” non acquista alcun rilievo
+nei confronti della società cedente EPTA SPA perché, in sostanza,
+questa agevolazione fiscale concessa dallo Stato ungherese
+consisterebbe solamente in una riduzione dei costi e, quindi, in un
+risparmio d’imposta per la società acquirente ungherese.
+La Corte di Giustizia Tributaria di secondo grado ha invece al riguardo
+osservato che la procedura seguita sulla base della normativa fiscale
+ungherese prevede la presentazione di un interpello all’Autorità fiscale
+da parte della società ungherese e, da parte dell'Ufficio fiscale, l’utilizzo
+dei metodi elaborati dall’OCSE per i “ transfer pricing” per la
+determinazione del " valore equo di mercato" dei beni ceduti ai fini della
+quantificazione del beneficio fiscale spettante alla società ungherese.
+Ne deriva che l’entità del beneficio, che si traduce in una variazione in
+diminuzione dell’importo stabilito “ab origine” per il cespite ceduto,
+viene calcolato utilizzando i risultati di uno studio effettuato
+dall’Ungheria, che pone alla base il margine operativo della società
+ungherese confrontato con quello di mercato - determinato in un
+7
+
+--- Pagina 8 ---
+
+“range” definito, nello specifico tra 1,53% ed il 6,65% - da cui è
+risultato, applicando il valore minore del “range”, una variazione in
+diminuzione del costo - base imponibile - per la società ungherese, per
+l’importo di €. 4.872.288,00.
+La Corte di giustizia tributaria di secondo grado non ha, quindi,
+condiviso la tesi dell’ appellante secondo la quale la variazione in
+diminuzione, determinata con l’applicazione dei criteri OCSE relativi al
+transfer pricing, debba ritenersi priva di valore, poiché l’Autorità fiscale
+ungherese, applicando i criteri OCSE, ha effettivamente rideterminato
+il "giusto valore di mercato" dei cespiti ceduti ed ha raffrontato tale
+valore rideterminato con quello concordato fra le parti, con l'effetto
+finale di una diminuzione del valore di tali cespiti - che rappresenta un
+costo per la società ungherese - pari alla differenza tra il suddetto
+"giusto valore di mercato" e quello pattuito fra le parti. Ha poi rilevato
+che detta rideterminazione del valore della transazione non è mai stata
+contestata dalla società cedente italiana e che non avrebbe potuto farlo
+poiché tra le condizioni poste nella normativa fiscale ungherese è
+previsto espressamente un documento firmato da entrambe le parti
+contenente l’ammontare della differenza stabilita tramite il
+meccanismo del transfer pricing;  condizione che certamente l’Autorità
+fiscale ungherese ha ritenuto sussistente poiché ha concesso, alla fine
+delle verifiche effettuate anche nei confronti della consociata estera, la
+riduzione dell’imponibile richiesto.
+Infine, ha confermato che l’agevolazione concessa dallo Stato
+ungherese ha riflessi di carattere fiscale in virtù del meccanismo
+descritto escludendo che possa trattasi di agevolazione assimilabile ad
+un “super ammortamento” o a crediti d’imposta per agevolare gli
+investimenti da parte di società o ai crediti d’imposta, riconosciuti nella
+legislazione nazionale per favorire investimenti esteri, poiché detti
+istituti non implicano mai la rideterminazione dell’entità
+8
+
+--- Pagina 9 ---
+
+dell’investimento effettuato e, nel caso si tratti di cessione di cespiti,
+materiali od immateriali, da parte di una consociata estera ad una
+società nazionale, l’ammontare dell’agevolazione non viene correlato
+alla determinazione del “giusto valore di mercato” da attribuire al bene
+ceduto, o ad una rideterminazione del valore dell’investimento
+effettuato.
+Nel caso di specie, dunque, l’agevolazione non è riferita al valore
+dell’investimento o del bene ceduto così come quantificato dalle
+società, essendo stata verificata la congruità del valore della
+transazione e commisurata a tale entità anche a fini fiscali attraverso
+il raffronto con metodologie di determinazione del " giusto valore di
+mercato". L’applicazione dei criteri di determinazione del transfer price
+OCSE - per i beni immateriali il metodo DCF per determinare il valore
+equo di mercato, per la determinazione del profitto il metodo TNM –
+conduce ad una oggettiva valutazione del "valore" del bene ceduto, che
+non può che avere un riflesso sulla società acquirente, con una
+diminuzione del “costo”/ valore del cespite (ramo d’azienda) acquisito,
+ma anche sulla società cedente con la conseguente pari variazione in
+aumento del ricavo posto a bilancio (EPTA SPA) con i relativi riflessi
+fiscali.
+A conforto di tale tesi, poi, i giudici d’appello hanno richiamato la
+normativa ungherese, nella Sezione 18 della legge sull’imposta sul
+reddito delle società, come diffusamente indicato in sentenza.
+Tanto premesso, nel caso di specie, a fronte di tale puntuale
+motivazione, la censura proposta si risolve in un’inammissibile
+doglianza circa la valutazione dei fatti posti a fondamento della
+decisione non intaccando in alcun modo la ratio decidendi sottesa alla
+pronuncia che, invece, sviluppa un iter logico argomentativo fondato
+su elementi chiari e precisi, congruamente inquadrando, dal punto di
+9
+
+--- Pagina 10 ---
+
+vista giuridico, il giudizio di fatto espresso in relazione ad elementi che
+hanno richiesto un apprezzamento anche nel merito.
+Né, d’altra parte, alcun elemento adduce la ricorrente a sostegno
+della dedotta inidoneità probatoria degli elementi posti a fondamento
+dell’accertamento che, in ogni caso, si sarebbe sostanziata in una
+richiesta di rivalutazione dell’apprezzamento probatorio svolto dal
+giudice di merito anch’esso inammissibile nel giudizio di legittimità.
+In definitiva, non ricorre alcuna delle ipotesi innanzi richiamate per
+affermare che la motivazione svolta non possa ritenersi idonea a
+sostenere la decisione impugnata, nemmeno con riferimento al c.d.
+minimo costituzionale. A nulla rileva poi la censura relativa alla
+motivazione della sentenza di primo grado, che sarebbe stata ritenuta
+erroneamente, ad avviso della parte, non motivata in maniera
+adeguata, poiché oggetto di censura è la decisione di secondo grado
+che ha sostituito la motivazione della sentenza di primo grado.
+Infine, deve evidenziarsi la genericità della censura sollevata che non
+intacca nel suo sviluppo complessivo la decisione resa che si fonda su
+plurime argomentazioni.
+Il primo motivo è dunque infondato.
+2. Con il secondo motivo la società ricorrente deduce, in relazione
+all’art. 360, primo comma num. 3, c.p.c., l’illegittimità della sentenza
+impugnata per violazione e/o falsa applicazione dell’art. 110, comma
+7, del d.P.R. 917/1986, dell’art. 115 c.p.c., dell’art. 2697 c.c., dell’art.
+7 del d.lgs. 546/1992.
+In particolare, la società contribuente ha rilevato l’errata
+applicazione della normativa richiamata, poiché non è stato
+considerato che la variazione in diminuzione derivava da un beneficio
+fiscale concesso alla società estera che non ha alcun rilievo nello Stato
+nazionale in assenza di previsione normativa in tale senso. La ratio
+dell’agevolazione andava rinvenuta nella finalità di attrarre
+10
+
+--- Pagina 11 ---
+
+investimenti dall’estero mediante il riconoscimento di un maggior
+valore ai fini fiscali interni degli asset trasferiti alla società residente, a
+nulla rilevando che tale agevolazione si riferisse alla disciplina del
+transfer pricing per la metodologia di calcolo relativa alla
+quantificazione del valore del bene ceduto. La variazione in diminuzione
+derivava, infatti, dal riconoscimento di un diverso valore normale di
+una transazione, mentre l’operato dell’Ufficio, confermato nella
+sentenza impugnata, si è posto in contrato con il principio della
+ripartizione equilibrata della potestà impositiva, con conseguente
+ingiustificata salvaguardia del potere impositivo dello Stato e forzata
+interpretazione a contrariis di una agevolazione fiscale estera ad un
+contribuente fiscalmente residente in Italia. Da tanto derivava anche
+l’ingerenza nel potere impositivo discrezionale degli Stati membri in
+violazione dei principi ribaditi dalla Grande Sezione della Corte di
+Giustizia Europea dell’8/11/2022, in assenza nel nostro ordinamento di
+disposizioni per le quali è possibile riconoscere l’efficacia extra
+territoriale di variazioni fiscali effettuate in autonomia da altri Stati. Nel
+caso di specie si è, dunque, verificato un utilizzo strumentale dell’art.
+110, comma 7, del d.P.R. 917/1986, non essendo mai stata contestata
+da parte dell’Ufficio la correttezza del valore assegnato dalle parti al
+complesso aziendale oggetto di trasferimento.
+In ogni caso, la società ricorrente rileva che nella sentenza
+impugnata la disposizione normativa di cui al citato art. 110, comma
+7, è stata erroneamente applicata in quanto la Corte di giustizia di
+secondo grado del Veneto non ha considerato che l’Ufficio non ha in
+alcun modo dimostrato lo scostamento tra il prezzo praticato e quello
+di mercato come richiesto in tema di onere della prova dalla consolidata
+giurisprudenza di legittimità, né ha precisato, alla luce delle Linee
+Guida Ocse 2017 come ha operato la selezione della tested party che
+11
+
+--- Pagina 12 ---
+
+deve essere coerente sia con l’analisi funzionale della transazione, sia
+con l’affidabilità dei dati a disposizione.
+Con una seconda censura la società ha poi ribadito che
+correttamente non ha dato rilevanza nella propria dichiarazione dei
+redditi ad una variazione che è stata attribuita alla propria consociata
+estera da una norma a carattere meramente agevolativo che non
+poteva aver riflesso sulla posizione fiscale della società Costan, a nulla
+rilevando che questo maggiore valore sia determinato con metodi e
+criteri dei prezzi di trasferimento. La natura della misura quale mera
+agevolazione fiscale deriva proprio dal fatto che il beneficio non
+consiste in un afflusso di denaro nei confronti dei beneficiari bensì in
+una riduzione dei costi che nel caso di specie si sostanzia in un
+risparmio di imposta. La natura agevolativa della disposizione
+ungherese poi si coglie proprio laddove si consideri la innegabile
+analogia, avuto riguardo alle finalità, con diversi istituti quali il
+superammortamento e l’iperammortamento e, come metodologia, con
+il Patent box che, invece, la Corte di giustizia di secondo grado sembra
+erroneamente escludere.
+Con un’ulteriore censura la ricorrente sostiene che i giudici
+d’appello hanno travisato la realtà processuale laddove hanno ritenuto
+certo ed incontestato che la società avesse accettato il maggior valore
+determinato sulla base del ruling con conseguente palese violazione
+delle norme in materia di onere della prova.
+A tal fine la ricorrente ha evidenziato che la normativa unghere prevede
+che la società disponga di un documento firmato da entrambe le parti
+contenente l’ammontare della differenza, di cui si negava l’esistenza,
+spettando comunque all’Agenzia provvedere alla sua produzione, con
+conseguente violazione dell’art. 115 c.p.c.
+2.1. Il motivo è infondato.
+12
+
+--- Pagina 13 ---
+
+2.2. Con il secondo motivo di ricorso in sintesi la società
+contribuente censura la sentenza di secondo grado per l’erronea
+applicazione dell’art. 110, comma 7, del d.P.R. 917/1986, per la
+violazione dell’onere della prova non soltanto avuto riguardo alla
+ripartizione di cui all’art. 2697 c.c., ma anche per aver ritenuto non
+contestato un elemento (il documento sottoscritto dalle parti
+contraenti) oggetto, invece, di specifiche argomentazioni da parte della
+società, in violazione dell’art.115 c.p.c., e per aver violato l’art. 7 del
+d.lgs. 546/1992 che prevede la prova puntuale e circostanziata dei fatti
+costitutivi della pretesa ritenendo fondati avvisi di accertamento
+recanti riprese a tassazione non adeguatamente sostenute da prove
+fornite dall’Ufficio ed anzi fondate su elementi inesistenti e /o
+contraddittori.
+2.3. L’art. 110, comma settimo, del d.P.R. 917/1986, nel testo
+vigente all'epoca dei fatti, dispone quanto segue: "I componenti del
+reddito derivanti da operazioni con società non residenti nel territorio
+dello Stato che direttamente o indirettamente, controllano l'impresa,
+ne sono controllate o sono controllate dalla stessa società che controlla
+l'impresa, sono valutati in base al valore normale" - la cui definizione
+è fornita dall'art. 9 tuir - "dei beni ceduti, dei servizi prestati e dei beni
+e servizi ricevuti, determinato a norma del comma 2, se ne deriva
+aumento del reddito; ...".
+Il requisito soggettivo per l'applicazione di tale regime si identifica
+nella circostanza che tra i due soggetti - la società estera e l'impresa
+residente - deve esistere un rapporto di controllo, diretto od indiretto,
+nel caso che ci occupa non è in discussione.
+A tal riguardo va osservato che,  secondo l’orientamento della Corte
+(Cass. sez. 5, 16/07/2024, n.19512, Cass. sez. 5, 20/05/2021, n.
+13850, Cass. sez.5, del 15/11/2017, n.27018), l'art. 110, comma 7,
+del d.P.R. 917 del 1986, non integrando una disciplina antielusiva in
+13
+
+--- Pagina 14 ---
+
+senso proprio, ma avendo lo scopo di reprimere i fenomeni di
+spostamento artificioso dei profitti in un'altra giurisdizione, pone a
+carico dell'Amministrazione finanziaria l'onere di provare che le
+transazioni infragruppo siano avvenute ad un prezzo inferiore al valore
+di mercato normale, da valutarsi, ai sensi dell'art. 9, comma 3, del cit.
+d.P.R., facendo riferimento sia ai listini o alle tariffe del fornitore dei
+beni, sia alle linee guida OCSE, adottando il metodo più appropriato al
+caso concreto, senza alcun criterio gerarchico, e potendo il
+contribuente, a sua volta, fornire la prova del contrario, evidenziando
+altresì i costi eventualmente aggiunti, gli sconti riconosciuti e le
+complessive condizioni economiche praticate.
+La definizione di valore normale è contenuta nell'art. 9 del
+medesimo d.P.R. 917/1986, ove al comma terzo si fa riferimento al
+prezzo praticato per analoghi beni o servizi, in regime di libera
+concorrenza e nel tempo e nel luogo -o in quello più prossimo- in cui i
+beni o servizi sono stati acquistati. Il riferimento al prezzo normale
+deve quindi riferirsi tanto ai beni che ai servizi; tale scostamento
+dev'essere provato prima facie dall'Ufficio, sia che si tratti di elementi
+costitutivi l'obbligazione, sia che si tratti di profili esimenti o riduttivi,
+come nel caso dei costi portati in deduzione integralmente dalla
+capofila (Cass. sez. 5, 10/09/2020, n. 230).
+2.4. Nel caso di specie l’Amministrazione finanziaria ha fornito la
+prova dell’esistenza dell’operazione infragruppo e della previsione di un
+corrispettivo inferiore al valore normale di mercato, ricostruendo
+correttamente la vicenda alla luce della documentazione prodotta e
+richiamata in ricorso, dando la prova dello scostamento dei prezzi dal
+valore normale e, quindi, della sussistenza del meccanismo vietato
+dall’art. 110, comma 7, citato.
+In particolare, è emerso che il beneficio fiscale accordato alla
+società ungherese Epta International KFT, società distributrice, è
+14
+
+--- Pagina 15 ---
+
+consistito in una variazione in diminuzione dell’importo stabilito per
+l’acquisto dalla società italiana produttrice Epta S.p.A., incorporante la
+società Constan S.r.l., e che  detta variazione è risultata parametrata
+secondo i criteri OCSE che, in sostanza, consentono di determinare il
+giusto valore di mercato di beni e servizi; tale rideterminazione in
+diminuzione del costo dell’operazione da parte della società ungherese
+acquirente ha comportato una riduzione della base imponibile di Epta
+International KFT che, non compensata da un correlativo aumento della
+base imponibile da parte della società Constan, ora Epta, infragruppo
+alienante, ha condotto alla violazione dell’art. 110, comma settimo,
+d.P.R. 917/1986, con una doppia non imposizione fiscale.
+Ed infatti, l’Agenzia delle Entrate ha accertato che la società estera ha
+operato la variazione in diminuzione di cui innanzi per effetto della
+quale abbassava il margine operativo della società ed ha verificato, in
+sede di istruttoria ed anche alla luce dei bilanci della società ungherese
+prodotti in sede di contraddittorio, che la redditività estera andava
+ricompresa in un range tra 1,53% ed il 6,65%; da ciò è risultata la
+variazione in diminuzione applicata.
+È emersa, quindi, una situazione di doppia non imposizione fiscale, in
+quanto in Ungheria la consociata EPTA International KFT ha operato
+una variazione in diminuzione con riferimento alla disciplina di transfer
+pricing, riducendo la propria base imponibile, mentre in Italia la
+correlata Costan non ha provveduto ad una corrispondente variazione
+in aumento della base imponibile per le operazioni infragruppo per la
+quota parte di sua competenza.
+Tenendo conto dei principi espressi nelle Guide Lines OCSE nelle
+valutazioni di conformità al valore normale nell’ambito delle transazioni
+infragruppo, la variazione in diminuzione avente ad oggetto il transfer
+pricing operata dalla consociata ungherese avrebbe dovuto avere una
+corrispondente ripresa a tassazione di base imponibile in Italia, in
+15
+
+--- Pagina 16 ---
+
+quanto una marginalità più bassa in capo alla società ungherese
+distributiva comporta il riconoscimento di una marginalità più alta in
+capo alla controparte produttiva Costan SpA.
+A nulla rileva che, a monte, la variazione in diminuzione sia stata
+consequenziale ad un interpello rivolto all’Autorità fiscale ungherese
+proprio perché la diminuzione è avvenuta in considerazione dei criteri
+Ocse utili per determinare il prezzo normale della transazione in
+riduzione rispetto a quello stabilito dalle parti ed infatti il beneficio
+fiscale riconosciuto dall’Autorità fiscale ungherese alla Epta
+International KFT risulta proprio in corrispondenza del rigo rubricato
+Transfer Price (18 par). La diminuzione va, dunque, correlata alla
+disciplina dell’art. 110, comma 7, del d.P.R. 917/1986 nell’ambito delle
+transazioni infragruppo tra la società ungherese distributiva e la
+controparte consociata italiana ed avrebbe dovuto comportare il
+corrispondente riequilibrio nei componenti negativi della dichiarazione
+fiscale della società italiana e, quindi, l’aumento della base imponibile
+di Costan ora Epta. L’omessa variazione in aumento per l’anno di
+imposta 2014 da parte di quest’ultima ha dunque giustificato la ripresa
+a tassazione da parte dell’Agenzia ai fini IRES e IRAP dei proventi non
+dichiarati a fronte di dette operazioni commerciali.  Ciò non conduce ad
+affermare che in tal modo risulti intaccata l’autonomia fiscale di altro
+Paese, perché la conseguenza per la società italiana deriva dalla
+variazione in diminuzione  della base imponibile, a prescindere dalla
+occasione (costituita dalla richiesta rivolta dalla  società estera
+all’Amministrazione fiscale ungherese) che ha condotto ad una
+rideterminazione del prezzo della transazione in questione, in virtù del
+meccanismo normativamente previsto dall’art. 110, comma 7, del
+citato d.P.R. 917/1986.
+La società contribuente che ha inteso contrastare la pretesa
+impositiva avrebbe dovuto fornire la prova che il corrispettivo
+16
+
+--- Pagina 17 ---
+
+convenuto ovvero la mancanza di un corrispettivo per l'operazione
+infragruppo corrispondesse ai valori economici che il mercato attribuiva
+a tali operazioni anche al momento della dichiarazione fiscale e, quindi,
+dell’erroneità dell’assunto dell’Agenzia.
+A tal ultimo riguardo si osserva che la Corte, con l’ordinanza del
+22/4/2025, n. 10438, ha affermato che, in tema di determinazione del
+reddito di impresa, le linee guida elaborate dall'OCSE e la disciplina
+interna di cui agli artt. 9, comma 3, e 110, comma 7, del d.P.R. n. 917
+del 1986 prevedono l'obbligo di rispettare, nelle operazioni di transfer
+pricing, il principio della libera concorrenza, rispetto al quale non sono
+ammesse esenzioni documentali, cosicché il contribuente, in caso di
+scostamento dal prezzo di mercato, è tenuto a dimostrare il rispetto
+del medesimo principio al momento in cui è stato fissato il prezzo di
+trasferimento ed a confermare tale risultato al momento della
+dichiarazione dei redditi.
+Alla luce di quanto innanzi, la Corte di giustizia di secondo grado
+non ha dunque violato il precetto di cui all'art. 2697 cod. civ.,
+configurabile soltanto nell'ipotesi in cui il giudice abbia attribuito l'onere
+della prova ad una parte diversa da quella che ne risulta gravata
+secondo le regole dettate da quella norma.
+Quanto poi alla censurata violazione dell’art. 115 c.p.c., nella parte
+in cui i giudici d’appello avrebbero posto a fondamento della decisione
+un documento in realtà non esistente,  deve considerarsi che la Corte
+di giustizia di secondo grado dalla lettura della normativa ungherese
+ha desunto che: 1) ciò che determina l’entità della diminuzione del
+corrispettivo applicato da parte della società ungherese è l’applicazione
+del "transfer price" al corrispettivo applicato dalle due società,
+raffrontandolo con il “ prezzo equo di mercato” stabilito in base alle
+metodologie OCSE; 2) il valore equo di mercato è conosciuto e
+riconosciuto dalle due società contraenti; non può pertanto che darsi
+17
+
+--- Pagina 18 ---
+
+atto - quale fatto certo ed incontestato - che tale condizione posta dalla
+norma sia stata evidentemente soddisfatta dalle parti; ne consegue che
+appare del tutto inutile ed ininfluente la controversia relativa alla prova
+sull’esistenza o meno di un documento firmato contenente
+l’ammontare della differenza e su chi ricada l'onere della produzione di
+tale documento .
+La Corte, in virtù di un ragionamento logico puntuale, ha desunto dalla
+concessione dell’agevolazione da parte dell’Autorità ungherese che la
+procedura è stata correttamente e compiutamente eseguita e portata
+a termine con l’ottenimento del beneficio e, quindi, la variazione in
+diminuzione della base imponibile, a nulla rilevando la prova
+dell’esistenza o meno del documento in questione che riteneva
+superflua. Non ha, dunque, deciso erroneamente sulla base di un
+documento inesistente, ritenendolo invece esistente, in violazione del
+disposto dell’art.115 cod. proc. civ., come assunto dalla difesa della
+società ricorrente.
+3. In definitiva, il ricorso va rigettato con condanna della parte
+ricorrente al pagamento delle spese di lite in favore di controparte, in
+virtù del principio di soccombenza, nella misura indicata in dispositivo.
+La Corte di cassazione,
+P.Q.M.
+Rigetta il ricorso.
+Condanna parte ricorrente al pagamento delle spese di lite che
+liquida in euro 13.900,00 a titolo di compensi professionali, oltre spese
+prenotate a debito.
+Ai sensi dell’art. 13, comma 1-quater, del d.P.R. n. 115 del 2002,
+dà atto della sussistenza dei presupposti processuali per il versamento,
+da parte della ricorrente, dell’ulteriore importo a titolo di contributo
+18
+
+--- Pagina 19 ---
+
+unificato pari a quello previsto per il ricorso a norma del comma 1-bis
+del citato art. 13, se dovuto
+Così deciso in Roma nell’adunanza camerale del 22 gennaio
+2026
+Il Presidente
+Marcello Maria Fracanzani
+19
