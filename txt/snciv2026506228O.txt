@@ -1,0 +1,497 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 9198/2024 R.G. proposto da:
+POWERSALES S.R.L. UNIPERSONALE IN LIQUIDAZIONE, rappresentato e
+difeso dall'avvocato FLAMINIA FERRUCCI unitamente all’avvocato CARLO
+ROMANO
+-ricorrente-
+AGENZIA DELLE ENTRATE, rappresentato e difeso dall'AVVOCATURA
+GENERALE DELLO STATO
+-resistente-
+Avverso la SENTENZA della CORTE DI GIUSTIZIA TRIBUTARIA II GRADO
+LOMBARDIA n. 2999/2023 depositata il 10/10/2023.
+Udita la relazione svolta nella camera di consiglio del 18/12/2025 dalla
+Consigliera RAFFAELLA BROGI.
+FATTI DI CAUSA
+1. Il presente contenzioso scaturisce dagli avvisi di accertamento relativi
+agli anni d’imposta 2015 e 2016, con cui veniva contestata a Powersales
+s.r.l. unipersonale in liquidazione (hinc: la contribuente o la società
+contribuente) l’indebita detrazione dell’IVA conseguente all’uso di fatture
+
+--- Pagina 2 ---
+
+per operazioni soggettivamente inesistenti. In particolare, veniva
+contestato dall’amministrazione finanziaria alla società contribuente di
+essere beneficiaria di una vasta frode “carosello” nel settore dei prodotti
+informatici finalizzata all’evasione dell’IVA, posta in essere da diverse
+società “cartiere” gestite dal sig. Bassi Roberto (alias De Blasi Roberto),
+ricevendo ed utilizzando fatture per operazioni soggettivamente inesistenti.
+2. Il ricorso proposto dalla contribuente era rigettato dalla Commissione
+tributaria provinciale di Milano, con la sentenza n. 543/2022 del
+23/02/2022, confermata dalla Corte di giustizia tributaria di secondo grado
+della Lombardia (hinc: CGT2), che, con la sentenza n. 2999/2023
+depositata in data 10/10/2023, respingeva l’appello della contribuente,
+ritenendo, in sintesi, che:
+- il motivo di appello incentrato sulla nullità della sentenza per difetto
+di motivazione era infondato, essendo ricostruibile l’iter logico-
+giuridico seguito dal giudice di prime cure;
+- era infondato il motivo di appello che reiterava l’eccezione di
+illegittimità dell’avviso di accertamento per difetto di contraddittorio:
+secondo la giurisprudenza di legittimità il contraddittorio non è
+sempre obbligatorio quando il contribuente, come nel caso di specie,
+non abbia dimostrato che le risultanze dell’istruttoria sarebbero state
+diverse qualora fosse stato attivato il contraddittorio;
+- era infondato anche il terzo motivo di appello, dal momento che il PVC
+del Guardia di Finanza di Tortona conteneva la menzione e la
+riproduzione delle parti rilevanti degli atti citati dal contribuente;
+- l’amministrazione finanziaria aveva assolto al proprio onere della
+prova, evidenziando l’assenza di una struttura organizzativa e
+operativa in termini di uomini e mezzi idonea allo svolgimento della
+asserita attività di impresa delle cartiere (una delle quali - Service
+trading srl - era ubicata presso un locale notturno di terzi), le
+anomalie inerenti le fatture emesse (con numeri progressivi differenti
+2
+
+--- Pagina 3 ---
+
+o emissione della stessa fattura a clienti differenti, con oggetti ed
+importi diversi), altre anomalie contabili delle cartiere evidenziate nel
+PVC (mancata istituzione delle scritture cronologiche come il libro
+giornale e altri libri obbligatori e assenza di dichiarazioni fiscali,
+compreso i modelli intrastat per gli acquisti intracomunitari),
+l’assenza di qualsiasi contratto e/o accordo stipulato, così della
+corrispondenza (ordini di acquisto, comunicazioni ecc…..) relativa alle
+transazioni commerciali, l’eterodirezione da parte del dominus sig.
+Roberto Bassi delle società cartiere e l’ingerenza del Bassi nei rapporti
+commerciali con i clienti delle cartiere compreso la società
+Powersales. Inoltre, dalle intercettazioni telefoniche era emerso che il
+rappresentante legale della Powersales era a conoscenza del sistema
+fraudolento predisposto dal Bassi, che forniva informazioni e consigli
+sui prezzi da applicare per le vendite dei prodotti, sulla
+predisposizione dei documenti di trasporto, insistendo sulla velocità
+degli incassi da ricevere dai clienti cosi poi da poter pagare le fatture
+contestate, descrivendo il “giro” dei pagamenti da effettuare e
+quantificando, in via di massima, il possibile guadagno. Le
+intercettazioni telefoniche - sebbene successive, in parte, agli eventi
+contestati (risalendo al periodo febbraio-maggio 2016) -
+rappresentano comunque un ulteriore elemento e integrano
+l’istruttoria dell’organo verificatore, corroborando gli altri elementi a
+supporto delle contestazioni dell’ufficio
+- la prova contraria fornita dalla contribuente era lacunosa. A tal fine la
+CGT2 ha rilevato che non è sufficiente la prova dei pagamenti e
+l’esibizione delle fatture e che dal legale rappresentante della società
+contribuente era ragionevole attendersi una indagine più scrupolosa
+in ordine alle credenziali delle società fornitrici (prive di qualsiasi
+minima eterorganizzazione oltre che di sede legale ed operativa) e del
+3
+
+--- Pagina 4 ---
+
+Bassi, atteso l’accertato ruolo di pressoché unico referente del
+principale fornitore della Powersales;
+- è infondata la censura relativa all’illegittimità delle sanzioni irrogate
+in quanto l’avviso di accertamento risulta correttamente motivato,
+con il richiamo all’art. 8 del DPR 22 luglio 1998 n. 332, riguardante la
+dichiarazione IVA infedele; quanto al cumulo giuridico, la possibilità
+di irrogare sanzioni per le singole violazioni quando queste sono
+contestate separatamente, è prevista dall’art. 12, comma 5, d.l.gs. n.
+472 del 1997, salvo la eventuale successiva applicazione del cumulo
+complessivo.
+3. La contribuente ha proposto ricorso in cassazione con sette motivi.
+4. L’Agenzia delle Entrate ha depositato memoria di costituzione.
+5. La contribuente ha depositato istanza di trattazione in pubblica udienza.
+RAGIONI DELLA DECISIONE
+1. In via preliminare, occorre disattendere l’istanza di rinvio in pubblica
+udienza chiesta dalla parte ricorrente alla luce della sentenza di assoluzione
+emessa nei confronti del legale rappresentante della società ricorrente n.
+1408/2025, considerato, in primo luogo, che la sentenza penale di
+assoluzione non è definitiva per quanto riguarda l’anno d’imposta 2016,
+mentre per il 2015 la sentenza ha dichiarato di non doversi procedere per
+intervenuta prescrizione.
+2. Con il primo motivo di ricorso è stata denunciata la nullità della
+sentenza per violazione degli articoli 115 e 116 cod. proc. civ. in relazione
+all’articolo 360, comma primo, n. 4, cod. proc. civ.
+2.1. Con tale motivo la sentenza impugnata viene censurata in relazione
+a quanto affermato circa l’asserita consapevolezza del legale
+rappresentante della società contribuente in ordine alla partecipazione alla
+“frode carosello”.
+La parte ricorrente rileva che, mentre l’Ufficio contesta al sig. Penserini
+un atteggiamento colposo, i giudici di seconde cure arrivano addirittura ad
+4
+
+--- Pagina 5 ---
+
+ascrivergli una condotta dolosa, per poi contraddirsi in modo illogico
+sostenendo che «sarebbe comunque sufficiente la semplice negligenza o
+imperizia per confermare le contestazioni circa l’inesistenza soggettiva delle
+operazioni fittizia e, quindi, il disconoscimento del diritto alla detrazione
+dell’IVA assolta sugli acquisti effettuati dalle società cartiere coinvolte nella
+frode carosello in questione, a prescindere, da ogni ulteriore considerazione
+in ordine al ruolo effettivo del sig. Penserini nella frode stessa.»
+La ricorrente censura un complesso error in procedendo, consistito nel
+dare rilievo solo agli atti prodotti dall’amministrazione finanziaria, ad
+intercettazioni risalenti ad epoca anteriore rispetto a quella relativa all’anno
+d’imposta interessato dall’atto impositivo impugnato (quanto meno con
+riferimento al 2015, trattandosi di intercettazioni risalenti al 2016) e alla
+produzione di atti da parte del contribuente, ritenuti dalla stessa
+amministrazione idonei a escludere il dolo. La sentenza impugnata non ha
+colto, pertanto, il contenuto oggettivo (errore di percezione) dell’unico vero
+documento assistito da fede privilegiata, ossia il verbale dell’11 gennaio
+2018 più volte menzionato che (i) ha riscontrato una produzione probatoria
+cospicua e (ii) ha affermato la portata meramente colposa della condotta
+oggetto di contestazione erariale.
+2.2. Inoltre, la CGT2 si è allontanata dagli ordinari (e doverosi) canoni
+del prudente apprezzamento ex articolo 116 cod. proc. civ. e, oltre a non
+compiere alcun apprezzamento su quanto offerto, si è spinta fino a reputare
+esistente (in base a meri indizi e presunzioni) un presunto contegno
+consapevole e un non provato “ruolo attivo” che lo stesso Ufficio (come reso
+evidente dal verbale dell’11 gennaio 2018) non avrebbe mai inteso offrire.
+3. Con il secondo motivo di ricorso è stata denunciata la violazione e
+falsa applicazione degli articoli 2697, 2700 e 2729 cod. civ. e dell’articolo
+115 cod. proc. civ., in relazione all’articolo 360, comma primo, n. 3, cod.
+proc. civ.
+5
+
+--- Pagina 6 ---
+
+3.1. Con tale motivo, in via subordinata, la ricorrente censura la
+sentenza impugnata, evidenziando che il giudice non può limitarsi ad
+applicare presunzioni (in presenza di cospicua produzione documentale di
+senso opposto), senza una connessione che sia “qualificata”, in termini
+probabilistici, tra fatto noto e fatto ignoto. In particolare censura:
+- l’uso di intercettazioni risalenti nel tempo rispetto a uno degli anni
+d’imposta interessati dall’atto impositivo;
+- con riferimento alle frodi carosello, non è sufficiente la presenza di
+una o più “cartiere” per presumere la partecipazione allo schema,
+dovendo la stessa Amministrazione dimostrare “la consapevolezza del
+destinatario che l’operazione si inseriva in una evasione dell’imposta”,
+reputando non decisiva l’immediatezza del rapporto “fatturante-
+cessionario”.
+La ricorrente evidenzia che anche qualora la predisposizione dei soggetti
+coinvolti assurgesse a prova presuntiva (da sola o congiuntamente alle
+intercettazioni), la stessa non potrebbe comunque superare la prova
+documentale fornita dalla parte (oltretutto come prova contraria) e neppure
+valutata dal giudice. Diversamente, si attribuirebbe al mero atteggiamento
+altrui un valore totalizzante, capace di precostituire una responsabilità
+oggettiva ogni qual volta un’impresa si trovi coinvolta – inconsapevolmente
+e suo malgrado – in una frode carosello architettata da terzi, superando a
+priori qualsiasi prova contraria, con buona pace della tutela del contegno
+dell’ignaro – anche dal punto di vista sanzionatorio – e del principio di
+proporzionalità.
+4. I primi due motivi possono essere esaminati congiuntamente e sono
+inammissibili, nella misura in cui evocano una rivalutazione del materiale
+probatorio alternativa a quella operata dal giudice di seconde cure. È stato
+precisato che, in tema di ricorso per cassazione, una censura relativa alla
+violazione e falsa applicazione degli artt. 115 e 116 cod. proc. civ. non può
+porsi per una erronea valutazione del materiale istruttorio compiuta dal
+6
+
+--- Pagina 7 ---
+
+giudice di merito, ma solo se si alleghi che quest'ultimo abbia posto a base
+della decisione prove non dedotte dalle parti, ovvero disposte d'ufficio al di
+fuori dei limiti legali, o abbia disatteso, valutandole secondo il suo prudente
+apprezzamento, delle prove legali, ovvero abbia considerato come facenti
+piena prova, recependoli senza apprezzamento critico, elementi di prova
+soggetti invece a valutazione (Cass., 01/03/2022, n. 6774). In sostanza, la
+violazione dell’art. 116 cod. proc. civ. non attiene al quomodo della
+valutazione del materiale probatorio agli atti e all’efficacia attribuita ai
+singoli elementi di prova da parte del giudice (secondo il principio del libero
+convincimento), ma alla circostanza che la decisione si fondi su prove non
+dedotte dalle parti, o disattenda prove legali o non abbia vagliato con
+apprezzamento critico elementi soggetti a valutazione. Nel caso di specie il
+giudice ha vagliato gli elementi di prova indiziaria che portavano a ritenere
+sia che le emittenti delle fatture contestate fossero delle cartiere, sia che la
+società contribuente fosse consapevole del meccanismo fraudolento, con
+una valutazione del materiale indiziario che, in diritto, è esente da rilievi
+riconducibili al sindacato di legittimità.
+4.1. Alla luce dell’orientamento della giurisprudenza unionale –
+evidenziato, infra, sub 5.3. – non può essere accolta la richiesta di rinvio
+degli atti ex art. 267 TFUE avanzata dalla ricorrente nelle conclusioni, in via
+subordinata al primo e al secondo motivo di ricorso.
+5. Con il terzo motivo è stata denunciata la violazione e falsa
+applicazione dell’articolo 19 del d.P.R. 26 ottobre 1972, n. 633, e
+dell’articolo 2697 cod. civ., in relazione all’art. 360, comma primo, n. 3,
+cod. proc. civ.
+5.1. Con tale motivo viene rilevato che al contribuente, in materia di
+frode carosello, deve essere sempre concessa la prova contraria, che deve
+essere oggetto di effettiva valutazione pena la falsa applicazione del diritto
+unionale. La ricorrente richiama, quindi, la giurisprudenza di legittimità
+secondo cui l'Amministrazione finanziaria, in caso di contestazione dell’uso
+7
+
+--- Pagina 8 ---
+
+di fatture per operazioni soggettivamente inesistenti (inserite o meno
+nell'ambito di una frode carosello), ha l'onere di provare, anche solo in via
+indiziaria, non solo l'oggettiva fittizietà del fornitore ma anche la
+consapevolezza del destinatario che l'operazione si inseriva in una evasione
+dell'imposta.
+5.2. Passando all’esame del motivo di ricorso occorre premettere che,
+secondo questa Corte (Cass., 04/10/2018, n. 24321) nel caso di operazioni
+soggettivamente inesistenti l'operazione è effettiva ed esistente ma la
+fattura è stata emessa da un soggetto diverso da quello che ha effettuato
+la cessione o la prestazione in essa rappresentata (e della quale il
+cessionario o il committente è stato realmente destinatario): ne deriva che
+l’IVA non è, in linea di principio, detraibile perché versata ad un soggetto
+non legittimato alla rivalsa, né assoggettato all'obbligo di pagamento
+dell'imposta.
+La prova che deve essere fornita dall'Amministrazione in caso di operazioni
+soggettivamente inesistenti si incentra su due circostanze di valenza
+costitutiva rispetto alla pretesa erariale e in particolare:
+a) l'alterità soggettiva dell'imputazione delle operazioni, ossia che il
+soggetto formale non è quello reale: tale elemento individua la prova
+dell'evasione fiscale, che si concretizza una volta accertata, anche solo in
+via presuntiva, la natura di interposto o "cartiera" del soggetto emittente le
+fatture;
+b) il cessionario sapeva o avrebbe dovuto sapere che la cessione si inseriva
+in una evasione Iva: non è necessaria la prova della partecipazione
+all'evasione ma è sufficiente, e necessario, che il contribuente avrebbe
+dovuto esserne consapevole (Cass., n. 24321 del 2018).
+Una volta raggiunta tale prova spetta, quindi, al contribuente provare
+l’assenza di colpevolezza nel ritenere che le merci acquistate fossero
+effettivamente rifornite dalla società cedente.
+8
+
+--- Pagina 9 ---
+
+5.3. La giurisprudenza della Corte di giustizia dell’Unione europea (CGUE
+11/01/2024, causa C-537/22, Global Ink Trade Kft,, §31) ha precisato che,
+in assenza di norme unionali relative alle modalità dell’assunzione delle
+prove in materia di evasione IVA, la verifica dell’esistenza dell’operazione
+imponibile deve essere effettuata conformemente alle norme nazionali
+sull’onere della prova, procedendo a una valutazione globale di tutti gli
+elementi e di tutte le circostanze di fatto del caso di specie. La CGUE precisa,
+poi, che le regole nazionali in materia di prova non devono pregiudicare
+l’efficacia del diritto unionale (§ 38), evidenziando – in relazione alla
+diligenza esigibile dal contribuente circa la conoscenza o doverosa
+conoscibilità del fatto che l’acquisto (di beni o servizi) si inseriva in
+un’operazione di evasione dell’IVA -  che «non si può esigere da quest’ultimo
+[i.e. dal soggetto passivo] che esso proceda a verifiche complesse e
+approfondite, come quelle che l’amministrazione tributaria ha i mezzi per
+effettuare» (§ 39).
+5.4. Ciò premesso il motivo è infondato: nella specie l’incedere
+argomentativo della sentenza impugnata – come rilevato nella parte
+espositiva dei fatti di causa, v. supra, sub 2. – è pienamente conforme
+all’orientamento della giurisprudenza di legittimità e unionale, sia in
+relazione alla prova del carattere soggettivamente inesistente delle
+operazioni (assenza di una struttura organizzativa/operativa in termini di
+uomini e mezzi idonea allo svolgimento della asserita attività di impresa
+delle cartiere, anomalie inerenti le fatture emesse (con numeri progressivi
+differenti o emissione della stessa fattura verso differenti clienti con oggetti
+ed importi diversi), anomalie contabili delle cartiere. Inoltre, le transazioni
+commerciali erano prive di qualsiasi contratto e/o accordo stipulato, così
+come mancava la corrispondenza (ordini di acquisto, comunicazioni ecc...).
+Proprio in relazione agli elementi appena evocati emerge come la sentenza
+impugnata non abbia fatto riferimento solamente alla circostanza che
+l'interposto fosse privo di dotazione personale e strumentale adeguata alla
+9
+
+--- Pagina 10 ---
+
+prestazione fatturata (Cass., 19/05/2025, n. 13324), ma abbia evidenziato
+ulteriori elementi – come l’assenza di contratti e di corrispondenza tra le
+società parti delle transazioni commerciali indicate nelle fatture contestate
+(come gli ordini di acquisto). Deve, quindi, ritenersi, nei limiti della verifica
+estrinseca propria del sindacato di legittimità, che la CTR si sia mossa entro
+i canoni di diligenza massima esigibili da un operatore accorto e dei criteri
+di ragionevolezza e di proporzionalità in rapporto alle circostanze del caso
+concreto.
+6. Con il quarto motivo è stata denunciata la nullità della sentenza per
+violazione e falsa applicazione dell’articolo 111, comma 6, Cost.,
+dell’articolo 132, comma 2, n. 4 del c.p.c., dell’articolo 36, comma 2, n. 4.
+del d.lgs. n. 546 del 1992 e dell'art. 118 disp. att. cod. proc. civ., in
+combinato disposto con l'articolo 115 cod. proc. civ., in relazione all’articolo
+360, comma 1, n. 4, cod. proc. civ.
+6.1. Con tale motivo il contribuente censura la sentenza impugnata per
+motivazione perplessa e incomprensiva, soprattutto nella parte in cui la
+CGT2 decide sui primi motivi di appello (i.e. primo, secondo e terzo motivo),
+focalizzando l’attenzione (o forse creando le premesse per giungere a
+ritenere infondati i detti motivi di appello) su circostanze del tutto
+secondarie, oltre ad effettuare un mero rinvio a quanto già statuito dalla
+sentenza di prime cure senza alcuna autonoma valutazione delle complesse
+questioni giuridiche sottese alla vicenda de qua.
+6.2. Il motivo è infondato: le Sezioni Unite di questa Corte hanno, infatti,
+precisato, da oltre un decennio, che è denunciabile in cassazione solo
+l'anomalia motivazionale che si tramuta in violazione di legge
+costituzionalmente rilevante, in quanto attinente all'esistenza della
+motivazione in sé, purché il vizio risulti dal testo della sentenza impugnata,
+a prescindere dal confronto con le risultanze processuali. Tale anomalia si
+esaurisce nella "mancanza assoluta di motivi sotto l'aspetto materiale e
+grafico", nella "motivazione apparente", nel "contrasto irriducibile tra
+10
+
+--- Pagina 11 ---
+
+affermazioni inconciliabili" e nella "motivazione perplessa ed obiettivamente
+incomprensibile", esclusa qualunque rilevanza del semplice difetto di
+"sufficienza" della motivazione (Cass., Sez. U, 07/04/2014, n. 8053; in
+senso conforme v. Cass., 12/10/2017, n. 23940).
+7. Con il quinto motivo è stata denunciata la violazione e falsa
+applicazione della Direttiva 2006/112/CE in relazione alla giurisprudenza
+della Corte di Giustizia sul contraddittorio preventivo e all’articolo 41,
+paragrafo 2, lettera a), della Carta dei diritti fondamentali dell’Unione
+europea, anche in combinato disposto con l’articolo 97 della Costituzione,
+in relazione all’art. 360, comma primo, n. 3, cod. proc. civ.
+7.1. Con tale motivo la decisione nella sentenza impugnata viene
+censurata nella parte in cui afferma che: «La società contribuente è stata
+comunque in grado di poter esercitare compiutamente il suo diritto alla
+difesa anche sulla base delle risultanze istruttorie e processuali inerenti i
+giudizi per le annualità precedenti. Pertanto la presunta violazione del
+contraddittorio non può essere invocata in termini generici ed astratti ed
+incombe sul contribuente l’onere di dimostrare che, a fronte del mancato
+rispetto del principio del contraddittorio, effettivamente tale procedimento
+avrebbe potuto comportare un risultato diverso cosa che, si ripete, nel caso
+di cui è lite, non è stato provato.»
+Diversamente da quanto argomentato dal giudice di seconde cure i
+ricorrenti evidenziano che il riferimento al contraddittorio, tenutosi
+nell’ambito del procedimento di accertamento con adesione, è stato avviato
+dalla ricorrente dopo aver ricevuto il primo avviso di accertamento. Non si
+tratta, peraltro, di un effettivo contraddittorio, ma di incontri in cui l’Ufficio
+formula richieste istruttorie e, una volta ricevuti i documenti richiesti, si
+riservava l’esame.
+Il contraddittorio preventivo richiesto è ben altra cosa: è quello afferente
+alla conclusione dell’istruttoria sulla base della quale l’Ufficio intende
+11
+
+--- Pagina 12 ---
+
+formulare la sua pretesa impositiva, non ancora azionata con l’emissione
+dell’avviso.
+La parte ricorrente ha, quindi, richiamato la giurisprudenza unionale
+(CGUE, 03/07/2014, C-129-130/13, Kamino §§ 79-80).
+7.2. Il motivo di ricorso è infondato: la sentenza impugnata, evocando
+una lettura sostanzialista e non formale del contraddittorio in materia di
+tributi armonizzati, è conforme a quanto recentemente confermato dalle
+Sezioni Unite di questa Corte, secondo le quali, in tema di diritti e garanzie
+del contribuente sottoposto a verifiche fiscali c.d. "a tavolino", nella
+disciplina applicabile prima dell'entrata in vigore dell'art. 6-bis della l. n.
+212 del 2000 (introdotto dall'art. 1, comma 1, lett. e, del d.lgs. n. 219 del
+2023, a sua volta richiamato e interpretato ex artt. 7 e 7-bis del d.l. n. 39
+del 2024, convertito con modd. dalla l. n. 67 del 2024), l'obbligo
+di contraddittorio endoprocedimentale vige, quanto ai tributi cd.
+non armonizzati, solo se espressamente previsto, mentre ha valenza
+generalizzata per soli tributi cd. armonizzati, comportando la relativa
+violazione l'invalidità dell'atto, purché il contribuente abbia assolto all'onere
+di enunciare in concreto gli elementi in fatto che avrebbe potuto far valere
+e non abbia proposto un'opposizione meramente pretestuosa, fittizia o
+strumentale, tale essendo quella non idonea a determinare un risultato
+diverso del procedimento impositivo, secondo una valutazione probabilistica
+ex ante spettante al giudice di merito (Cass., Sez. U, 25/07/2025, n.
+21271).
+7.3. A tal proposito occorre evidenziare come le considerazioni inerenti
+ai possibili contenuti delle osservazioni da articolare nel contraddittorio
+preventivo sono state introdotte tardivamente dalla ricorrente con l’istanza
+di trattazione in pubblica udienza, senza essere contenute nell’illustrazione
+originaria del quinto motivo di ricorso. In ogni caso, le Sezioni Unite, n.
+21271 cit., con riferimento alla prova di resistenza hanno precisato che il
+giudice di merito dovrà compiere – prima ed indipendentemente dal giudizio
+12
+
+--- Pagina 13 ---
+
+di fondatezza dell’impugnazione - una valutazione rispondente ai tipici
+canoni della prognosi postuma ex ante (perché riguardata al momento
+dell’omesso contraddittorio preventivo), ispirata a parametri di fattualità,
+specificità, concretezza, probabile idoneità causale dell’elemento tralasciato
+a sortire un risultato diverso del procedimento impositivo, solo per questa
+via escludendosi il carattere meramente pretestuoso, vacuo e strumentale
+dell’istanza. Ai fini dell’articolazione della prova di resistenza non è,
+pertanto, sufficiente elencare una serie di elementi che si sarebbero potuti
+produrre, in thesi, nel contraddittorio endoprocedimentale, ma è necessario
+dimostrare la loro idoneità, sulla base di una valutazione prognostica ex
+ante, a determinare un diverso esito dell’esercizio del potere impositivo da
+parte dell’amministrazione finanziaria.
+7.4. Alla luce di quanto emerso nell’esame del quinto motivo non
+sussistono i requisiti per il rinvio ex art. 267, par. 3, TFUE alla CGUE in
+ordine alla questione prospettata dalla parte ricorrente nelle conclusioni, in
+via subordinata al quarto motivo di ricorso.
+8. Con il sesto motivo di ricorso è stata denunciata la violazione e falsa
+applicazione degli articoli 12 e 17 d.l.gs. 18/12/1997, n. 472, dell’art. 42
+d.P.R. 29/09/1973, n. 600, nonché dall’art. 7 legge 27/07/2000, n. 212, in
+relazione all’art. 360, comma primo, n. 3, cod. proc. civ.
+8.1. Con tale motivo la sentenza impugnata è censurata nella parte in
+cui afferma che: «va confermata la legittimità del profilo sanzionatorio
+dell’atto tenuto conto – da lato – dell’assenza degli invocati presupposti per
+la disapplicazione delle sanzioni e, dall’altro, della congruità della sanzione
+applicata – pari al minimo edittale del 100% - a fronte della riscontrata
+colpevolezza della contribuente».
+8.2. La ricorrente rileva di aver ampiamente argomentato nell’atto di
+appello in ordine all’illegittimità del provvedimento di irrogazione delle
+sanzioni, censurandone la motivazione meramente apparente e laconica
+circa le presunte circostanze eccezionali rispetto all’id quod plerumque
+13
+
+--- Pagina 14 ---
+
+accidit in base alle quali il sig. Penserini dovesse considerarsi consapevole
+di partecipare alla frode carosello contestata. Inoltre, la nullità della
+sentenza impugnata emerge anche in relazione all’applicazione della
+disciplina sul cumulo giuridico di cui all’art. 12 d.lgs. n. 472 del 1997.
+Per ciascun anno (i.e. 2015 e 2016), l’Ufficio ha irrogato la sanzione
+senza tenere conto delle sanzioni già irrogate con gli altri atti impositivi
+serialmente emessi in precedenza per gli anni dal 2011 al 2014. Avrebbe
+dovuto, invece, rideterminare la “sanzione unica” e scomputare quanto già
+precedentemente irrogato, in conformità dell’art. 12, comma 5, secondo
+periodo, d.lgs. n. 472 del 1997 secondo cui «Se l’ufficio non contesta tutte
+le violazioni o non irroga la sanzione contemporaneamente rispetto a tutte,
+quando in seguito vi provvede determina la sanzione complessiva tenendo
+conto delle violazioni oggetto del precedente provvedimento».
+8.3. Il motivo è inammissibile, in quanto non si confronta con la
+motivazione della sentenza impugnata, che ritiene correttamente motivato
+l’avviso di accertamento sia mediante il richiamo all’art. 8 d.P.R.
+22/07/1998, n. 332 con riferimento alla dichiarazione di IVA infedele, sia in
+merito al regime del cd. cumulo giuridico, in merito al quale ha affermato
+che: «la possibilità di irrogare sanzioni per le singole violazioni quando
+queste sono contestate separatamente, è prevista dall’art. 12, comma 5,
+del D.Lgs. 472 del 1997, salvo la eventuale successiva applicazione del
+cumulo complessivo.»
+9. Con il settimo motivo di ricorso è stata denunciata Illegittimità della
+sentenza per violazione degli artt. 41, 47 e 48 della Carta dei diritti
+fondamentali dell’Unione Europea, in relazione all’art. 360, comma primo,
+n. 3, cod. proc. civ.
+9.1. Con tale motivo la ricorrente rileva che, nel secondo motivo di
+appello, la Società aveva sollevato l’illegittimità ed erroneità della sentenza
+di primo grado per violazione del contraddittorio preventivo, e sul punto la
+CGT2 ha effettuato un mero richiamo ad un orientamento della
+14
+
+--- Pagina 15 ---
+
+giurisprudenza di legittimità per limitarsi a sostenere che «il contraddittorio
+non è sempre obbligatorio quando il contribuente, come nel caso che ne
+occupa, non ha dimostrato che le risultanze dell’istruttoria sarebbero state
+diverse qualora fosse stato attivato il contraddittorio.»
+9.2. Ad avviso di parte ricorrente tale statuizione deve essere esaminata
+alla luce del diritto dell’Unione e della giurisprudenza della CGUE, secondo
+cui le amministrazioni degli Stati membri, comprese quelle fiscali, ogni qual
+volta intendano adottare un atto che rientri nella sfera di applicazione del
+diritto unionale (come sono gli atti in materia di IVA) che arrechi pregiudizio
+al destinatario, devono consentire a quest’ultimo di beneficiare del
+contraddittorio endoprocedimentale, ovvero del diritto a manifestare il
+proprio punto di vista relativamente agli elementi in forza dei quali
+l’amministrazione fiscale intende adottare un atto che possa arrecargli un
+detrimento (sentenza causa C-189/2018, Glencore Agriculture Hungary;
+sentenza 3.7.2014, cause riunite C-129/13 e C-130/13, Kamino
+International Logistics e Datema Hellmann Worldwide Logistics).
+9.3. Il motivo di ricorso è infondato per gli stessi motivi già evidenziati
+nell’esame del quinto motivo di ricorso, ai quali si rinvia.
+10. Alla luce di quanto sin qui evidenziato il ricorso è infondato e deve
+essere rigettato, senza alcuna statuizione sulle spese di lite, in assenza del
+deposito del controricorso da parte dell’Agenzia delle Entrate.
+P.Q.M.
+rigetta il ricorso;
+ai sensi dell’art. 13 comma 1 quater del d.P.R. n. 115 del 2002, inserito
+dall’art. 1, comma 17 della l. n. 228 del 2012, dà atto della sussistenza dei
+presupposti per il versamento, da parte del ricorrente, dell’ulteriore importo
+a titolo di contributo unificato pari a quello dovuto per il ricorso, a norma
+del comma 1-bis, dello stesso articolo 13, se dovuto.
+Così deciso in Roma, nella camera di consiglio del 18/12/2025.
+Il Presidente FRANCESCO FEDERICI
+15

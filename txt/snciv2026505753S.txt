@@ -1,0 +1,481 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 28448/2018 R.G. proposto da:
+Agenzia Delle Entrate, rappresentata e difesa dalla Avvocatura Generale
+dello Stato
+-ricorrente-
+contro
+KAI S.r.l., Shell Italia Holding S.p.A., con gli avvocati Francesco Capitta e
+Arianna Valenza
+- controricorrenti e ricorrenti incidentali-
+avverso la sentenza della Commissione Tributaria Regionale della
+Lombardia n. 791/2018 depositata il 23/02/2018.
+Udita la relazione della causa svolta nella pubblica udienza del 18/02/2026
+dal Consigliere Gian Paolo Macagno.
+Udito il Pubblico ministero, nella persona del Sostituto procuratore
+generale dott. Mauro Vitiello, che ha chiesto dichiararsi estinto il giudizio
+per cessata materia del contendere per quanto riguardo gli avvisi di
+accertamento n. TMB037P00420 e n. TMB0E7P00252, e rigettarsi il ricorso
+nel resto.
+
+--- Pagina 2 ---
+
+Uditi l’Avvocato delle Stato Paolo Gentili per l’Agenzia delle entrate e
+l’Avvocato Francesco Capitta, che hanno chiesto dichiararsi estinto il
+giudizio nei termini indicati e, per il resto, hanno richiamato le già assunte
+conclusioni.
+FATTI DI CAUSA
+1. La KAI S.r.l. (già Shell Italia Aviazione s.r.l.), operante nel settore
+petrolifero per la commercializzazione del carburante per aviazione
+(jetfuel) per il gruppo Shell Italia (ed interamente posseduta da Shell
+Italia Holding S.p.A., di cui era consolidata), subiva nel 2012 una verifica
+fiscale a fini IRES, IRAP e IVA.
+2. La verifica fiscale si concludeva nel dicembre 2012 con la notifica
+del processo verbale di constatazione con il quale l'Agenzia delle Entrate di
+Milano formulava plurimi rilievi, che poi confluivano nell'emissione di tre
+avvisi di accertamento ai fini Ires, Irap e per il recupero della c.d. Robin
+Tax, per l’anno di imposta 2010, notificati nel settembre 2015, aventi ad
+oggetto, in sintesi: i) la ripresa di costi infragruppo ritenuti indeducibili
+pari ad euro 1.389.576,00; ii) la pretesa impositiva correlata all'imposta
+definita c.d. Robin Tax, in quanto sul maggior imponibile così accertato
+l'Ufficio aveva altresì applicato la maggiorazione Ires di cui all'art. 81 c. 16
+del d.l. 112/2008, modificato dall'art. 27 della legge 23.7.2009 n. 99; iii)
+la ripresa per costi ritenuti indeducibili per un importo di euro 626.681,00,
+relativi a "Commissioni per scorte obbligatorie" in quanto non di
+competenza del 2010, bensì del 2009.
+Gli accertamenti erano estesi anche alla Shell Italia Holding S.p.a.,
+quale consolidata della KAI S.r.l.
+3. Avverso i predetti avvisi di accertamento le società proponevano
+distinti ricorsi, deducendo plurimi motivi di doglianza, preliminari e di
+merito.
+3.1. Per quanto ancora rileva, nel merito, con riguardo al primo rilievo
+le società ricorrenti allegavano che: i) al pari delle altre società del gruppo
+2
+
+--- Pagina 3 ---
+
+Shell operanti nel medesimo settore, KAI S.r.l. era parte di due accordi
+per la ripartizione dei costi infragruppo (c.d. Cost Contribution
+Agreements) stipulati con la consociata Shell lnternational Petroleum
+Company Ltd ("SIPCO"), società di diritto inglese e residente ai fini fiscali
+nel Regno Unito: l’accordo denominato Cost Contribution Agreement/or
+Business Support Services ("accordo BSS") relativo ai costi per le funzioni
+aziendali centralizzate delle quali KAI S.r.l. usufruiva, quali risorse umane,
+finanza, informatica, appalti e approvvigionamento, servizi legali e
+gestione dei crediti; l’accordo denominato Cost Contribution Agreement
+for Research and Development and Technical Support Services ("accordo
+RDTS"), relativo alle attività di ricerca e sviluppo svolte dal gruppo Shell a
+livello centrale per lo sviluppo di nuovi prodotti e nuove applicazioni di
+tecnologie esistenti, la gestione della proprietà intellettuale, lo sviluppo e
+la fornitura di strumenti di marketing, il supporto nell'attività di salute e
+sicurezza, ii) che gli importi relativi alle attività dei Cost Contribution
+Agreements venivano addebitati secondo un criterio di allocazione dato dal
+rapporto tra specifici ricavi imputabili al singolo partecipante e ricavi
+complessivi del “business Aviazione” a livello mondiale, al netto delle
+transazioni infragruppo e delle imposte indirette eventualmente applicabili.
+3.2. Deducevano quindi: la carenza ed illogicità della motivazione alla
+luce della norma che si pretendeva violata (in relazione all’art. 110,
+comma 7, del Tuir) ed il rilievo effettivamente contestato, il difetto di
+inerenza); l'illegittima inversione dell'onere probatorio in violazione
+dell'art. 2697 c.c.; la non conformità delle contestazioni dell'Ufficio alle
+Linee Guida OCSE; l'infondatezza della pretesa per violazione delle
+disposizioni del Tuir; l'idoneità, secondo le Linee Guida dell'OCSE, della
+documentazione fornita in sede di verifica e in sede di osservazioni al
+processo verbale di constatazione a legittimare la deduzione dei costi
+derivanti dai Cost Contribution Agreements.
+3
+
+--- Pagina 4 ---
+
+3.3. Con riguardo al secondo rilievo le società evocavano l’illegittimità
+dell'avviso di accertamento avente ad oggetto un'imposta, la c.d. Robin
+Tax, dichiarata incostituzionale.
+3.4. In relazione al rilievo attinente alla competenza, le ricorrenti
+chiedevano che venisse disposta la compensazione tra il debito derivante
+dalla dichiarazione relativa all'anno 2010 ed il credito spettante in
+relazione alla dichiarazione per l'anno 2009, non più emendabile.
+3.5. Con riferimento all’Irap, le società deducevano l'illegittima
+applicazione della norma sui prezzi di trasferimento, di cui all’art. 110,
+comma 7, del Tuir, e del criterio di inerenza ai fini delle imposte sui
+redditi, di cui all’art. 109, comma 5, del Tuir.
+4. La CTP di Milano, previa riunione, accoglieva i ricorsi, con
+annullamento degli atti impositivi impugnati.
+5. Proponeva quindi appello l'Agenzia delle Entrate, e la CTR della
+Lombardia, con la sentenza indicata in epigrafe, lo accoglieva in parte,
+limitatamente al rilievo relativo ai costi non di competenza.
+6. Avverso la predetta sentenza ha proposto ricorso per cassazione,
+sorretto da due motivi, l’Agenzia delle entrate e ha resistito con
+controricorso e ricorso incidentale sorretto da quattro motivi.
+7. Il pubblico ministero ha depositato requisitoria scritta, con richiesta
+di rigetto del ricorso principale.
+8. Infine, in prossimità della pubblica udienza, la parte provata ha
+depositato memoria illustrativa ex art. 378 c.p.с.
+9. Alla pubblica udienza le parti hanno dato concordemente atto che,
+in relazione agli avvisi di accertamento n. TMB037P00420 (relativo al
+rilievo in materia di Robin tax) e n. TMB0E7P00252 (relativo al rilievo in
+materia di Irap) vi è stata definizione della lite ex art. 6 del d.l. n.
+119/2018.
+10. Il Pubblico ministero, nella persona del Sostituto procuratore
+generale dott. Mauro Vitiello, ha chiesto dichiararsi estinto il giudizio per
+4
+
+--- Pagina 5 ---
+
+cessata materia del contendere per quanto riguardo gli avvisi di
+accertamento n. TMB037P00420 e n. TMB0E7P00252, e rigettarsi il ricorso
+nel resto.
+Parimenti, l’Avvocato dello Stato Paolo Gentili per l’Agenzia delle
+entrate e l’Avvocato Francesco Capitta hanno chiesto dichiararsi estinto il
+giudizio nei termini indicati e, per il resto, hanno richiamato le già assunte
+conclusioni.
+RAGIONI DELLA DECISIONE
+1. Conformemente alle richieste delle parti e del Procuratore generale,
+deve dichiararsi l’estinzione del giudizio per cessata materia del
+contendere, limitatamente ai motivi che attengono agli avvisi di
+accertamento n. TMB037P00420 e n. n. TMB0E7P00252, come in dettaglio
+infra precisato.
+2. Tanto premesso, con il primo motivo di ricorso l’Amministrazione
+finanziaria denuncia, in relazione all’art. 360, primo comma, num. 3,
+c.p.с. la violazione e falsa applicazione degli artt. 109 comma 5 e 110
+comma 7 d.P.R. 22.12.1986 n. 917, e dell'art. 2697 c.c.
+2.1. Lamenta la ricorrente che la CTR della Lombardia, confermando la
+pronuncia di primo grado, abbia ritenuto infondato il rilievo dell'Ufficio in
+merito ai costi riaddebitati alla società italiana dalla capogruppo del Regno
+Unito, sulla base di due autonome argomentazioni, che articolatamente
+contesta. La CTR, in primo luogo, aveva osservato che il rilievo
+dell’Amministrazione si fondava – erroneamente - sul richiamo alla
+disciplina normativa in materia di transfer price, ossia all'art. 110, comma
+7 d.P.R. n. 917/1986, laddove, atteso il suo contenuto, esso avrebbe
+dovuto fondarsi sulla normativa in tema di difetto di congruità e inerenza,
+vale a dire sull'art. 109 comma 5 dello stesso d.P.R. I giudici di appello,
+comunque, nel merito, avevano ritenuto sufficiente, ai fini della
+deducibilità del relativi costi: -) che i servizi riaddebitati dalla capogruppo
+inglese, per una parte (attività BBS) fossero  “diretti a supportare l'attività
+5
+
+--- Pagina 6 ---
+
+amministrativa funzionale in senso lato al business" della società italiana;
+-) che per la restante parte fossero servizi "di utilità generale della
+multinazionale" "genericamente diretti a supportare attività di sviluppo di
+nuovi prodotti e tecnologie" (attività di RTDS); -) che la capogruppo
+avesse “inteso decentrare [...] alla consolidata che a sua volta ne ha
+tratto diretto beneficio non solo al pari di tutte le società del gruppo ma
+anche e specificamente in relazione alla propria peculiare attività di
+impresa".
+2.2 In relazione al primo profilo, la censura dell’Amministrazione è
+fondata.
+2.3. In tema di imposte sui redditi, la mancata indicazione, nell’avviso
+di accertamento, della norma asseritamente violata non è, di per sé,
+causa di nullità dell'atto per inosservanza dell'obbligo di motivazione, ove
+lo stesso indichi i presupposti di fatto e le ragioni di diritto che permettano
+al contribuente di esercitare il proprio diritto difensivo, (Cass. Sez. 5,
+12/04/2017, n. 9499, Rv. 643920 - 01), e parimenti l'erronea indicazione,
+nell'avviso di accertamento, della norma di legge in tesi violata non è, di
+per sé, causa di nullità dell'atto per inosservanza dell'obbligo di
+motivazione, previsto dall'art. 42 del d.P.R. 29 settembre 1973, n. 600,
+quando il recupero si fondi su presupposti di fatto espressamente indicati,
+i quali, comunque, legittimano la pretesa impositiva, eventualmente anche
+sulla base di altra disposizione legislativa. (Cass. Sez. 5, 06/03/2002, n.
+3257, Rv. 553397 - 01).
+2.4. E, dunque, la indicazione della norma violata diviene irrilevante,
+una volta che la motivazione dell'accertamento individui in modo analitico
+e chiaro le ragioni di fatto poste a fondamento della ripresa a tassazione.
+2.5. E così è nel caso di specie.
+Nell’avviso di accertamento in esame, ai fini dell’autosufficienza
+ritrascritto in ampi estratti nel ricorso, la contestazione in termini di difetto
+di inerenza era palese e ampiamente argomentata, avendo tra l’altro
+6
+
+--- Pagina 7 ---
+
+l’Agenzia delle entrate, dopo una analitica ricostruzione economico-
+contabile, osservato che «per i servizi in commento, non si riscontra un
+vantaggio diretto per la Shell Italia Aviazione, in quanto risulta dubbia
+l'inerenza e il vantaggio diretto che essa ritrae dagli stessi servizi, tranne
+che per quelli riferibili all'attività di Credit Management (€ 4.271,76), di
+lnformation Technology (€58.173,74) e di Human Resources (29.096,19)
+come desunto dalla documentazione prodotta», che «la documentazione
+esibita dalla Parte non consente in alcun modo di individuare la
+connessione di gran parte dei servizi con l'attività espletata dalla società,
+se non facendo un generico richiamo a funzioni a carattere centralizzato»,
+che «Per alcuni dei servizi in esame, in sostanza, non si può asserire che
+ci sia stata un'utilità economica diretta per la società in quanto, come
+precedentemente argomentato, tali servizi si estrinsecano in attività che
+sembrano più volte a soddisfare esigenze proprie di coordinamento,
+piuttosto che essere rivolte a soddisfare un bisogno proprio e congeniale
+al tipo di business condotto da Shell Italia Aviazione, anche considerando
+l'ulteriore addebito dei servizi correlati resi da Shell Italia S.p.A.», per
+concludere rilevando che «È principio generale che, ai fini di un'effettiva
+deducibilità del costo per servizi infragruppo, il vantaggio derivante deve
+essere specifico per la società fruitrice; essa deve conseguire un vantaggio
+reale ed effettivo (e comunque effettivamente misurabile), che deve
+risultare ben distinto dall'attività (generale) di controllo e di
+coordinamento, tipico della funzione di azionista della capogruppo (o di
+una sua delegata). E anche tale funzione di coordinamento non si è, sulla
+base della documentazione prodotta, comunque tradotta in un servizio
+reso a favore della Shell Italia Aviazione».
+Va, inoltre, precisato che il richiamo all’art. 109, comma 7, del Tuir
+non risulta comunque avulso, in quanto la valutazione dell’inerenza nel
+caso di specie deve essere condotta in base ai principi affermati da questa
+Corte in relazione ai contratti infragruppo, ove il tema si pone in termini
+7
+
+--- Pagina 8 ---
+
+non del tutto simili a quelli generali e ove le questioni dell’inerenza del
+costo e del suo valore normale, in base alla disciplina del transfer pricing,
+spesso si pongono insieme, pur rimanendo distinte sul piano logico e
+giuridico.
+3. Quanto appena osservato introduce all’esame dalla seconda
+censura, dovendosi preliminarmente rigettare l’eccezione di
+inammissibilità sollevata dalle controricorrenti, in quanto non è ravvisabile
+in essa un contenuto meritale, inteso ad ottenere una rivalutazione in
+fatto; la contestazione attiene, al contrario, alla errata applicazione dei
+criteri normativi in tema di presupposti per la deduzione dei costi.
+3.1. Tanto chiarito, va ancora opportunamente premesso che il
+fenomeno giuridico ed economico dei gruppi aziendali può astrattamente
+comportare il diffondersi di operazioni aziendali di tipo difensivo che, nate
+per la più conveniente allocazione  dell'imponibile tra le società associate,
+sono spesso sfociate in vere e proprie operazioni elusive, il che comporta
+una particolare rigore, in linea generale, nella valutazione delle operazioni
+intercompany che hanno destato anche l'attenzione dell'OCSE (Cass.
+24/07/2013, n. 17955, seguita da molte altre, tra cui di recente Cass.
+06/07/2021, n. 19166).
+3.2. Secondo un'impostazione ampiamente condivisa da questa Corte
+(di recente v. Cass. Sez. 5, 27/01/2023, n. 2599, Rv. 666759 - 01), in
+materia di costi c.d. infragruppo, affinché il corrispettivo, riconosciuto alla
+capogruppo o alla società incaricata del servizio a beneficio di altra
+consociata, sia deducibile dalla società che lo riceve, occorre che la
+controllata tragga dal servizio remunerato un'effettiva utilità e che
+quest'ultima sia obiettivamente determinabile e adeguatamente
+documentata (Cass. 14/12/2018, n. 32422, Rv. 652135 - 01; Cass.
+04/10/2017, n. 23164, Rv. 652135 - 01; Cass. 23/11/2015, n. 23027),
+anche se a quei costi non corrispondano direttamente ricavi in senso
+8
+
+--- Pagina 9 ---
+
+stretto (Cass. 05/12/2018, n. 31405; in precedenza Cass. 01/08/2000, n.
+10062).
+3.3. Esistenza del costo, sua inerenza e utilità, ed infine
+determinabilità del medesimo sono questioni pertanto diverse, ma
+logicamente antecedenti alla sua rettifica secondo il valore normale (arg.
+da Cass. Sez. 5, 27/01/2023, n. 2599, cit.).
+3.4. Per consolidata giurisprudenza di questa Corte l'onere della prova
+in ordine all'esistenza e all'inerenza dei costi sopportati grava sul
+contribuente che affermi di aver ricevuto il servizio, in base alle regole
+generali in tema di costi deducibili (Cass. 18/08/2022, n. 24880; Cass.
+04/04/2013, n. 8293; e con riguardo alle operazioni infragruppo Cass.
+10/05/2021, n. 12268; Cass. 11/01/2018, n. 439).
+3.5. Si è inoltre precisato che, in materia di costi cd. infragruppo,
+affinché il corrispettivo, riconosciuto alla capogruppo o alla società
+incaricata del servizio a beneficio di altra consociata, sia deducibile dalla
+società che lo riceve, occorre che la controllata tragga dal servizio
+remunerato un'effettiva utilità e che quest'ultima sia obiettivamente
+determinabile ed adeguatamente documentata, anche se a quei costi non
+corrispondano direttamente ricavi in senso stretto; ne consegue che
+l'onere della prova in ordine all'esistenza e all'inerenza dei costi sopportati
+grava sulla contribuente controllata che affermi di aver ricevuto il servizio,
+tenuta ad una specifica allegazione di quegli elementi necessari per
+determinare l'utilità effettiva o potenziale conseguita dalla consociata che
+riceve il servizio (Cass. Sez. 5, 27/01/2023, n. 2599, Rv. 666759 - 01) e,
+più analiticamente, si è rilevato che in tema di reddito di impresa, in
+materia di costi cd. infragruppo, ove la società capofila fornisca servizi o
+curi direttamente attività di interesse comune alle società del gruppo
+ripartendone i costi tra le stesse, al fine di coordinare le scelte operative
+delle imprese formalmente autonome e ridurre i costi di gestione
+attraverso economie di scala, affinché il corrispettivo riconosciuto alla
+9
+
+--- Pagina 10 ---
+
+capogruppo sia deducibile, è necessario che la controllata tragga dal
+servizio remunerato una reale utilità e che questa sia obiettivamente
+determinabile ed adeguatamente motivata, sicché la deducibilità dei costi
+derivanti da accordi contrattuali sui servizi prestati dalla controllante (cd.
+"cost sharing agreements") è subordinata alla effettività e inerenza della
+spesa rispetto all'attività di impresa della controllata e al vantaggio a
+questa derivato, provato dalla specifica allegazione degli elementi
+necessari per determinare l'utilità effettiva o potenziale conseguita. (Cass.
+Sez. 5, 14/12/2018, n. 32422, Rv. 652135 – 01; (Cass. Sez. 5,
+04/10/2017, n. 23164, Rv. 645653 - 01).
+3.6. Alla stregua di tale premessa, questa Corte ha ritenuto che, ove i
+costi della cui deducibilità si controverte scaturiscano da accordi
+infragruppo, non può ritenersi sufficiente l'esibizione del contratto
+riguardante le prestazioni di servizi forniti dalla controllante alle
+controllate e la fatturazione dei corrispettivi, richiedendosi, al contrario, la
+specifica allegazione di quegli elementi necessari per determinare l'utilità
+effettiva o potenziale conseguita dalla consociata che riceve il servizio
+(Cass. 18/07/2014, n. 16480; in termini analoghi v. anche Cass.
+28/06/2019, n. 17535).
+3.7. Anche la seconda censura veicolata con il motivo in esame è,
+pertanto, fondata.
+3.8. La CTR non si è conformata ai principi superiormente evocati,
+laddove ha ritenuto integralmente deducibili i costi infragruppo in esame,
+sulla base di asserzioni dalla manifesta genericità, e segnatamente
+osservando che i costi erano riferibili da un lato a servizi diretti a
+supportare l'attività amministrativa funzionale «in senso lato» al business
+aviation che la società consolidata svolgeva al livello italiano, dall’altro a
+servizi «genericamente diretti a supportare attività di sviluppo di nuovi
+prodotti e tecnologie», aggiungendo che si tratta «di servizi di utilità
+generale della multinazionale che la capogruppo» e «la cui inerenza è
+10
+
+--- Pagina 11 ---
+
+ulteriormente dimostrata dal fatto che, proprio per effetto diretto delle
+prestazioni infragruppo ricevute, KIA ha potuto realizzare nel 2010 un
+volume di affari pari a 210 milioni di Euro […] pur avendo una struttura
+organizzativa costituita da risorse interne assai limitate, pari a 8
+dipendenti».
+3.9. I giudici di appello hanno così omesso di verificare l’effettiva
+sussistenza di una relazione specifica, individuabile nel suo contenuto e
+nel suo valore, tra i servizi e determinate necessità della società italiana,
+al fine di accertare la sussistenza di una utilità effettiva o potenziale
+conseguita dalla consociata che ha ricevuto il servizio, nei termini
+identificati dalla giurisprudenza di questa Corte.
+4. Con il secondo motivo del ricorso principale si deduce, in relazione
+all’art. 360, primo comma, num. 3, c.p.с., la violazione e falsa
+applicazione degli artt. 136 Cost. e 81 comma 16 del d.l. 112/2008
+modificato dall'art. 27 della legge 23.7.2009 n. 99 (c.d. Robin Tax).
+L’Amministrazione ricorrente censura la decisione della CTR della
+Lombardia ove ha respinto l'appello erariale anche nel punto in cui questo
+insisteva nel pretendere l'applicazione, sul maggior imponibile accertato,
+della maggiorazione Ires di cui alle norme invocate (la c.d. Robin Tax).
+Il motivo non deve essere esaminato, in conseguenza della
+definizione, in parte qua, della lite.
+5. Con il primo motivo di ricorso incidentale le società contribuenti
+denunciano, in relazione all'art. 360, primo comma, num. 3 c.p.c. la
+violazione e falsa applicazione dell'art. 10, comma 1, della L. 212/2000 e
+dell'art. 2043 c.c.
+5.1. La KAI S.r.l. osserva in particolare: i) che l'Ufficio ha contestato
+l'erronea deduzione nel 2010 di costi di competenza del 2009; ii) di avere
+espressamente riconosciuto, già in sede di verifica fiscale di aver  dedotto
+tali costi nel 2010, anziché nel 2009 per mero errore. A tale riguardo, nei
+ricorsi introduttivi del presente giudizio aveva rilevato che il pagamento
+11
+
+--- Pagina 12 ---
+
+dell'imposta relativa al disconoscimento dei costi non correttamente
+imputati in violazione delle norme sulla competenza comporterebbe il
+diritto al rimborso della maggiore imposta pagata per il periodo di imposta
+2009, non avendo la società dedotto tale costo nel 2009, anno di effettiva
+competenza del costo ed ha chiesto di «annullare il Rilievo Competenza in
+esame disponendo l'autonoma compensazione tra il debito derivante dalla
+dichiarazione relativa all'anno 2010 ed il credito che spetta in relazione
+alla dichiarazione per l'anno 2009».
+5.2. Con il motivo in esame la parte si duole della statuizione della
+CTR della Lombardia che, in riforma della decisione di primo grado, non ha
+accolto la richiesta di compensazione ed ha confermato la legittimità della
+ripresa a tassazione.
+5.3. La società contribuente, adducendo un errore di fatto o di diritto
+commesso nella redazione della dichiarazione, ribadisce la richiesta di
+poter esercitare la facoltà di procedere alla sua correzione e modifica
+anche in sede contenziosa, a prescindere dai termini previsti in caso di
+dichiarazione integrativa ex art. 2, comma 8, del D.P.R. n. 322/1998 e
+dall'istanza di rimborso ex art. 38 del D.P.R. n. 602/1973.
+5.4. Il motivo non è fondato, dovendosi qui richiamare il consolidato
+orientamento di questa Corte secondo cui in tema di reddito d'impresa, il
+recupero dei costi in base al criterio di competenza temporale non
+determina una duplicazione di imposta in quanto la dichiarazione del costo
+in una determinata annualità consente l'accertamento dell'Ufficio sulla
+base del corretto impiego di detto criterio, non essendo consentito al
+contribuente di scegliere il periodo in cui registrare le passività secondo la
+propria convenienza, così da alterare i risultati economici dell'esercizio,
+mentre, in caso di effettivo pagamento per due volte della medesima
+imposta, dispone dei rimedi ordinamentali della dichiarazione integrativa e
+del rimborso. (Cass. Sez. 5, 15/07/2020, n. 15019, Rv. 658423 - 01).
+12
+
+--- Pagina 13 ---
+
+5.5. Va ancora a tale riguardo, ribadito che in tema di reddito
+d'impresa, non è consentito al contribuente scegliere di effettuare la
+detrazione di un costo in un esercizio diverso da quello individuato dalla
+legge come esercizio di competenza, neppure al dichiarato fine di
+bilanciare componenti attivi e passivi del reddito e pur in assenza della
+configurabilità di un danno per l'erario, atteso che le regole
+sull'imputazione temporale dei componenti negativi, dettate in via
+generale dall'art. 75 TUIR vigente "ratione temporis" (oggi art. 109 TUIR),
+sono vincolanti sia per il contribuente che per l'erario e, per la loro
+inderogabilità, non richiedono né legittimano un qualche giudizio
+sull'esistenza o meno di un danno erariale, per modo che appare
+decisamente irrilevante l'eventuale (anche effettiva) insussistenza dello
+stesso nel caso concreto. (Cass. Sez. 5, 19/05/2022, n. 16093, Rv.
+664722 - 01).
+5.6. Diversamente opinando, e ritenendo ammissibile la
+compensazione con diversi periodi di imposta, si violerebbe il principio
+secondo cui in tema di reddito d'impresa, le regole sull'imputazione
+temporale dei componenti negativi, dettate in via generale dall'art. 75
+(attuale art. 109) del d.P.R. n. 917 del 1986, sono inderogabili, non
+essendo consentito al contribuente scegliere di effettuare la detrazione di
+un costo in un esercizio diverso da quello individuato dalla legge come
+esercizio di competenza (Cass. Sez. 5, 27/10/2020, n. 23521, Rv. 659641
+- 01).
+5.7. L’inerzia del contribuente nel ricorrere ai rimedi ordinamentali
+della dichiarazione integrativa e del rimborso non può rilevare al fine di
+una eventuale deroga all’affermato principio, né, infine, la scelta di
+dedurre un componente negativo del reddito deduzione in uno specifico
+esercizio può ricondursi all’ambito dell’errore piuttosto che a quello della
+volontà.
+13
+
+--- Pagina 14 ---
+
+6. Con il secondo motivo di ricorso incidentale parte contribuente la
+menta, in relazione all'art. 360, primo comma 1, num. 4, c.p.c. la
+violazione dell'art. 112 c.p.c. per omessa pronuncia sulle eccezioni
+preliminari relative alla non applicazione all'Irap della normativa sui prezzi
+di trasferimento di cui all'art. 110, comma 7, del Tuir, in via subordinata e
+condizionata alla denegata ipotesi di accoglimento del primo motivo di
+ricorso incidentale.
+7. Con il terzo motivo di ricorso incidentale si lamenta, in via
+subordinata al secondo motivo del ricorso incidentale, in relazione all'art.
+360, primo comma, num. 3 c.p.c., la violazione e falsa applicazione
+dell'Art. 110, comma 7, del Tuir e dell'art. 5 del D.Lgs. n. 446/1997
+conseguente alla natura non retroattiva dell'art. 1, comma 281, della
+legge n. 147/2013.
+8. Infine, con il quarto motivo di ricorso incidentale si deduce, sempre
+in via subordinata al secondo motivo del ricorso incidentale, in relazione
+all'art. 360, primo comma, num. 3 c.p.c., la violazione e falsa applicazione
+dell'art. 5 del D.Lgs. n. 446/1997 e dell'art. 109, comma 5, del Tuir.
+9. I motivi secondo, terzo e quarto del ricorso incidentale non devono
+essere esaminati, in conseguenza della definizione, in parte qua, della lite
+ex art. 6 d.l. 119/2018.
+10. In conclusione, il ricorso principale va accolto in relazione al primo
+motivo, il primo motivo del ricorso incidentale va rigettato, e nel resto va
+dichiarata la cessazione della materia del contendere per intervenuta
+definizione della lite; la sentenza impugnata va dunque cassata in
+relazione al motivo accolto, con rinvio alla Corte di giustizia tributaria di
+secondo grado della Lombardia affinché, in diversa composizione, proceda
+a nuovo e motivato esame nonché provveda a regolare le spese del
+giudizio di legittimità tra le parti.
+P.Q.M.
+La Corte
+14
+
+--- Pagina 15 ---
+
+dichiara l’estinzione del giudizio per cessata materia del contendere in
+relazione al secondo motivo di ricorso principale ed al secondo, terzo e
+quarto motivo di ricorso incidentale;
+accoglie il primo motivo del ricorso principale, rigetta il primo motivo del
+ricorso incidentale, cassa la sentenza impugnata in relazione al motivo
+accolto e rinvia alla Corte di giustizia tributaria di secondo grado della
+Lombardia affinché, in diversa composizione, proceda a nuovo e motivato
+esame nonché provveda a regolare le spese del giudizio di legittimità tra
+le parti.
+Così deciso in Roma, nella camera di consiglio del 18/02/2026.
+Il Consigliere est.
+Gian Paolo Macagno
+La Presidente
+Roberta Crucitti
+15
