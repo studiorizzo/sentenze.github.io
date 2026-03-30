@@ -1,0 +1,730 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 4469/2022 R.G. proposto da:
+Fallimento della Argo Società consortile a r.l. (c.f. 02515260350), in
+persona del curatore, rappresentato e difeso dall'Avvocato Franco
+Stefanelli (c.f. STFFNC81M18F463A), ammesso al patrocinio a spese dello
+Stato ai sensi dell’art. 144 d.P.R. 115/2002;
+contro
+Agenzia delle Entrate (c.f. 06363391001) in persona del direttore pro
+tempore, rappresentata e difesa dall'Avvocatura Generale dello Stato (c.f.
+80224030587);
+-controricorrente-
+avverso la sentenza della Commissione Tributaria Regionale dell’Emilia
+Romagna n. 922/2021 depositata il 07/07/2021.
+Udita la relazione svolta nella camera di consiglio del 11/12/2025 dal
+Consigliere Giovanni Galasso.
+
+--- Pagina 2 ---
+
+FATTI DI CAUSA
+1. Con due separati ricorsi alla Commissione Tributaria Provinciale di
+Reggio Emilia, il curatore del fallimento della Argo, società consortile a r.l.
+(costituita dalla società cooperativa Coopsette e dalla S.E.L.I. Società
+esecuzione lavori idraulici S.p.A. per la realizzazione della metropolitana di
+Torino) impugnava gli avvisi di accertamento nn. THS03BB02052/2016 e
+THS03BB02054/2016, relativi, rispettivamente, agli anni di imposta 2012
+e 2013, con i quali l’Agenzia delle entrate, a seguito di controlli svolti nel
+2015, aveva recuperato, sulla base di diversi rilievi relativi all’erronea
+detrazione di imposta e deduzione di costi, IVA, IRES ed IRAP.
+In particolare, con riguardo all’IVA, si contestava l’applicazione
+dell’aliquota ordinaria su alcune operazioni passive sulle quali doveva
+invece applicarsi, secondo l’Amministrazione, l’aliquota del 10%, cioè la
+medesima applicata poi nei rapporti con le consorziate sulle quali venivano
+“ribaltati” i relativi costi.
+La curatela deduceva sia vizi formali relativi alla mancanza del
+contraddittorio endoprocedimentale, sia contestazioni di carattere
+sostanziale con le quali rappresentava, principalmente, che era stata
+correttamente applicata l’aliquota ordinaria ai costi sostenuti dal consorzio
+e che spettava la deduzione dei costi per il personale.
+Con sentenza n. 160/2018 la CTP rigettava i ricorsi.
+2. Proponeva appello la curatela, riproponendo, sostanzialmente, le
+medesime questioni oggetto del giudizio di primo grado.
+Resisteva all’impugnazione l’Agenzia delle Entrate.
+Con sentenza n. 922/2021, la CTR dell’Emilia Romagna rigettava l’appello.
+Osservava, in particolare, per quanto ancora interessa in questa sede, che
+l’Agenzia aveva correttamente ricostruito il rapporto tra consorzio e
+consorziate, fondato sul “ribaltamento dei costi”, ma non aveva dedotto
+dalla presunta rappresentanza negoziale derivante da tale rapporto
+l’applicabilità dell’aliquota ridotta dell’IVA sui costi sostenuti dal consorzio,
+2
+
+--- Pagina 3 ---
+
+bensì dalla previsione contenuta nel punto 127 septies della tabella A
+allegata al d.P.R. 633/1972. Rilevava altresì che sulle prestazioni ricevute
+da terzi era corretta l’applicazione dell’IVA al 10% trattandosi dei
+“medesimi costi ribaltati alle società consorziate e perciò l’aliquota iva
+doveva essere la medesima”; le prestazioni che il consorzio riceveva da
+terzi erano senz’altro connesse all’esecuzione dell’appalto, come risultava
+anche dalle fatture, e dunque rientravano nell’ipotesi di cui al numero 127
+quinquies della tabella A parte III del d.P.R. 633/1972.
+Con riguardo al disconoscimento dell’importo di € 456.362,56, portato in
+deduzione relativamente all’IRES, per prestazioni di gestione tecnica e
+amministrativa erogate dalla Coopsette soc. coop., osservava che
+mancava la fattura e non risultava né che fosse avvenuto il pagamento,
+né che le prestazioni (il cui contenuto era estremamente vasto, così da
+comprendere ogni attività del consorzio) fossero state effettivamente
+eseguite, sicché difettavano «i requisiti di certezza ed obiettività» ex art.
+109 comma 2° d.P.R. 917/1986 ed «altresì il requisito dell’inerenza di cui
+al 5° co. del medesimo articolo»; era irrilevante, sotto tale profilo,
+l’ammissione del credito al passivo.
+In ordine all’IRAP, ad avviso della CTR, il costo del personale ricevuto dalle
+consorziate non poteva ridurre il valore della produzione secondo la
+previsione dell’art. 5 d.lgs. 446/1997, che esclude il costo per il personale
+distaccato.
+Rilevava, infine, che gli atti erano sufficientemente motivati e che era
+stato rispettato l’obbligo del contraddittorio endoprocedimentale.
+3. Avverso tale sentenza la curatela ha proposto ricorso per cassazione
+affidato a dieci motivi.
+Ha resistito con controricorso l’Agenzia delle Entrate.
+La curatela ha depositato una memoria ex art. 380 bis.1 c.p.c..
+RAGIONI DELLA DECISIONE
+3
+
+--- Pagina 4 ---
+
+1.1 Va esaminato per primo, secondo un criterio di priorità logica, il
+decimo motivo di ricorso che riguarda la questione dell’invalidità degli
+avvisi di accertamento per difetto di motivazione e per violazione del
+contraddittorio endoprocedimentale, potendone derivare l’annullamento in
+toto degli atti.
+Con lo stesso, infatti, la curatela ha denunciato il vizio di cui all’art. 360,
+comma 1°, n. 3) c.p.c. per violazione degli artt. 10 e 12 l. 212/2000. Il
+motivo riguarda sostanzialmente due profili, la motivazione degli atti, che
+sarebbe apodittica ed insufficiente, e la mancanza del contraddittorio
+endoprocedimentale.
+1.2 Quanto al primo aspetto, va rilevato che il motivo, come formulato, è
+inammissibile.
+Costituisce infatti principio consolidato quello per il quale «nel giudizio
+tributario, qualora il ricorrente censuri la sentenza di una commissione
+tributaria regionale sotto il profilo del vizio di motivazione nel giudizio sulla
+congruità della motivazione dell'avviso di accertamento, è necessario che
+il ricorso riporti testualmente i passi della motivazione di detto avviso, che
+si assumono erroneamente interpretati o pretermessi, al fine di consentire
+la verifica della censura esclusivamente mediante l'esame del ricorso»
+(Cass. 16147/2017; nello stesso senso Cass. 13358/2025; Cass.
+9536/2013).
+Nel caso di specie, il ricorrente si è limitato a criticare la motivazione dei
+provvedimenti senza riportarne quanto meno le parti più significative,
+sicché il motivo è inammissibile.
+1.3 Peraltro, lo stesso è altresì infondato, giacché, come si rileva dalla
+lettura del motivo di ricorso, l’amministrazione ha indicato in relazione alle
+prestazioni oggetto di ciascuna fattura l’eventuale applicabilità
+dell’aliquota ridotta, richiamando il n. 127 septies della tabella allegata al
+d.P.R. 633/1972 quando ha ritenuto che si trattasse di prestazioni di
+servizi dipendenti dal contratto di appalto. La motivazione così redatta
+4
+
+--- Pagina 5 ---
+
+soddisfa certamente i requisiti minimi richiesti dalla legge; occorre infatti
+ricordare che «L'avviso di accertamento soddisfa l'obbligo di motivazione
+quando pone il contribuente nella condizione di conoscere esattamente la
+pretesa impositiva, individuata nel "petitum" e nella "causa petendi",
+mediante una fedele e chiara ricostruzione degli elementi costitutivi
+dell'obbligazione tributaria, anche quanto agli elementi di fatto ed
+istruttori posti a fondamento dell'atto impositivo, in ragione della
+necessaria trasparenza dell'attività della Pubblica Amministrazione, in
+vista di un immediato controllo della stessa» (Cass. 30039/2018).
+È evidente che la motivazione consente al contribuente di comprendere
+che l’amministrazione ha ritenuto applicabile alle prestazioni de quibus
+l’aliquota del 10%, ritenendole dipendenti da contratti d’appalto e ciò è
+senz’altro sufficiente per consentire al contribuente di comprendere le
+ragioni della pretesa.
+Considerazioni analoghe valgono anche con riguardo all’IRES per la quale
+risulta chiaro che, in mancanza di fattura e di prova del pagamento,
+l’Amministrazione ha ritenuto che il costo non fosse deducibile. La
+curatela, in realtà, non condivide tale valutazione, ma ciò non comporta
+che l’atto sia privo di motivazione.
+Per l’IRAP, come si evince dalla sentenza e dal ricorso, l’Amministrazione
+ha ritenuto che i costi per il personale distaccato non potessero ridurre la
+base imponibile.
+1.4 Parimenti infondato è il motivo di ricorso con riguardo alla presunta
+violazione del contraddittorio endoprocedimentale.
+Senza richiamare, per brevità, la copiosa giurisprudenza della CGUE è
+sufficiente qui ricordare quanto affermato dalle SS.UU., con riguardo alla
+disciplina anteriore all’introduzione dell’art. 6 bis l. 212/2000 per effetto
+dell’art. 1 d.lgs. 219/2023 - che ha introdotto l’obbligo generalizzato del
+contraddittorio disciplinandone anche le forme - secondo le quali l’obbligo
+del contraddittorio preventivo vige “quanto ai tributi cd. non armonizzati,
+5
+
+--- Pagina 6 ---
+
+solo se espressamente previsto, mentre ha valenza generalizzata per soli
+tributi cd. armonizzati, comportando la relativa violazione l'invalidità
+dell'atto, purché il contribuente abbia assolto all'onere di enunciare in
+concreto gli elementi in fatto che avrebbe potuto far valere e non abbia
+proposto un'opposizione meramente pretestuosa, fittizia o strumentale,
+tale essendo quella non idonea a determinare un risultato diverso del
+procedimento impositivo, secondo una valutazione probabilistica ex ante
+spettante al giudice di merito” (Cass. Sez. U. n. 21271/2025; cfr. anche
+Cass. Sez. U. n. 24823/2015).
+Va quindi evidenziato, con riguardo all’IVA – l’unico tributo per il quale è
+ravvisabile l’obbligo del contraddittorio preventivo – che, nel caso di
+specie, il contribuente si è limitato a rinviare ai motivi oggetto
+dell’originario ricorso alla CTP senza altro specificare in ordine alle ragioni
+in base alle quali andrebbe condotta la prova di resistenza.
+Va aggiunto che, come affermato da questa Corte, «In tema di
+accertamento cd. a tavolino, l'amministrazione finanziaria è tenuta a
+rispettare il contraddittorio endoprocedimentale in presenza di tributi
+armonizzati, ma le modalità per la sua realizzazione non sono a forma
+vincolata, essendo sufficiente assicurare l'effettività dello stesso,
+indipendentemente dagli strumenti in concreto adottati, quali il ricorso a
+procedure partecipative o l'impiego di altri meccanismi finalizzati
+all'interlocuzione preventiva, come l'inoltro di questionari ed il
+riconoscimento dell'accesso agli atti» (Cass. 18489/2024).
+Orbene, la partecipazione è stata assicurata, dal momento che lo stesso
+ricorrente afferma che in data 18/10/2016 è stato consegnato al curatore
+«un verbale dal quale sono emerse per la prima volta le contestazioni in
+punto di I.V.A. ed II.DD., senza dare la possibilità al contribuente di
+controbattere ai rilievi formulati». Gli avvisi sono stati notificati solo in
+data 15/11/2016, sicché in tale periodo di tempo il curatore ben avrebbe
+potuto far valere le proprie ragioni o chiedere di interloquire in ordine
+6
+
+--- Pagina 7 ---
+
+all’oggetto dell’accertamento; a ciò deve aggiungersi che neppure lo
+stesso è stato colto alla sprovvista dal momento che, secondo la
+ricostruzione della vicenda contenuta nel ricorso, la prima richiesta di
+documenti è giunta alla curatela il 19/4/2015, sicché da tale data, seppure
+lo stesso non era a conoscenza degli specifici addebiti, era edotto quanto
+meno in ordine all’oggetto dell’accertamento.
+Né operava il termine dilatorio di sessanta giorni previsto dall’art. 12
+comma 7 d.lgs, 212/2000, trattandosi di accertamenti eseguiti a tavolino
+e non con accesso presso la sede della società (peraltro fallita).
+Per tutto quanto esposto il motivo deve essere rigettato.
+2.1 Con il primo motivo di ricorso, la ricorrente ha dedotto i vizi di cui
+all’art. 360 comma 1° c.p.c. nn. 3) e 5) «per omessa motivazione ed
+erronea ricostruzione del rapporto contrattuale tra la società consortile e
+le società consorziate».
+Con il secondo motivo ha dedotto il vizio di cui all’art. 360 comma 1° n. 3)
+c.p.c. per «falsa applicazione di norme di diritto e dello statuto in relazione
+agli artt. 1367, 1362 e 1363 cod. civ. e artt. 20 e 21 dello Statuto di Argo
+s.c. a r.l.».
+I predetti motivi, strettamente connessi, possono essere esaminati
+congiuntamente.
+Ad avviso della curatela, la CTR avrebbe errato nella ricostruzione del
+rapporto tra consorzio e consorziate, male interpretando gli artt. 20 e 21
+dello statuto e giungendo all’erronea conclusione che a tutti i rapporti
+attivi e passivi della società consortile, priva di un’autonoma
+organizzazione, andasse applicata la medesima aliquota del 10%,
+circostanza invece «negata anche dalla stessa Agenzia delle Entrate, che
+ha riconosciuto l'applicazione dell'IVA ordinaria in luogo a quella di cui
+all'art. 127 quinquies e septies TAB. A III d.P.R. n. 633/1972 a diverse
+forniture rese da terzi in favore di Argo S.C. A r.l. in bonis». Secondo la
+ricorrente, «solo nel rapporto tra mandante e mandatario senza
+7
+
+--- Pagina 8 ---
+
+rappresentanza, si applica la medesima aliquota IVA tra i servizi forniti e i
+pagamenti effettuati ed erogati dal mandante al mandatario e ciò nel loro
+rapporto interno. E, infatti, questo meccanismo, operato da Argo in bonis
+e dalle consorziate, non è stato posto in discussione da alcuno, in quanto il
+mandato era esclusivamente quello di costruire la metropolitana (e.g., un
+mandato “alla vendita”) e ciò avvalendosi di una propria struttura: infatti,
+non vi è alcun mandato all'acquisto, per cui si debba ritenere applicabile il
+medesimo regime IVA di cui all'appalto anche alle forniture acquisite da
+Argo s.c. a r.l. per tutto ciò che non sia strettamente dipendente
+dall'opera».
+2.2 Tali motivi, così come formulati, sono inammissibili.
+Ed infatti, si denuncia sostanzialmente l’erronea interpretazione dello
+statuto e si afferma (solo con il secondo) che nella sua interpretazione
+sarebbero stati violati gli artt. 1362 (intenzione dei contraenti), 1363
+(interpretazione complessiva delle clausole) e 1367 (conservazione del
+contratto) c.c., ma non si indica specificamente in che maniera sarebbero
+state violate le norme, giacché il motivo si esaurisce nella
+contrapposizione dell’interpretazione ritenuta corretta dalla curatela a
+quella compiuta dalla CTR.
+Costituisce principio consolidato quello secondo il quale «l'interpretazione
+del contratto è riservata al giudice di merito ed è censurabile in sede di
+legittimità solo per erronea o insufficiente motivazione, ovvero per
+violazione dei canoni di ermeneutica contrattuale. Quest'ultima violazione
+deve dedursi con la specifica indicazione nel ricorso per cassazione del
+modo in cui il ragionamento del giudice si sia discostato dai suddetti
+canoni, altrimenti la ricostruzione del contenuto della volontà delle parti si
+traduce nella mera proposta di una interpretazione, diversa da quella
+censurata inammissibile come tale in sede di legittimità» (Cass.
+17427/2003; nello stesso senso, ex multis, Cass. 24461/2005; Cass.
+2560/2007; Cass. 353/2025).
+8
+
+--- Pagina 9 ---
+
+2.3 Quanto al vizio di motivazione (oggetto del primo motivo), lo stesso è
+inammissibile innanzi tutto in quanto nel caso di specie la sentenza
+d’appello conferma quella di primo grado (art 348 ter ultimo comma c.p.c.
+operante, ratione temporis, con riguardo al presente giudizio); inoltre si
+richiama il n. 5) del comma 1° dell’art. 360 c.p.c., senza tuttavia dedurre
+correttamente tale vizio.
+Occorre tener presente che «l'art. 360, primo comma, n. 5, cod. proc.
+civ., riformulato dall'art. 54 del d.l. 22 giugno 2012, n. 83, conv. in legge
+7 agosto 2012, n. 134, introduce nell'ordinamento un vizio specifico
+denunciabile per cassazione, relativo all'omesso esame di un fatto storico,
+principale o secondario, la cui esistenza risulti dal testo della sentenza o
+dagli atti processuali, che abbia costituito oggetto di discussione tra le
+parti e abbia carattere decisivo (vale a dire che, se esaminato, avrebbe
+determinato un esito diverso della controversia). Ne consegue che, nel
+rigoroso rispetto delle previsioni degli artt. 366, primo comma, n. 6, e
+369, secondo comma, n. 4, cod. proc. civ., il ricorrente deve indicare il
+"fatto storico", il cui esame sia stato omesso, il "dato", testuale o
+extratestuale, da cui esso risulti esistente, il "come" e il "quando" tale
+fatto sia stato oggetto di discussione processuale tra le parti e la sua
+"decisività", fermo restando che l'omesso esame di elementi istruttori non
+integra, di per sé, il vizio di omesso esame di un fatto decisivo qualora il
+fatto storico, rilevante in causa, sia stato comunque preso in
+considerazione dal giudice, ancorché la sentenza non abbia dato conto di
+tutte le risultanze probatorie» (così Cass. Sez. U. 8053/2014).
+Costituisce un “fatto”, agli effetti dell'art. 360, comma 1, n. 5), c.p.c., non
+una "questione" o un "punto", ma un vero e proprio "fatto", in senso
+storico e normativo, un preciso accadimento ovvero una precisa
+circostanza naturalistica, un dato materiale, un episodio fenomenico
+rilevante (Cass. n. 7983/2014; Cass. n. 17761/2016; Cass. n.
+29883/2017; Cass. n. 21152/2014; Cass. Sez. U. n. 5745/2015; Cass. n.
+9
+
+--- Pagina 10 ---
+
+5133/2014). Non costituiscono, viceversa, "fatti", il cui omesso esame
+possa cagionare il vizio ex art. 360, comma 1, n. 5, c.p.c.: le
+argomentazioni o deduzioni difensive (Cass. n. 14802/2017; Cass. n.
+21152/2014; Cass. n. 9637/2021; Cass. n. 2268/2022); gli elementi
+istruttori; una moltitudine di fatti e circostanze, o il "vario insieme dei
+materiali di causa" (Cass. n. 21439/2015).
+Nel caso di specie, il “fatto decisivo” deve ritenersi ravvisabile, secondo la
+ricorrente, nella «circostanza fattuale discendente dalla previsione
+statutaria per cui il Consorzio avrebbe dovuto agire con propri mezzi,
+indipendentemente da come questi sarebbero stati reperiti»; si tratta
+quindi dell’interpretazione dello statuto ritenuta corretta dalla ricorrente
+che, tuttavia, per quanto esposto, non integra il “fatto decisivo” di cui
+all’art. 360, comma 1°, n. 5) c.p.c..
+Infine, con il primo motivo si richiama anche il vizio di violazione o falsa
+applicazione di norme di diritto, ma non si indicano quali sarebbero le
+disposizioni violate.
+2.4 Deve aggiungersi a quanto fin qui osservato che, in ogni caso, il rilievo
+per il quale dal ribaltamento dei costi deriverebbe l’applicabilità dell’IVA in
+base all’aliquota del 10% anche alle operazioni passive del consorzio, non
+costituisce un’affermazione in diritto, ma una considerazione in fatto dalla
+quale la CTR desume che anche le operazioni passive erano assoggettate
+a tale aliquota in quanto “dipendenti” da contratto d’appalto e dunque
+rientranti nell’ipotesi prevista dal punto 127 septies della tabella A parte
+III allegata al d.P.R. 633/1972 (come del resto ritenuto anche dal
+ricorrente nel terzo motivo di ricorso). Del resto nella sentenza impugnata
+si legge «L'Agenzia non ha affermato che il consorzio agisse in nome e per
+conto delle consorziate e, soprattutto, non ha tratto da un'asserita
+rappresentanza negoziale conseguenze in tema di aliquota iva. Al
+contrario, coerentemente con la funzione dei contributi consortili (c.d.
+“ribalto dei costi” dell’appalto), l'Agenzia ha ritenuto che l'applicazione
+10
+
+--- Pagina 11 ---
+
+dell’iva al 10% trovasse giustificazione nel punto 127 septies della tabella
+A, parte III del d.p.r. n. 633/72, e non ha mosso alcuna contestazione al
+consorzio (il quale, per l'appunto, nel fatturare i contributi delle
+consorziate, aveva applicato l'iva con aliquota agevolata)» (par. 2 pag. 6);
+ed ancora «I corrispettivi fatturati dai fornitori rappresentano i medesimi
+costi "ribaltati" alle società consorziate e perciò l'aliquota iva doveva
+essere la medesima. (…)
+Si tratta, evidentemente, di prestazioni tutte connesse all'appalto
+dell'opera pubblica e come tali rientranti nella fattispecie del n. 127
+septies della tabella A, parte III del d.p.r. n. 633/1972, che dispone che
+sono soggette ad aliquota del 10% "le prestazioni di servizi dipendenti da
+contratti di appalto relativi alla costruzione delle opere, degli impianti e
+degli edifici di cui al numero 127 quinquies", il quale a sua volta
+comprende, fra l'altro, "le linee di trasporto metropolitane tramviarie ed
+altre linee di trasporto ad impianto fisso"».
+2.5 Infine, per mero scrupolo, deve osservarsi che la soluzione adottata
+dalla CTR è comunque conforme, anche sotto il profilo giuridico, alla
+giurisprudenza di questa Corte in ordine all’IVA applicabile nei rapporti tra
+società consortile e consorziati, secondo la quale «In tema di IVA, il
+principio di equivalenza dei rapporti giuridici tra imprese consorziate e
+società consortile e tra queste e l’ente appaltante impone l’unitarietà del
+regime fiscale della doppia fatturazione, con conseguente trasferibilità
+dell’agevolazione tributaria nell'ambito del meccanismo del cd.
+ribaltamento, per cui il regime fiscale della fattura originaria non può che
+essere il medesimo della fattura emessa nei confronti dei consorziati»
+(Cass. n. 18437/2017; nello stesso senso, Cass. n. 3166/2018; Cass. n.
+24320/2018; Cass. n. 19786/2020).
+3.1 Con il terzo motivo di ricorso si lamenta il vizio di cui all’art. 360,
+comma 1°, n. 3) e 5) c.p.c. per violazione e falsa applicazione degli artt.
+127 quinquies, 127 sexies e 127 septies TAB. A III d.P.R. n. 633/1972. La
+11
+
+--- Pagina 12 ---
+
+curatela si duole del fatto che la CTR, nell’applicare alle operazioni passive
+del consorzio l’aliquota al 10%, non ha correttamente interpretato il
+concetto di “dipendenza”, indicato nel punto 127 septies della parte terza
+della tabella A allegata al d.P.R. 633/1972, che non può ridursi al fatto che
+la prestazione sia semplicemente sorta in occasione dell’appalto, essendo
+invece necessario che si tratti di «strettissima affinità tra il bene o il
+servizio ed il contratto di appalto poiché, diversamente, il legislatore
+avrebbe utilizzato espressamente la parola “connessione”»; tra i servizi
+dipendenti non dovrebbero rientrare quelli prodromici alla realizzazione
+dell’opera, dal momento che la stessa Agenzia delle Entrate aveva ritenuto
+applicabile l’aliquota ordinaria alle fatture per servizi di progettazione.
+3.2 Il motivo è inammissibile.
+La CTR ha infatti svolto un accertamento in fatto (cfr. pagina 7 della
+sentenza d’appello, in cui si fa riferimento alle fatture ed alle prestazioni
+nelle stesse indicate) sulla stretta connessione delle operazioni fatturate
+con i lavori appaltati, ritenendole funzionali alla realizzazione dell’opera
+principale e quindi soggette ad aliquota agevolata, sicché la questione non
+può costituire oggetto di nuovo esame nel presente giudizio di legittimità.
+Del resto, non sarebbe possibile fornire una definizione astratta dei
+«servizi dipendenti da contratti di appalto», prescindendo così dalle
+prestazioni in concreto svolte ed indicate in fattura.
+4.1 Con il quarto motivo si denunciano i vizi di cui all’art. 360, comma 1°,
+nn. 3) e 5) c.p.c. per «omessa pronuncia su parte della domanda ed
+omessa valutazione dei documenti allegati dalla ricorrente: motivazione
+meramente apparente», con riguardo alle contestazioni relative alle
+indebite deduzioni ai fini dell’IRES. In particolare, la curatela si duole
+dell’assenza di pronuncia in ordine alle somme oggetto di deduzione per
+l’anno 2013, nonché dell’omessa valutazione dei documenti posti a
+sostegno delle proprie argomentazioni; con riguardo invece all’annualità
+2012 lamenta che la CTR non aveva considerato la documentazione volta
+12
+
+--- Pagina 13 ---
+
+a dimostrare l’infondatezza dei rilievi dell’Amministrazione e che pertanto
+aveva reso una motivazione apparente.
+4.2 In ordine alla questione della deduzione dei costi relativi all’annualità
+2012 (€ 456.362,32 relativi a prestazioni erogate dalla Coopsette Soc.
+coop.), si assume che la CTR non avrebbe tenuto conto della
+documentazione depositata dalla curatela ed in particolare «il documento
+n. 32 con il conteggio dettagliato, mensile delle prestazioni rese dai
+dipendenti Coopsette di cui si è avvalsa Argo (doc. n. 32 fasc. primo grado
+n. 55/2017 R.G.R. e all. D), doc. n. 31a lo stato passivo reso esecutivo del
+Fallimento Argo, doc. n. 31 domanda di insinuazione al passivo con i
+documenti da cui emerge che il relativo ricavo è presente nella contabilità
+di Coopsette (doc. nn. 31a e 31 fasc. primo grado n. 55/2017 R.G.R. e all.
+E e F)».
+Al riguardo va rilevato innanzi tutto l’inammissibilità della doglianza ai
+sensi dell’art 348 ter ultimo comma c.p.c. operante, ratione temporis, con
+riguardo al presente giudizio.
+Va poi evidenziato che nulla viene detto in ordine alla decisività di tali
+documenti. Inoltre, neppure può ritenersi che gli stessi non siano stati
+presi in considerazione in quanto nella sentenza impugnata la CTR spiega
+anche le ragioni per le quali l’ammissione al passivo non era a suo avviso
+determinante, dimostrando così di aver tenuto in considerazione la
+documentazione in questione (cfr. pag. 8 in cui si fa riferimento anche al
+documento 30 allegato al ricorso).
+Deve comunque aggiungersi che «l'omesso esame di elementi istruttori
+non integra, di per sé, il vizio di omesso esame di un fatto decisivo
+qualora il fatto storico, rilevante in causa, sia stato comunque preso in
+considerazione dal giudice, ancorché la sentenza non abbia dato conto di
+tutte le risultanze probatorie» (così Cass. Sez. U. 8053/2014) e che «Il
+mancato esame di un documento può essere denunciato per cassazione
+solo nel caso in cui determini l'omissione di motivazione su un punto
+13
+
+--- Pagina 14 ---
+
+decisivo della controversia e, segnatamente, quando il documento non
+esaminato offra la prova di circostanze di tale portata da invalidare, con
+un giudizio di certezza e non di mera probabilità, l'efficacia delle altre
+risultanze istruttorie che hanno determinato il convincimento del giudice di
+merito, di modo che la ratio decidendi venga a trovarsi priva di
+fondamento» (Cass. 16583/2024; nello stesso senso, 16812/2018).
+Infine non può ritenersi, come pure sostenuto dal ricorrente, che la
+motivazione resa dalla CTR sia apparente solo perché non ha considerato i
+documenti sopra indicati, il vizio di mancanza di motivazione o di
+motivazione apparente (che comporta la nullità della sentenza), dopo la
+riforma dell’art. 360 c.p.c. ad opera del d.l. 83/2012 conv. in l. 134/2012,
+ricorre solo quando la motivazione sia del tutto mancante sotto il profilo
+grafico o meramente apparente oppure quando sia caratterizzata da un
+«contrasto irriducibile tra affermazioni inconciliabili» o da affermazioni
+incomprensibili (così Cass. Sez. U. 8053/2014).
+Va invece considerata «adeguata la motivazione che fornisce una
+spiegazione logica ed adeguata della decisione adottata, evidenziando le
+prove ritenute idonee e sufficienti a suffragarla, ovvero la carenza di esse,
+senza che sia necessaria l'analitica confutazione delle tesi non accolte o la
+particolare disamina degli elementi di giudizio non ritenuti significativi»
+(Cass. 2153/2020).
+Nel caso di specie, come esposto, con riguardo all’annualità 2012 la
+motivazione è stata resa ed è contenuta alle pagine 8 e seguenti della
+sentenza; ciò che il ricorrente invoca è, di fatto, una nuova valutazione
+delle prove offerte che non può essere compiuta nel giudizio di legittimità.
+Il motivo, con riguardo all’annualità 2012 è dunque infondato.
+4.3 Quanto alla questione dei costi relativi all’annualità 2013 (che
+andrebbe ricondotta all’omessa pronuncia e quindi al vizio di cui all’art.
+360 comma 1° n. 4) per violazione dell’art. 112 c.p.c.; cfr. Cass. n.
+29952/2022; Cass. n. 1755/2006), va rilevato che è onere del ricorrente
+14
+
+--- Pagina 15 ---
+
+indicare in quale parte dell’atto di appello aveva trattato tale questione
+(cfr. Cass. Sez. U. 15781/2005 e giurisprudenza successiva conforme);
+nel caso di specie l’indicazione è contenuta nella nota 23 in relazione al
+settimo motivo di ricorso (a pagina 30), in cui si ribadisce l’omessa
+pronuncia in ordine alla predetta annualità, ma tale indicazione può
+ritenersi sufficiente ad escludere l’inammissibilità del motivo, giacché una
+diversa soluzione sarebbe eccessivamente formalistica e si porrebbe in
+contrasto con il principio di cui all’art. 6 par. 1 della CEDU (Cass. sez. U.
+8950/2022).
+Il motivo, con riguardo all’annualità 2013, è fondato, giacché la sentenza
+impugnata non contiene alcuna indicazione al riguardo; né può ritenersi
+che le considerazioni esposte in relazione all’annualità 2012 valgano anche
+per quella successiva, trattandosi di argomentazioni che riguardano la
+prova e l’effettività dei costi relativi a quell’anno.
+Il motivo va dunque accolto limitatamente all’annualità 2013.
+5.1 Con il quinto motivo di ricorso si denuncia il vizio di cui all’art. 360,
+comma 1°, n. 4) c.p.c. per violazione dell’art. 112 c.p.c. in quanto la CTR
+avrebbe respinto l’appello in relazione alle imposte dirette sulla base di
+motivi differenti rispetto a quelli posti dall’Amministrazione a fondamento
+dei propri provvedimenti. Quest’ultima, infatti, aveva solo rilevato il difetto
+di certezza, determinabilità ed inerenza, mentre la CTR aveva aggiunto,
+ad avviso della curatela, ulteriori considerazioni circa l’inesistenza delle
+prestazioni stesse.
+5.2 Il motivo è infondato.
+Ed infatti, dal ricorso - in cui, peraltro, vengono riportate solo poche righe
+della motivazione dell’avviso - si evince che «il componente negativo non
+risulta deducibile ai sensi dell'art. 109, commi 5 e 2 del TUIR perché non è
+dimostrabile l'inerenza di esso, oltre a difettare dei requisiti di certezza ed
+obiettiva determinabilità»; la CTR non ha fatto altro che rilevare come
+mancasse la prova di tali requisiti, evidenziando per quale ragione a suo
+15
+
+--- Pagina 16 ---
+
+avviso non fosse determinante il contratto. Del resto, che questa fosse la
+ratio sulla quale si fondava anche la motivazione dell’atto, si ricava con
+chiarezza dal riferimento alle ragioni per le quali, ad avviso del giudice
+d’appello, non erano state mosse contestazioni ai corrispettivi versati alla
+Seli; in quel caso, infatti, «essa aveva emesso le fatture, rinvenute ed
+esibite agli accertatori, i quali hanno ritenuto che documentassero
+sufficientemente le prestazioni, che consistevano nella messa a
+disposizione di personale lavorante».
+6.1 Con il sesto motivo di ricorso la curatela ha denunciato i vizi di cui
+all’art. 360, comma 1°, nn. 3), 4) e 5) c.p.c. «ex artt. 115 e 116 cod.
+proc. civ. per avere la CTR respinto il ricorso in relazione alle doglianze
+sulle II.DD. sulla base di motivi diversi rispetto alle motivazioni addotte
+dall'Agenzia delle Entrate, contrastanti con quanto statuito in relazione
+all'accertamento dei rapporti tra Consorzio e Consorziate, omettendo la
+valutazione delle prove e dei documenti a sostegno dell'esistenza dei
+requisiti di cui all'art. 109 TUIR dei costi disconosciuti dall'Ufficio».
+La curatela ha evidenziato che la CTR aveva prima ricostruito il rapporto
+tra consorzio e consorziate in base all’art. 20 dello statuto, evidenziando
+che il consorzio poteva avvalersi delle strutture dei soci, poi però aveva
+ritenuto che il contratto con la Coopsette che aveva dato luogo ai costi
+dedotti per l’anno 2012 aveva un oggetto eccessivamente ampio
+riguardante sostanzialmente tutte le attività che potevano essere posta in
+essere dal consorzio, incappando così in un “vizio di incoerenza”. Il giudice
+d’appello aveva altresì affermato che non vi era prova dell’esecuzione
+delle prestazioni, senza considerare che tale circostanza non era mai stata
+contestata dall’Amministrazione e senza valutare adeguatamente il fatto
+che il relativo credito era stato ammesso, a seguito di una valutazione del
+giudice delegato (e dunque non solo sulla base dell’iniziativa del curatore)
+al passivo del fallimento e che era stato anche oggetto di compensazione;
+pur trattandosi di giudicato endofallimentare, tale circostanza doveva
+16
+
+--- Pagina 17 ---
+
+comunque essere valutata come argomento di prova unitamente ad altri
+elementi. Ha infine riproposto la questione dell’omessa valutazione dei
+documenti indicati anche in relazione al quinto motivo di ricorso.
+6.2 Il motivo è evidentemente inammissibile.
+Si tratta innanzi tutto di un motivo cd. misto, in quanto fa riferimento
+addirittura a tre delle ipotesi previste dal primo comma dell’art. 360,
+comma 1°, c.p.c.; orbene, «il ricorso per cassazione articolato attraverso
+la proposizione di motivi "misti" - che riconducono, cioè, il vizio della
+sentenza impugnata a più d'uno fra i parametri elencati dall'art. 360 c.p.c.
+- è ammissibile se la formulazione della censura permette di isolare le
+doglianze prospettate onde consentirne l'esame separato, esattamente
+come se fossero state distinte in motivi diversi, numerati singolarmente»
+(Cass. n. 11152/2025).
+È evidente che nel caso di specie il ricorrente non riconduce
+specificamente le proprie doglianze a ciascuno dei tre vizi
+cumulativamente indicati, né è possibile farlo attraverso l’esame delle
+censure su cui si fonda il motivo; queste ultime, infatti, sono prive di
+specificità e si sostanziano in una lunga critica che riguarda la valutazione
+delle prove e la motivazione della sentenza che oltrepassa i limiti tracciati
+dall’art. 360 comma 1° n. 5) c.p.c..
+In definitiva si richiede una nuova valutazione nel merito che non è
+consentita in questa sede.
+7. Con il settimo motivo di ricorso la curatela lamenta il vizio di cui all’art.
+360, comma 1°, n. 3) c.p.c. per violazione dell’art. 109 d.P.R. 917/1986 in
+quanto non era mai stata posta in discussione l’esecuzione delle
+prestazioni ed i costi possedevano i requisiti di certezza, inerenza ed
+obiettiva determinabilità che potevano trarsi dai prospetti riepilogativi e
+dai contratti.
+Il motivo è inammissibile, giacché, come già rilevato, dalla mancanza della
+documentazione deriva la mancanza dei requisiti necessari per la
+17
+
+--- Pagina 18 ---
+
+deduzione; dunque, ancora una volta, si richiede una nuova valutazione
+degli elementi probatori.
+8.1 Con l’ottavo motivo di ricorso si denuncia il vizio di cui all’art. 360,
+comma 1°, n. 3) c.p.c. per violazione dell’art. 5 d.lgs. 446/1997. La
+curatela lamenta che la norma sarebbe stata violata in quanto non
+sarebbero stati detratti dalla base imponibile i costi del personale ricevuto
+dalle consorziate; in realtà tale qualificazione era errata in quanto si
+trattava di costi per servizi di gestione tecnico amministrativa che
+prevedevano anche l’impiego di risorse umane.
+8.2 Il motivo è inammissibile, giacché la CTR ha compiuto una valutazione
+in fatto in ordine alla natura della prestazione che ha dato luogo ai costi.
+8.3 Se anche volesse ritenersi che si tratta di qualificazione giuridica, lo
+stesso sarebbe comunque infondato, dovendo ribadirsi quanto già
+riportato nella sentenza impugnata. L’art. 5 cit. (nel testo ratione temporis
+applicabile alla presente controversia) prevedeva infatti al comma 3 che
+«Tra i componenti negativi non si considerano comunque in deduzione: le
+spese per il personale dipendente e assimilato classificate in voci diverse
+dalla citata voce di cui alla lettera B), numero 9), dell’articolo 2425 del
+codice civile (…)».
+L’art. 2425 c.c. indica alla lettera B) i “costi della produzione” ed al n. 9
+quelli “per il personale”, da ritenersi personale dipendente, giacché nelle
+ulteriori specificazioni (lettere a) – d)) si fa riferimento a salari e stipendi,
+oneri sociali, trattamento di fine rapporto, trattamento di quiescenza e
+simili, altri costi.
+Il tenore della norma è altresì chiaro, nel senso che occorre fare
+riferimento alle voci della contabilità.
+Se dunque nel caso di specie i costi che si intenderebbe dedurre vengono
+indicati in contabilità come “addebito costi di personale da soci”, non può
+qualificarsi la relativa spesa come costo relativo a servizi amministrativi;
+essendo riportato in contabilità come un costo per personale non
+18
+
+--- Pagina 19 ---
+
+rientrante tra quelli riportati nell’art. 2425 c.c. lettera B) n. 9), non può
+essere considerato tra i componenti negativi ai fini della determinazione
+dell’imponibile IRAP.
+8.4 Con lo stesso motivo, la curatela deduce altresì che «In relazione, poi,
+al costo in fatture da ricevere per il noleggio portato dal contratto n.
+5154-13 (doc. n. 24 fasc. primo grado n. 56/2017), nella contestazione
+specifica, non vi è alcun riferimento al disconoscimento ai fini IRAP (cfr.
+doc. n. 1 pag. 13 fasc. primo grado n. 56/2017), tuttavia, nei conteggi, il
+costo appare disconosciuto (accertati € 955.725, che corrispondono alla
+somma di tutte le voci analizzate ai fini II.DD. Cfr doc. n. 1 pag. 18 fasc.
+primo grado n. 56/2017). In questo caso, sarebbe sufficiente spiegare che
+trattasi di ovvio difetto di motivazione, però non può essere tralasciata la
+circostanza che il costo sopportato per il noleggio di mezzi d'opera non è
+previsto nelle esclusioni di cui all'art. 5 d.lgs n. 446/1997 e, pertanto, il
+costo è certamente deducibile ai fini IRAP. Quanto all'ultima voce di costo
+disconosciuta, e cioè i costi sopportati per le funzioni gestionali, le stesse
+non sono escluse ex art. 5 d.lgs n. 446/1997 dalla deducibilità ai fini I.V.A.
+e, invero, l'Agenzia delle Entrate richiama due risoluzioni che fanno
+riferimento al trattamento dei costi di personale dislocato ed al
+trattamento ai fini I.V.A. Sul punto la Commissione Tributaria Regionale
+ha errato l'applicazione della norma in quanto ha dichiarato imponibili
+IRAP tutti i costi, inclusi quelli per noleggio senza conducente e per servizi
+di diversi, anche quando non era previsto l'utilizzo dei dipendenti».
+Per tale parte il motivo è inammissibile.
+Nella sentenza impugnata, infatti, non vi è traccia di tali questioni. La
+ricorrente avrebbe quindi al più dovuto dedurre l’omessa pronuncia sul
+punto ed indicare dove erano state affrontate negli atti difensivi, ed in
+particolare nell’atto d’appello, le relative questioni (Cass. n. 28072/2021;
+Cass. n. 15367/2014).
+19
+
+--- Pagina 20 ---
+
+9.1 Con il nono motivo di ricorso si denuncia il vizio di cui all’art. 360,
+comma 1°, n. 3) c.p.c. «in relazione alla mancata rimodulazione
+dell'imposta IRAP e al suo effetto sulla base imponibile IRES». Ad avviso
+della curatela, in considerazione della natura del processo tributario, la
+CTR avrebbe dovuto provvedere alla riduzione dell’IRES per effetto della
+deducibilità della maggiore IRAP accertata. La CTR aveva quindi
+erroneamente affermato che la deduzione doveva essere operata dal
+contribuente, al quale il giudice non poteva sostituirsi in quanto, ad avviso
+della ricorrente, non si tratterebbe «di una deduzione di costi in senso
+stretto, ma della rimodulazione della base imponibile, ai fini IRES, a
+seguito dell'accertamento della maggiore imposta IRAP».
+9.2 Il motivo, per come formulato, è inammissibile.
+Ed infatti questa Corte ha affermato che «In tema di ricorso per
+cassazione, l'onere di specificità dei motivi, sancito dall'art. 366, comma
+1, n. 4), c.p.c., impone al ricorrente che denunci il vizio di cui all'art. 360,
+comma 1, n. 3), c.p.c., a pena d'inammissibilità della censura, di indicare
+le norme di legge di cui intende lamentare la violazione, di esaminarne il
+contenuto precettivo e di raffrontarlo con le affermazioni in diritto
+contenute nella sentenza impugnata, che è tenuto espressamente a
+richiamare, al fine di dimostrare che queste ultime contrastano col
+precetto normativo, non potendosi demandare alla Corte il compito di
+individuare - con una ricerca esplorativa ufficiosa, che trascende le sue
+funzioni – la norma violata o i punti della sentenza che si pongono in
+contrasto con essa» (Cass. sez. U. n. 23745/2020).
+Nel caso di specie manca invece qualsiasi indicazione delle norme che si
+assumono violate che produrrebbero gli effetti invocati dalla ricorrente;
+tale carenza è ancora più rilevante se si considera che la disciplina che
+riguarda la determinazione della base imponibile è assai variabile negli
+anni.
+20
+
+--- Pagina 21 ---
+
+9.3 A ciò deve aggiungersi che non vi è dubbio, come osservato dalla
+curatela, che “dalla natura del processo tributario - il quale non è
+annoverabile tra quelli di "impugnazione-annullamento", ma tra i processi
+di "impugnazione-merito", in quanto non è diretto alla sola eliminazione
+giuridica dell'atto impugnato, ma alla pronuncia di una decisione di merito
+sostitutiva sia della dichiarazione resa dal contribuente che
+dell'accertamento dell'ufficio - discende che ove il giudice tributario ritenga
+invalido l'avviso di accertamento per motivi non formali, ma di carattere
+sostanziale, non può limitarsi ad annullare l'atto impositivo, ma deve
+esaminare nel merito la pretesa tributaria e, operando una motivata
+valutazione sostitutiva, eventualmente ricondurla alla corretta misura,
+entro i limiti posti dalle domande di parte” (Cass. n. 15825/2006; nello
+stesso senso, ex multis, Cass. n. 16252/2007; Cass. n. 13034/2012;
+Cass. n. 6918/2013; Cass. n. 24611/2014).
+Dunque, certamente la rideterminazione dell’imposta può essere compiuta
+da parte del giudice tributario. Tuttavia, la CTR non ha escluso in astratto
+tale possibilità, affermando invece che era onere del contribuente portare
+in deduzione le voci che riducono l’imponibile ai fini IRES nella relativa
+dichiarazione, sicché, in mancanza di tale adempimento formale, non era
+possibile provvedere alla rideterminazione dell’imposta.
+Tale ratio decidendi, non è stata adeguatamente criticata dal ricorrente
+che si è limitato ad osservare genericamente che, nel caso di specie, non
+si tratterebbe «di una deduzione di costi in senso stretto, ma della
+rimodulazione della base imponibile, ai fini IRES, a seguito
+dell'accertamento della maggiore imposta IRAP» senza richiamare alcuna
+norma e senza neppure spiegare in base a quali criteri avverrebbe tale
+“rimodulazione” della base imponibile.
+9.4 Infine, per mero scrupolo, va rilevato che le norme che regolano la
+riduzione dell’IRES per effetto dell’IRAP - come gli artt. 2 d.l. 201/2011
+conv. in l. 214/2011 e 6 d.l. 185/2008 conv. in l. 2/2009 - fanno
+21
+
+--- Pagina 22 ---
+
+riferimento proprio alla deduzione, richiamando l’art. 99 d.P.R. 917/1986.
+Quest’ultima norma, peraltro, prevede la deducibilità delle imposte in
+relazione all’esercizio in cui avviene il pagamento e degli accantonamenti
+per imposte non ancora definitivamente accertate nei limiti
+dell’ammontare corrispondente alle dichiarazioni presentate, agli
+accertamenti o provvedimenti degli uffici e alle decisioni delle commissioni
+tributarie; entrambe le ipotesi non ricorrono nel caso di specie.
+10. In definitiva, va accolto il quarto motivo di ricorso limitatamente
+all’annualità 2013, vanno invece rigettati il quinto ed il decimo motivo,
+mentre vanno dichiarati inammissibili i rimanenti; la sentenza impugnata
+va quindi cassata in relazione al motivo accolto, con rinvio alla Corte di
+giustizia tributaria di secondo grado dell’Emilia Romagna, in diversa
+composizione, che dovrà provvedere anche in ordine alle spese del
+presente giudizio di legittimità.
+P.Q.M.
+La Corte accoglie il quarto motivo di ricorso limitatamente all’annualità
+2013, rigetta il quinto ed il decimo motivo e dichiara inammissibili i
+rimanenti; cassa la sentenza impugnata e rinvia alla Corte di giustizia
+tributaria di secondo grado dell’Emilia Romagna, in diversa composizione,
+cui demanda di provvedere anche in ordine alle spese del presente
+giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio del 11/12/2025.
+La Presidente
+Tania Hmeljak
+22
