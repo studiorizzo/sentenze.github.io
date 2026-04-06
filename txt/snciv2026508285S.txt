@@ -1,0 +1,613 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 30238/2017 R.G. proposto da:
+Nuovo Pignone Holding S.p.A. (già Ge Italia Holding S.p.A.), in persona
+del legale rappresentante pro tempore, rappresentato e difeso dagli
+avvocati Beatrice Fimiani e Berardo Lanci
+-ricorrente-
+contro
+Agenzia delle Entrate, rappresentata e difesa dalla Avvocatura Generale
+dello Stato
+-controricorrente-
+avverso la sentenza della Commissione Tributaria Regionale della Toscana
+n. 1249/2017 depositata il 15/05/2017.
+Udita la relazione della causa svolta nella pubblica udienza del 03/03/2026
+dal Consigliere Gian Paolo Macagno.
+Dato atto che, in prossimità della pubblica udienza, le parti hanno
+richiamato la “istanza congiunta di rinvio” depositata in prossimità della
+pubblica udienza.
+Udito il Pubblico ministero, nella persona del Sostituto procuratore
+generale dott. Fulvio Trincone, che ha chiesto il rigetto del ricorso, in
+subordine non opponendosi al rinvio.
+
+--- Pagina 2 ---
+
+Uditi l’Avvocata Beatrice Fimiani e l’Avvocata dello Stato Francesca
+D’Ambrosio, che hanno richiamato l’istanza di rinvio, in subordine
+rinnovando le richieste già in atti formulate.
+FATTI DI CAUSA
+1. Come si apprende dagli atti di causa, in data 20/12/2011, a seguito
+di una verifica fiscale generale effettuata dalla Guardia di Firenze, veniva
+notificato alla Società Nuovo Pignone Holding S.p.A. (poi G.E. Italia
+Holding S.p.A., in seguito nuovamente Nuovo Pignone Holding S.p.A., nel
+prosieguo indicata anche come NPH) un processo verbale di constatazione
+con il quale, relativamente agli anni di imposta 2007/2008/2009, venivano
+sollevati vari rilievi attinenti ad operazioni poste in essere dalla Società
+con altre società dalla stessa controllate, operazioni che nella loro
+concreta concatenazione ed articolazione venivano ritenute dai verificatori
+compiute in abuso del diritto, in quanto riconducibili a fattispecie di
+finanziamento infragruppo, soggette alle presunzioni tributarie di cui agli
+artt. 45, 46 e 110, comma 7, Tuir.
+1.1. La Direzione Regionale della Toscana, preso atto dei rilievi ivi
+formulati e ad esito di contraddittorio con la società, notificava l'avviso di
+accertamento n. TZB080100121/2011 per l'anno di imposta 2008, con cui
+veniva recuperata a tassazione, ai sensi degli artt. 39, 41-bis e 40-bis
+d.P.R. n. 600/1973, una maggiore imposta ai fini Ires pari ad euro
+10.054.165,00 oltre interessi, con irrogazione di sanzioni per infedele
+dichiarazione pari ad euro 10.054.165,00.
+1.2. Tale avviso di accertamento si fondava su due rilievi: i) interessi
+attivi non contabilizzati e non dichiarati (relativi al finanziamento in favore
+della GEIFI Ltd.), qualificati come derivanti da un'operazione compiuta in
+abuso del diritto, ai fini di evitare l’applicazione dell’art. 110, comma 7,
+del d.P.R. n. 917/86, con accertamento di un maggior imponibile di euro
+36.559.561,00; ii) interessi attivi non contabilizzati e non dichiarati
+2
+
+--- Pagina 3 ---
+
+(relativi al finanziamento in favore della GEEE B. V.), con accertamento di
+un maggior imponibile di euro 1.039,00.
+1.3. Sulla base delle medesime risultanze di verifica la Direzione
+Provinciale di Firenze notificava l'avviso di accertamento n.
+T8B082104858/2012 per l'anno 2007, recuperando a tassazione interessi
+attivi e determinando una maggiore imposta ai fini Ires pari a euro
+8.001.370,00.
+1.4. Secondo l'Amministrazione finanziaria, mediante una
+concatenazione di operazioni, analiticamente descritte negli atti impositivi,
+la società avrebbe utilizzato la riserva “sovraprezzo azioni” per effettuare
+finanziamenti alle società del gruppo al fine di sfruttare le opportunità di
+investimento da queste offerte, senza peraltro prevedere alcuna forma di
+remunerazione del capitale, così ponendo in essere una condotta
+contrastante con il divieto di abuso del diritto.
+1.5. In sintesi, il Gruppo GE, nella prospettazione dell’Agenzia,
+avrebbe abusato dello strumento del conferimento in conto futuro
+aumento di capitale, piegandone le naturali caratteristiche e finalità al
+proprio specifico fine contingente, che non era quello di meglio allocare le
+risorse finanziarie all'interno del gruppo in modo tendenzialmente stabile e
+duraturo, bensì quello di finanziare un'operazione a breve-medio termine
+(due anni circa), integralmente eterodiretta dal soggetto investitore, che
+avrebbe beneficiato sin dall'inizio anche della certezza dei tempi e modi di
+rientro del proprio capitale di investimento.
+Il tutto senza dover contabilizzare la percezione di interessi attivi da
+parte di Nuovo Pignone Holding S.p.A., che avrebbero concorso alla
+formazione dell'utile di esercizio e conseguentemente del reddito
+imponibile della società di diritto interno.
+1.6. Il vantaggio fiscale si era quindi realizzato come differenza tra le
+imposte che NPH avrebbe dovuto corrispondere all'erario sugli interessi
+attivi percepiti a fronte di finanziamenti infragruppo erogati a titolo
+3
+
+--- Pagina 4 ---
+
+oneroso e le imposte dalla stessa effettivamente versate sui dividendi
+percepiti dalla controllata GEIFI Ltd., rilevandosi altresì da parte
+dell’Ufficio che nell’anno 2007 la controllata GEIFI Ltd. non aveva
+distribuito dividendi, e dunque il risparmio di imposta per tale anno
+ammontava al totale dell'imposta non versata sugli interessi attivi che la
+società NPH avrebbe dovuto percepire.
+Il risparmio fiscale veniva dunque quantificato per l’esercizio 2007 con
+applicazione del tasso legale del 2,5 %, e per l’esercizio 2008 con
+applicazione del tasso del 3,29% estrapolato da altro finanziamento
+infragruppo fruttifero.
+2. La società proponeva ricorso avverso entrambi gli avvisi di
+accertamento, contestando le motivazioni dei recuperi effettuati, nonché
+la liquidazione degli interessi sulle somme dovute a titolo provvisorio e
+l’irrogazione delle sanzioni per incompatibilità con le ipotesi di abuso del
+diritto.
+2.1. La società sintetizzava le operazioni esaminate valorizzando la
+prima fase di capitalizzazione della controllata al 100% GEIFI Ltd., e
+qualificando la fase del successivo disinvestimento come slegata dalla
+precedente, in quanto finalizzata a reperire i mezzi finanziari da distribuire
+all'azionista di controllo della Nuovo Pignone Holding S.p.A., così
+contestando in radice l’esistenza del disegno elusivo.
+2.2. In particolare, secondo la difesa della società: i) l'Ufficio avrebbe
+letto in modo arbitrario i documenti, giungendo erroneamente ad
+individuare una precisa volontà della ricorrente di effettuare
+finanziamenti; ii) l'Ufficio non avrebbe rilevato l'ingente perdita su cambi
+(molto maggiore dei menzionati interessi attivi) che la società avrebbe
+subito se avesse direttamente erogato alle società operative del gruppo i
+finanziamenti di cui si discute; iii), in radice, l'operazione contestata non
+avrebbe comportato alcun risparmio di imposte né alcun reddito per sé e
+4
+
+--- Pagina 5 ---
+
+per le sue consociate, bensì sarebbe stata dettata da prevalenti ragioni
+economiche consistenti nel finanziamento di società del Gruppo.
+3. La CTP di Firenze, con sentenza n. 897/04/15 depositata il
+28/07/2015, disposta la riunione dei giudizi, aderiva alle tesi della società
+contribuente ed accoglieva i ricorsi, annullando gli avvisi di accertamento.
+4. Quindi, l’appello dell’Amministrazione finanziaria veniva accolto
+dalla Commissione tributaria regionale della Toscana con la sentenza in
+epigrafe indicata.
+5. Avverso la predetta sentenza ricorre la società Nuovo Pignone
+Holding S.p.A. con cinque motivi, illustrati con il deposito di successiva
+memoria ex art. 378 c.p.с., e resiste con controricorso l’Agenzia delle
+entrate.
+6. Il pubblico ministero, in persona del Sostituto procuratore generale
+dott. Mauro Vitiello, ha depositato requisitoria scritta, chiedendo il rigetto
+del ricorso.
+7. Infine, in prossimità della pubblica udienza, la ricorrente ha
+depositato “istanza congiunta di rinvio”, sottoscritta da entrambe le parti,
+nella  quale si dà atto che «la Società e gli uffici dell’Agenzia delle Entrate
+sopra menzionati hanno avviato un contraddittorio finalizzato ad una
+definizione concordata della complessa vicenda oggetto del presente
+giudizio mediante l’istituto della conciliazione giudiziale di cui all’art. 48 del
+D.Lgs. n. 546/1992 applicabile anche al presente giudizio».
+RAGIONI DELLA DECISIONE
+1. Preliminarmente si dà atto che, in assenza di qualsivoglia
+documentazione attestante lo stadio raggiunto dalle prospettate trattative
+tra le parti, non può essere accolta l’istanza congiunta di rinvio, e ciò
+anche in relazione alla risalente pendenza del procedimento.
+1.1. Ancora in via preliminare, si rileva che l’Amministrazione
+controricorrente eccepisce l'inammissibilità del ricorso per cassazione
+presentato per conto della società Nuovo Pignone Holding S.p.A., in
+5
+
+--- Pagina 6 ---
+
+persona del suo legale rappresentante pro tempore, ing. Massimo Messen,
+contestando i poteri rappresentativi di quest’ultimo.
+1.2. Osserva la ricorrente che, dalle risultanze presenti nella banca
+dati della Camera di Commercio Industria Artigianato e Agricoltura di
+Firenze, il legale rappresentante della società risulta essere, a far data dal
+28.06.2016, il sig. Sandro De Poli, Presidente del C.d.A. di Nuovo Pignone
+Holding S.p.A. Rileva la controricorrente che è pur vero che tra i poteri
+che possono essere conferiti dal Presidente De Poli al Vicepresidente ing.
+Massimo Messeri vi è anche quello di «32) rappresentare la società dinanzi
+a qualsiasi autorità giudiziaria, ordinaria e speciale, nazionale e regionale,
+anche locale, in qualsiasi stato e grado, in tutti i giudizi sia attivi che
+passivi», ma che agli atti non verrebbe dato conto di una tale delega
+espressamente conferita al Vicepresidente ing. Massimo Messeri. Ne
+discenderebbe, pertanto, l'inammissibilità del ricorso per cassazione per
+difetto di legittimazione attiva del ricorrente.
+1.3. L’eccezione è infondata, rilevandosi che dalla documentazione
+prodotta dalla ricorrente ai sensi dell’art. 372 c.p.с. risulta: i) che con
+delibera dell’Assemblea ordinaria dei soci del 28 giugno 2016, l’ing.
+Massimo Messeri è stato nominato Vice Presidente del Consiglio di
+Amministrazione; ii) che con delibera del Consiglio di Amministrazione del
+28 luglio 2016 sono stati attribuiti all’ing. Massimo Messeri i poteri, tra
+l’altro, di «Rappresentare la Società dinanzi a qualsiasi Autorità
+Giudiziaria, ordinaria e speciale, nazionale e regionale, anche locale, in
+qualsiasi stato e grado, in tutti i giudizi sia attivi che passivi; nei
+procedimenti possessori, nei procedimenti d'urgenza e in quelli per atti
+conservativi ed esecutivi; nelle procedure concorsuali, inclusa
+l'amministrazione straordinaria delle grandi imprese in crisi, ivi compresa
+l'insinuazione di crediti nello stato passivo e la rappresentanza della
+Società negli eventuali giudizi di impugnazione e di opposizione allo stato
+passivo; con il potere di instaurare singole controversie, rinunciare e/o
+6
+
+--- Pagina 7 ---
+
+accettare rinunzie sia all'azione che agli atti del giudizio e di rispondere
+all'interrogatorio libero o formale sui fatti di causa; con facoltà di farsi
+sostituire, limitatamente ai singoli giudizi, da suoi procuratori speciali per
+l'esercizio dei poteri conferitigli. Presentare querele o denunce penali e
+costituirsi parte civile nei processi stessi» e di «nominare avvocati e
+procuratori alle liti in qualsiasi giudizio, anche esecutivo, in ogni stato e
+grado, anche dinanzi alle giurisdizioni superiori od in fase di revocazione,
+dinanzi all'autorità giudiziaria ordinaria, speciale ed amministrativa;
+nominare avvocati e procuratori per la costituzione di parte civile in
+processi penali; nominare procuratori speciali per i procedimenti dinanzi
+alle commissioni tributarie»; iii) che dalla visura camerale del 5 dicembre
+2017, estratta dal Registro delle Imprese della Camera di Commercio
+Industria Artigianato e Agricoltura di Firenze, risultano sia la nomina
+dell’ing. Massimo Masseri quale Vice Presidente del Consiglio
+d’Amministrazione con atto del 28 giugno 2016, sia i poteri allo stesso
+conferiti.
+2. Con il primo motivo di ricorso la società contribuente deduce, in
+relazione all’art. 360, primo comma, num. 4, c.p.c., la nullità della
+sentenza per vizio di motivazione apparente, in violazione dell'art. 36,
+comma 2, n. 4, del d.lgs. n. 546/92, dell'art. 132 c.p.c. e dell'art. 111
+Cost.
+La ricorrente eccepisce la nullità della gravata sentenza per anomalia
+motivazionale, ovvero per motivazione apparente, in considerazione delle
+argomentazioni assunte a base della decisione rassegnata, che – sostiene
+- risulterebbero contraddistinte da una grave inconsistenza, nonché svolte
+con esclusivo riguardo alle deduzioni articolate dall’appellante Ufficio.
+2.1. Il motivo è inammissibile.
+2.2. L’assenza della motivazione, la sua mera apparenza, o ancora la
+sua intrinseca illogicità, implicano una violazione di legge
+costituzionalmente rilevante e, pertanto, danno luogo ad un error in
+7
+
+--- Pagina 8 ---
+
+procedendo, la cui denuncia è ammissibile dinanzi al giudice di legittimità
+ai sensi del n. 4 dell’art. 360, ponendosi come violazione delle norme
+poste a presidio dell’obbligo motivazionale (Cass. S.U. sentenze 7 aprile
+2014, nn. 8053 e 8054). In sostanza, il vizio di motivazione che solo può
+dar luogo alla cassazione della sentenza è quello che attinge il nucleo
+fondamentale della sentenza, il cosiddetto minimo costituzionale di
+esplicitazione delle ragioni poste a base della sentenza.
+Va ancora rammentato che «La riformulazione dell'art. 360, primo
+comma, n. 5, cod. proc. civ., disposta dall'art. 54 del d.l. 22 giugno 2012,
+n. 83, conv. in legge 7 agosto 2012, n. 134, deve essere interpretata, alla
+luce dei canoni ermeneutici dettati dall'art. 12 delle preleggi, come
+riduzione al "minimo costituzionale" del sindacato di legittimità sulla
+motivazione. Pertanto, è denunciabile in cassazione solo l'anomalia
+motivazionale che si tramuta in violazione di legge costituzionalmente
+rilevante, in quanto attinente all'esistenza della motivazione in sé, purché
+il vizio risulti dal testo della sentenza impugnata, a prescindere dal
+confronto con le risultanze processuali. Tale anomalia si esaurisce nella
+"mancanza assoluta di motivi sotto l'aspetto materiale e grafico", nella
+"motivazione apparente", nel "contrasto irriducibile tra affermazioni
+inconciliabili" e nella "motivazione perplessa ed obiettivamente
+incomprensibile", esclusa qualunque rilevanza del semplice difetto di
+"sufficienza" della motivazione.» (Cass., Sez. U., 07/04/2014, n. 8053;
+Cass. Sez. 1, 03/03/2022 n. 7090).
+2.3. Nessuna di queste ipotesi è ravvisabile nella motivazione della
+sentenza impugnata, e quindi nemmeno quella della motivazione
+apparente, prova ne sia che le censure della ricorrente si concentrano
+sulla mancata considerazione delle argomentazioni poste a fondamento
+dell’appello e quindi, se mai, sono intese a segnalare carenze
+motivazionali inerenti a determinati profili. Senonché, non inerendo questi
+ultimi a questioni specifiche in relazione alla quali potrebbe ipotizzarsi
+8
+
+--- Pagina 9 ---
+
+un’omessa pronuncia, e quindi un error in procedendo, il motivo si risolve,
+esclusivamente, nella contestazione, inammissibile, del percorso
+motivazionale.
+3. Con il secondo motivo si denuncia, in relazione all’art. 360, primo
+comma, num. 3, c.p.c., la violazione e falsa applicazione delle norme e dei
+principi in materia di "divieto di abuso del diritto" ovvero dell'art. 10-bis
+della legge 27 luglio 2000, n. 212.
+3.1. La ricorrente eccepisce la violazione e falsa applicazione delle
+norme e dei principi invocati in rubrica laddove l'adito organo giudicante,
+in thesi errando sugli elementi costitutivi della fattispecie di abuso del
+diritto, ha ritenuto che nella fattispecie dovessero considerarsi soddisfatte
+le condizioni per poter configurare l'operazione di cui si discute come
+"elusiva".
+3.2. In primo luogo la società ricorrente invoca l’applicazione della
+disposizione di cui all'art. 10-bis della legge n. 212/2000, introdotto con
+d.lgs. 128/2015, quale norma che dovrebbe «ritenersi valida anche con
+riferimento a condotte poste in essere prima della sua traduzione in norma
+del diritto positivo» e che, conseguentemente, ritiene violata «in quanto
+l'indagine circa l'elusività dell'operazione è stata condotta esclusivamente
+sull'apprezzamento – peraltro carente e immotivato - della presenza o
+meno di valide ragioni extrafiscali ovvero sulla presenza o meno di uno
+scopo che non fosse volto essenzialmente all'ottenimento di vantaggi
+fiscali e senza alcuna indagine circa la configurabilità o meno di un
+contrasto con le norme e i principi dell'ordinamento tributario».
+3.3. Il motivo, con riguardo a tale profilo, e segnatamente ove si
+invoca l’applicazione retroattiva dell’art. 10-bis cit., è inammissibile,
+trattandosi di questione nuova, che la società neppure allega di avere
+dedotto nei precedenti gradi di merito.
+3.4. E, d’altronde, la tesi propugnata è infondata, come emerge dalla
+piana lettura dell’'art. 1, comma 5, d.lgs. 128/2015, ove si prevede che
+9
+
+--- Pagina 10 ---
+
+«Le disposizioni dell'articolo 10-bis della legge 27 luglio 2000, n. 212,
+hanno efficacia a decorrere dal primo giorno del mese successivo alla data
+di entrata in vigore del presente decreto e si applicano anche alle
+operazioni poste in essere in data anteriore alla loro efficacia per le quali,
+alla stessa data, non sia stato notificato il relativo atto impositivo». Le
+nuove disposizioni si applicano, quindi, ai soli avvisi di accertamento
+notificati dopo l'entrata in vigore del D.lgs. n. 128/2015, vale a dire dopo
+il 10 ottobre 2015; talché la disciplina di cui all'art. 10-bis cit. non è
+applicabile ai rapporti pendenti a tale data davanti alle Commissioni
+Tributarie, come pacificamente risulta nel caso di specie.
+3.5. La questione dell’applicabilità della specifica disposizione di legge
+invocata inoltre non riveste, in relazione alla controversia in esame,
+valenza dirimente, dovendosi a tale riguardo ricordare che questa Corte
+ha più volte affermato che in materia tributaria, il divieto di abuso del
+diritto si traduce in un principio generale antielusivo che preclude al
+contribuente di conseguire vantaggi fiscali mediante l'uso distorto, pur se
+non contrastante con alcuna specifica disposizione, di strumenti giuridici
+idonei ad ottenere un'agevolazione o un risparmio d'imposta, in difetto di
+ragioni economicamente apprezzabili che giustifichino l'operazione,
+diverse dalla mera aspettativa di quei benefici; tale principio trova
+fondamento, in tema di tributi non armonizzati, nei principi costituzionali
+di capacità contributiva e di progressività dell'imposizione e non contrasta
+con il principio della riserva di legge, non traducendosi nell'imposizione di
+obblighi patrimoniali non derivanti dalla legge, bensì nel disconoscimento
+degli effetti abusivi di negozi posti in essere al solo scopo di eludere
+l'applicazione di norme fiscali, con la conseguenza che questi ultimi sono
+inopponibili all'Amministrazione finanziaria (da ultimo v. ancora Cass. Sez.
+5, 27/05/2024, n. 14674, Rv. 671421 - 01). E ciò in applicazione del più
+generale principio, predicato dalle S.U. di questa Corte, secondo cui «In
+materia tributaria, il divieto di abuso del diritto si traduce in un principio
+10
+
+--- Pagina 11 ---
+
+generale antielusivo, il quale preclude al contribuente il conseguimento di
+vantaggi fiscali ottenuti mediante l'uso distorto, pur se non contrastante
+con alcuna specifica disposizione, di strumenti giuridici idonei ad ottenere
+un'agevolazione o un risparmio d'imposta, in difetto di ragioni
+economicamente apprezzabili che giustifichino l'operazione, diverse dalla
+mera aspettativa di quei benefici: tale principio trova fondamento, in tema
+di tributi non armonizzati (nella specie, imposte sui redditi), nei principi
+costituzionali di capacità contributiva e di progressività dell'imposizione, e
+non contrasta con il principio della riserva di legge, non traducendosi
+nell'imposizione di obblighi patrimoniali non derivanti dalla legge, bensì nel
+disconoscimento degli effetti abusivi di negozi posti in essere al solo scopo
+di eludere l'applicazione di norme fiscali. Esso comporta l'inopponibilità del
+negozio all'Amministrazione finanziaria, per ogni profilo di indebito
+vantaggio tributario che il contribuente pretenda di far discendere
+dall'operazione elusiva, anche diverso da quelli tipici eventualmente presi
+in considerazione da specifiche norme antielusive entrate in vigore in
+epoca successiva al compimento dell'operazione. (Cass. Sez. U.,
+23/12/2008, n. 30055, Rv. 605850 - 01).
+3.6. Tanto precisato, il motivo può dunque ritenersi ammissibile e
+deve essere esaminato nella parte in cui la società contribuente lamenta la
+errata qualificazione in termini di abuso, da parte della CTR, delle
+operazioni poste in essere con le società controllate.
+3.7. Anche se così recuperato, purtuttavia il motivo è infondato.
+3.8. I giudici di appello, in applicazione dei principi elaborati da questa
+Suprema Corte in materia di abuso del diritto, di cui hanno richiamato
+esplicitamente numerosi pertinenti arresti, hanno correttamente delineato
+la nozione di “indebito vantaggio fiscale” ed individuato il relativo onere
+probatorio incombente sulle parti.
+3.9. E dunque la sentenza impugnata, nel contesto dell'attività svolta
+dalla contribuente, ha posto in relazione, cronologica e logica, il
+11
+
+--- Pagina 12 ---
+
+conferimento «in futuro aumento di capitale» nella GEIFI Ltd. quale
+negozio strumentale, allo scopo ultimo di finanziamento delle società
+collegate scozzesi ed inglesi, con il successivo rientro dei capitali, a mera
+richiesta, senza che fosse stato realizzato lo scopo, apparente, di
+patrimonializzazione della predetta GEIFI, di fatto meramente interposta.
+La CTR ha inoltre rilevato che si era nel frattempo generato un illogico
+indebitamento di NPH, che aveva dovuto sostenere ingenti costi finanziari
+passivi, ed ha logicamente concluso per l'assenza nel caso di specie di
+valide giustificazioni economiche e ravvisato, quale scopo esclusivo della
+complessiva operazione, il solo conseguimento di un indebito risparmio di
+imposta.
+3.10. La Commissione territoriale ha, quindi, puntualmente dato conto
+del complessivo disegno perseguito dalla società ricorrente e dei passaggi
+in cui esso si era articolato, nonché del percorso logico-argomentativo
+seguito dai giudici dell’appello, motivando esaurientemente in ordine agli
+elementi costitutivi della fattispecie abusiva, e richiamando pertinente
+giurisprudenza di legittimità.  Merita evidenziare a tale proposito che, in
+fattispecie che, pur non essendo sovrapponibile a quella qui in esame in
+qualche modo ne rievoca il meccanismo elusivo, in tempi recenti questa
+Corte ha ribadito che «In tema di redditi d'impresa, l'art. 37-bis del d.P.R.
+n. 600 del 1973, sostituito dall'art. 10-bis della l. n. 212 del 2000, non
+contiene un'elencazione tassativa delle fattispecie abusive, ma costituisce
+una norma aperta che trova applicazione, alla stregua del generale
+principio antielusivo rinvenibile nella Costituzione e nelle indicazioni della
+raccomandazione n. 2012/772/UE, in presenza di una o più costruzioni di
+puro artificio che, realizzate al fine di eludere l'imposizione, siano prive di
+sostanza commerciale ed economica, ma produttive di vantaggi fiscali.
+(Nella specie, la S.C. ha confermato la sentenza impugnata, che aveva
+ritenuto elusiva la trasformazione di un prestito infruttifero in prestito
+obbligazionario, avendo consentito alla società di dedurre gli interessi
+12
+
+--- Pagina 13 ---
+
+passivi, prima non deducibili, ed ai soci di conseguire l'utile finanziario
+derivante dagli interessi attivi, sottoposti ad un trattamento fiscale più
+favorevole rispetto ai dividendi) (Cass. Sez. 5, 13/12/2024, n. 32303, Rv.
+673276 - 01).
+4. Con il terzo motivo di ricorso la società contribuente deduce, in
+relazione all’art. 360, primo comma, num. 3, c.p.c., la violazione e falsa
+applicazione delle norme e dei principi in materia di divieto di abuso del
+diritto, ovvero dell'art. 10-bis della L. 27 luglio 2000, n. 212, nonché
+dell'art. 53 Cost., e, in relazione all’art. 360, primo comma, num. 5,
+c.p.c.,  l’omesso esame circa un fatto decisivo per il giudizio che è stato
+oggetto di discussione tra le parti.
+4.1. Con il motivo in esame la ricorrente eccepisce la violazione e la
+falsa applicazione delle norme e dei principi in tema di divieto di abuso del
+diritto in uno con l'omesso esame circa un fatto rilevante per il giudizio
+laddove i giudici del gravame, nell'avallare l'operato dell'Ufficio circa la
+rideterminazione dei tributi secondo le norme eluse, non avrebbero tenuto
+conto di fatti e circostanze, oggetto di discussione tra le parti, tese a
+dimostrare l'assenza di qualsivoglia "altrimenti" indebito vantaggio fiscale.
+4.2. La società contribuente ricorda di avere censurato sin dal primo
+grado l'operato dell'Ufficio il quale, nel rettificare in aumento la base
+imponibile per effetto degli interessi attivi che sarebbero maturati nel caso
+di effettuazione di finanziamenti, avrebbe dovuto tenere in considerazione
+il fatto che la società medesima aveva comunque conseguito una perdita
+su cambi (per effetto dell'andamento avverso del cambio euro/sterlina) di
+portata tale da sterilizzare qualsivoglia componente positiva tassabile. A
+parere della ricorrente il giudice del gravame non avrebbe, quindi,
+scrutinato detto profilo.
+4.3. Il motivo è, sotto tale profilo, ammissibile, previa rettifica della
+erronea intitolazione in rubrica, che non osta alla riqualificazione della sua
+sussunzione in altra fattispecie di cui all’art. 360, primo comma, c.p.c., né
+13
+
+--- Pagina 14 ---
+
+determina l’inammissibilità del ricorso, rilevandosi che, dall’articolazione
+del motivo, è chiaramente individuabile il tipo di vizio denunciato (arg. da
+Cass., 10 settembre 2020 n. 18770; Cass. 20 febbraio 2014 n. 4036).
+4.4. Il motivo in discorso va dunque ricondotto esclusivamente al vizio
+di cui all’art. 360, comma primo, n. 5) c.p.c.: la violazione di legge
+denunciata, integrata dall’asserita erronea sussunzione della fattispecie
+nell’ipotesi dell’abuso del diritto, non è che una conseguenza, secondo la
+stessa prospettazione della ricorrente, dell’omessa considerazione di un
+determinato fatto, e segnatamente del fattore avverso rappresentato dalla
+perdita sui cambi, donde la dimostrazione che nessun diverso indebito
+vantaggio fiscale sarebbe conseguito all’operazione per cui è causa.
+4.5. La doglianza è, tuttavia, inammissibile per altra ragione.
+4.6. Come noto, l'art. 360, primo comma, num. 5, c.p.с., riformulato
+dall'art. 54 del d.l. 22 giugno 2012, n. 83, conv. in legge 7 agosto 2012,
+n. 134, ha introdotto nell'ordinamento un vizio specifico denunciabile per
+cassazione, relativo all'omesso esame di un fatto storico, principale o
+secondario, la cui esistenza risulti dal testo della sentenza o dagli atti
+processuali, che abbia costituito oggetto di discussione tra le parti e abbia
+carattere decisivo (vale a dire che, se esaminato, avrebbe determinato un
+esito diverso della controversia). Ne consegue che, nel rigoroso rispetto
+delle previsioni degli artt. 366, primo comma, n. 6, e 369, secondo
+comma, n. 4, cod. proc. civ., il ricorrente deve indicare il "fatto storico", il
+cui esame sia stato omesso, il "dato", testuale o extratestuale, da cui esso
+risulti esistente, il "come" e il "quando" tale fatto sia stato oggetto di
+discussione processuale tra le parti e la sua "decisività", fermo restando
+che l'omesso esame di elementi istruttori non integra, di per sé, il vizio di
+omesso esame di un fatto decisivo qualora il fatto storico, rilevante in
+causa, sia stato comunque preso in considerazione dal giudice, ancorché
+la sentenza non abbia dato conto di tutte le risultanze probatorie (Cass.
+14
+
+--- Pagina 15 ---
+
+Sez. U., 07/04/2014, n. 8053, Rv. 629831 – 01; Cass. Sez. 2,
+20/06/2024, n. 17005, Rv. 671706 - 01).
+4.7. La ricorrente, invero, non ha indicato un preciso fatto storico non
+considerato nella pronuncia impugnata, ma un argomento a dimostrazione
+che la tesi sostenuta nell’atto impositivo sia infondata; di qui la
+riconducibilità del motivo ad una contestazione del merito della pretesa
+impositiva, e quindi l’inammissibilità anche di tale motivo.
+4.8. Inoltre, non risponde al vero che la circostanza in parola sia stata
+ignorata dalla pronuncia impugnata, che invece la esamina, contestandone
+la valenza probatoria, nel primo periodo di pag. 6, laddove si evidenzia,
+testualmente: «Quanto poi alle asserite perdite su cambi non tenute in
+considerazione dall'Ufficio nel caso in esame, va condivisa
+l'argomentazione dell'Ufficio, non seriamente revocata in dubbio
+dall'odierna appellante, che i relativi oneri sono stati sopportati in larga
+misura dalle società collegate proprio a causa dell'andamento del cambio
+euro/sterlina; perdita che peraltro avrebbe dovuto e potuto essere oggetto
+di valutazione in ordine all'intero gruppo, il cui bilancio consolidato non è
+stato oggetto di produzione nel processo né di primo né di secondo
+grado.». Ed in effetti, non appare casuale che la stessa società ricorrente
+faccia salva la contestazione di motivazione perplessa di cui al primo
+motivo di ricorso, il che rileva, inoltre, una contraddittorietà nell'impianto
+del primo e terzo motivo del ricorso per cassazione: o la CTR ha del tutto
+omesso l'esame del fatto decisivo oggetto di discussione delle parti, o ha
+reso una motivazione, sebbene bollata come “perplessa".
+5. Con il quarto strumento di impugnazione la ricorrente lamenta, in
+relazione all’art. 360, primo comma, num. 3, c.p.c., la violazione e falsa
+applicazione dell'art. 115, primo comma, c.p.с., per omessa valutazione di
+una principale prova documentale.
+5.1. Con il suddetto motivo si eccepisce l'omesso esame di un
+elemento di prova ritenuto dirimente, proposto all'esame dei giudici di
+15
+
+--- Pagina 16 ---
+
+appello a supporto della infondatezza della tesi dell'Ufficio, che
+dimostrerebbe l’intento della società di porre in essere operazioni di
+finanziamento.
+5.2. A parere della società ricorrente i giudici non avrebbero in alcun
+modo preso in considerazione il contenuto del verbale del Consiglio di
+amministrazione della società ricorrente del 26.07.2006, dal quale sarebbe
+per tabulas smentito l'intento di NPH di finanziare le altre società del
+Gruppo. Ciò avrebbe comportato la violazione dell'art. 115 c.p.c. a norma
+del quale «Salvi i casi previsti dalla legge, il giudice deve porre a
+fondamento della decisione le prove proposte dalle parti o dal pubblico
+ministero, nonché i fatti non specificatamente contestati dalla parte
+costituita».
+5.3. Il motivo è inammissibile.
+5.4. Una censura relativa alla violazione e falsa applicazione degli artt.
+115 e 116 c.p.c. non può porsi per una, reputata, erronea valutazione del
+materiale istruttorio compiuta dal giudice di merito, ma solo se si alleghi
+che quest'ultimo abbia posto a base della decisione prove non dedotte
+dalle parti, ovvero disposte d'ufficio al di fuori dei limiti legali, o abbia
+disatteso, valutandole secondo il suo prudente apprezzamento, delle prove
+legali, ovvero abbia considerato come facenti piena prova, recependoli
+senza apprezzamento critico, elementi di prova soggetti invece a
+valutazione (Cass. n. 6774 del 01/03/2022; Cass. n. 1229 del
+17/01/2019; Cass. n. 27000 del 27/12/2016). Nel caso di specie, il
+ricorrente si duole esclusivamente di una omessa specifica valutazione di
+allegazioni istruttorie e, dunque, formula una censura di insufficiente
+motivazione, non più sollevabile in sede di legittimità (Cass. S.U. n. 8053
+del 07/04/2014; conf. Cass. n. 21257 del 08/10/2014; Cass. n. 23828 del
+20/11/2015; Cass. n. 23940 del 12/10/2017; Cass. n. 22598 del
+25/09/2018).
+16
+
+--- Pagina 17 ---
+
+6. Con il quinto e ultimo motivo di ricorso la contribuente deduce, in
+relazione all’art. 360, primo comma, num. 3, c.p.c.,  la violazione e falsa
+applicazione dell'art. 3, commi 1 e 3, dell'art. 5, comma 1, e dell'art. 6,
+comma 2, del d.lgs. 18 dicembre 1997, n. 472, denunciando l’illegittimità
+dell’irrogazione delle sanzioni in una fattispecie di contestato abuso del
+diritto.
+6.1. La sentenza, da un lato, violerebbe il principio di legalità per
+illegittima applicazione dell'art. 10-bis della legge n. 212/2000, introdotto
+nell'ordinamento successivamente alle condotte di cui trattasi, dall'altro,
+avrebbe riconosciuto l'applicabilità delle sanzioni in assenza di accertato
+dolo o colpa della società.
+6.2. Il motivo è infondato.
+6.3. Con riguardo al primo profilo di censura, quando l'avviso di
+accertamento fiscale discende dall'individuazione di una fattispecie di
+abuso del diritto, l'amministrazione finanziaria è pienamente legittimata
+ad erogare sanzioni amministrative, le quali sono applicabili, secondo i
+principi generali, sul maggiore imponibile accertato in conseguenza del
+disconoscimento dei vantaggi fiscali ritenuti indebiti.
+Ed infatti si è affermato che, in materia tributaria, il divieto di abuso
+del diritto si traduce in un principio generale antielusivo, che trova
+fondamento nell'art. 37-bis del d.P.R. n. 600 del 1973, secondo il quale
+l'Amministrazione finanziaria disconosce e dichiara non opponibili le
+operazioni e gli atti, privi di valide ragioni economiche, diretti solo a
+conseguire vantaggi fiscali, in relazione ai quali gli organi accertatori
+emettono avviso di accertamento, applicano ed iscrivono a ruolo le
+sanzioni di cui all'art. 1, comma 2, del d.lgs. n. 471 del 1997, comminate
+dalla legge per il solo fatto di avere il contribuente indicato in
+dichiarazione un reddito imponibile inferiore a quello accertato, rendendo
+così evidente come il legislatore non ritenga gli atti elusivi quale criterio
+scriminante per l'applicazione delle sanzioni, che, al contrario, sono
+17
+
+--- Pagina 18 ---
+
+irrogate quale naturale conseguenza dell'esito dell'accertamento volto a
+contrastare il fenomeno l'abuso del diritto (Cass. Sez. 5, 31/12/2019, n.
+34750, Rv. 656427 - 01).
+6.4. Ancora, con riguardo alla censura afferente al difetto di prova
+dell’elemento soggettivo, va rammentato che «In tema di sanzioni
+amministrative per violazioni di norme tributarie, l'art. 5 d.lgs. n. 472 del
+1997, applicando alla materia fiscale il principio sancito in generale
+dall'art. 3 l. n. 689 del 1981, stabilisce che non è sufficiente la mera
+volontarietà del comportamento sanzionato, essendo richiesta anche la
+consapevolezza del contribuente, a cui deve potersi rimproverare di aver
+tenuto un comportamento, se non necessariamente doloso, quantomeno
+negligente. È comunque sufficiente la coscienza e la volontà della
+condotta, senza che occorra la dimostrazione del dolo o della colpa, la
+quale si presume fino alla prova della sua assenza, che deve essere
+offerta dal contribuente e va distinta dalla prova della buona fede, che
+rileva, come esimente, solo se l'agente è incorso in un errore inevitabile,
+per essere incolpevole l'ignoranza dei presupposti dell'illecito e dunque
+non superabile con l'uso della normale diligenza» (Cass. Sez. 5,
+30/01/2020, n. 2139, Rv. 656818 - 02). E tale prova la ricorrente non ha
+offerto.
+7. In conclusione, il ricorso deve essere rigettato, con conseguente
+condanna della ricorrente al rimborso, in favore della controricorrente,
+delle spese del giudizio di legittimità, che si liquidano come in dispositivo.
+P.Q.M.
+La Corte rigetta il ricorso.
+Condanna la ricorrente al pagamento, in favore della controricorrente,
+delle spese del giudizio di legittimità che liquida in euro 30.000,00  per
+compensi, oltre spese prenotate a debito.
+Ai sensi dell’art. 13, comma 1-quater, del d.P.R. n. 115/2002, dà atto
+della sussistenza dei presupposti per il versamento, da parte del
+18
+
+--- Pagina 19 ---
+
+ricorrente, dell’ulteriore importo a titolo di contributo unificato pari a
+quello previsto per il ricorso, a norma del comma 1-bis dello stesso
+articolo 13, se dovuto.
+Così deciso in Roma, nella camera di consiglio del 03/03/2026.
+Il Consigliere est.
+Gian Paolo Macagno
+La Presidente
+Roberta Crucitti
+19

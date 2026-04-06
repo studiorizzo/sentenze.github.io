@@ -1,0 +1,694 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 7705/2020 R.G. proposto da:
+ALMA GROUP SOCIETÀ CONSORTILE A R.L. IN LIQUIDAZIONE,
+in fallimento, in persona del legale rappresentante pro tempore
+rappresentata e difesa dall'avv. RITA GRADARA unitamente all’avv.
+ADRIANA LA ROCCA
+-ricorrente-
+contro
+AGENZIA DELLE ENTRATE in persona del Direttore pro tempore,
+rappresentata e difesa dall'AVVOCATURA GENERALE DELLO STATO
+-controricorrente-
+
+--- Pagina 2 ---
+
+avverso la sentenza della COMMISSIONE TRIBUTARIA
+REGIONALE della LOMBARDIA n. 3115/2019 depositata il 16/07/2019;
+udita la relazione svolta nella camera di consiglio del 30/01/2026
+dalla Consigliera Raffaella Brogi
+FATTI DI CAUSA
+1. L’Agenzia delle Entrate ha notificato ad Alma Group Società
+consortile a r.l. (successivamente dichiarata fallita, hinc: la società
+contribuente o la contribuente o Alma) tre avvisi di accertamento
+relativi agli anni d’imposta 2010, 2011 e 2012, con i quali veniva
+contestata l’illegittima detrazione dell’IVA conseguente a operazioni
+soggettivamente inesistenti.
+1.1. In particolare, la contestazione dell’Amministrazione
+Finanziaria era che la società contribuente (che faceva capo a Natale
+Sartori e a una serie di persone a lui legate da vincoli personali e
+familiari), costituita per iniziativa di società cooperative di lavoro a
+mutualità prevalente (di cui lo stesso Sartori era amministratore di
+fatto), reperiva, per queste ultime, appalti di servizi in materia di
+facchinaggio, logistica e trasporto per imprese leaders della grande
+distribuzione organizzata. In particolare, i contratti di appalto erano
+stipulati dalla società contribuente (quale mandataria senza
+rappresentanza delle cooperative consorziate), che fatturava le
+prestazioni alle imprese della grande distribuzione.  Al contempo, le
+consorziate, sul presupposto di aver eseguito i servizi usando soci e
+lavoratori inquadrati al loro interno, fatturavano nei confronti della
+società consortile e mandataria, che otteneva, così, il diritto di detrarre
+l’IVA che compensava il debito IVA emerso dalle fatture emesse alle
+imprese della grande distribuzione organizzata committente. In tal
+modo, l’importo fatturato dalle consorziate alla consortile, e
+conseguentemente l’IVA addebitata in rivalsa dalle seconde alla prima,
+2
+
+--- Pagina 3 ---
+
+era sempre pari all’importo fatturato dalla consortile alle imprese della
+grande distribuzione.
+Tale meccanismo integrava una frode dell’IVA, in quanto il reale e
+unico prestatore di servizi alle imprese committenti era la (sola)
+consortile, che a fronte del debito IVA derivante dalla fatturazione delle
+prestazioni alle committenti, non avrebbe potuto dedurre l’IVA
+addebitatale dalle consorziate. Queste ultime, infatti, ribaltavano sulla
+consortile il costo del lavoro rappresentato dai compensi spettanti ai
+soci lavoratori formalmente inquadrati nelle consorziate.
+Diversamente, laddove la consortile avesse considerato – secondo
+quanto corrispondeva a realtà – i soci lavoratori come propri dipendenti
+operanti sotto la sua diretta organizzazione, non ci sarebbe stato
+alcuno costo e l’IVA detraibile da parte della consortile e il debito IVA
+originato dalle fatture emesse verso le imprese committenti non
+sarebbe stato azzerato da tale indebita detrazione.
+2. La contribuente impugnava gli avvisi di accertamento davanti
+alla Commissione tributaria provinciale di Milano, che respingeva i
+ricorsi, con sentenza n. 293/2018, confermata dalla Commissione
+tributaria regionale della Lombardia (hinc: CTR), con la sentenza n.
+3115/2019 depositata in data 16/07/2019.
+3. In sintesi, ai fini del presente giudizio, è sufficiente evidenziare
+che ad avviso della CTR:
+- non sussisteva la supposta illegittimità dell’avviso di accertamento
+integrativo emesso per l’anno 2012, posto che la sussistenza di nuovi
+elementi emerge da un diverso PVC elevato a carico della società
+contribuente e del sig. Sartori ad opera della Guardia di Finanza di
+Melegnano, iniziato in data 29/04/2016, successivamente alla notifica
+dell’avviso di accertamento avvenuta il 27/04/2016. Con tale p.v.c.
+l’Amministrazione finanziaria ha avuto contezza della quantificazione
+dell’IVA indebitamente detratta per ogni annualità. Mentre la
+3
+
+--- Pagina 4 ---
+
+successione cronologica era ben compresa dai primi giudici, la società
+appellante insisteva nel confrontare gli elementi emersi nel solo p.v.c.
+della Guardia di Finanza di Milano e accennava marginalmente a quello
+della Guardia di Finanza di Melegnano, affermando che le notizie erano
+già note. Risultava, tuttavia, che nel PVC del 29/04/2016 i militari
+avessero verificato tutte le fatture ricevute da Alma nel 2012 da parte
+delle cooperative, con distinta indicazione delle operazioni fatturate
+dalle singole consorziate, per un importo complessivo dell’IVA
+indebitamente detratta pari a Euro 6.004.330,00;
+- non è neppure ravvisabile una carenza motivazionale del secondo
+avviso di accertamento per l’anno 2012, posto che al suo interno sono
+evidenziati i rilievi mossi con il PVC, a giustificazione dell’IVA
+indebitamente detratta;
+- in merito alla prospettata violazione dell’art. 2697 cod. civ. con
+riferimento all’onere della prova sulla contestazione della fatturazione
+per operazioni soggettivamente inesistenti sia i militari della Guardia di
+Finanza che l’Ufficio hanno fornito plurimi e convergenti elementi per
+delineare il quadro fraudolento delle operazioni realizzate da Alma
+mediante lo schermo delle cooperative di produzione e lavoro, alle quali
+affidava, commesse da parte di società leader nel comparto della
+grande distribuzione, dopo averle acquisite a prezzi illecitamente
+concorrenziali. La società appellante – pur rivendicando il ruolo di
+rappresentanza unitaria delle cooperative consorziate sul mercato – ha
+speso solo poche parole per negare il ruolo di amministratore di fatto
+del Sartori, limitandosi a sostenere che, per mera comodità di gestione,
+le cooperative si servivano del server gestionale contabile di Alma,
+anche per la stesura delle fatture e avevano lo stesso recapito del
+centralino, oltre a usare gli stessi spazi operativi. Non sono poi stati
+contrastati adeguatamente gli elementi emersi nel corso delle indagini
+penali, utilizzabili nel procedimento tributario, come le intercettazioni
+4
+
+--- Pagina 5 ---
+
+telefoniche, da cui emerge chiaramente il coinvolgimento diretto del
+Sartori - nonché di persone di sua fiducia (figlie, coniuge separata
+ecc…) – nella gestione delle cooperative per le quali impartiva
+disposizioni con riguardo alla formazione del bilancio, alla
+rifatturazione, alla ricerca di soggetti che potessero firmare i
+documenti. Non emerge alcun supposto travisamento da parte
+dell’Ufficio del contenuto di conversazioni telefoniche. Tanto più che,
+quanto affermato dall’appellante a pag. 14 della memoria depositata in
+data 03/01/2014 non fa che avvalorare la tesi dell’amministrazione,
+confermando che le cooperative e Alma Group fossero un’unica realtà;
+- non rilevano le sentenze penali di assoluzione di alcuni legali
+rappresentanti dalla contestazione di cui all’art. 10-ter d. Lgs. n. 74 del
+2000 per mancato versamento dell’IVA per carenza di liquidità, perché
+tali provvedimenti non contengono alcuna affermazione o motivazione
+concernente l’esistenza del disegno fraudolento contestato nel giudizio;
+- sulle sanzioni irrogate è già stata fatta una correzione da parte
+dell’Ufficio con riferimento al calcolo della continuazione (art. 12,
+comma 5, d.lgs. n. 472 del 1997), mentre non può essere accolta la
+richiesta di disapplicazione della recidiva.
+4. Contro la sentenza della CTR la società contribuente ha proposto
+ricorso in cassazione con sette motivi.
+5. L’Agenzia delle Entrate si è costituita con controricorso.
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo di ricorso è stata denunciata l’illegittimità
+della sentenza, in relazione all’art. 360, primo comma, n. 3, cod. proc.
+civ., per violazione e falsa applicazione dell’art. 57, comma 4, d.P.R. n.
+633 del 1972, nella parte in cui viene affermato che l’avviso di
+accertamento integrativo per il 2012 è legittimo, in quanto emesso in
+presenza delle condizioni previste dalla norma appena richiamata.
+5
+
+--- Pagina 6 ---
+
+1.1. La ricorrente evidenzia che sono stati emessi nei suoi confronti
+due avvisi di accertamento relativi all’anno 2012:
+- il primo avviso è stato notificato in data 27/04/2016 ed è stato
+emesso sulla base di un PVC redatto il 22/12/2016, in esito a una
+verifica avviata dalla Guardia di Finanza di Melegnano, con riguardo
+all’IRAP, IRES e IVA, per i periodi 2013, 2014 e 2015, successivamente
+estesa anche al 2012. In tale avviso venivano esaminati i rapporti della
+ricorrente con le consorziate, ipotizzando che le fatture fossero state
+emesse per operazioni soggettivamente inesistenti. A pag. 23 ss. del
+ricorso in cassazione viene riprodotto, in via analogica, il primo avviso
+di accertamento. La ricorrente rileva che dalla motivazione di tale
+avviso emerge che l’Agenzia delle Entrate non avesse condiviso quanto
+ipotizzato dalla Guardia di Finanza di Milano, ritenendo del tutto lecito
+il rapporto tra ALMA e le consorziate e del tutto legittima la fatturazione
+tra le stesse, con la conseguente legittimità anche della detrazione
+dell’IVA da parte della contribuente. Tale conclusione, da parte
+dell’Amministrazione Finanziaria, è avvenuta nella piena conoscenza
+degli esiti delle indagini penali, richiamati nella motivazione del primo
+avviso, con riferimento all’ipotesi di inesistenza soggettiva delle
+operazioni fatturate dalle consorziate ad ALMA;
+- con il secondo avviso di accertamento per il 2012, notificato in
+data 28/10/2016, a seguito di una seconda verifica fiscale della Guardia
+di Finanza di Melegnano (relativa agli anni 2012, 2010 e 2011) è stato
+ritenuto configurabile un sistema fraudolento, in base al quale ALMA
+avrebbe maturato indebitamente costi fiscalmente deducibili dal
+reddito e avrebbe detratto IVA a credito non spettante: i medesimi
+elementi di fatto sono stati, quindi, oggetto di diversa valutazione. A
+pag. 27 ss. del ricorso in cassazione viene riportato tale secondo
+avviso.
+6
+
+--- Pagina 7 ---
+
+1.2. Nel presente giudizio è stato impugnato il secondo avviso per
+il 2012, evidenziando come fosse stato emesso, senza che fosse
+sopravvenuta conoscenza di nuovi elementi ex art. 57, comma 4,
+d.P.R. n. 633 del 1972. A tal fine la ricorrente riporta, a pag. 29 ss. del
+ricorso in cassazione, le censure svolte in primo e in secondo grado,
+evidenziando (pag. 31) che l’Amministrazione aveva ammesso, nelle
+controdeduzioni in appello, che le risultanze del p.p. n. 27410/2013
+effettuate dal Nucleo della Guardia di Finanza di Milano erano già
+conosciute al momento dell’emissione del primo avviso di
+accertamento, per poi sostenere che solo successivamente alla notifica
+di quest’ultimo – grazie al PVC del 29/04/2016 – era stata in grado di
+quantificare l’IVA relativa alle operazioni intercorse tra la società
+consortile e le consorziate. Tuttavia, lo schema relativo alle operazioni
+fatturate dalle consorziate non costituisce un elemento di novità, in
+quanto si tratta di un’elaborazione di elementi già conosciuti o
+conoscibili.
+Inoltre, gli elementi sopravvenuti possono rilevare, ai sensi dell’art.
+57, comma 4, d.P.R. n. 633 del 1972 solo se rilevanti in termini
+probatori, non bastando, quindi, che l’Amministrazione finanziaria
+venga a conoscenza di documenti o fatti nuovi in genere. A pag. 35 del
+ricorso in cassazione la ricorrente opera, quindi, una comparazione tra
+i due avvisi di accertamento emessi nel 2016 per evidenziare che il
+secondo avviso si basa su elementi fattuali e dati probatori già noti.
+2. Con il secondo motivo di ricorso è stata denunciata, in relazione
+all’art. 360, primo comma, n. 3, cod. proc. civ., l’illegittimità della
+sentenza impugnata per violazione e falsa applicazione dell’art. 57,
+comma 4, e 56, comma 5, d.P.R. n. 633 del 1972, nella parte in cui
+afferma che l’avviso di accertamento (integrativo) per l’anno 2012 non
+è affetto da nullità per vizio di motivazione, sebbene non indichi gli
+7
+
+--- Pagina 8 ---
+
+asseriti “nuovi elementi” che giustificherebbero l’integrazione del
+precedente accertamento.
+2.1. La parte ricorrente censura la sentenza impugnata nella parte
+in cui ha ritenuto insussistente la carenza di motivazione dell’atto
+impositivo impugnato, violando, in tal modo, l’art. 57, comma 4, d.P.R.
+n. 633 del 1972, secondo il quale per l’accertamento integrativo
+devono essere specificamente indicati, a pena di nullità, i nuovi
+elementi e gli atti o fatti attraverso i quali sono venuti a conoscenza
+dell’ufficio. La CTR – si sostiene - ha quindi errato, facendo applicazione
+solamente dell’art. 56, comma 5, d.P.R. n. 633 del 1972. A tal fine
+riproduce analogicamente l’avviso di accertamento impugnato (pag. 38
+ss. del ricorso in cassazione).
+3. I primi due motivi di ricorso possono essere esaminati insieme,
+in quanto entrambi riferiti a vizi relativi all’atto impositivo impugnato,
+integrativo di un diverso e precedente avviso di accertamento e sono
+infondati.
+3.1. Occorre premettere che, secondo l’art. 57, comma 4, d.P.R. n.
+633 del 1972, fino alla scadenza dei termini previsti nei primi tre commi
+della disposizione appena richiamata gli accertamenti possono essere
+integrati o modificati, mediante la notificazione di nuovi avvisi, in base
+alla sopravvenuta conoscenza di nuovi elementi da parte dell’Agenzia
+delle entrate. Nell’avviso devono essere specificamente indicati, a pena
+di nullità, i nuovi elementi e gli atti o fatti attraverso i quali sono venuti
+a conoscenza dell’ufficio dell’imposta sul valore aggiunto.
+3.2. Occorre evidenziare che nel caso di specie, tuttavia, secondo
+quanto risulta dalla lettura degli avvisi riprodotti, in via analogica, dalla
+ricorrente nel ricorso in cassazione risulta che il primo avviso di
+accertamento (v. pag. 25) concludesse evidenziando che: «l’Ufficio
+ritiene che la società ALMA GROUP abbia utilizzato fatture relative ad
+operazioni oggettivamente inesistenti, indeducibili ai sensi dell’art. 109
+8
+
+--- Pagina 9 ---
+
+del TUIR, per un ammontare pari ad € 270.000,00». Diversamente, il
+secondo avviso conclude, a pag. 29 del ricorso in cassazione,
+affermando che: «l’Ufficio, ai sensi dell’art. 19 del d.p.r. 633/1972
+recupera l’IVA indebitamente detratta pari ad € 6.004.330,00». Deve,
+quindi, ritenersi che, trattandosi di pretese distinte gli atti impugnati
+nel presente procedimento non siano integrativi nel senso di cui alle
+ridette disposizioni, ma solamente relativi a una diversa pretesa
+impositiva.
+4. Con il terzo motivo è stata denunciata, ai sensi dell’art. 360,
+primo comma, n. 4, cod. proc. civ., la nullità della sentenza per
+violazione dell’art. 36, comma 2, d. Lgs. n. 546 del 1992, dell’art. 132,
+comma 2, n. 4, cod. proc. civ., per motivazione apparente in
+conseguenza dell’insanabile contraddittorietà della pronuncia con cui la
+CTR ha dichiarato legittima la pretesa impositiva.
+4.1. Con tale motivo la ricorrente censura la sentenza impugnata
+nella parte in cui ha escluso la violazione dell’art. 2967 cod. civ. in
+relazione alla ripartizione dell’onere della prova sulla fatturazione
+contestata. A tal fine riporta a pag. 45 ss. del ricorso in cassazione il
+contenuto degli avvisi di accertamento impugnati, per richiamare, poi,
+a pag. 46 i contenuti della sentenza impugnata, in ordine ai rapporti
+tra società consortile e società consorziate, nonché al ruolo del sig.
+Sartori. Evidenzia, quindi, che il convincimento della CTR fosse che gli
+elementi indicati dall’amministrazione finanziaria (le commesse erano
+ottenute dalla società consortile che le affidava in subappalto alle
+società consorziate; il coinvolgimento del Sartori nell’amministrazione
+di queste ultime attraverso le istruzioni sulla formazione del bilancio,
+la rifatturazione da parte delle consorziate – i.e. il ribaltamento dei
+costi e dei ricavi tra consorzio e consorziati – l’uso degli stessi spazi
+operativi e del server gestionale della società consortile da parte delle
+consorziate) portasse a ritenere che le cooperative consorziate non
+9
+
+--- Pagina 10 ---
+
+fossero realmente esistenti. La ricorrente rileva, in senso contrario, che
+l’affidamento a una società dell’esecuzione di commesse richieste da
+aziende della grande distribuzione presuppone non solo l’esistenza, ma
+anche la capacità concreta della società di eseguire tali commesse.
+Rileva, quindi, che la vicenda, così come ricostruita dal giudice di
+seconde cure, è antitetica rispetto a quella che connota le ipotesi di
+operazioni soggettivamente inesistenti, secondo quanto emerge nella
+giurisprudenza di legittimità.
+4.2. Il motivo è inammissibile, in quanto l’asserita carenza
+motivazionale della sentenza (che peraltro va ben al di là del minimo
+costituzionale richiesto dalle Sezioni Unite di questa Corte, v. Cass.,
+Sez. U, 07/04/2014, n. 8053) viene evocata per contrastare la
+ricostruzione e valutazione dei fatti da parte della CTR, secondo una
+lettura alternativa prospettata dalla parte ricorrente non più
+proponibile in questa sede di Legittimità.
+5. Con il quarto motivo è stata denunciata, in relazione all’art. 360,
+primo comma, n. 3, cod. proc. civ., l’illegittimità della sentenza per
+violazione e falsa applicazione degli artt. 2727 e 2729, primo comma,
+cod. civ., nonché dell’art. 54, comma 2, d.P.R. n. 633 del 1972, nella
+parte in cui ha dichiarato legittima la pretesa impositiva.
+5.1. Con tale motivo la ricorrente censura la sentenza impugnata
+per aver confermato la pretesa impositiva – e quindi la presunzione di
+inesistenza delle operazioni fatturate dalle consorziate – nei confronti
+della società contribuente, basandosi su elementi indiziari privi di
+gravità, precisione e concordanza, cioè su elementi privi dei caratteri
+legali previsti dagli artt. 2727 e 2729, comma 1, cod. proc. civ., con
+particolare riferimento:
+- alla presunzione, dall’attività di coordinamento e gestione di
+attività di interesse comune svolta dalla società consortile, che il sig.
+Sartori fosse amministratore di fatto delle società consorziate: ad
+10
+
+--- Pagina 11 ---
+
+avviso della ricorrente tale presunzione è carente del requisito della
+gravità, dal momento che la CTR ha ignorato i rapporti tra la società
+consortile e le consorziate, così come delineati dall’art. 2612 cod. civ.;
+- alla presunzione, dall’asserita amministrazione da parte del sig.
+Sartori, che le consorziate fossero fittizie: anche tale elemento è privo
+del requisito di gravità, non costituendo un fatto da cui poter risalire
+alla prova che le consorziate fossero fittizie e che, parimenti, fossero
+fittizie le operazioni fatturate alla società contribuente;
+- il ragionamento secondo cui le consorziate sono fittizie è privo
+anche del requisito della concordanza: la CTR ha omesso di accertare
+se gli elementi indiziari acquisiti a giudizio fossero, nel loro complesso,
+concordanti (e non lo sono) e se la loro combinazione fosse in grado di
+fornire una valida prova presuntiva circa il carattere fittizio delle società
+consorziate. Il giudice di seconde cure, in particolare, non ha tenuto
+conto dell’esistenza di elementi probatori dissonanti rispetto alla prova
+della fittizietà delle consorziate. Queste ultime, infatti, contavano un
+numero di soci-lavoratori rilevante, coerente con i volumi di servizi
+prestati dalla consorziata e hanno regolarmente remunerato i soci
+lavoratori; questi ultimi erano regolarmente sottoposti a periodiche
+visite mediche di controllo per verificarne l’idoneità all’espletamento
+delle mansioni affidate; frequentavano corsi di formazione attinenti al
+settore di attività della rispettiva consorziata; le consorziate
+presentavano regolarmente il bilancio di esercizio e le dichiarazioni
+fiscali periodiche; l’IVA è sempre stata regolarmente dichiarata e
+versata, all’infuori di alcuni anni nei quali si verificava una situazione
+di temporanea illiquidità che impediva di provvedere ai versamenti alle
+scadenze, cui seguiva la presentazione di istanze di rateizzazione
+all’amministrazione finanziaria (come da sentenza irrevocabile di
+assoluzione in ordine al reato di cui all’art. 10-ter d. Lgs. n. 74 del
+11
+
+--- Pagina 12 ---
+
+2000). Richiama, quindi, a pag. 56 del ricorso in cassazione le
+allegazioni in primo e secondo grado sulle singole società consorziate.
+5.2. Il motivo è infondato: nel caso di specie la contestazione
+dell’Amministrazione finanziaria scaturisce dal fatto che ALMA reperiva
+sul mercato, a prezzi concorrenziali, commesse nell’ambito della
+grande distribuzione, che venivano, formalmente, subappaltate alle
+singole consorziate. Ciò ha consentito ad ALMA di poter detrarre
+dall’IVA addebitata in rivalsa alle società committenti quella applicata,
+a sua volta, in rivalsa dalle singole consorziate che figuravano come
+subappaltatrici.
+5.3. In ordine alla prova di tale meccanismo la sentenza impugnata
+afferma che: «in punto di onere della prova sulla contestata
+fatturazione “soggettivamente” inesistente si osserva che i militari
+della GdF e l’Ufficio, successivamente, hanno fornito plurimi e
+convergenti elementi per delineare il quadro fraudolento delle
+operazioni poste in essere da Alma mediante lo schermo delle
+cooperative di produzione e lavoro [a] “mutualità prevalente” ai sensi
+dell’art. 2512 c.c. alle affidava, dopo aver acquisito in virtù dei prezzi
+illecitamente concorrenziali le commesse da parte di società leader nel
+comparto della grande distribuzione tra le quali Esselunga, Conad
+come, peraltro, già illustrato con dovizia di particolari dai giudici di
+primo grado con considerazioni che qui si condividono pienamente.»
+Il giudice di seconde cure rileva, poi, che: «Dalle intercettazioni
+emerge chiaramente il coinvolgimento diretto del Sartori, nonché di
+soggetti di sua fiducia (tra cui le figlie, la coniuge separata Giargiana
+Provvidenza, Notargiacomo, Gorgoglione, Righetti e via discorrendo),
+nella gestione dlele cooperative per le quali impartiva disposizioni con
+riguardo alla formazione del bilancio, alla rifatturazione, alla ricerca di
+soggetti che potessero firmare i documenti. Non emerge alcun
+supposto travisamento da parte dell’Ufficio del contenuto delle
+12
+
+--- Pagina 13 ---
+
+conversazioni telefoniche, anzi quanto affermato dall’appellante e a
+pagina 14 della memoria depositata in data 3 gennaio 2014 non fa che
+avvalorare la tesi dell’amministrazione giacché conferma che “le
+cooperative e Alma Group fossero un’unica realtà.»
+5.4. Nel caso di specie viene in rilievo, ai fini fiscali, la questione se
+l’esecuzione delle commesse assunte dalla società consortile nella
+catena della grande distribuzione fosse (solo) formalmente riferibile
+alle singole consorziate e sostanzialmente imputabile alla stessa
+consortile (odierna ricorrente), in modo da creare un duplice
+meccanismo di fatturazione dalla consortile verso le imprese
+committenti, da un lato, e dalle società consorziate alla consortile,
+dall’altro lato, tale da consentire a quest’ultima (grazie alla fatturazione
+delle consorziate) la detrazione dell’IVA che non avrebbe, altrimenti,
+potuto detrarre (da quella applicata in rivalsa alle società committenti
+e che avrebbe dovuto, quindi, versare per intero) ove fosse risultata
+(anche) formalmente esecutrice delle commesse, che figurava, invece,
+di aver subappaltato alle società consorziate (sul punto v. l’avviso di
+accertamento riprodotto nel controricorso, dove a pag. 5 si legge che:
+«Le otto società cooperative assumevano solo formalmente centinaia
+di persone con la qualifica di “socio-lavoratore” che in realtà erano
+dipendenti dal consorzio ALMA GROUP. Tale meccanismo permetteva
+alle società cooperative di fatturare prestazioni di manodopera per
+svariati milioni di euro ad ALMA GROUP, la quale quindi, maturava costi
+indebitamente deducibili con illecita detrazione dell’IVA»).
+In tale prospettiva il dato dirimente non è, quindi, quello relativo a
+chi formalmente predisponesse le buste paga ai lavoratori (e neppure
+quello relativo all’esistenza/inesistenza delle società cooperative), ma
+il dato sostanziale relativo a chi utilizzasse le prestazioni lavorative per
+l’esecuzione delle commesse. A tal fine occorre evidenziare che la
+possibilità che, nell’ambito di un gruppo di imprese, il rapporto di lavoro
+13
+
+--- Pagina 14 ---
+
+subordinato intercorso con una società appartenente a un gruppo
+possa essere esteso a un’altra società è riconosciuto anche dalla
+giurisprudenza di questa Corte in materia lavoristica. È stato, infatti,
+precisato che il collegamento economico-funzionale tra imprese gestite
+da società del medesimo gruppo non è, di per sé solo, sufficiente a far
+ritenere che gli obblighi inerenti a un rapporto di lavoro subordinato,
+formalmente intercorso fra un lavoratore ed una di esse, si debbano
+estendere anche all'altra, a meno che non sussista una situazione che
+consenta di ravvisare un unico centro di imputazione del rapporto
+di lavoro. Tale situazione ricorre ogni volta vi sia una simulazione o una
+preordinazione in frode alla legge del frazionamento di un'unica attività
+fra i vari soggetti del collegamento economico-funzionale e ciò venga
+rivelato dai seguenti requisiti, il cui accertamento, rimesso al giudice
+del merito, è insindacabile in sede di legittimità se congruamente
+motivato: a) unicità della struttura organizzativa e produttiva; b)
+integrazione tra le attività esercitate dalle varie imprese del gruppo ed
+il correlativo interesse comune; c) coordinamento tecnico ed
+amministrativo-finanziario tale da individuare un unico soggetto
+direttivo che faccia confluire le diverse attività delle singole imprese
+verso uno scopo comune; d) utilizzazione contemporanea della
+prestazione lavorativa da parte delle varie società titolari delle distinte
+imprese, nel senso che la stessa sia svolta in modo indifferenziato e
+contemporaneamente in favore dei vari imprenditori (Cass.
+24/01/2022, n. 2014).
+5.5. Nel caso di specie il carattere soggettivamente inesistente
+delle operazioni fatturate dalle cooperative si annida nella riferibilità
+all’odierna parte ricorrente dell’attività di esecuzione delle commesse,
+considerato non solo il ruolo del Sartori, ma anche la presenza di una
+comune struttura organizzativa che faceva capo ad ALMA (anche con
+riferimento all’uso del gestionale), nonché l’unicità delle direttive
+14
+
+--- Pagina 15 ---
+
+impartite tramite il Sartori, anche con riferimento alla fatturazione.
+Tale impianto argomentativo della sentenza impugnata non risulta
+scalfito dalle censure svolte dalla ricorrente con il motivo di ricorso in
+esame (in relazione alla violazione degli artt. 2697 e 2729 cod. civ.),
+non essendo dirimenti, da un punto di vista sostanziale, le attività
+formalmente imputate alle società consorziate (presentazione dei
+bilanci, predisposizione delle buste paga ecc…), quanto la circostanza
+che vi fosse un unico centro di riferimento non solo per lo svolgimento
+delle attività di cui all’art. 2612 cod. civ. (che invero non contemplano
+un’ingerenza gestoria della consortile negli assetti e nell’attività svolta
+dalle singole società consorziate), ma anche in relazione all’esecuzione
+delle commesse la cui fatturazione nei confronti delle committenti è
+stata fatta figurare in capo alle società consorziate.
+Non è pertanto dirimente la circostanza che queste ultime abbiano
+versato per intero l’IVA nel 2012 e – peraltro parzialmente negli altri
+anni, diversamente da quanto sostenuto in ricorso - in ragione di
+carenze di liquidità ritenute giustificative degli omessi versamenti
+anche da parte del giudice penale. La questione dirimente non è tanto
+il versamento dell’IVA addebitata in rivalsa alle committenti della
+grande distribuzione, quanto quella della duplicazione dei soggetti che
+emettevano le fatture in ordine a una medesima prestazione di
+esecuzione delle commesse, nonostante la riferibilità a un unico centro
+propulsore e organizzativo individuato dall’amministrazione finanziaria
+nella società consortile, odierna parte ricorrente.
+6. Con il quinto motivo di ricorso è stata denunciata, in relazione
+all’art. 360, primo comma, n. 3, cod. proc. civ., l’illegittimità della
+sentenza e, in relazione all’art. 360, primo comma, n. 4, cod. proc. civ.,
+la nullità della sentenza per violazione dell’art. 115, comma 1, cod.
+proc. civ., nella parte in cui la CTR ha omesso di porre a fondamento
+della decisione un fatto non contestato e provato dalla documentazione
+15
+
+--- Pagina 16 ---
+
+prodotta in giudizio dall’Agenzia delle entrate, costituito dall’avvenuto
+integrale versamento dell’IVA per il 2012 da parte delle società
+consorziate.
+6.1. Ad avviso di parte ricorrente la mancata valutazione del
+versamento integrale dell’IVA da parte delle società consorziate per il
+2012 rileva, sia perché negli avvisi impugnati viene fatto riferimento
+alla sistematica omissione degli obblighi tributari, all’evasione delle
+imposte dei redditi e dell’IVA e al mancato versamento di quest’ultima
+da parte delle cooperative, sia perché l’omesso versamento dell’IVA
+sulle operazioni attive costituisce, secondo la giurisprudenza di
+legittimità, elemento paradigmatico dell’emissione di fatture per
+operazioni soggettivamente inesistenti.
+6.2. La ricorrente rileva che dalla stessa documentazione
+dell’amministrazione finanziaria emerge che l’IVA nel 2012 è stata
+pagata integralmente, mentre le cooperative hanno versato il 67%
+dell’IVA dovuta per il 2010 e l’81% dell’IVA dovuta per il 2011.
+6.3. Il motivo è, in parte, inammissibile, perché presuppone una
+rivalutazione dei fatti sottratta al sindacato di legittimità di questa
+Corte.
+6.4. Il motivo è, in parte, anche infondato, considerato quanto
+evidenziato nell’esame del quarto motivo di ricorso – al quale si rinvia
+- sulla questione relativa ai versamenti dell’IVA da parte delle società
+consorziate.
+7. Con il sesto motivo è stata denunciata, in relazione all’art. 360,
+primo comma, n. 3, cod. proc. civ., l’illegittimità della sentenza per
+violazione e falsa applicazione dell’art. 7, comma 3, d.lgs. n. 472 del
+1997, sotto plurimi profili.
+7.1. La ricorrente rileva che, con ciascuno dei tre avvisi di
+accertamento, era stata contestata, per i singoli anni d’imposta, la
+violazione costituita dall’illegittima detrazione dell’IVA e dalla
+16
+
+--- Pagina 17 ---
+
+dichiarazione con imposta inferiore a quella dovuta, con applicazione
+della continuazione ex art. 12, comma 5, d. Lgs. n. 472 del 1997 e un
+aumento del 25% per la recidiva (sul presupposto che nel 2010 – cioè
+uno dei tre anni precedenti al 2011 e al 2012 – era stata contestata
+analoga contestazione, i.e. presentazione di dichiarazione infedele
+IVA). Nel corso del giudizio di primo grado è stato emesso un
+provvedimento di annullamento parziale delle sanzioni, essendo stata
+riconosciuta, da parte dell’Agenzia delle entrate, la non corretta
+quantificazione della sanzione base, senza che, tuttavia, fosse accolta
+la contestazione della società, secondo cui la sanzione-base doveva
+essere parametrata alla violazione più grave dell’anno 2010 e non a
+quella più grave del 2012.
+7.3. Ai fini del presente motivo viene, tuttavia, in rilievo il mancato
+accoglimento, anche da parte del giudice di seconde cure, della
+contestazione circa l’inapplicabilità della recidiva ex art. 7, comma 3,
+d. Lgs. n. 472 del 1997, sotto un duplice profilo.
+Il primo è che, ad avviso di parte ricorrente, non poteva essere
+applicato l’aumento per la cd. recidiva, dal momento che i tre anni
+precedenti al 2012 sono il 2011, il 2010 e il 2009 e in quest’ultima
+annualità non era stata commessa alcuna violazione. La CTR, nel
+confermare sul punto la decisione di primo grado, avrebbe, quindi,
+violato l’art. 7, comma 3, cit. sia perché avrebbe ritenuto che per
+l’applicazione della recidiva fosse sufficiente la constatazione della
+violazione in uno qualsiasi degli anni del triennio precedente, sia perché
+avrebbe ritenuto che per l’applicazione della recidiva fosse sufficiente
+la (sola) constatazione della violazione e non la sua definitività. Ad
+avviso della ricorrente è infondato anche l’argomento letterale proposto
+dal giudice incentrato sulla formulazione della norma (art. 7, comma
+3, d. Lgs. n. 472 del 1997) che fa riferimento al singolare («in altra
+violazione»), richiamando il confronto con la (previgente) formulazione
+17
+
+--- Pagina 18 ---
+
+dell’art. 49 d.P.R. n. 633 del 1972 («in un’altra violazione»). La
+differenza lessicale, ad avviso di parte ricorrente, giustifica
+l’interpretazione secondo cui l’applicazione della recidiva richiederebbe
+che l’altra violazione fosse commessa in ciascuno dei tre anni
+precedenti.
+Il secondo profilo censura la sentenza impugnata per aver ritenuto
+applicabile l’art. 7, comma 3, d.lgs. n. 472 del 1997, sulla base della
+mera constatazione della sanzione e non della sua definitività.
+7.5. Il motivo di ricorso è infondato nella parte in cui evoca
+l’interpretazione letterale dell’art. 7, comma 3, d. Lgs. n. 472 del 1997,
+non essendo rilevante la circostanza del passaggio dalla formulazione
+contenente l’articolo indeterminativo (in un’altra violazione) a quella
+attuale contenuta nell’art. 7, comma 3, d.lgs. n. 472 del 1997 (altra
+violazione), essendo semmai dirimente la circostanza che (anche) in
+quest’ultima norma il riferimento alla violazione rimane sempre al
+singolare, con la conseguenza che è sufficiente, ai fini della recidiva, il
+fatto che sia commessa una sola violazione. Peraltro, l’interpretazione
+prospettata dalla ricorrente avrebbe richiesto che la formulazione
+dell’art. 7, comma 3, cit. prevedesse, quale riferimento temporale, in
+ciascuno dei tre anni precedenti e non nei tre anni precedente. In altre
+parole, l’adozione di quest’ultima formulazione implica, primo luogo,
+che il triennio precedente debba essere considerato complessivamente
+e, in secondo luogo, che sia sufficiente, ai fini della recidiva, la
+perpetrazione di una (sola) violazione.
+7.5. Il motivo è invece fondato nella parte in cui, ai fini
+dell’applicazione della recidiva, rileva la necessità dell’accertamento
+definitivo della violazione perpetrata nel triennio precedente, alla luce
+di ragioni sistematiche inerenti alla compatibilità tra recidiva e cumulo
+giuridico già evidenziate da questa Corte: mentre il cumulo giuridico
+rappresenta un beneficio che discende dalla sostanziale unitarietà della
+18
+
+--- Pagina 19 ---
+
+trasgressione, la recidiva, al contrario, punisce con più rigore chi si
+ostini a commettere consecutivamente la stessa violazione. Inoltre, se
+la recidiva non necessitasse di una precedente irrogazione definitiva di
+sanzioni, essa non sarebbe mai applicabile unitamente alla
+continuazione la quale, viceversa, è interrotta dalla punizione delle
+violazioni pregresse. Se, pertanto, si individuasse il fondamento della
+recidiva nella reiterazione di una violazione, contestata ma non
+definitivamente accertata, la compatibilità tra i due istituti non
+potrebbe essere ritenuta. Lo escluderebbe l'unificazione dovuta al
+vincolo della continuazione cui sono soggette violazioni della stessa
+indole commesse in periodi di imposta diversi. L'incompatibilità tra tali
+istituti sarebbe determinata dalle loro differenti strutture logiche.
+Infatti, l'unicità delle violazioni della stessa indole si contrappone, in
+via di principio, alla pluralità di violazioni che fungono da presupposto
+della recidiva. Se invece si afferma che la recidiva si fonda sulla
+sussistenza di un precedente accertamento definitivo la preclusione
+costituita dall'inserimento nella vicenda della continuazione viene
+meno: il soggetto può ben aver commesso più violazioni della stessa
+indole ed è in tal caso possibile tener conto contemporaneamente delle
+valutazioni operate dal legislatore corrispondenti alla continuazione e
+alla recidiva. Il compimento di un'altra violazione incarnante il
+superamento di quel momento di valore rappresentato
+dall'accertamento giudiziale della violazione (o dalla definitività della
+stessa per mancata impugnazione) potrà coniugarsi col disvalore
+proprio della perpetrazione di una ripetuta condotta di violazioni della
+stessa indole (Cass., 25/02/2025, n. 4912; Cass., 27/02/2024, n.
+5115, in motivazione; Cass., 22 maggio 2019, n. 13742; Cass. 17
+maggio 2019, n. 13329).
+7.6. Deve, quindi, affermarsi che: «in tema di sanzioni
+amministrative tributarie, l’applicazione della recidiva prevista nell’art.
+19
+
+--- Pagina 20 ---
+
+7, comma 3 d.lgs. n. 472 del 1997 (nella versione anteriore alle
+modifiche apportate dall’art. 3 d.lgs. 14/06/2024, n. 87) – considerata
+la compatibilità con l’istituto della continuazione disciplinato nell’art.
+12, comma 5, del d.lgs. n. 472 del 1997 – richiede che la violazione sia
+stata definitivamente accertata dal giudice tributario, ovvero sia
+divenuta definitiva per la mancata impugnazione della contestazione
+della violazione.»
+8. Con il settimo motivo di ricorso è stata denunciata, in relazione
+all’art. 360, primo comma, n. 4, cod. proc. civ., la nullità della sentenza
+per omessa pronuncia, in violazione dell’art. 112 cod. proc. civ., in
+ordine al motivo d’appello concernente la violazione dell’art. 7, comma
+4, d. Lgs. n. 472 del 1997 e quindi la riduzione delle sanzioni irrogate,
+l’illegittimità della sentenza, ai sensi dell’art. 360, primo comma, n. 3,
+cod. proc. civ., per violazione e falsa applicazione dell’art. 7, comma 4,
+d. Lgs. n. 546 del 1992.
+8.1. La ricorrente rileva di aver invocato l’applicazione dell’art. 7,
+comma 4, d.lgs. n. 472 del 1997 e la conseguente riduzione della
+sanzione alla metà del minimo.
+8.2. Il motivo di ricorso è fondato. Nel caso di specie la sentenza
+impugnata ha dato atto della correzione dell’ufficio in relazione alla
+continuazione ex art. 12, comma 5, d. Lgs. n. 472 del 1997 e ha
+ritenuto che non potesse essere accolta la richiesta di disapplicazione
+della recidiva. Il giudice di seconde cure non si è quindi pronunciato
+sulla questione relativa alla violazione dell’art. 7, comma 4, d. Lgs. n.
+472 del 1997. A tal fine occorre evidenziare che, dalla lettura
+dell’illustrazione del motivo ricorso risulta che rispetto agli anni
+interessati dagli avvisi di accertamento impugnati (2010, 2011 e 2012)
+la parte ricorrente invoca la formulazione dell’art. 7, comma 4, d. Lgs.
+n. 472 del 1997 introdotta ad opera del d.lgs. n. 158 del 2015, secondo
+il quale «Qualora concorrano circostanze che rendono manifesta la
+20
+
+--- Pagina 21 ---
+
+sproporzione tra l’entità del tributo cui la violazione si riferisce e la
+sanzione, questa può essere ridotta fino alla metà del minimo.» Sul
+punto questa Corte, in senso conforme a quanto prospettato dalla
+ricorrente, ha precisato che, in tema di sanzioni amministrative per
+violazione di norme tributarie, la sopravvenuta revisione del sistema
+sanzionatorio tributario, introdotta dal d.lgs. n. 158 del 2015 e vigente
+dal 1° gennaio 2016 a norma dell'art. 32 del medesimo d. Lgs., è
+applicabile retroattivamente in forza del principio del "favor rei", a
+condizione che il processo sia ancora in corso e che perciò non sia
+ancora definitiva la parte sanzionatoria del provvedimento impugnato
+(Cass., 30 marzo 2021, n. 8716).
+9. Alla luce di quanto sin qui evidenziato devono essere accolti il
+sesto e il settimo motivo di ricorso nei termini di cui in motivazione,
+mentre devono essere rigettati gli altri.
+10. La sentenza impugnata deve essere, pertanto, cassata,
+limitatamente ai motivi di ricorso accolti, con rinvio alla Corte di
+giustizia tributaria di secondo grado della Lombardia che, in diversa
+composizione, deciderà anche sulle spese di lite del presente giudizio.
+P.Q.M.
+accoglie il sesto e il settimo motivo nei limiti di cui in motivazione;
+rigetta gli altri motivi di ricorso; cassa la sentenza impugnata,
+limitatamente ai profili di cui ai motivi di ricorso accolti e rinvia alla
+Corte di giustizia tributaria di secondo grado della Lombardia che, in
+diversa composizione, deciderà anche sulle spese processuali del
+presente giudizio.
+Così deciso in Roma, nella camera di consiglio del 30/01/2026.
+Il Presidente
+Roberto Succio
+21

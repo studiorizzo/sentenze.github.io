@@ -1,0 +1,426 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 25122/2020 R.G. proposto da
+AGENZIA DELLE ENTRATE, in persona del Direttore pro tempore,
+rappresentata e difesa ope legis dell’Avvocatura Generale dello Stato;
+-ricorrente-
+contro
+NUOVO PIGNONE HOLDING S.P.A., già GE ITALIA HOLDING S.P.A., e
+GE MEDICAL SYSTEMS ITALIA S.P.A., in persona del rispettivo legale
+rappresentante pro tempore, entrambe rappresentate e difese dall’avv.
+Gabriele Escalar;
+-controricorrenti-
+avverso la SENTENZA della COMMISSIONE TRIBUTARIA REGIONALE
+DELLA LOMBARDIA n. 5556/2019 depositata il 30 dicembre 2019;
+udita la relazione svolta nella pubblica udienza del 3 marzo 2026 dal
+Consigliere Danilo Chieca;
+udito il  Pubblico  Ministero,  nella  persona  del  Sostituto  Procuratore
+
+--- Pagina 2 ---
+
+Generale Fulvio Troncone, il quale ha concluso per la declaratoria di
+cessazione della materia del contendere in ordine al terzo e al quarto
+motivo di ricorso e per il rigetto del primo e del secondo;
+uditi per la ricorrente l’avvocato dello Stato Alfonso Peluso e per le
+controricorrenti l’avv. Gabriele Escalar;
+FATTI DI CAUSA
+1. Nell’anno 2013 la Direzione Regionale della Lombardia dell’Agenzia
+delle Entrate conduceva una verifica fiscale nei confronti della GE Medical
+Systems Italia s.p.a., ed esercente attività di vendita e installazione di
+apparecchiature medicali diagnostiche, nonché di fornitura di servizi di
+assistenza tecnica e manutenzione prevalentemente in favore di ospedali
+e cliniche private aventi sede in Italia.
+La prefata società, fiscalmente residente in Francia e appartenente al
+gruppo multinazionale General Electric (GE), era interamente controllata
+dalla GE Medical Systems Information Technologies s.r.l., a sua volta
+controllata dalla Nuovo Pignone Holding s.p.a., già GE Italia Holding
+s.p.a..
+2. All’esito di tale verifica l’Ufficio emetteva nei confronti della GE
+Medical Systems Italia s.p.a. e della Nuovo Pignone Holding s.p.a.,
+aderenti al regime fiscale del consolidato nazionale nella rispettiva veste di
+consolidata e di consolidante, un avviso di accertamento relativo all’anno
+2011 con il quale, previa rideterminazione del reddito complessivo globale
+risultante dalla dichiarazione presentata dalla società controllante ai sensi
+dell’art. 122 del t.u.i.r., venivano operate le conseguenti riprese a
+tassazione ai fini dell’IRES e irrogate le sanzioni amministrative pecuniarie
+previste dalla legge.
+2.1 Con l’atto impositivo in questione erano mossi due distinti rilievi
+nei confronti della GE Medical Systems Italia s.p.a..
+2
+
+--- Pagina 3 ---
+
+2.2 Con il primo si contestava alla stessa, ai sensi dell’art. 110,
+comma 7, del t.u.i.r., l’effettuazione di transazioni commerciali con
+consociate estere, in particolare con la francese GE Medical Systems CS e
+l’americana GE Company, aventi ad oggetto l’acquisto di apparecchiature
+sanitarie a un prezzo superiore a quello normale, quale risultante
+dall’analisi di transfer pricing elaborata dai verificatori sulla scorta di un
+campione di nove società comparabili selezionate fra le duecento
+inizialmente prese in esame.
+2.3 Con il secondo, prospettante la violazione dell’art. 103, comma 3,
+del t.u.i.r., veniva disconosciuta la deducibilità della quota di
+ammortamento del maggior valore di avviamento che GE Medical Systems
+Italia s.p.a. aveva iscritto nell’attivo dello stato patrimoniale nel bilancio
+d’esercizio 2003.
+2.4 Per meglio comprendere la portata di quest’ultimo rilievo si
+rendono necessarie alcune precisazioni.
+Nell’anno 2001 la francese GE Medical Systems S.A. aveva costituito la
+GE Medical Systems Italia Holding s.r.l., conferendo ad essa la propria
+partecipazione rappresentativa del 100 per cento del capitale della GE
+Medical Systems Italia s.p.a..
+Tale partecipazione di controllo era stata iscritta in bilancio dalla
+conferitaria, nell’attivo dello stato patrimoniale, fra le immobilizzazioni
+finanziarie.
+Nel 2003 GE Medical Systems Italia Holding s.r.l. aveva incorporato
+per fusione GE Medical Systems Italia s.p.a., assumendone la relativa
+denominazione.
+Poichè per effetto della fusione si era venuto a determinare un
+disavanzo derivante dall’annullamento della partecipazione di controllo
+detenuta dalla società incorporante in quella incorporata, la nuova GE
+Medical Systems Italia s.p.a. aveva integralmente utilizzato detto
+disavanzo per iscrivere nell’attivo dello stato patrimoniale un maggior
+3
+
+--- Pagina 4 ---
+
+valore di avviamento di pari importo, prevedendone l’ammortamento in
+dieci anni, con imputazione al conto economico della quota di un decimo
+per ogni esercizio dal 2003 al 2012.
+Inoltre, dal momento che GE Medical Systems S.A. aveva
+precedentemente assoggettato a imposta sostitutiva con l’aliquota del 19
+per cento, ai sensi dell’art. 1 del d.lgs. n. 358 del 1997, la plusvalenza
+realizzata per effetto della cessione della suindicata partecipazione di
+controllo, la società risultante dalla fusione innanzi descritta aveva
+ritenuto di poter affrancare gratuitamente il valore di avviamento iscritto
+in bilancio mediante l’utilizzo del disavanzo di fusione fino a concorrenza
+dell’importo di tale plusvalenza, giusta quanto disposto dall’art. 6, comma
+2, lett. a), dello stesso decreto legislativo.
+L’Ufficio sosteneva, invece, che la cedente GE Medical Systems S.A.,
+quale società avente sede in Francia e priva di stabile organizzazione nel
+territorio dello Stato italiano, avrebbe dovuto tassare la plusvalenza come
+reddito diverso, ai sensi dell’art. 20, comma 1, lett. f), del t.u.i.r., vecchio
+testo, con applicazione dell’imposta sostitutiva del 27 per cento prevista
+dall’art. 5, comma 1, del d.lgs. n. 461 del 1997, essendo il diverso regime
+di cui agli artt. 1, 2 e 3 del d.lgs. n. 358 del 1997 riservato ai soli
+conferimenti di partecipazioni di controllo effettuati fra soggetti residenti
+in Italia nell’esercizio di imprese commerciali.
+3. Entrambe le società accertate contestavano la pretesa erariale
+proponendo ricorso congiunto dinanzi alla Commissione Tributaria
+Provinciale (CTP) di Milano, la quale, riconosciuta la fondatezza delle
+ragioni da loro addotte, annullava l’atto impositivo.
+4. La pronuncia di primo grado veniva successivamente confermata
+dalla Commissione Tributaria Regionale (CTR) della Lombardia, che con
+sentenza n. 5556/2019 del 30 dicembre 2019 rigettava l’appello
+dell’Amministrazione Finanziaria.
+4.1 A sostegno della decisione assunta il collegio  regionale  osservava
+4
+
+--- Pagina 5 ---
+
+che:
+- l’analisi di transfer pricing condotta dall’Ufficio si esponeva a
+«molteplici rilievi critici» quanto all’individuazione del periodo di
+comparazione, alla selezione delle società comparabili e alle cause della
+riduzione del margine di redditività registrato dalla GE Medical Systems
+Italia s.p.a. nell’anno 2011;
+- era fondata la doglianza della contribuente riguardante la dedotta
+violazione del principio di tutela dell’affidamento, avendo i verificatori
+«avviato l’accertamento dopo che era scaduto il termine per
+l’accertamento del 2003 (anno in cui, per effetto della fusione, si e[ra]
+generato il disavanzo imputato ad avviamento), e dunque non solo a
+distanza di tempo, ma anche dopo che per il primo anno ”utile“ non era
+stata compiuta alcuna ripresa»;
+- non appariva corretto il rilievo incentrato sulla pretesa sussistenza di
+una limitazione di tipo soggettivo all’applicabilità nei confronti della
+francese GE Medical Systems S.A. della disciplina dettata dall’art. 1 del
+d.lgs. n. 358 del 1997, prevedente la possibilità di assoggettare a imposta
+sostitutiva con l’aliquota del 19 per cento le plusvalenze da cessione di
+partecipazioni di controllo.
+5. Contro tale sentenza l’Agenzia delle Entrate ha proposto ricorso per
+cassazione affidato a quattro motivi.
+6. Nuovo Pignone Holding s.p.a. e GE Medical Systems Italia s.p.a.
+hanno resistito con unico controricorso.
+7. La causa è stata chiamata all’odierna pubblica udienza per la
+discussione.
+7.1 Nel termine di cui all’art. 378, secondo comma, c.p.c. le
+controricorrenti hanno depositato memoria illustrativa, concludendo:
+a)per la declaratoria di cessazione della materia del contendere
+limitatamente ai motivi di ricorso concernenti il secondo rilievo fiscale,
+annullato in via di autotutela dall’Agenzia delle Entrate con provvedimento
+5
+
+--- Pagina 6 ---
+
+allegato;
+(b)per il rigetto dei restanti motivi dell’avversa impugnazione.
+7.2 Successivamente anche la ricorrente ha depositato copia del
+suddetto provvedimento di autotutela.
+RAGIONI DELLA DECISIONE
+1. Alla luce dell’allegato provvedimento di annullamento in via di
+autotutela emesso nelle more del giudizio dalla Direzione Regionale della
+Lombardia dell’Agenzia delle Entrate -il cui deposito è consentito dall’art.
+372, secondo comma, c.p.c., in quanto avente ad oggetto un documento
+volto a evidenziare la sopravvenienza di una causa di parziale
+inammissibilità dell’esperita impugnazione (cfr., ex ceteris, Cass. n.
+5408/2022, Cass. Sez. U. n. 272/2023, Cass. n. 5408/2024, Cass. n.
+17955/2025)-, va dichiarata la cessazione della materia del contendere in
+ordine al terzo e al quarto motivo di ricorso, concernenti il rilievo fiscale
+cui si riferisce il menzionato provvedimento.
+1.1 Con tali motivi, rubricati ”violazione e falsa applicazione dell’art.
+10, comma 2, della legge n. 212 del 2000 (art. 360, primo comma, num.
+3, c.p.c.)“ e ”violazione e falsa applicazione degli artt. 1, 3 e 6, comma 2,
+lett. a), del d.lgs. n. 358 del 1997, dell’art. 5, comma 1, del d.lgs. n. 461
+del 1997, dell’art. 6 della legge n. 342 del 2000, degli artt. 7, comma 1,
+23, comma 1, lett. f), e 81, comma 1, lett. c), nel testo originario (ora art.
+67, comma 1, lett. c]), del d.P.R. n. 917 del 1986, dell’art. 8.b) del
+protocollo annesso alla Convenzione Italia-Francia contro le doppie
+imposizioni, ratificata a sèguito della legge n. 20 del 1992, dell’art. 63 del
+T.F.U.E. e degli artt. 5 e 25 del d.lgs. n. 446 del 1997 (art. 360, primo
+comma, num. 3, c.p.c.)“, si contestava alla CTR:
+- di aver erroneamente ritenuto operante nel caso di specie il principio
+di tutela dell’affidamento del contribuente;
+- di non aver correttamente inteso il senso delle contestazioni poste  a
+6
+
+--- Pagina 7 ---
+
+base del secondo rilievo, il quale si fondava sull’assunto che la francese
+GE Medical Systems S.A. avrebbe potuto conseguire l’affrancamento
+fiscale della plusvalenza da cessione di partecipazioni di controllo solo
+mediante il pagamento dell’imposta sostitutiva con l’aliquota del 27 per
+cento prevista dall’art. 5, comma 1, del d.lgs. n. 461 del 1997, vigente
+ratione temporis, essendo la minor aliquota del 19 per cento riservata
+dall’art. 3, comma 1, del d.lgs. n. 358 del 1997 ai soli soggetti residenti in
+Italia.
+1.2 A sèguito del surriferito intervento in autotutela
+dell’Amministrazione Finanziaria, deve ritenersi venuto meno in parte qua
+l’interesse a una pronuncia sulla fondatezza della pretesa tributaria (cfr.
+Cass. n. 4372/2011, Cass. n. 15432/2022, Cass. n. 20407/2024, Cass. n.
+3306/2025).
+2. Restano, quindi, da esaminare il primo e il secondo motivo di
+gravame, riguardanti il distinto rilievo fiscale in tema di transfer pricing.
+2.1 Di essi, come degli altri due articolati dall’Agenzia delle Entrate, le
+controricorrenti hanno eccepito l’inammissibilità per difetto del requisito di
+cui all’art. 366, primo comma, num. 3, c.p.c..
+2.2 L’eccezione è infondata, in quanto, sebbene nel ricorso siano stati
+riportati ampi stralci dell’atto di appello proposto dall’Amministrazione
+Finanziaria, ciò non impedisce alla Corte di cogliere con immediatezza, e
+senza necessità di attingere a fonti esterne, gli aspetti salienti della
+vicenda processuale e le critiche rivolte alla sentenza di secondo grado.
+2.3 Tanto premesso, con il primo motivo, formulato ai sensi dell’art.
+360, primo comma, num. 4, c.p.c., sono denunciate la violazione e la falsa
+applicazione dell’art. 36, comma 2, num. 4, del d.lgs. n. 546 del 1992.
+2.4 Si sostiene che, nella parte in cui ha ritenuto non accoglibile il
+primo rilievo fiscale mosso dall’Ufficio con l’avviso di accertamento oggetto
+di causa, l’impugnata sentenza risulterebbe affetta da nullità per
+mancanza assoluta o mera apparenza della motivazione.
+7
+
+--- Pagina 8 ---
+
+2.5 La censura è priva di fondamento.
+2.6 Per consolidato orientamento nomofilattico, a sèguito della
+riformulazione dell’art. 360, primo comma, num. 5, c.p.c. disposta dall’art.
+54, comma 1, lett. b), del d.l. n. 83 del 2012, conv. dalla legge n. 134 del
+2012, il sindacato di legittimità sulla motivazione della sentenza è ormai
+da ritenere ristretto alla verifica dell’osservanza del cd. «minimo
+costituzionale» richiesto dall’art. 111, sesto comma, della Carta
+fondamentale, da intendersi violato nei soli casi di «mancanza assoluta di
+motivi sotto il profilo materiale e grafico», di «contrasto irriducibile fra
+affermazioni inconciliabili» e di motivazione «perplessa od
+incomprensibile» o «apparente», esclusa qualunque rilevanza del semplice
+difetto di «sufficienza» della stessa.
+Le descritte anomalie comportano la nullità della decisione per
+difetto del requisito di cui all’art. 132, secondo comma, num. 4, c.p.c. -
+norma che nel processo tributario trova il suo corrispondente nell’art. 36,
+comma 2, num. 4, del d.lgs. n. 546 del 1992-, sempre che i relativi vizi
+emergano direttamente dal testo della sentenza, a prescindere dal
+confronto con le risultanze processuali (cfr. Cass. Sez. U. nn. 8053-
+8054/2014; id., ex permultis, Cass. Sez. U. n. 19881/2014, Cass. Sez. U.
+n. 17564/2019, Cass. Sez. U. n. 23746/2020, Cass. Sez. U. n.
+32000/2022, Cass. n. 20598/2023).
+2.7 Ciò posto, si osserva che nella sentenza in esame la CTR ha
+riassunto le doglianze mosse dall’appellante Agenzia delle Entrate in
+relazione al primo rilievo fiscale, mostrando di averne chiaramente inteso
+la portata.
+Essa ha, infatti, evidenziato che con l’esperito gravame la parte
+pubblica si era doluta:
+- del «vizio di motivazione [della pronuncia di primo grado] con
+riferimento alla deduzione dei costi di transfer pricing, avuto riguardo alla
+assenza o comunque inadeguatezza della documentazione contrattuale
+8
+
+--- Pagina 9 ---
+
+relativa ai rapporti intercompany, alla caduta del margine di redditività
+(sceso da un anno all’altro, proprio nel 2011, dal 10% al 3,23%) in
+concomitanza con un inusuale incremento dei prezzi infragruppo praticati,
+la inadeguatezza dello studio di TP presentato dalla parte, soprattutto per
+quanto concerne la selezione dei comparabili, rispetto a cui l’Ufficio ha
+offerto autonoma ricostruzione seguendo un diverso modello di
+comparazione, ritenuto più adeguato alla corretta rappresentazione dei
+rapporti intercompany»;
+- del «vizio di motivazione [della sentenza appellata] con riferimento
+alla valutazione della prova in tema di transfer pricing, laddove in
+particolare non si riconosce[va] che l’Ufficio a[vesse] rilevato l’esistenza di
+transazion[i] a valore ”non normale“, a[vesse] utilizzato comparabili
+adeguati e calcolato il valore di scambio ”normale“ facendo uso di un
+metodo di calcolo (metodo del margine netto) condiviso dallo stesso
+contribuente»;
+- dell’«errore di diritto [commesso dal collegio regionale], laddove
+l’Ufficio è tenuto a provare in materia di transfer pricing il valore normale
+(secondo criteri di razionalità economica e giuridica), una volta individuati
+(come nella specie) significativi margini di scostamento dal valore
+normale, mentre il contribuente deve, ai sensi dell’art. 2697 c.c.,
+dimostrare la irrealtà di quanto dedotto dall’Ufficio».
+2.8 Nel prosieguo i giudici di secondo grado hanno vagliato le censure
+sollevate dalla parte appellante, ritenendole immeritevoli di accoglimento
+sulla scorta delle condivise controdeduzioni svolte dalle contribuenti, le
+quali avevano obiettato che «le osservazioni dell’Ufficio si espon[eva]no a
+molteplici rilievi critici, avuto riguardo: (i)al periodo della comparazione
+(e[ra] stato preso in esame [...] un anno di imposta diverso da quello cui
+si riferi[va] l’accertamento); (ii)ai soggetti utilizzati per la comparazione
+(4 delle 9 società utilizzate per la comparazione esercita[va]no attività
+diverse ed ulteriori rispetto a quelle di commercializzazione di
+9
+
+--- Pagina 10 ---
+
+apparecchiature medicali esercitate da GE Medical System); (iii)[al]la
+riduzione del margine di redditività per il 2011, [la quale] si spiega[va]
+con ragioni economiche di settore che -stando a quanto documentato dalla
+difesa di controparte- risulta[va]no evidenziate nel Rapporto sulla spesa
+sanitaria del Ministero della Salute per il 2011 ed [avrebbero]
+abbracc[iato] quindi l’intero settore ove opera[va] la società appellata».
+2.9 Da quanto precede si ricava che la motivazione della sentenza,
+oltre ad esistere sotto il profilo materiale e grafico, come parte del
+documento in cui consiste il provvedimento giudiziale, è perfettamente
+intelligibile,  consentendo di individuare le ragioni sulle quali si fonda il
+convincimento espresso dalla CTR, costituite dalla mancata prova della
+non corrispondenza dei prezzi di trasferimento praticati nelle transazioni
+infragruppo poste in essere dalla GE Medical Systems Italia s.p.a. al valore
+normale di cui all’art. 9, comma 3, del t.u.i.r..
+Né essa può dirsi apparente per il fatto che i giudici a quibus abbiano
+condiviso e recepito le argomentazioni difensive delle società appellate.
+Giova, in proposito, rammentare che le Sezioni Unite di questa Corte,
+risolvendo una questione di massima di particolare importanza, hanno
+affermato che nel processo civile e in quello tributario non può ritenersi
+nulla la sentenza che esponga le ragioni della decisione limitandosi a
+riprodurre il contenuto di un atto di parte (ovvero di altri atti processuali o
+provvedimenti giudiziari), eventualmente senza aggiungervi alcunchè,
+sempre che in tal modo risultino comunque attribuibili al giudicante e
+illustrate in maniera chiara, univoca ed esaustiva le ragioni sulle quali la
+pronuncia si fonda (cfr. Cass. Sez. U. n. 642/2015).
+D’altro canto, nemmeno è possibile, dietro lo schermo della denuncia
+del vizio di nullità della sentenza per difetto del requisito di cui all’art. 36,
+comma 2, num. 4, del d.lgs. n. 546 del 1992, contestare la valutazione
+del materiale istruttorio compiuta dal collegio regionale o la correttezza
+giuridica della soluzione della controversia da questo offerta, in quanto le
+10
+
+--- Pagina 11 ---
+
+gravi anomalie motivazionali integranti inosservanza del «minimo
+costituzionale» devono emergere direttamente dal testo della sentenza,
+indipendentemente dal confronto con le risultanze processuali, e
+prescindono da eventuali errores in iudicando da cui è affetta la decisione.
+3. Con il secondo motivo, proposto a norma dell’art. 360, primo
+comma, num. 5, c.p.c., è lamentato l’omesso esame di «punti di fatto
+decisivi e controversi», concernenti la rispondenza o meno al valore
+normale dei costi infragruppo dedotti da GE Medical Systems Italia s.p.a.
+nell’anno 2011.
+3.1 In particolare, la CTR avrebbe tralasciato di considerare che:
+(i)«[...] la media di redditività utilizzata dall’Ufficio (8,8%) era [stata]
+costruita utilizzando anche i dati economici delle società comparabili
+relativi al 2011»;
+(ii)«[...] il campione era stato costruito prendendo a base 200 società
+ed escludendo poi quelle meno affini a Gemsi [scilicet: GE Medical
+Systems Italia s.p.a. - n.d.r. ...]», mentre «[...] il contrapposto campione
+addotto dalla società era eterogeneo perché comprendeva anche società
+operanti nella vendita di farmaci e prodotti parafarmaceutici»;
+(iii)«[...] nel 2011 era pacifico che la società aveva subìto, sì, una
+contrazione di fatturato, ma, contemporaneamente, un incremento di costi
+di acquisto infragruppo; il che, [...] alla stregua di massime di esperienza,
+se adeguatamente esaminato, avrebbe potuto condurre alla conclusione
+che la riduzione della redditività a circa un terzo di quella costantemente
+registrata negli anni precedenti era dovuta non alla presunta contrazione
+della spesa sanitaria generale, ma al livello anomalo, cioè non ”normale“,
+dei costi di acquisto infragruppo».
+3.2 Il motivo è ammissibile, non incorrendo nella preclusione da cd.
+”doppia conforme“ sancita dal combinato disposto del quarto e del quinto
+comma dell’art. 348-ter c.p.c., applicabile ratione temporis, considerato
+che la sentenza resa dalla CTP di Milano -il cui contenuto è stato trascritto
+11
+
+--- Pagina 12 ---
+
+nel corpo del ricorso, in osservanza dell’onere di specificità imposto
+dall’art. 366, primo comma, num. 6, del medesimo codice- non si era
+espressamente pronunciata sul motivo di appello dell’Amministrazione
+Finanziaria concernente il primo rilievo fiscale, essendosi limitata a
+riportare nella narrativa le considerazioni svolte sul punto dalle
+contribuenti (la parte motivazionale ha inizio soltanto dal rigo 18 della
+terzultima pagina, ove leggesi: «La Commissione, esaminati gli atti e
+ascoltate le parti all’udienza, ritiene che il ricorso sia parzialmente fondato
+nel merito nei termini sotto specificati»); il che impedisce di ritenere che
+per questa parte la qui impugnata sentenza si fondi sulle medesime
+ragioni di fatto poste a base della decisione di primo grado.
+3.3 Sebbene ammissibile, la censura è tuttavia infondata, dovendo
+escludersi che i fatti di cui viene lamentato l’omesso esame siano stati
+trascurati dalla CTR, la quale, come si è visto in sede di disamina del
+precedente motivo, ha dato conto della loro allegazione, fornendone, però,
+sulla scorta di un complessivo apprezzamento delle emergenze
+processuali, una lettura diversa da quella prospettata dall’appellante e non
+sindacabile nel giudizio di legittimità.
+Non va, peraltro, dimenticato che, secondo la stabile giurisprudenza di
+questa Corte, non sussiste il vizio di omesso esame se il giudice ha
+comunque considerato il fatto storico rilevante, anche se non tutte le
+risultanze probatorie sono state da lui valutate (cfr. Cass. n. 25439/2025,
+Cass. n. 28118/2025, Cass. n. 29414/2025, Cass. n. 31092/2025).
+4. Tirando le fila del discorso fin qui condotto, sulle conformi
+conclusioni del Pubblico Ministero:
+- va dichiarata la cessazione della materia del contendere con riguardo
+al terzo e al quarto motivo di ricorso, concernenti il secondo rilievo fiscale
+annullato in via di autotutela dall’Ufficio;
+- devono essere respinti il primo e il secondo motivo, afferenti all’altro
+rilievo formulato con l’atto impositivo oggetto di causa.
+12
+
+--- Pagina 13 ---
+
+5. Le spese processuali seguono la soccombenza dell’Amministrazione
+Finanziaria -da ritenersi effettiva rispetto alla residua materia del
+contendere e prevalente nell’àmbito di una complessiva valutazione
+dell’esito della lite, stante il maggior valore del rilievo fiscale non annullato
+d’ufficio- e vengono liquidate come in dispositivo.
+6. Non deve essere resa l’attestazione contemplata dall’art. 13,
+comma 1-quater, del d.P.R. n. 115 del 2002 (Testo unico in materia di
+spese di giustizia), sia perché la formula definitoria del giudizio non
+corrisponde ad alcuna di quelle previste dalla citata norma (inammissibilità
+originaria, improcedibilità o rigetto integrale dell’impugnazione) sia perchè
+la parte ricorrente risulta ammessa alla prenotazione a debito del
+contributo unificato, ai sensi degli artt. 158, comma 1, lett. a), dello
+stesso d.P.R. e 12, comma 5, del d.l. n. 16 del 2012, conv. dalla legge n.
+44 del 2012.
+P.Q.M.
+La Corte così provvede:
+- dichiara cessata la materia del contendere in ordine al terzo e al
+quarto motivo di ricorso:
+- rigetta il primo e il secondo motivo;
+- condanna l’Agenzia delle Entrate, in persona del Direttore pro
+tempore, a rifondere alle controricorrenti le spese del giudizio di
+legittimità, liquidate in complessivi 25.200 euro (di cui 200 per esborsi),
+oltre al rimborso forfettario nella misura del 15 per cento e agli accessori
+di legge.
+Così deciso in Roma, nella camera di consiglio della Sezione Tributaria
+della Corte Suprema di Cassazione, in data 3 marzo 2026.
+Il Consigliere estensore                           La Presidente
+Danilo Chieca                                Roberta Crucitti
+13

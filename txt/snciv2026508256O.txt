@@ -1,0 +1,312 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 13367/2024 R.G. proposto da:
+Agenzia delle entrate, in persona del legale rappresentante pro tempore,
+rappresentata e difesa dall’Avvocatura generale dello Stato
+contro
+Essepiù Immobiliare s.r.l. e Gisowatt s.r.l., in persona dei rispettivi legali
+rappresentanti pro tempore, rappresentate e difese dall'avvocato Giulio Di
+Matteo unitamente all’avvocato Alberto Gaffuri
+-controricorrenti-
+nonché nei confronti di
+Agenzia delle entrate - Riscossione, in persona del legale rappresentante
+pro tempore
+avverso la sentenza della Corte di giustizia tributaria di secondo grado
+della Lombardia n. 471/07/24 depositata il 12/02/2024.
+Udita la relazione svolta nella camera di consiglio del 25/03/2026 dal
+Consigliere Giacomo Maria Nonno.
+FATTI DI CAUSA
+1. Con la sentenza n. 471/07/24 del 12/02/2024, la Corte di giustizia
+tributaria di secondo grado della Lombardia (di seguito CGT2) rigettava
+
+--- Pagina 2 ---
+
+l’appello principale proposto dall’Agenzia delle entrate (di seguito AE)
+nonché gli appelli incidentali proposti da Gisowatt s.r.l. (di seguito
+Gisowatt) ed Essepiù Immobiliare s.r.l. (di seguito Essepiù) avverso la
+sentenza n. 37/01/22 della Commissione tributaria provinciale di Varese
+(di seguito CTP), che aveva accolto i ricorsi riuniti delle società
+contribuenti nei confronti di quattro avvisi di accertamento per IVA
+concernente gli anni d’imposta 2006-2009, notificati a Gisowatt, e di una
+cartella di pagamento per IVA relativa all’anno d’imposta 2006, notificata
+ad Essepiù.
+1.1. Come emerge dalla sentenza impugnata, gli avvisi di
+accertamento erano stati emessi in ragione di cessioni intracomunitarie
+effettuate in regime di non imponibilità da Gisowatt nei confronti di
+cessionari polacchi non aventi la qualifica di soggetti passivi di imposta,
+con conseguente violazione del regime di non imponibilità IVA e recupero
+dell’imposta evasa. Il recupero relativo all’anno 2006 avveniva con cartella
+di pagamento anche nei confronti di Essepiù, giusta scissione parziale con
+la quale erano state trasferite a tale società tutte le immobilizzazioni
+materiali prima facenti capo a Gisowatt.
+1.2. La CTR respingeva gli appelli delle parti evidenziando che: a) le
+sentenze penali italiane o polacche non avevano effetti di giudicato nel
+giudizio tributario, potendo il giudice tributario solo trarre da esse
+elementi di convincimento; b) come risultava dall’accertamento condotto
+dal giudice polacco, i beni ceduti da Gisowatt (aspirapolveri) erano stati
+acquistati da soggetti passivi IVA, prelevati in Italia da trasportatori
+polacchi ed effettivamente trasportati in Polonia; c) la frode IVA, pertanto,
+era stata orchestrata unicamente dagli operatori polacchi e a detta frode
+Gisowatt era estranea; d) la cessione era sicuramente a titolo oneroso ed
+era stata oggetto di pagamenti in contanti e poi bancari; e) l’accertamento
+del giudice penale polacco era più attendibile rispetto a quello del giudice
+penale italiano, essendo stata in quest’ultimo caso pronunciata sentenza
+2
+
+--- Pagina 3 ---
+
+di applicazione della pena su richiesta; f) ne conseguiva la correttezza
+della sentenza di primo grado che aveva annullato gli accertamenti; g)
+doveva, altresì, essere rigettato l’appello incidentale di Gisowatt per
+carenza di interesse e l’appello incidentale di Essepiù in quanto AE non
+aveva interposto appello in ordine all’annullamento della cartella di
+pagamento.
+2. AE impugnava la sentenza della CGT2 con ricorso per cassazione,
+affidato a quattro motivi.
+3. Gisowatt ed Essepiù resistevano con separati controricorsi e
+depositavano, altresì, memoria ex art. 380 bis.1 cod. proc. civ.
+RAGIONI DELLA DECISIONE
+1. Va preliminarmente evidenziato che Essepiù partecipa al presente
+procedimento unicamente in quanto il ricorso le è stato notificato dalla
+ricorrente, ma, in realtà, la sua posizione non è stata oggetto di appello da
+parte di AE, per come specificato dalla stessa sentenza impugnata e non
+contestato.
+1.1. Ne deriva che, essendo la posizione di Essepiù sicuramente
+scindibile dalla posizione di Gisowatt, la stessa è carente di legittimazione
+passiva nel presente procedimento (cfr. Cass. S.U. n. 11676 del
+30/04/2024), con conseguente rigetto del ricorso nei suoi confronti.
+2. Con il primo, il secondo ed il terzo motivo di ricorso AE deduce, in
+relazione all’art. 360, primo comma, n. 4, cod. proc. civ., violazione del
+combinato disposto dell'art. 132, secondo comma, n. 4, cod. proc. civ.,
+dell’art. 118 disp. att. cod. proc. civ. e dell’art. 36, comma 2, n. 4, del
+d.lgs. 31 dicembre 1992, n. 546, per avere la CGT2 reso motivazione
+apparente in ordine all’infondatezza della pretesa erariale. In particolare, il
+giudice di appello avrebbe immotivatamente: a) dato prevalenza
+all’accertamento espletato dal giudice polacco (primo motivo), svalutando
+l’accertamento del giudice penale italiano in ordine all’esistenza del fatto
+contestato (terzo motivo); b) ricavato dalla sentenza penale straniera la
+3
+
+--- Pagina 4 ---
+
+sussistenza di elementi di fatto idonei a ritenere la sussistenza dei
+presupposti per il riconoscimento della non imponibilità IVA (secondo
+motivo). Ciò senza chiarire l’iter logico giuridico alla base del proprio
+ragionamento e trascurando del tutto le osservazioni fornite in proposito
+dalla difesa dell’Amministrazione finanziaria.
+2.1. I motivi, che possono essere unitariamente esaminati per ragioni
+di connessione, sono infondati.
+2.2. Secondo la giurisprudenza delle Sezioni Unite di questa Corte, si è
+in presenza di una motivazione apparente allorché la motivazione, pur
+essendo graficamente (e, quindi, materialmente) esistente, come parte
+del documento in cui consiste il provvedimento giudiziale, non rende
+tuttavia percepibili le ragioni della decisione, perché consiste di
+argomentazioni obiettivamente inidonee a far conoscere l'iter logico
+seguito per la formazione del convincimento, di talché essa non consente
+alcun effettivo controllo sull'esattezza e sulla logicità del ragionamento del
+giudice. Sostanzialmente omogenea alla motivazione apparente è poi
+quella perplessa e incomprensibile: in entrambi i casi, invero – e purché il
+vizio risulti dal testo della sentenza impugnata, a prescindere dal
+confronto con le risultanze processuali – l'anomalia motivazionale,
+implicante una violazione di legge costituzionalmente rilevante, integra un
+error in procedendo e, in quanto tale, comporta la nullità della sentenza
+impugnata per cassazione (Cass. S.U. n. 22232 del 03/11/2016; Cass.
+S.U. n. 16599 del 05/08/2016).
+2.3. Nel caso di specie, la CGT2 ha dato prevalenza ai fatti per come
+accertati dal giudice penale polacco specificando che l’indagine di
+quest’ultimo è stata particolarmente dettagliata a differenza di quella
+compiuta dal giudice penale italiano; e ciò in ragione della peculiarità del
+rito prescelto dagli imputati (applicazione della pena su richiesta). Inoltre,
+ha legittimamente tratto dalla sentenza penale il convincimento in ordine
+alla insussistenza della pretesa erariale, selezionando alcuni fatti ritenuti
+4
+
+--- Pagina 5 ---
+
+rilevanti e ritenendoli significativamente comprovanti la sussistenza dei
+presupposti della non imponibilità.
+2.4. Trattasi di motivazione sicuramente sintetica, ma niente affatto
+apparente, essendo idonea a specificare le ragioni poste alla base della
+scelta effettuata, anche in considerazione del fatto che la cd. sentenza di
+patteggiamento non costituisce ammissione di responsabilità penale per
+l’imputato e che spetta, in via esclusiva, al giudice di merito il compito di
+individuare le fonti del proprio convincimento, di controllarne l'attendibilità
+e la concludenza e di scegliere, tra le complessive risultanze del processo,
+quelle ritenute maggiormente idonee a dimostrare la veridicità dei fatti ad
+esse sottesi, dando così liberamente prevalenza all'uno o all'altro dei
+mezzi di prova acquisiti, salvo i casi tassativamente previsti dalla legge
+(cfr. Cass. n. 331 del 13/01/2020; Cass. n. 19547 del 04/08/2017; Cass.
+n. 24679 del 04/11/2013; Cass. n. 27197 del 16/12/2011; Cass. n. 2357
+del 07/02/2004).
+3. Con il quarto motivo di ricorso si lamenta, in relazione all’art. 360,
+primo comma, n. 3, cod. proc. civ., violazione e/o falsa applicazione
+dell'art. 41, comma 1, lett. a), del d.l. 30 agosto 1993, n. 331, conv. con
+modif. nella l. 29 ottobre 1993, n. 427, nonché dell’art. 2697 cod. civ., per
+avere la CGT2 fatto riferimento a fonti di prova inidonee e insufficienti a
+comprovare l’avvenuta esportazione dei beni, con conseguente violazione
+delle regole di riparto dei carichi probatori.
+3.1. Il motivo è inammissibile.
+3.2. Secondo il costante orientamento della Corte di giustizia della UE,
+il regime di non imponibilità IVA della cessione intracomunitaria diviene
+applicabile solo quando il potere di disporre del bene come proprietario è
+stato trasmesso all’acquirente, nonché quando il venditore prova che tale
+bene è stato spedito o trasportato in un altro Stato membro e che, in
+seguito a tale spedizione o trasporto, esso ha lasciato fisicamente il
+territorio dello Stato membro di cessione (CGUE 27 settembre 2007, in
+5
+
+--- Pagina 6 ---
+
+causa C-409/04, Teleos, punto 42; CGUE 27 settembre 2007, in causa
+C‑184/05, Twoh International, punto 23; CGUE 7 dicembre 2010, in causa
+C-285/09, R., punto 41, CGUE 16 dicembre 2010, in causa C‑430/09, Euro
+Tyre Holding, punto 29; CGUE 6 settembre 2012, in causa C-273/11,
+Mecsek-Gabona, punto 31; CGUE 9 ottobre 2014, in causa C‑492/13,
+Traum EOOD, punto 24).
+3.2.1. La Corte di giustizia ha ulteriormente precisato che gli obblighi
+spettanti a un soggetto passivo in materia di prova (segnatamente con
+riferimento al trasferimento della merce in altro Stato membro) devono
+essere determinati in funzione delle condizioni espressamente stabilite a
+tale riguardo dal diritto nazionale e dalla prassi abituale prevista per
+analoghe operazioni (CGUE in causa C-273/11, cit., punto 38; CGUE in
+causa C-492/13, cit., punto 30).
+3.2.2. Sarebbe quindi contrario al principio di certezza del diritto che
+uno Stato membro, il quale ha stabilito i requisiti ai fini dell’applicazione
+dell’esenzione dall’IVA di una cessione intracomunitaria ed ha accettato in
+un primo tempo i documenti presentati dal fornitore in quanto prove
+giustificative del diritto all’esenzione, possa successivamente obbligare il
+fornitore medesimo ad assolvere l’IVA relativa a tale cessione allorché
+consti che, in particolare, a causa di una frode commessa dall’acquirente
+di cui il fornitore non era e non poteva essere a conoscenza, i beni in
+questione non abbiano in realtà lasciato il territorio dello Stato membro di
+cessione (CGUE in causa C-409/04, cit., punto 50; CGUE in causa C-
+492/13, cit., punto 31).
+3.2.3. Pertanto, quando non esista alcuna prova tangibile che permetta
+di ritenere che i beni di cui trattasi siano stati trasferiti al di fuori del
+territorio dello Stato membro di cessione, non è possibile obbligare il
+soggetto passivo a fornire una tale prova perché non vi sarebbe garanzia
+della corretta e semplice applicazione delle esenzioni dall’IVA e si porrebbe
+il cedente in una situazione di incertezza circa la possibilità di applicare
+6
+
+--- Pagina 7 ---
+
+l’esenzione sulla cessione intracomunitaria o circa la necessità di includere
+l’IVA nel prezzo di vendita (CGUE, in causa C-409/04, cit., punti 49 e 51,
+CGUE in causa C-273/11, cit., punto 41; CGUE in causa C-492/13, cit.,
+punto 31).
+3.2.4. Peraltro, è la stessa Corte di giustizia a chiarire che le lettere di
+vettura, così come i documenti equipollenti, possono essere considerate
+come elemento idoneo a dimostrare che i beni cui si riferiscono siano
+destinati a essere trasportati o spediti verso un altro Stato membro, ma
+solo se debitamente compilate con l’indicazione di tutti gli elementi
+necessari, ivi compresa la data della consegna (CGUE 20 giugno 2018, in
+causa C-108/17, Enteco Balti).
+3.2.5. In ogni caso, non è contrario al diritto dell’Unione esigere che un
+operatore agisca in buona fede e adotti tutte le misure che gli si possano
+ragionevolmente richiedere al fine di assicurarsi che l’operazione
+effettuata non lo conduca a partecipare ad un’evasione tributaria (CGUE,
+in causa C-409/04, cit., punto 65; CGUE 21 giugno 2012, in cause
+Mahagében e Dávid, punto 54; CGUE in causa C-273/11, cit., punto 48).
+3.3. Tali principi sono stati recepiti dalla recente giurisprudenza di
+questa Corte, la quale ha ritenuto che «ove l'Amministrazione finanziaria
+contesti l'imponibilità di cessioni relative a merci che si ritengano
+fittiziamente esportate in altro Paese membro della UE, grava sul cedente
+l'onere di provare l'effettività del trasporto nel territorio dello Stato in cui
+risiede il cessionario» (Cass. n. 29498 del 24/12/2020).In particolare, «il
+cedente ha l'onere di dimostrare l'effettività dell'esportazione della merce
+nel territorio dello Stato nel quale risiede il cessionario o, in mancanza, di
+fornire adeguata prova della propria buona fede, ossia di aver adottato
+tutte le misure che si possono ragionevolmente richiedere, per non essere
+coinvolto in un'evasione fiscale avendo riguardo alle circostanze del caso
+concreto: ne deriva che, in caso di vendita con clausola "franco fabbrica",
+il cedente ha diritto all'esenzione IVA solo ove fornisca la prova
+7
+
+--- Pagina 8 ---
+
+documentale rappresentativa dell'effettiva dislocazione della merce nel
+territorio dello Stato membro di destinazione o di "fatti secondari", dai
+quali desumere la presenza delle merci in un territorio diverso dallo Stato
+di residenza, ovvero, se la documentazione sia in possesso di terzi non
+collaboranti e non sia acquisibile da altri soggetti, di aver espressamente
+concordato, nei contratti stipulati con vettore, spedizioniere e cessionario,
+l'obbligo di consegna del documento e, a fronte dell'altrui inadempimento,
+di aver esperito ogni utile iniziativa giudiziaria» (Cass. n. 4045 del
+12/02/2019; Cass. n. 17727 del 01/07/2025).
+3.4. Si è, inoltre, osservato, sempre in relazione all’onere probatorio
+che incombe sul cedente, che «il documento di accompagnamento della
+merce è surrogabile anche con un documento commerciale contenente le
+stesse informazioni e la sua terza copia (l'esemplare che deve essere
+rinviato allo speditore per appuramento, cosiddetta copia di ritorno per il
+cedente) è idonea a comprovare, ai fini del beneficio dell'esenzione IVA,
+l'effettività del trasferimento della merce in altro Stato membro» (Cass. n.
+28831 del 08/11/2019; con riferimento alla prova del trasporto della
+merce nel territorio di altro Stato membro si vedano anche Cass. n. 7524
+del 15/04/2016; Cass. n. 2327 del 02/02/2021; Cass. n. 25587 del
+21/09/2021).
+3.5. Ciò premesso, nel caso di specie la sentenza impugnata è stata
+rispettosa dei superiori principi di diritto nonché di quelli conseguenti al
+riparto dell’onere probatorio. Invero, a fronte delle presunzioni poste alla
+base dell’avviso di accertamento, il giudice di appello ha legittimamente
+valorizzato gli elementi istruttori ricavabili dalla sentenza penale del
+giudice polacco, ritenendo, da un lato, l’effettivo trasporto della merce al
+di fuori del territorio della Repubblica e, dall’altro, la totale estraneità alla
+frode di Gisowatt, essendosi la stessa verificata unicamente in territorio
+polacco.
+8
+
+--- Pagina 9 ---
+
+3.6. In questo contesto, la circostanza che Gisowatt abbia costituito dei
+CMR falsi è sicuramente un elemento indiziario idoneo ad integrare,
+unitamente ad altri elementi, quelle presunzioni necessarie ai fini di
+procedere all’emissione dell’avviso di accertamento, ma non è elemento di
+per sé dirimente, posto che la “fabbricazione” di un documento
+giustificativo falso non è certo atto commendevole ed è sicuramente
+contrario a buona fede nei rapporti con l’Amministrazione finanziaria, ma
+trova una sua ragione nella volontà di chiudere la verifica, senza che tale
+solo fatto escluda di per sé il trasferimento della merce in Polonia, per
+come accertato dal giudice di merito sulla base di elementi istruttori
+diversi. Tanto più che, come evidenziato dalla CGT2, di questa prova (i
+CMR falsificati) la società contribuente non ha inteso servirsi in giudizio.
+3.7. In realtà, l’accertamento del giudice di appello in ordine al
+trasporto della merce in Polonia è legittimo, in quanto - a fronte delle
+presunzioni fornite dall’Amministrazione finanziaria - si fonda su un
+accertamento dell’autorità giudiziaria polacca e non già su elementi
+indiziari di provenienza esclusiva della ricorrente. Né si configura
+un’illegittima inversione dell’onere della prova.
+3.8. Ne deriva che AE, pur deducendo apparentemente, una violazione
+di norme di legge, mira, in realtà, alla rivalutazione dei fatti operata dal
+giudice di merito, così da realizzare una surrettizia trasformazione del
+giudizio di legittimità in un nuovo, non consentito, terzo grado di merito
+(Cass. n. 3340 del 05/02/2019; Cass. n. 640 del 14/01/2019; Cass. n.
+24155 del 13/10/2017; Cass. n. 8758 del 04/07/2017; Cass.  n. 8315 del
+05/04/2013).
+4. In conclusione, il ricorso va rigettato e la ricorrente va condannata
+al pagamento, in favore delle resistenti, in solido avuto conto della
+sostanziale sovrapponibilità delle difese, delle spese del presente
+procedimento, liquidate come in dispositivo avuto conto di un valore
+dichiarato della lite di euro 5.969.140,21.
+9
+
+--- Pagina 10 ---
+
+P.Q.M.
+La Corte rigetta il ricorso e condanna la ricorrente al pagamento, in favore
+delle controricorrenti, delle spese del presente procedimento, che si
+liquidano in euro 30.000,00, oltre alle spese forfettarie nella misura del
+15%, ad euro 200,00 per spese borsuali e agli accessori di legge.
+Così deciso in Roma, nella camera di consiglio del 25/03/2026.
+La Presidente
+Giulia Iofrida
+10

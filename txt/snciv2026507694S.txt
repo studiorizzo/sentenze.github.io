@@ -1,0 +1,799 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 23538/2023 R.G. proposto da:
+AGENZIA DELLE ENTRATE, elettivamente domiciliata in ROMA, VIA
+DEI PORTOGHESI 12, presso l'AVVOCATURA GENERALE DELLO
+STATO (ADS80224030587), che la rappresenta e difende
+-ricorrente-
+contro
+ACAMAR DI BARRETTA FRANCESCO & C. S.A.S. IN LIQUIDAZIONE,
+elettivamente domiciliata in LECCE, VIALE CAVOUR 56, presso lo
+studio dell’avvocato VILLANI MAURIZIO (VLLMRZ50P24E506Z), che la
+rappresenta e difende
+-controricorrente-
+avverso la SENTENZA di CORTE DI GIUSTIZIA TRIBUTARIA II GRADO
+PUGLIA n. 2449/23/23 depositata il 21/08/2023.
+Udita la relazione della causa svolta nella pubblica udienza del
+09/04/2025 dal Consigliere GIACOMO MARIA NONNO.
+Udita la requisitoria del P.G., in persona del sostituto procuratore
+generale dott. Olga Pirone, che ha concluso per il rigetto del ricorso.
+
+--- Pagina 2 ---
+
+Sentiti gli avv.ti Luigi Simeoli e Paolo Passolunghi per la ricorrente,
+nonché l’avv. Maurizio Villani per la controricorrente.
+FATTI DI CAUSA
+1. Con la sentenza n. 2449/23/23 del 21/08/2023, la Corte di
+giustizia tributaria di secondo grado della Puglia (di seguito CGT2)
+accoglieva l’appello proposto dalla società Acamar di Barretta
+Francesco e & C. s.a.s. in liquidazione (di seguito Acamar) avverso la
+sentenza n. 123/01/17 della Commissione tributaria provinciale di
+Brindisi (di seguito CTP), che aveva respinto il ricorso della società
+contribuente nei confronti di un avviso di accertamento per IVA
+relativa all’anno d’imposta 2011.
+1.1. Come emerge dalla sentenza impugnata, l’atto impositivo era
+stato emesso sul presupposto della ritenuta fittizietà della sede
+portoghese di Barry Towage & Offshore Serviço de Transporte
+Marítimo S.A. (di seguito BTO), in realtà residente in Italia, e della
+conseguente imponibilità IVA delle prestazioni di servizi rese da
+Acamar alla menzionata società, prestazioni ritenute non imponibili
+dalla controricorrente in applicazione dell’art. 8 bis del d.P.R. 26
+ottobre 1972, n. 633 (decreto IVA).
+1.2. La CGT2 accoglieva l’appello di Acamar evidenziando, per
+quanto ancora interessa, che: a) l’azione di contrasto all’evasione
+fiscale, conseguente alla contestazione di esterovestizione, doveva
+«concentrarsi nei confronti di quelle strutture societarie di “puro
+artificio” costituite all’estero, in assenza di valide ragioni economiche,
+al solo scopo di ottenere un indebito risparmio d’imposta; la
+costruzione di puro artificio [poteva] essere individuata in un gruppo
+societario che non riflette[va] una reale sostanza economica, ma
+risulta[va] caratterizzato da una struttura puramente formale avente
+come obiettivo principale, ovvero uno degli obiettivi principali, il
+conseguimento di un indebito vantaggio fiscale in contrasto con
+2 di 24
+
+--- Pagina 3 ---
+
+normativa tributaria applicabile»; b) i soci di Acamar, sig.ri Barretta,
+agivano per BTO in virtù di un contratto esistente tra le parti e non
+già quali amministratori di fatto di quest’ultima; c) BTO aveva
+ampiamente documentato di avere svolto la propria attività in
+Portogallo, ma tra le parti era intercorso un contratto di ship
+management con il quale erano state esternalizzate «le funzioni
+commerciali, amministrative e tecniche dal soggetto estero in
+outsourcing al soggetto italiano, che in relazione alle varie prestazioni
+di servizi rese [aveva] assoggettato i relativi redditi ad imposizione
+fiscale»; d) l’esterovestizione era stata esclusa anche dalla sentenza
+di appello che aveva assolto l’amministratore di BTO e i fratelli
+Francesco e Giuseppe Barretta, nonché dal Tribunale di Brindisi, che
+aveva dichiarato improponibile il ricorso per dichiarazione di
+fallimento di BTO proprio sul presupposto dello stabilimento all’estero
+della società; e) in ogni caso, la sentenza della Corte di appello era
+passata in giudicato, con conseguente valenza anche nel giudizio
+tributario del superiore accertamento; f) venendo meno «l’ipotesi
+accertativa della esterovestizione della società Barry Towage SA,
+tutte le contestazioni relative alla violazione dell’art. 8-bis del D.P.R.
+n. 633/72 risulta[va]no prive di fondamento sia sul piano formale sia
+sul piano sostanziale»; g) in ultimo, doveva osservarsi che se la
+residenza di BTO fosse effettivamente in Italia, la società avrebbe
+potuto giovarsi del regime agevolativo e particolarmente vantaggioso
+della tonnage tax.
+2. L’Agenzia delle entrate (di seguito AE) impugnava la sentenza
+della CTR con ricorso per cassazione, affidato a dieci motivi.
+3. Acamar e soci resistevano con controricorso e depositavano
+memoria ex art. 378 cod. proc. civ.
+3 di 24
+
+--- Pagina 4 ---
+
+RAGIONI DELLA DECISIONE
+1. Va pregiudizialmente evidenziato che Acamar ha chiesto la
+riunione del presente procedimento con gli altri procedimenti,
+chiamati per la medesima udienza pubblica del 09/04/2025, ivi
+compresi quelli pendenti tra i sig.ri Giuseppe e Francesco Barretta e
+BTO.
+1.1. L’istanza non può essere accolta in ragione della peculiarità
+delle questioni concernenti i singoli procedimenti, che non sempre
+possono essere omologate. Del resto, la trattazione unitaria di
+procedimenti connessi non è obbligatoria, ma implica una scelta
+discrezionale del giudice (cfr. Cass. n. 27550 del 30/10/2018); e, nel
+caso di specie, ritiene il Collegio che l’uniformità delle decisioni è già
+garantita dalla trattazione congiunta delle cause nella medesima
+udienza.
+2. Sempre in via preliminare, va evidenziato che il rilievo per il
+quale il ricorso per cassazione sia inammissibile in quanto tendente
+alla rivalutazione degli stessi fatti già esaminati dal giudice di appello
+va esaminato con riguardo ai singoli motivi, non essendo idoneo ad
+inficiare l’intero ricorso.
+3. Con il primo motivo di ricorso AE lamenta, in relazione all’art.
+360, primo comma, n. 4, cod. proc. civ., la violazione e falsa
+applicazione dell’art. 36, comma 2, n. 4, del d.lgs. 31 dicembre 1992,
+n. 546, dell’art. 132, secondo comma, n. 4, cod. proc. civ. e dell’art.
+118 disp. att. cod. proc. civ.. per avere la CGT2 reso motivazione
+apparente in relazione ad entrambe le causae petendi sottoposte al
+vaglio del giudice di appello, vale a dire la contestata territorialità
+delle prestazioni di servizio oggetto di causa e la questione relativa
+alla contestata non imponibilità, ai sensi dell’articolo 8 bis del decreto
+IVA, delle prestazioni di servizio rese da Acamar a BTO.
+3.1. Il motivo è infondato.
+4 di 24
+
+--- Pagina 5 ---
+
+3.2. Secondo la giurisprudenza delle Sezioni Unite di questa Corte,
+si è in presenza di una motivazione apparente allorché la
+motivazione, pur essendo graficamente (e, quindi, materialmente)
+esistente, come parte del documento in cui consiste il provvedimento
+giudiziale, non rende tuttavia percepibili le ragioni della decisione,
+perché consiste di argomentazioni obiettivamente inidonee a far
+conoscere l'iter logico seguito per la formazione del convincimento, di
+talché essa non consente alcun effettivo controllo sull'esattezza e
+sulla logicità del ragionamento del giudice. Sostanzialmente
+omogenea alla motivazione apparente è poi quella perplessa e
+incomprensibile: in entrambi i casi, invero – e purché il vizio risulti dal
+testo della sentenza impugnata, a prescindere dal confronto con le
+risultanze processuali – l'anomalia motivazionale, implicante una
+violazione di legge costituzionalmente rilevante, integra un error in
+procedendo e, in quanto tale, comporta la nullità della sentenza
+impugnata per cassazione (Cass. S.U. n. 22232 del 03/11/2016;
+Cass. S.U. n. 16599 del 05/08/2016).
+3.2.1. Determina, infine, una violazione di legge
+costituzionalmente rilevante anche la motivazione contraddittoria,
+nella misura in cui esprima un contrasto irriducibile tra affermazioni
+inconciliabili, mentre deve escludersi la possibilità di sindacare in sede
+di legittimità la semplice motivazione insufficiente (Cass. S.U. n. 8053
+del 07/04/2014).
+3.3. Come si evince dall’ampia motivazione resa dalla CGT2 e
+riassunta nella parte relativa ai fatti di causa, punto 1.2., il giudice di
+appello ha reso puntuale e circostanziata motivazione sia con
+riferimento alle ragioni per le quali BTO sia da considerare
+effettivamente un ente di diritto portoghese, sia con riguardo
+all’applicazione dell’art. 8 bis del decreto IVA ai servizi resi da Acamar
+in favore di BTO. In entrambi i casi, del resto, sono pienamente
+5 di 24
+
+--- Pagina 6 ---
+
+identificabili le rationes decidendi, sicché deve escludersi che la
+motivazione sia al di sotto del minimo costituzionale.
+4. I motivi dal secondo all’ottavo riguardano essenzialmente due
+questioni: quella concernente la contestata esterovestizione di BTO
+(motivi secondo, terzo, quinto, sesto e ottavo) e quella relativa
+all’applicazione dell’esenzione di cui all’art. 8 bis, lett. e), del decreto
+IVA. Con riferimento ai suddetti motivi è possibile una trattazione
+unitaria, atteso che, pur trattandosi di due questioni distinte, sono
+inscindibilmente collegate, essendo la soluzione della seconda
+condizionata dalla soluzione data alla prima. Nella prospettazione di
+ADM, infatti, BTO, cessionaria dei servizi resi da Acamar, avrebbe
+sede solo formale in Portogallo, ma la sua attività si svolgerebbe
+interamente in Italia, con conseguente obbligo di versamento dell’IVA
+allo Stato italiano.
+4.1. Con il secondo motivo di ricorso si lamenta, in relazione
+all’art. 360, primo comma, n. 4, cod. proc. civ., violazione degli artt.
+18, 24 e 57 del d.lgs. 546 del 1992, per avere la CGT2 «preso in
+considerazione una serie di eccezioni che sono state sollevate da
+controparte soltanto in appello in sede di memorie illustrative,
+depositate il 10 dicembre 2020, ma che non erano state sollevate
+quali specifici motivi di appello e, in alcuni casi, neanche quali motivi
+di ricorso». Il riferimento è al contratto di ship management, in
+ragione del quale tutti i servizi forniti da Acamar a BTO si
+configurerebbero come strumentali.
+4.2. Con il terzo motivo di ricorso si contesta, in relazione all’art.
+360, primo comma, n. 3, cod. proc. civ., violazione e falsa
+applicazione della l. 31 agosto 2022, n. 130 e dell’art. 20 della l. 9
+agosto 2023, n. 111, per avere la CGT2 ritenuto che la sentenza
+penale irrevocabile di assoluzione avrebbe autorità di giudicato nel
+processo tributario.
+6 di 24
+
+--- Pagina 7 ---
+
+4.3. Con il quarto motivo di ricorso si deduce, in relazione all’art.
+360, primo comma, n. 3, cod. proc. civ., violazione e falsa
+applicazione dell’art. 654 cod. proc. pen., dell’art. 20 del d.lgs. 10
+marzo 2000, n. 74, dell’art. 2909 cod. civ. e degli artt. 113, 115 e
+116 cod. proc. civ., per avere la CGT2 ignorato il principio del cd.
+“doppio binario” tra giudizio tributario e giudizio penale e avere
+attribuito valenza di giudicato ad una sentenza in cui AE non era
+costituita in giudizio come parte civile.
+4.4. Con il quinto motivo di ricorso si contesta, in via subordinata
+e in relazione all’art. 360, primo comma, n. 3, cod. proc. civ.,
+violazione e falsa applicazione degli artt. 7 e 7 ter del decreto IVA,
+per avere il giudice negato la localizzazione della sede effettiva di BTO
+in Italia sulla base di circostanze considerate estranee a quelle
+previste dalla legge.
+4.5. Con il sesto motivo di ricorso si deduce, in relazione all’art.
+360, primo comma, n. 3, cod. proc. civ., violazione e falsa
+applicazione, dell’art. 73, comma 3, del d.P.R. 22 dicembre 1986, n.
+917 (Testo Unico delle Imposte sui Redditi - TUIR) e degli artt. 4 e 8
+della convenzione contro le doppie imposizioni tra Italia e Portogallo,
+per avere il giudice di appello escluso l’esterovestizione di BTO sulla
+base di un criterio – la costruzione di puro artificio – estraneo a
+quanto previsto dalle citate disposizioni, le quali darebbero rilievo
+soltanto al criterio del place of effective management.
+4.6. Con il settimo motivo di ricorso si lamenta, in via subordinata
+al primo motivo e in relazione all’art. 360, primo comma, n. 3, cod.
+proc. civ., violazione e falsa applicazione, dell’art. 8 bis del decreto
+IVA, nel testo vigente ratione temporis, per avere la sentenza
+impugnata riconosciuto la non imponibilità anche con riguardo a
+spese diverse da quelle sostenute per l’acquisto di ricambi e per i
+lavori di manutenzione e riparazione delle navi.
+7 di 24
+
+--- Pagina 8 ---
+
+4.7. Con l’ottavo motivo di ricorso si contesta, in relazione all’art.
+360, primo comma, n. 4, cod. proc. civ., violazione dell’art. 132 cod.
+proc. civ., per non avere il giudice di appello motivato adeguatamente
+in ordine allo scostamento rispetto ai risultati della consulenza tecnica
+d’ufficio del prof. Campobasso, peraltro svolta nell’ambito di un
+diverso giudizio.
+5. Appare utile far precedere all’esame dei motivi una breve
+ricognizione normativa, anche con riguardo all’evoluzione della
+disciplina in materia.
+5.1. L’art. 9, § 1, della direttiva n. 77/388/CEE del Consiglio del
+17 maggio 1977 (cd. sesta direttiva), intitolato “Prestazioni di servizi”
+così recitava: «Si considera luogo di una prestazione di servizi il luogo
+in cui il prestatore ha fissato la sede della propria attività economica o
+ha costituito un centro di attività stabile, a partire dal quale la
+prestazione di servizi viene resa o, in mancanza di tale sede o di tale
+centro di attività stabile, il luogo del suo domicilio o della sua
+residenza abituale».
+5.1.1. Successivamente all’abrogazione, a decorrere dal
+01/01/2007, della menzionata direttiva da parte degli artt. 411 e 413
+della direttiva n. 2006/112/CE del Consiglio del 28 novembre 2006
+(direttiva IVA), la prestazione di servizi è comunque regolata dall’art.
+43, intitolato “Luogo della prestazione di servizi”, il quale ha, nella
+versione applicabile fino al 31/12/2009, una formulazione
+sostanzialmente analoga: «Il luogo di una prestazione di servizi è il
+luogo in cui il prestatore ha stabilito la sede della propria attività
+economica o dispone di una stabile organizzazione a partire dalla
+quale la prestazione di servizi viene resa o, in mancanza di tale sede
+o di tale stabile organizzazione, il luogo del suo domicilio o della sua
+residenza abituale».
+8 di 24
+
+--- Pagina 9 ---
+
+5.1.2. Peraltro, la direttiva 2008/8/UE del 12 febbraio 2008 ha
+sostituito, con effetto a decorrere dal 01/01/2010, gli articoli da 43 a
+59, della direttiva IVA. A seguito della modifica l’art. 44 della direttiva
+IVA dispone: «Il luogo delle prestazioni di servizi resi a un soggetto
+passivo che agisce in quanto tale è il luogo in cui questi ha fissato la
+sede della propria attività economica. Tuttavia, se i servizi sono
+prestati ad una stabile organizzazione del soggetto passivo situata in
+un luogo diverso da quello in cui esso ha fissato la sede della propria
+attività economica, il luogo delle prestazioni di tali servizi è il luogo in
+cui è situata la stabile organizzazione. In mancanza di tale sede o
+stabile organizzazione, il luogo delle prestazioni di servizi è il luogo
+del domicilio o della residenza abituale del soggetto passivo
+destinatario dei servizi in questione».
+5.1.3. Il considerando 4 del regolamento di esecuzione (UE) n.
+282/2011 del Consiglio, del 15 marzo 2011, recante disposizioni di
+applicazione della direttiva 2006/112, applicabile a decorrere dal
+01/07/2011, così recita: «L’obiettivo del presente regolamento è
+quello di garantire l’applicazione uniforme dell’attuale sistema dell’IVA
+attraverso disposizioni di esecuzione della direttiva 2006/112/CE, in
+particolare in materia di soggetti passivi, cessioni di beni e prestazioni
+di servizi e luogo delle operazioni imponibili (…)»; nel successivo
+considerando 14 si legge poi che: «Per garantire l’applicazione
+uniforme delle norme relative al luogo delle operazioni imponibili
+occorre chiarire alcuni concetti, quali la sede dell’attività economica,
+la stabile organizzazione, l’indirizzo permanente e la residenza
+abituale. Tenuto conto della giurisprudenza della Corte di giustizia
+[dell’Unione europea], il ricorso a criteri quanto più chiari e oggettivi
+possibile dovrebbe facilitare l’applicazione pratica di tali concetti».
+5.1.4. L’art. 11, § 1, del regolamento d’esecuzione così dispone:
+«Ai fini dell’applicazione dell’articolo 44 della direttiva [IVA], la
+9 di 24
+
+--- Pagina 10 ---
+
+“stabile organizzazione” designa qualsiasi organizzazione, diversa
+dalla sede dell’attività economica (…) caratterizzata da un grado
+sufficiente di permanenza e una struttura idonea in termini di mezzi
+umani e tecnici atti a consentirle di ricevere e di utilizzare i servizi che
+le sono forniti per le esigenze proprie di detta organizzazione».
+5.2. Per quanto riguarda il diritto interno, in materia di
+prestazione di servizi l’art. 7 del decreto IVA (fino al 2009 incluso) si
+fonda sul criterio del luogo del prestatore. Le prestazioni di servizi si
+considerano effettuate nel territorio dello Stato quando sono rese da
+soggetti che hanno il domicilio nel territorio stesso o da soggetti ivi
+residenti che non abbiano stabilito il domicilio all'estero, nonché
+quando sono rese da stabili organizzazioni in Italia di soggetti
+domiciliati e residenti all'estero; non si considerano effettuate nel
+territorio dello Stato quando sono rese da stabili organizzazioni
+all'estero di soggetti domiciliati o residenti in Italia. Non si
+considerano effettuate nel territorio dello Stato le cessioni
+all'esportazione, le operazioni assimilate a cessioni all'esportazione e i
+servizi internazionali o connessi agli scambi internazionali di cui ai
+successivi articoli 8, 8 bis e 9.
+5.2.1. A partire dal 2010, peraltro, l’art. 7 ter del decreto IVA
+introduce il criterio del luogo del committente, secondo il quale le
+prestazioni di servizi si considerano effettuate nel territorio dello
+Stato: a) quando sono rese a soggetti passivi stabiliti nel territorio
+dello Stato; b) quando sono rese a committenti non soggetti passivi
+da soggetti passivi stabiliti nel territorio dello Stato.
+5.3. Deve, dunque, ritenersi che la contestata esterovestizione
+della committente BTO non ha alcuna rilevanza con riferimento agli
+anni d’imposta fino al 2009, trovando applicazione il criterio unionale
+del luogo del prestatore di servizi ed, essendo Acamar pacificamente
+residente nel territorio dello Stato, i servizi forniti da quest’ultima alla
+10 di 24
+
+--- Pagina 11 ---
+
+prima sono sicuramente rilevanti a fini IVA, indipendentemente dal
+fatto che BTO sia un soggetto di diritto portoghese o italiano.
+5.4. Diversa valutazione deve farsi, invece, per gli anni d’imposta
+successivi a partire dal 2010, atteso che trova applicazione il criterio
+del luogo in cui i servizi vengono resi. Pertanto, ove venga
+confermata l’ipotesi di esterovestizione di BTO formulata nell’avviso di
+accertamento, i servizi prestati da Acamar sarebbero rilevanti a fini
+IVA per il diritto interno; diversamente dovrebbe concludersi se detti
+servizi siano stati erogati in favore di un committente di nazionalità
+portoghese.
+5.5. E poiché il presente giudizio riguarda l’anno d’imposta 2011,
+non è in dubbio che abbia rilevanza ai fini della decisione stabilire se
+BTO sia effettivamente un soggetto passivo di nazionalità portoghese,
+come ritenuto dalla CGT2, ovvero se sia un soggetto esterovestito,
+con conseguente applicazione del diritto interno.
+6. Venendo, dunque, alla questione della esterovestizione di BTO,
+questa Corte ha già avuto occasione di chiarire (cfr. Cass. n. 1544 del
+19/01/2023; Cass. n. 15424 del 03/06/2021; Cass. n. 16697 del
+21/06/2019; Cass. n. 33234 del 21/12/2018; Cass. n. 2869 del
+07/02/2013) che per esterovestizione s'intende la fittizia
+localizzazione della residenza fiscale di una società all'estero, in
+particolare in un Paese con un trattamento fiscale più vantaggioso di
+quello nazionale, allo scopo, ovviamente, di sottrarsi al più gravoso
+regime nazionale.
+6.1. In proposito, va ricordato che l’art. 49 del TFUE attribuisce ai
+cittadini dell’Unione, e «implica per essi l’accesso alle attività non
+subordinate ed il loro esercizio, nonché la costituzione e la gestione di
+imprese, alle stesse condizioni previste dalle leggi dello Stato membro
+di stabilimento per i propri cittadini. Essa comprende, conformemente
+all’articolo 54 TFUE, per le società costituite a norma delle leggi di
+11 di 24
+
+--- Pagina 12 ---
+
+uno Stato membro e che abbiano la sede sociale, l’amministrazione
+centrale o la sede principale all’interno dell’Unione, il diritto di
+svolgere le loro attività nello Stato membro di cui trattasi mediante
+una controllata, una succursale o un’agenzia (sentenza del 7
+settembre 2017, Eqiom e Enka, C-6/16, EU:C:2017:641, punto 52 e
+giurisprudenza citata)» (CGUE 20 dicembre 2017, cause riunite C-
+504/16 e 613/16, Deister Holding AG e a., punto  86).
+6.1.1. In particolare, secondo CGUE 12 settembre 2006, causa C-
+196/04, Cadbury Schweppes e Cadbury Schweppes Overseas, la
+circostanza che una società sia stata creata in uno Stato membro per
+fruire di una legislazione più vantaggiosa non costituisce, di per sé,
+un abuso di tale libertà (punto 37); per contro, una misura nazionale
+che restringe la libertà di stabilimento è ammessa «se concerne
+specificamente le costruzioni di puro artificio finalizzate ad eludere la
+normativa dello Stato membro interessato» (punto 51). Si è altresì
+precisato che, poiché l'obiettivo della libertà di stabilimento è quello
+di permettere ad un cittadino di uno Stato membro di creare uno
+stabilimento secondario in un altro Stato membro per esercitarvi le
+sue attività e di partecipare così, in maniera stabile e continuativa,
+alla vita economica di uno Stato membro diverso dal proprio Stato di
+origine e di trarne vantaggio (punti 52 e 53), la nozione di
+stabilimento implica l'esercizio effettivo di un'attività economica per
+una durata di tempo indeterminata, mercé l'insediamento in pianta
+stabile in un altro Stato membro, sicché essa presuppone «un
+insediamento effettivo della società interessata nello Stato membro
+ospite e l'esercizio quivi di un'attività economica reale» (punto 54; v.
+anche CGUE 25 luglio 1991, causa C-221/89, Factortame e a., punto
+20; CGUE 4 ottobre 1991, causa C-246/89, Commissione/Regno
+Unito, punto 21); ne discende che una restrizione alla libertà di
+stabilimento deve avere «lo scopo specifico di ostacolare
+12 di 24
+
+--- Pagina 13 ---
+
+comportamenti consistenti nel creare costruzioni puramente
+artificiose, prive di effettività economica e finalizzate ad eludere la
+normale imposta sugli utili generati da attività svolte sul territorio
+nazionale» (punto 55).
+6.1.2. Tali concetti sono stati ribaditi da CGUE 28 giugno 2007,
+causa C-73/06, Planzer Luxembourg Sàrl, la quale, nell'interpretare
+l'ottava e la tredicesima direttiva in materia di IVA (direttive del
+Consiglio, rispettivamente, n. 79/1072/CEE del 6 dicembre 1979, in
+tema di rimborso dell'imposta ai soggetti passivi non residenti
+all'interno del Paese, e n. 86/560/CEE del 17 novembre 1986, in
+tema di rimborso ai soggetti passivi non residenti nel territorio della
+Comunità) ha premesso che, per costante giurisprudenza, gli
+interessati non possono avvalersi fraudolentemente o abusivamente
+del diritto comunitario (punto 44); ha, quindi, affermato che ciò
+accadrebbe se un soggetto passivo intendesse fruire del sistema di
+rimborso, alle condizioni enunciate dalle citate direttive, quando
+l'indirizzo dell'impresa «non corrisponde ad alcuna realtà economica»
+(punto 45), in particolare, «né alla sede dell'attività economica del
+soggetto (…), né ad un centro di attività stabile dal quale quest'ultimo
+svolge le sue operazioni» (punto 49).
+6.1.3. Gli stessi giudici hanno, poi, stabilito che la nozione di sede
+dell'attività economica, ai sensi dell'art. 1, punto 1, della tredicesima
+direttiva n. 86/560/CEE, indica il luogo in cui vengono adottate le
+decisioni essenziali concernenti la direzione generale della società e in
+cui sono svolte le funzioni di amministrazione centrale di quest'ultima
+(punto 60). La determinazione del luogo della sede dell'attività
+economica di una società implica la presa in considerazione di un
+complesso di fattori, al primo posto dei quali figurano la sede
+statutaria, il luogo dell'amministrazione centrale, il luogo di riunione
+dei dirigenti societari e quello, abitualmente identico, in cui si adotta
+13 di 24
+
+--- Pagina 14 ---
+
+la politica generale di tale società. Possono essere presi in
+considerazione anche altri elementi, quali il domicilio dei principali
+dirigenti, il luogo di riunione delle assemblee generali, di tenuta dei
+documenti amministrativi e contabili e di svolgimento della maggior
+parte delle attività finanziarie, in particolare bancarie (punto 61). Di
+conseguenza un insediamento fittizio, come quello caratterizzante
+una società "casella postale" o "schermo", non può essere definito
+sede di un'attività economica ai sensi dell'art. 1, punto 1, della
+tredicesima direttiva (punto 62).
+6.1.4. Quel che, dunque, deve essere accertato, ai fini della
+corretta applicazione della previsione normativa in esame, è
+l’apparente localizzazione all’estero di un soggetto. Pertanto, non
+rileva «accertare la sussistenza o meno di ragioni economiche diverse
+da quelle relative alla convenienza fiscale», quanto «se il
+trasferimento in realtà vi è stato o meno, se, cioè, l'operazione sia
+meramente artificiosa (wholly artificial arrangement), consistendo
+nella creazione di una forma giuridica che non riproduce una
+corrispondente e genuina realtà economica» (Cass. n. 2869 del 2013,
+cit.).
+6.1.5.  È, quindi, necessario accertare che si tratta di costruzioni
+puramente artificiose, prive di effettività economica, il cui scopo
+essenziale è limitato all'ottenimento di un vantaggio fiscale,
+attraverso «la fittizia localizzazione della residenza fiscale di una
+società all'estero, in particolare in un Paese con un trattamento
+fiscale più vantaggioso di quello nazionale, allo scopo, ovviamente, di
+sottrarsi al più gravoso regime nazionale» (Cass. n. 33234 del 2018,
+cit.).
+6.1.6. La maggior attenzione al dato della “fittizietà”, della
+“artificiosità”, dell’assenza di “effettività economica”, rispetto ai
+vantaggi economici e fiscali, è coerente con la giurisprudenza
+14 di 24
+
+--- Pagina 15 ---
+
+unionale secondo la quale, quando può scegliere tra due operazioni, il
+contribuente non è obbligato a preferire quella che implica il
+pagamento di maggiori imposte, ma, al contrario, ha il diritto di
+scegliere la forma di conduzione degli affari che gli consenta di ridurre
+la sua contribuzione fiscale (CGUE 17 dicembre 2015, causa C419/14,
+WebMindLicenses kft, punto 42; CGUE 21 febbraio 2006, causa C-
+255/02, Halifax e a., punto 73; CGUE 21 febbraio 2008, causa C-
+425/06, Part Service, punto 47; CGUE 22 febbraio 2018, cause riunite
+C-398/16 e 399/16, X BV e X NV, punto 49), a meno che consimili
+meccanismi non abbiano come risultato l'ottenimento di un vantaggio
+fiscale la cui concessione sarebbe contraria all'obiettivo perseguito
+dalle norme e, da un insieme di elementi oggettivi, risulti che lo scopo
+essenziale dell'operazione si limiti all'ottenimento di tale vantaggio
+fiscale (CGUE, WebMindLicenses kft, cit.), occorrendo, a tal fine, la
+disamina della singola operazione (si veda anche CGUE 7 settembre
+2017, causa C-6/16, Eqlom SAS ed Enka SA).
+6.2. Sul piano interno, la fattispecie è regolata dall'art. 73, comma
+3, del TUIR, secondo cui «[a]i fini delle imposte sui redditi si
+considerano residenti le società e gli enti che per la maggior parte del
+periodo di imposta hanno la sede legale o la sede
+dell'amministrazione o l'oggetto principale nel territorio dello Stato».
+6.2.1. Tra i criteri alternativi e paritetici descritti nell’art. 73,
+comma 3, del TUIR, viene in rilievo quello della «sede
+dell'amministrazione». Questa Corte, a proposito dell’interpretazione
+del relativo concetto, ha già avuto modo di precisare che «la nozione
+di “sede dell'amministrazione”, in quanto contrapposta alla “sede
+legale”, deve ritenersi coincidente con quella di “sede effettiva” (di
+matrice civilistica), intesa come il luogo dove hanno concreto
+svolgimento le attività amministrative e di direzione dell'ente e si
+convocano le assemblee, e cioè il luogo deputato, o stabilmente
+15 di 24
+
+--- Pagina 16 ---
+
+utilizzato, per l'accentramento - nei rapporti interni e con i terzi -
+degli organi e degli uffici societari in vista del compimento degli affari
+e dell'impulso dell'attività dell'ente» (così Cass. n. 33234 del 2018,
+cit.; si vedano, altresì, Cass. n. 6021 del 12/03/2009; Cass. n. 7037
+del 13/04/2004).
+6.2.2. Si rileva una convergenza con la giurisprudenza
+comunitaria, quanto alla nozione e individuazione della “sede
+effettiva” perché, come è stato già sottolineato da questa Corte,
+«sullo stesso specifico punto, la citata sentenza della Corte di
+giustizia 28 giugno 2007, Planzer Luxembourg Sàrl, ha statuito che la
+nozione di sede dell'attività economica “indica il luogo in cui vengono
+adottate le decisioni essenziali concernenti la direzione generale della
+società e in cui sono svolte le funzioni di amministrazione centrale di
+quest'ultima” (punto 60), e che la determinazione del luogo della
+sede dell'attività economica di una società implica “la presa in
+considerazione di un complesso di fattori, al primo posto dei quali
+figurano la sede statutaria, il luogo dell'amministrazione centrale, il
+luogo di riunione dei dirigenti societari e quello, abitualmente
+identico, in cui si adotta la politica generale di tale società. Possono
+essere presi in considerazione anche altri elementi, quali il domicilio
+dei principali dirigenti, il luogo di riunione delle assemblee generali, di
+tenuta dei documenti amministrativi e contabili e di svolgimento della
+maggior parte delle attività finanziarie, in particolare bancarie” (punto
+61);» (così Cass. n. 15424 del 2021, cit., in motivazione; nello stesso
+senso Cass. n. 16697 del 2019, cit., in motivazione).
+6.2.3. Viene altresì in rilievo la tie-breaker rule fissata dall’art. 4,
+§ 3, della Convenzione tra la Repubblica italiana e la Repubblica
+portoghese per evitare le doppie imposizioni e per prevenire le
+evasioni fiscali in materia di imposte sul reddito, ratificata in Italia
+con l. 10 luglio 1982, n. 562, secondo cui «Quando, in base alle
+16 di 24
+
+--- Pagina 17 ---
+
+disposizioni del paragrafo 1, una persona diversa da una persona
+fisica è residente di entrambi gli Stati contraenti, si ritiene che essa è
+residente dello Stato in cui si trova la sede della sua direzione
+effettiva». Se il riferimento alla “direzione” pone l’attenzione sulla
+“attività direttiva e amministrativa” il richiamo alla “effettività”
+impone una complessiva valutazione delle circostanze fattuali, tra i
+quali anche il “luogo ove è esercitata l’attività principale”, che non si
+contrappone a quello del place of effective management, ma
+contribuisce a identificare quest’ultimo, come sede di direzione
+effettiva (v., sul tema, Cass. n. 1544 del 2023, cit., in motivazione).
+6.2.4. La stessa prassi (risoluzione n. 312/E del 5 novembre
+2007) aveva chiarito che per individuare la sede di direzione effettiva
+di una società non basta fare riferimento al luogo di svolgimento della
+“prevalente attività direttiva e amministrativa”, ma occorre
+considerare anche il “luogo ove è esercitata l’attività principale”.
+6.2.5. Converge su questa impostazione l’art. 4, § 3, del Modello
+OCSE, come modificato dal 2017, che prevede la combinazione di
+diversi fattori, sia formali che sostanziali, tra i quali continua ad
+essere menzionato il place of effective management, ma come uno
+(non l’unico) dei possibili elementi rilevanti, dovendosi tener conto
+anche del luogo di costituzione (the place where it is incorporated or
+otherwise constituted) e di ogni altro fattore rilevante (any other
+relevant factors).
+6.3. Tirando, quindi, le fila di tali premesse, deve rilevarsi,
+conformemente all’orientamento di questa Corte più sopra
+evidenziato, che, ai sensi dell'art. 73, comma 3, del TUIR, la nozione
+di "sede dell'amministrazione", contrapposta alla "sede legale",
+coincide con quella di “sede effettiva” (di matrice civilistica), intesa
+come luogo di concreto svolgimento delle attività amministrative e di
+direzione dell'ente e dove si convocano le assemblee, e cioè il luogo
+17 di 24
+
+--- Pagina 18 ---
+
+deputato, o stabilmente utilizzato, per l'accentramento – nei rapporti
+interni e con i terzi – degli organi e degli uffici societari in vista del
+compimento degli affari e dell'impulso dell'attività dell'ente.
+6.3.1. Resta fermo che tale valutazione, nel singolo caso concreto,
+proprio perché finalizzata all’accertamento di un dato “effettivo”, non
+può non tenere conto anche di quei rilevanti fattori sostanziali (tra i
+quali, in ipotesi, lo svolgimento dell’attività principale) che, a fronte di
+dati formali relativi alla collocazione geografica del luogo dove si
+svolga l’attività amministrativa e di direzione, depongano invece per
+l’effettiva riconduzione di quest’ultima ad un diverso contesto
+territoriale.
+6.3.2. In particolare, la necessità della verifica, nel caso concreto,
+di un complesso di dati sostanziali è emersa, in sede penale, a
+proposito della società̀ con sede legale estera controllate da società
+con sede in Italia, quando si è affermato che non può̀ costituire
+criterio esclusivo di accertamento della sede della “direzione effettiva”
+l'individuazione del luogo dal quale partono gli impulsi gestionali o le
+direttive amministrative, qualora esso s'identifichi con la sede (legale
+o amministrativa) della società̀ controllante italiana, precisando che in
+tal caso è necessario accertare anche che la società̀ controllata estera
+non sia costruzione di puro artificio, ma corrisponda a un'entità̀ reale
+che svolge effettivamente la propria attività̀ in conformità̀ al proprio
+atto costitutivo o allo statuto (Cass. pen. n. 43809 del 24/10/2014),
+non essendo le società̀ esterovestite, per ciò soltanto, prive della loro
+autonomia giuridico-patrimoniale e, quindi, automaticamente
+qualificabili come schermi (Cass. pen. n. 50151 del 07/11/2018).
+6.3.3. «Nella sostanza, ai fini di accertare se abbia, o meno,
+residenza fiscale in Italia la società estera controllata da società
+italiana, il concetto di «sede dell’amministrazione» non può coincidere
+“sic et simpliciter” con l’attività di direzione e coordinamento che la
+18 di 24
+
+--- Pagina 19 ---
+
+capogruppo, o comunque la controllante, esercita sulla controllata,
+adoperando quella prerogativa tipica del controllo societario di cui
+all’art. 2359 cod. civ., che si realizza attraverso atti d’indirizzo
+strategico ed operativo che connotano lo stato di dipendenza degli
+interessi della consociata a vantaggio del gruppo nella sua globalità o
+della controllante. Lo spostamento effettivo, presso la controllante,
+della sede dell’amministrazione della consociata presuppone invece,
+un grado di eterodirezione concreta superiore, integrando una
+fattispecie in cui , come si è detto in dottrina, “la società controllante
+assume i connotati di un vero e proprio amministratore indiretto della
+società controllata”, della quale usurpa l’impulso imprenditoriale,
+sottraendole ogni prerogativa sovrana in ordine alla propri operatività
+e riducendola a “mero satellite o dipendenza” (ovvero a struttura non
+effettiva, rispetto alla quale pertanto neppure opererebbe, per quanto
+già rilevato, la protezione accordata dal diritto comunitario alla libertà
+di stabilimento)» (Cass. n. 1544 del 2023, cit.).
+7. L’accertamento contenuto nella sentenza impugnata è coerente
+con tali principi ed è stato svolto in termini approfonditi ed esaustivi:
+«…per lo svolgimento della propria attività, Barry Towage si è sempre
+avvalsa dell’ufficio in cui è ubicata la sede sociale della società in
+Funchal (Madeira, Portogallo), di due rimorchiatori utilizzati per
+l'attività di rimorchio di natanti e di assistenza alle piattaforme
+petrolifere, di ben 52 dipendenti, cittadini comunitari non italiani ed
+extra-comunitari (vedasi l’organigramma dei dipendenti di Barry
+Towage, i contratti di lavoro e l’estratto dei mansionari del personale
+cui erano demandati il comando e le responsabilità delle
+imbarcazioni). Le maestranze, che operano secondo le direttive e le
+istruzioni dei rispettivi comandanti dei rimorchiatori, hanno
+frequentato corsi di formazione a Lisbona ove, peraltro, hanno
+sostenuto gli esami per gli imbarchi. Le riunioni del Consiglio di
+19 di 24
+
+--- Pagina 20 ---
+
+Amministrazione di Barry Towage e le assemblee dei soci si sono
+sempre svolte a Funchal, Madeira, come comprovato dai documenti
+concernenti le riunioni del Consiglio di Amministrazione depositati nel
+corso del giudizio di primo grado, e dell'Assemblea dei soci di Barry
+Towage».
+7.1. Ancora, i giudici d’appello osservano che «Considerata,
+quindi, l’attività degli organi e degli uffici societari in vista del
+compimento degli affari e dell'impulso dell’attività della società Barry
+Towage, non si può non tener conto anche di quei rilevanti fattori
+sostanziali che, a fronte di dati formali relativi alla collocazione
+geografica del luogo dove si svolga l’attività amministrativa e di
+direzione, depongano invece per l’effettivo stabilimento di
+quest’ultima al contesto portoghese. D’altronde, è in Portogallo (a
+Funchal), e a bordo dei rimorchiatori di bandiera portoghese svolgenti
+servizi in acque extra-territoriali, che Barry Towage svolge l’attività
+economica, con organizzazione e coordinamento dei diversi fattori
+produttivi, e produce il proprio reddito. Viepiù. Dalla documentazione
+in atti (prospetto degli stipendi), si evince che Solito Francesco, nella
+qualità di Presidente del Consiglio di Amministrazione della Barry
+Towage SA, veniva puntualmente remunerato in Portogallo dalla
+società e sui redditi prodotti versava le relative imposte (“imposto
+sobre o rendimento”), con delega di pagamento effettuate tramite
+istituto di credito portoghese».
+7.2. A ben vedere, è la prospettazione dell’Ufficio carente e non a
+fuoco rispetto al dato normativo e giurisprudenziale di riferimento: la
+ricorrente perde di vista il quadro complessivo e adotta un approccio
+atomistico, non facendosi carico di contestare che in Portogallo vi
+fosse «un insediamento effettivo della società interessata nello Stato
+membro ospite e l'esercizio quivi di un'attività economica reale»
+(CGUE, Cadbury, punto 54) e, trascurando i dati principali che
+20 di 24
+
+--- Pagina 21 ---
+
+servono ad individuare la sede (la sede statutaria, il luogo
+dell'amministrazione centrale, il luogo di riunione dei dirigenti
+societari e quello, abitualmente identico, in cui si adotta la politica
+generale di tale società, v. CGUE, Planzer, punto 61), si è concentrata
+sulle figure dei Barretta nello sforzo di dimostrare che fossero gli
+amministratori di fatto dello società, principalmente attraverso lo
+“schermo” dei contratti di servizi con le due società italiane e il
+vincolo fiduciario con Giuseppe Solito, presidente del consiglio di
+amministrazione della società portoghese; il tutto al fine di
+avvantaggiarsi del miglior trattamento fiscale assicurato dalla sede in
+Madeira.
+7.3. Orbene, anche a voler ammettere il ruolo di amministratori di
+fatto dei sig.ri Barretta, l’individuazione del luogo da cui partono gli
+impulsi gestionali e di direzione, come già osservato, non è criterio
+sufficiente per dimostrare l’esterovestizione della società con sede in
+altro Stato membro, dovendosi comunque dimostrare che
+quest’ultima sia una “struttura non effettiva”; né il fatto di stabilire la
+sede, legale o effettiva, di una società in conformità alla legislazione
+di uno Stato membro al fine di beneficiare di una legislazione più
+vantaggiosa costituisce di per sé un abuso (v., in tal senso, CGUE 9
+marzo 1999, causa C-212/97, Centros, punto 27; CGUE 25 ottobre
+2017, causa C-106/16, Polbud – Wykonawstwo, punto 40; CGUE 25
+aprile 2024, causa C- 276/22, Edil Work 2, punto 47).
+7.4. Ed anche a voler affermare la natura gestoria (e non di
+servizio contrattuale) dell’attività svolta in Italia attraverso le due
+società di servizi, va considerato che, sempre secondo la
+giurisprudenza unionale, «…la mera circostanza che una società, pur
+avendo la propria sede in uno Stato membro, svolga la parte
+principale delle sue attività in un altro Stato membro non può fondare
+una presunzione generale di frode, né giustificare una misura che
+21 di 24
+
+--- Pagina 22 ---
+
+pregiudichi l’esercizio di una libertà fondamentale garantita dal
+Trattato. (v., per analogia, sentenza del 25 ottobre 2017, Polbud –
+Wykonawstwo, C-106/16, EU:C:2017:804, punto 63). Orbene, nel
+caso di specie, se la normativa di cui trattasi nel procedimento
+principale dovesse essere interpretata nel senso che impone
+l’applicazione sistematica della legge italiana a qualsiasi atto di
+gestione di una società avente sede in un altro Stato membro ma che
+svolge la parte principale delle sue attività in Italia, essa equivarrebbe
+a introdurre una presunzione secondo cui i comportamenti di tale
+società sarebbero abusivi. Alla luce delle considerazioni esposte ai
+punti 47 e 48 della presente sentenza, una normativa di questo tipo
+sarebbe sproporzionata (v., per analogia, sentenza del 25 ottobre
+2017, Polbud – Wykonawstwo, C-106/16, EU:C:2017:804, punto
+64)» (v. CGUE, Edil Work 2, punti 48 e 49).
+8. Quanto finora affermato è sufficiente per ritenere all’evidenza
+non fondati in diritto il quinto e il sesto motivo di ricorso, avendo la
+CGT2 fatto corretta applicazione dei principi illustrati. Ugualmente
+infondata è la questione processuale posta con il secondo motivo,
+concernente l’inammissibilità delle eccezioni tardivamente proposte
+con riferimento ai contratti di servizi o ship management della società
+estera con Accamar: i rapporti contrattuali tra BTO e la società
+riconducibile ai sig.ri Barretta sono, infatti, oggetto delle contestazioni
+dell’Ufficio e le deduzioni d’appello dei controricorrenti in merito ad
+essi costituiscono mere difese e non domande nuove (Cass. n. 13742
+del 03/07/2015; Cass. n. 32390 del 03/11/2022).
+8.1. Posta l’insussistenza dell’esterovestizione per le
+considerazioni rassegnate, divengono inammissibili per sopravvenuta
+carenza di interesse il terzo e quarto motivo sull’efficacia della
+sentenza penale di assoluzione e il cd. doppio binario, ivi comprese le
+deduzioni contenute nella memoria ex art. 378 cod. proc. civ. con
+22 di 24
+
+--- Pagina 23 ---
+
+riferimento all’applicabilità dell’art. 21 bis del d.lgs. 10 marzo 2000,
+n. 74, nonché l’ottavo motivo, sul difetto di valorizzazione della
+consulenza del prof. Campobasso da parte del giudice di appello.
+8.2. L’insussistenza dell’esterovestizione della società portoghese
+implica, infine, anche il difetto di interesse di AE all’esame del settimo
+motivo di ricorso, proposto in via subordinata e concernente il regime
+di non imponibilità IVA delle prestazioni di servizi rese da Acamar in
+favore di BTO.
+8.3. Invero, come anticipato al punto 6.4., l’applicazione del
+criterio del luogo in cui i servizi vengono effettuati con riferimento
+all’anno d’imposta 2011, rende non assoggettabili ad IVA sul territorio
+della Repubblica tutte le prestazioni rese da Acamar in favore di BTO.
+9. Con il nono motivo di ricorso si deduce, in relazione all’art. 360,
+primo comma, n. 4, cod. proc. civ., la nullità della sentenza per
+violazione dell’art. 112 del cod. proc. civ., per avere la CGT2
+pronunciato extra petita partium con riferimento all’applicabilità a
+BTO del regime della tonnage tax.
+9.1. Con il decimo motivo di ricorso si contesta, in relazione
+all’art. 360, primo comma, n. 3, cod. proc. civ., la violazione dell’art.
+155 del TUIR, per avere il giudice di appello «annullato gli atti
+impugnati per non aver preso in considerazione l’applicabilità della
+Tonnage Tax».
+9.2. I due motivi, che affrontano sotto diversi profili la medesima
+questione, sono ancora una volta inammissibili, non integrando la
+motivazione in parte qua della CGT2 una vera e propria ratio
+decidendi.
+9.3. Invero, la motivazione della sentenza sul punto ha un rilievo
+essenzialmente argomentativo e non riveste alcuna influenza sulla
+decisione assunta dal giudice di appello. L’istituto riguarda un criterio
+di determinazione forfettaria del reddito imponibile previsto dal TUIR;
+23 di 24
+
+--- Pagina 24 ---
+
+criterio del tutto privo di rilievo con riferimento all’IVA, oggetto del
+presente contenzioso. Ne deriva che le affermazioni della CGT2
+censurate da AE non sono in grado di esprimere alcuna effettiva ratio
+decidendi.
+9.4. Trova, dunque, applicazione il principio secondo cui le
+censure contro argomentazioni ad abundantiam o obiter dicta non
+sono sorrette da alcun interesse (Cass. n. 1770 del 24/01/2025;
+Cass. n. 22380 del 22/10/2014).
+10. In conclusione, il ricorso va rigettato e la ricorrente va
+condannata al pagamento, in favore della controricorrente, delle
+spese del presente procedimento, liquidate come in dispositivo, avuto
+conto di un valore dichiarato della lite compreso tra euro 260.000,01
+ed euro 520.000,00 e da distrarsi in favore del difensore costituito,
+dichiaratosene antistatario con la memoria ex art. 378 cod. proc. civ.
+P.Q.M.
+La Corte rigetta il ricorso e condanna la ricorrente al pagamento, in
+favore della controricorrente, delle spese del presente procedimento,
+che si liquidano in euro 10.800,00, oltre alle spese forfettarie nella
+misura del 15%, ad euro 200,00 per spese borsuali e agli accessori di
+legge, da distrarsi.
+Così deciso in Roma, il 09/04/2025.
+Il Giudice estensore
+GIACOMO MARIA NONNO
+Il Presidente
+ANGELINA-MARIA PERRINO
+24 di 24

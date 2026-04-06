@@ -1,0 +1,626 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 9864/2018 R.G. proposto da:
+AGENZIA DELLE ENTRATE (c.f. 06363391001), costituitasi in persona del
+Direttore pro tempore, rappresentata e difesa dall'Avvocatura Generale
+dello Stato (c.f. 80224030587).
+contro
+ITALY TRADING S.R.L. (c.f. 05798680962), costituitasi in persona della
+sig.ra Pasqualina Baratella dichiaratasi legale rappresentante pro tempore,
+rappresentata e difesa dall’Avv. Giovanna Tucci (c.f.
+TCCGNN70L69F205B);
+-controricorrente e ricorrente incidentale–
+avverso la sentenza della Commissione Tributaria Regionale di Milano n.
+3718/2017 depositata il 21/09/2017.
+Udita la relazione svolta nella camera di consiglio del 17/12/2025 dal
+Consigliere Giovanni Galasso.
+
+--- Pagina 2 ---
+
+FATTI DI CAUSA
+1. Dalla sentenza d’appello e dagli atti delle parti risulta che, con ricorso
+alla Commissione Tributaria Provinciale di Milano, la Italy Trading S.r.l.
+impugnava l’avviso di accertamento n. T9D031B02774, relativo all’anno di
+imposta 2011, con il quale l’Agenzia delle Entrate aveva ripreso a
+tassazione € 2.013.874 per IVA; in particolare risultava omessa
+l’applicazione dell’imposta su cessione di beni e prestazioni di servizi in
+favore della società polacca Brelko Poland per € 1.269.621 (si sosteneva,
+al riguardo, che le merci non fossero in realtà mai uscite dal territorio
+italiano); si contestava altresì l’utilizzo, ai fini della detrazione, di fatture
+per operazioni soggettivamente inesistenti (acquisti di merce) emesse
+dalla Informatic Progress S.r.l. e dalla Gemax S.r.l. per € 744.069.
+La società impugnava il provvedimento deducendo vizi formali, nonché
+l’infondatezza nel merito dell’accertamento.
+La CTP rigettava il ricorso.
+2. La Commissione tributaria regionale della Lombardia accoglieva
+parzialmente l’appello della società ed annullava l’avviso relativamente
+all’imposta richiesta in relazione alle operazioni soggettivamente
+inesistenti, ritenendo che la tesi dell’Amministrazione non fosse
+sufficientemente provata.
+3. Avverso tale sentenza l’Amministrazione ha proposto ricorso per
+cassazione affidato a due motivi.
+Ha resistito la società che ha proposto ricorso incidentale affidato a tre
+motivi.
+In data 5/12/2025 il difensore della Italy Trading S.r.l. ha depositato una
+memoria ex art. 380 bis.1 c.p.c. con la quale ha rappresentato che è stato
+dichiarato il fallimento della società in data 22/6/2020 (allegando la
+relativa sentenza); ha insistito per l’accoglimento delle conclusioni
+rassegnate con il controricorso.
+2
+
+--- Pagina 3 ---
+
+RAGIONI DELLA DECISIONE
+1. Preliminare deve osservarsi che la dichiarazione di fallimento della
+controricorrente (e ricorrente incidentale) non determina l’interruzione del
+giudizio di legittimità. Costituisce infatti principio pacifico quello per il
+quale «il fallimento di una delle parti che si verifichi nel giudizio di
+Cassazione non determina l'interruzione del processo ex artt. 299 e ss.
+c.p.c., trattandosi di procedimento dominato dall'impulso d'ufficio, con la
+conseguenza che non vi è un onere di riassunzione del giudizio nei
+confronti della curatela fallimentare; questo non esclude, tuttavia, che il
+curatore del fallimento (dal 15 luglio 2022 il curatore della liquidazione
+giudiziale) possa intervenire nel giudizio di legittimità al fine di tutelare gli
+interessi della massa dei creditori, sia pure nei limiti delle residue facoltà
+difensive riconosciute dalla legge» (Cass. n. 30785/2023; nello stesso
+senso cfr. Cass. n. 6642/2024; Cass. n. 7477/2017; Cass. n.
+21153/2010).
+2.1 Con il primo motivo di ricorso l’Amministrazione lamenta il vizio di cui
+all’art. 360, comma 1°, n. 3) c.p.c. per violazione e falsa applicazione
+degli artt. 2729 e 2697 c.c. nonché dell’art. 19 d.P.R. 633/1972. Ad avviso
+della ricorrente, la CTR ha violato i principi in tema di onere della prova e
+di prova presuntiva, in quanto, a fronte dell’allegazione di numerosi
+elementi dai quali si desume che le fornitrici fossero società cartiere,
+aveva ritenuto sufficiente, quale prova della non conoscibilità della natura
+fittizia sotto il profilo soggettivo delle operazioni, il fatto che le merci
+erano state consegnate e pagate, mentre costituisce principio pacifico
+quello per il quale la regolarità contabile delle operazioni è funzionale alla
+frode.
+2.2 Il motivo è fondato.
+Va rilevato che, nel caso di operazioni soggettivamente inesistenti, l’IVA
+non è, in linea di principio, detraibile, perché è stata versata ad un
+3
+
+--- Pagina 4 ---
+
+soggetto non legittimato alla rivalsa e non assoggettato all’obbligo di
+pagamento dell'imposta, in quanto la fattura è emessa da un soggetto che
+non è stato controparte nel rapporto relativo alle operazioni fatturate, da
+ritenersi “inesistenti” (Cass. n. 24426/2013; per la specifica descrizione
+dei principi e delle norme che escludono la detrazione, cfr. Cass. n.
+9851/2018).
+Il diniego del diritto di detrazione costituisce tuttavia un’eccezione al
+principio di neutralità dell'IVA e per tale ragione «l'Amministrazione
+finanziaria, se contesta che la fatturazione attenga ad operazioni
+soggettivamente inesistenti, inserite o meno nell'ambito di una frode
+carosello, ha l'onere di provare, non solo l'oggettiva fittizietà del fornitore,
+ma anche la consapevolezza del destinatario che l'operazione si inseriva in
+una evasione dell'imposta, dimostrando, anche in via presuntiva, in base
+ad elementi oggettivi e specifici, che il contribuente era a conoscenza, o
+avrebbe dovuto esserlo, usando l'ordinaria diligenza in ragione della
+qualità professionale ricoperta, della sostanziale inesistenza del
+contraente; ove l'Amministrazione assolva a detto onere istruttorio, grava
+sul contribuente la prova contraria di avere adoperato, per non essere
+coinvolto in un'operazione volta ad evadere l'imposta, la diligenza
+massima esigibile da un operatore accorto, secondo criteri di
+ragionevolezza e di proporzionalità in rapporto alle circostanze del caso
+concreto, non assumendo rilievo, a tal fine, né la regolarità della
+contabilità e dei pagamenti, né la mancanza di benefici dalla rivendita
+delle merci o dei servizi” (Cass. n. 9851/2018; cfr. nello stesso senso,
+Cass. n. 11873/2018; Cass. n. 17818/2016).
+Anche la Corte di Giustizia UE ha precisato, in ordine alla ripartizione
+dell’onere probatorio, che la direttiva 2006/112 deve essere interpretata
+«nel senso che essa osta, qualora l’autorità tributaria intenda negare ad
+un soggetto passivo il beneficio del diritto alla detrazione dell’imposta sul
+valore aggiunto (IVA) assolta a monte per il motivo che tale soggetto
+4
+
+--- Pagina 5 ---
+
+passivo ha partecipato ad una frode dell’IVA di tipo carosello, a che tale
+autorità tributaria si limiti a stabilire che tale operazione fa parte di una
+catena di fatturazione circolare; spetta a detta autorità tributaria, da un
+lato, individuare con precisione gli elementi costitutivi della frode e
+dimostrare le condotte fraudolente e, dall’altro, dimostrare che il soggetto
+passivo ha partecipato attivamente a tale frode o che sapeva o avrebbe
+dovuto sapere che l’operazione invocata a fondamento di tale diritto si
+iscriveva in detta frode, il che non implica necessariamente
+l’identificazione di tutti i soggetti che hanno partecipato alla frode nonché
+dei loro rispettivi comportamenti;
+- la direttiva n. 2006/112 deve essere interpretata nel senso che essa non
+osta, qualora l’autorità tributaria attesti una partecipazione attiva del
+soggetto passivo a una frode dell’imposta sul valore aggiunto per negare il
+diritto alla detrazione, a che tale autorità tributaria fondi tale diniego, in
+via complementare o subordinata, su elementi di prova che dimostrino
+non una siffatta partecipazione, bensì il fatto che tale soggetto passivo,
+dando prova di tutta la diligenza richiesta, avrebbe potuto sapere che
+l’operazione di cui trattasi si iscriveva in una siffatta frode; la mera
+circostanza che i membri della catena di cessioni, di cui fa parte tale
+operazione, si conoscessero non costituisce un elemento sufficiente per
+dimostrare la partecipazione del soggetto passivo alla frode;
+- la direttiva 2006/112, in combinato disposto con il principio di
+proporzionalità, deve essere interpretata nel senso che essa non osta,
+qualora sussistano indizi che consentano di sospettare l’esistenza di
+irregolarità o di una frode, a che sia richiesto al soggetto passivo di dar
+prova di una maggiore diligenza per assicurarsi che l’operazione effettuata
+non lo conduca a partecipare a una frode; non si può tuttavia pretendere
+che esso proceda a verifiche complesse e approfondite come quelle che
+possono essere effettuate dall’amministrazione finanziaria; spetta al
+giudice nazionale valutare se, alla luce di tutte le circostanze del caso di
+5
+
+--- Pagina 6 ---
+
+specie, il soggetto passivo abbia dato prova di sufficiente diligenza e abbia
+adottato le misure che gli si possono ragionevolmente richiedere in tali
+circostanze; […]» (sentenza 1/12/2022, nella causa C-512/21; cfr., nello
+stesso senso, sentenza 22/10/2015, nella causa C-277/14).
+Quanto alle modalità della prova della natura fittizia dell’operazione, posta
+a carico dell’Amministrazione, è stato poi condivisibilmente affermato che
+può trattarsi sia di prova logica (o indiretta) sia di prova storica (o
+diretta), consistente anche in indizi integranti una presunzione semplice
+(Cass. n. 10336/2025; Cass. n. 28628/2021; Cass. n. 28246/2020),
+potendo essere valorizzati, quali elementi sintomatici della mancata
+esecuzione dell’operazione da parte del fatturante, l’assenza della minima
+dotazione personale e strumentale adeguata alla predetta esecuzione,
+l’immediatezza dei rapporti fra cedente/prestatore fatturante interposto e
+cessionario/committente, la conclamata inidoneità allo svolgimento
+dell’attività economica e la non corrispondenza tra i cedenti e la società
+coinvolta nell’operazione (Cass. n. 5339/2020).
+Qualora l’Amministrazione abbia offerto la prova, anche presuntiva di tali
+circostanze, grava sul contribuente l’onere di dimostrare che la natura
+fraudolenta delle operazioni non era a lui nota e non era conoscibile
+neppure con l’impiego della diligenza richiesta in considerazione
+dell’attività professionale svolta.
+Si ritengono elementi idonei a dimostrare la buona fede dell’acquirente i
+contatti e le trattative intercorse con l’apparente venditrice, gli accessi
+presso la sua sede ed in ogni caso tutti quei fatti che possono condurre a
+ritenere che effettivamente il contribuente riteneva di acquistare le merci
+da un soggetto realmente esistente. Non rilevano invece i documenti
+relativi ai pagamenti o più in generale la regolare tenuta della contabilità
+dell’acquirente; infatti, «non è […] sufficiente dedurre, da parte del
+contribuente, che la merce sia stata consegnata e la fattura, IVA
+compresa, sia stata effettivamente pagata, trattandosi di circostanze
+6
+
+--- Pagina 7 ---
+
+pienamente compatibili con il modello di frode fiscale, posto in essere
+mediante un'operazione soggettivamente inesistente (Cass. nn.
+17377/2009; 230744/2012)» (cfr. Cass. 18767/2014, in motivazione; cfr.
+anche, ex multis, Cass. n. 24472/2022).
+Va altresì ricordato, in materia di prova per presunzioni, che «la denuncia,
+in cassazione, di violazione o falsa applicazione del citato art. 2729 c.c., ai
+sensi dell'art. 360, comma 1, n. 3, c.p.c., può prospettarsi quando il
+giudice di merito affermi che il ragionamento presuntivo può basarsi su
+presunzioni non gravi, precise e concordanti ovvero fondi la presunzione
+su un fatto storico privo di gravità o precisione o concordanza ai fini
+dell'inferenza dal fatto noto della conseguenza ignota e non anche quando
+la critica si concreti nella diversa ricostruzione delle circostanze fattuali o
+nella mera prospettazione di una inferenza probabilistica diversa da quella
+ritenuta applicata dal giudice di merito o senza spiegare i motivi della
+violazione dei paradigmi della norma» (Cass. n. 9054/2022); resta invece
+«escluso che la sola mancata valutazione di un elemento indiziario possa
+dare luogo al vizio di omesso esame di un punto decisivo, e neppure
+occorre che tra il fatto noto e quello ignoto sussista un legame di assoluta
+ed esclusiva necessità causale, essendo sufficiente che il fatto da provare
+sia desumibile dal fatto noto come conseguenza ragionevolmente
+possibile, secondo criterio di normalità, visto che la deduzione logica è una
+valutazione che, in quanto tale, deve essere probabilmente convincente,
+non oggettivamente inconfutabile» (Cass. n. 22366/2021).
+Sulla base di tali principi si è quindi ritenuto che possa essere censurata
+per violazione di legge, con ricorso per cassazione, una sentenza in cui il
+giudice si sia limitato ad escludere la rilevanza probatoria dei singoli
+elementi indiziari valutati atomisticamente, senza però verificare se,
+considerati nel loro complesso, avessero tale rilevanza (Cass. n.
+8115/2025; Cass. n. 9059/2018).
+2.3 Orbene, nel caso di specie, la CTR ha violato i predetti principi.
+7
+
+--- Pagina 8 ---
+
+Ed infatti, non ha valutato, prima singolarmente e poi nel loro complesso,
+numerosi elementi dedotti dall’Amministrazione dai quali potrebbe
+desumersi la sostanziale inesistenza delle fornitrici (assenza di utenze,
+omissione di dichiarazioni fiscali e di versamenti di imposte), nonché la
+conoscibilità di tale circostanza (mancanza di contatti diretti, acquisti di
+merce per importi molto elevati senza alcun accertamento sull’affidabilità
+delle cedenti, coinvolgimento nelle società fornitrici di soggetti riconducibili
+anche alla Brelko Poland, società acquirente delle merci per le quali era
+stato contestato l’omesso versamento d’imposta); si è limitata invece ad
+evidenziare, per escludere la conoscibilità della frode, che la merce era
+stata effettivamente consegnata e pagata e che le fornitrici erano titolari
+di partite IVA. Tali elementi, tuttavia, per quanto esposto, sono del tutto
+irrilevanti in quanto la regolarità contabile è funzionale alla frode.
+La CTR ha quindi violato i principi in materia di prova sopra riportati, in
+quanto avrebbe dovuto prima valutare singolarmente e poi nel loro
+insieme gli elementi forniti dall’Amministrazione – dal momento che
+singoli fatti possono assumere maggior valore indiziario se valutati
+unitamente ad altri - dai quali desumere la natura fittizia sotto il profilo
+soggettivo delle operazioni e la conoscibilità della stessa da parte
+dell’acquirente e poi verificare se gli elementi dedotti dalla contribuente
+(escludendo, per quanto esposto, la regolarità contabile, la ricezione della
+merce e l’esecuzione dei pagamenti con mezzi tracciabili) fossero idonei a
+dimostrare che quest’ultima non potesse conoscere, con l’impiego
+dell’ordinaria diligenza, la sostanziale inesistenza dei fornitori.
+Il motivo va quindi accolto.
+3. Con il secondo motivo, l’Amministrazione denuncia il vizio di cui all’art.
+360, comma 1°, n. 5) c.p.c. per omesso esame di punti di fatto decisivi e
+controversi. Tale fatto sarebbe «la consapevolezza o meno o la negligente
+non consapevolezza o meno, in capo alla società di intrattenere relazioni
+commerciali con soggetti fittizi»; ad avviso della ricorrente, la CTR
+8
+
+--- Pagina 9 ---
+
+avrebbe trascurato i numerosi fatti secondari indicati dall’Amministrazione
+da cui doveva desumersi la natura di cartiere delle venditrici e la mala
+fede o quanto meno l’inescusabile negligenza della società, per soffermarsi
+esclusivamente sugli elementi forniti dalla Italy Trading S.r.l. e cioè
+sull’effettività dei pagamenti e sulla regolarità delle consegne.
+Il motivo resta assorbito per effetto dell’accoglimento del primo, dal
+momento che riguarda, sotto un diverso profilo, la stessa questione.
+4.1 Occorre quindi esaminare il ricorso incidentale.
+Con il primo motivo di ricorso incidentale la società (ora fallita) denuncia il
+vizio di cui all’art. 360, comma 1°, n. 5) c.p.c. per omesso esame di fatti
+decisivi per il giudizio che sono stati oggetto di discussione tra le parti
+«con riferimento alla parte della impugnata sentenza che ha respinto il
+quarto motivo di appello del contribuente». In particolare, ad avviso della
+contribuente, la CTR, nell’esaminare il quarto motivo di appello relativo
+alla motivazione del provvedimento (pagg. 7 – 10 del ricorso in appello),
+aveva trascurato il fatto che mancavano gli atti di accertamento svolti nei
+confronti della società polacca Brelko Poland Spolka Z Organoczona
+destinataria delle cessioni intracomunitarie, su cui si fondava l’avviso nei
+confronti della società italiana. Sul punto, infatti, la CTR si era limitata a
+rilevare: «si osserva che i documenti richiamati sono nella disponibilità
+delle parti. Con riguardo alle informazioni trasmesse all’autorità italiana
+attraverso procedure di cooperazione previste, sia dalla legislazione
+italiana, sia da quella comunitaria, le stesse possono essere validamente
+utilizzate (…). Infine si osserva che, sulla base della Direttiva comunitaria
+77/99, nessun limite ha il contribuente di contestare l’esattezza delle
+informazioni trasmesse in forza della collaborazione tra Stati membri».
+4.2 Il motivo è inammissibile.
+Va innanzi tutto osservato che, secondo questa Corte, «costituisce errore
+di fatto deducibile come motivo di revocazione della sentenza ex art. 395,
+n. 4, c.p.c. quello che si verifica in presenza non già di sviste di giudizio
+9
+
+--- Pagina 10 ---
+
+ma della percezione, in contrasto con gli atti e le risultanze di causa, di
+una falsa realtà documentale, in conseguenza della quale il giudice sia
+stato indotto ad affermare l'esistenza o l'inesistenza di un fatto o di una
+dichiarazione che, invece, incontrastabilmente non risulta o risulta dai
+documenti di causa» (Cass. n. 9471/2025; Cass. n. 5369/2001).
+Tuttavia, non è questa l’ipotesi che ricorre, perché l’art. 395 n. 4) c.p.c.
+richiede comunque che il fatto non abbia costituito “un punto controverso
+su cui la sentenza ebbe a pronunciare”. Nel caso di specie, invece, la
+sentenza si è pronunciata sulla questione sollevata con il quarto motivo
+d’appello.
+Con la doglianza in questione la ricorrente incidentale lamenta,
+sostanzialmente, che la CTR avrebbe erroneamente ritenuto che la
+documentazione proveniente dalla autorità straniere fosse a disposizione
+delle parti, rigettando per tale ragione il quarto motivo di appello. Il
+motivo, così come formulato, è privo del requisito di specificità, giacché il
+ricorrente avrebbe dovuto indicare il dato dal quale desumere il fatto
+storico tralasciato e la sua decisività.
+Infatti, «l'art. 360, primo comma, n. 5, cod. proc. civ., riformulato dall'art.
+54 del d.l. 22 giugno 2012, n. 83, conv. in legge 7 agosto 2012, n. 134,
+introduce nell'ordinamento un vizio specifico denunciabile per cassazione,
+relativo all'omesso esame di un fatto storico, principale o secondario, la
+cui esistenza risulti dal testo della sentenza o dagli atti processuali, che
+abbia costituito oggetto di discussione tra le parti e abbia carattere
+decisivo (vale a dire che, se esaminato, avrebbe determinato un esito
+diverso della controversia). Ne consegue che, nel rigoroso rispetto delle
+previsioni degli artt. 366, primo comma, n. 6, e 369, secondo comma, n.
+4, cod. proc. civ., il ricorrente deve indicare il "fatto storico", il cui esame
+sia stato omesso, il "dato", testuale o extratestuale, da cui esso risulti
+esistente, il "come" e il "quando" tale fatto sia stato oggetto di discussione
+processuale tra le parti e la sua "decisività", fermo restando che l'omesso
+10
+
+--- Pagina 11 ---
+
+esame di elementi istruttori non integra, di per sé, il vizio di omesso
+esame di un fatto decisivo qualora il fatto storico, rilevante in causa, sia
+stato comunque preso in considerazione dal giudice, ancorché la sentenza
+non abbia dato conto di tutte le risultanze probatorie» (così Cass. Sez. U.
+8053/2014).
+Costituisce un “fatto”, agli effetti dell'art. 360, comma 1, n. 5), c.p.c., non
+una "questione" o un "punto", ma un vero e proprio "fatto", in senso
+storico e normativo, un preciso accadimento ovvero una precisa
+circostanza naturalistica, un dato materiale, un episodio fenomenico
+rilevante (Cass. n. 7983/2014; Cass. n. 17761/2016; Cass. n.
+29883/2017; Cass. n. 21152/2014; Cass. Sez. U. n. 5745/2015; Cass. n.
+5133/2014). Non costituiscono, viceversa, "fatti", il cui omesso esame
+possa cagionare il vizio ex art. 360, comma 1, n. 5, c.p.c.: le
+argomentazioni o deduzioni difensive (Cass. n. 14802/2017; Cass. n.
+21152/2014; Cass. n. 9637/2021; Cass. n. 2268/2022); gli elementi
+istruttori; una moltitudine di fatti e circostanze, o il "vario insieme dei
+materiali di causa" (Cass. n. 21439/2015).
+La ricorrente incidentale avrebbe dunque dovuto riportare o quanto meno
+richiamare specificamente le parti dell’avviso di accertamento nelle quali si
+fa riferimento agli atti provenienti dall’autorità straniera e quelli da cui
+desumere l’omessa allegazione. Solo attraverso tali elementi poteva
+valutarsi sia l’omesso esame e sia la decisività del fatto, giacché se pure
+tali documenti non fossero stati allegati, ma ne fosse stato riportato il
+contenuto essenziale nell’avviso, ciò sarebbe stato sufficiente per
+escludere la decisività dell’errore lamentato (Cass. n. 23005/2025; Cass.
+n. 28756/2020; Cass. n. 11866/2018).
+Considerazioni analoghe valgono anche con riguardo alla questione
+dell’onere di contestazione - in relazione al quale la ricorrente incidentale
+lamenta che solo ove fossero stati allegati tali documenti sarebbe stato
+possibile pretendere la contestazione specifica dei fatti indicati nell’avviso
+11
+
+--- Pagina 12 ---
+
+– e della prova, giacché sarebbe stato necessario indicare le parti
+dell’avviso in cui si faceva riferimento agli elementi di fatto dai quali
+doveva trarsi l’inoperatività della società polacca.
+4.3 Infine, nell’ultima parte di tale motivo di ricorso incidentale, si lamenta
+che la CTR non aveva tenuto conto – nella valutazione della mala fede o
+comunque della diligenza impiegata dalla contribuente nella gestione delle
+cessioni intracomunitarie - delle doglianze contenute alle pagg. 8 e 9
+dell’atto di appello nelle quali si descrivevano «le prassi operative del
+settore commerciale e le abituali modalità di conclusioni degli affari e di
+esecuzioni del trasporto merci», omettendo di considerare che l’Ufficio
+«non aveva provato i fatti sui quali aveva fondato l’addebito di
+responsabilità di Italy Trading, mentre quest’ultima aveva illustrato e
+documentato, già con le osservazioni al p.v. di contestazione, la propria
+correttezza commerciale e buona fede». Com’è evidente si tratta di una
+contestazione della valutazione delle prove compiuta dal giudice d’appello,
+peraltro del tutto generica e dunque inammissibile in questa sede.
+5.1 Con il secondo motivo di ricorso incidentale la società lamenta il vizio
+di cui all’art. 360, comma 1°, n. 5) c.p.c. per omesso esame di fatti
+decisivi per il giudizio che sono stati oggetto di discussione tra le parti
+«con riferimento alla parte della impugnata sentenza che ha respinto il
+quinto e settimo motivo d’appello del contribuente». La ricorrente
+incidentale si duole del fatto che la CTR ha respinto il quinto ed il settimo
+motivo di appello ritenendo che i rilievi dell’Amministrazione in ordine alla
+cessione di beni e servizi alla società polacca fossero adeguatamente
+motivati e dimostrati, senza tenere conto dei numerosi elementi addotti
+dalla stessa per provare la propria buona fede (prassi relative agli scambi
+nel settore in cui operava, modalità di consegna curate dalla destinataria,
+ecc.).
+5.2 Il motivo è palesemente inammissibile, contestandosi la valutazione
+del materiale probatorio compiuta dalla CTR e fondata sugli elementi
+12
+
+--- Pagina 13 ---
+
+indicati alle pagine 6 e 7 della sentenza che, ad avviso del giudice
+d’appello, avrebbero dovuto indurre la cedente, secondo l’ordinaria
+diligenza, a ritenere che le operazioni non potevano rientrare nell’ipotesi di
+cui all’art. 41 d.l. 331/1993 conv. in l. 427/1993.
+Il motivo non rispetta innanzi tutto le modalità (sopra indicate) con le
+quali va formulato il motivo di ricorso ai sensi dell’art. 360, comma 1°, n.
+5) c.p.c.; lo stesso non riguarda infatti un fatto storico determinato, bensì
+una moltitudine di fatti e circostanze.
+Va in ogni caso ricordato che, con il ricorso per cassazione, il ricorrente
+non può rimettere in discussione, contrapponendone uno difforme,
+l'apprezzamento in fatto, tratto dall'analisi degli elementi di valutazione
+disponibili, compiuto dal giudice del merito, al quale resta riservata
+l’individuazione delle fonti del proprio convincimento, la valutazione delle
+prove, il controllo della loro attendibilità e concludenza e la scelta, tra le
+risultanze probatorie, di quelle ritenute idonee a dimostrare i fatti in
+discussione (Cass. n. 23872/2020, Cass. n. 9097/2017); può al più dolersi
+dell’erronea applicazione delle norme in materia di valutazione delle prove
+(come, ad esempio, quelle sulla prova per presunzioni) o far valere il vizio
+di motivazione entro i limiti ristretti, indicati in precedenza, in cui ciò è
+ancora possibile.
+Con il motivo in esame, tuttavia, la doglianza – formulata ai sensi dell’art.
+360, comma 1°, n. 5) c.p.c. - non è stata articolata neppure con tali
+modalità, in quanto la ricorrente incidentale si è limitata a contrapporre
+alla valutazione complessiva delle prove compiuta dalla CTR una diversa
+ricostruzione dei fatti.
+6.1 Con il terzo motivo di ricorso incidentale la società deduce il vizio di
+cui all’art. 360, comma 1°, n. 3) c.p.c. per violazione degli artt. 2697 c.c.,
+2729 c.c. e 41 d.l. 331/1993 conv. in l. 427/1993. Sostiene in pratica che,
+trattandosi di cessioni “franco fabbrica” – in relazione alle quali il cedente
+nazionale si limita a consegnare i beni al vettore incaricato dall’acquirente
+13
+
+--- Pagina 14 ---
+
+- erroneamente la CTR non avrebbe ritenuto sufficienti per la prova del
+trasferimento all’estero della merce i CMR elettronici prodotti fin dal primo
+grado di giudizio (e richiamati a pagina 19 e s. del ricorso originario,
+nonché a pagina 26 e ss. dell’appello), considerati peraltro idonei anche
+nella risoluzione 19E emessa dall’Agenzia delle Entrate il 25/3/2013; il
+giudice di appello si era infatti limitato ad osservare che “l’odierna
+appellante avrebbe potuto addurre elementi di prova in ordine alla
+effettiva cessione sul territorio di uno Stato europeo ma tale prova non è
+stata fornita”.
+6.2 Il motivo è inammissibile.
+Al riguardo va innanzi tutto osservato che la non imponibilità delle cessioni
+intracomunitarie di beni è prevista dall’art. 138 della Direttiva
+2006/112/CE, secondo il quale «Gli stati membri esentano le cessioni di
+beni spediti o trasportati, fuori del loro rispettivo territorio ma nella
+Comunità, dal venditore, dall’acquirente o per loro conto, effettuate nei
+confronti di un altro soggetto passivo o di un ente non soggetto passivo,
+che agisce in quanto tale in uno Stato membro diverso dallo Stato
+membro di partenza della spedizione o del trasporto dei beni».
+Con riguardo al problema della prova, questa Corte ha chiarito che «In
+conformità all’articolo 138 cit., poi, l’articolo 41, comma 1, lettera a), del
+d.l. n. 331 del 1993, convertito con modificazioni dalla l. n. 427 del 1993,
+considera non imponibili ai fini IVA “le cessioni a titolo oneroso di beni,
+trasportati o spediti nel territorio di altro Stato membro, dal cedente o
+dall’acquirente, o da terzi per loro conto, nei confronti di cessionari
+soggetti d’imposta o di enti, associazioni ed altre organizzazioni […]”. La
+tassazione avviene, quindi, nello Stato membro di destinazione, secondo il
+principio per cui il gettito fiscale va trasferito tendenzialmente allo Stato
+membro in cui avviene il consumo finale dei beni ceduti.
+3.5. Come è stato più volte ribadito da questa Corte (Cass. 3603/2009;
+Cass. 15871/2016; Cass n. 10355/2022), l'onere di provare l'esistenza dei
+14
+
+--- Pagina 15 ---
+
+presupposti della deroga al regime della territorialità IVA è a carico del
+contribuente, anche in ragione del principio generale secondo il quale
+l'onere di provare la sussistenza dei presupposti di fatto, che legittimano
+la deroga al normale regime impositivo, è sempre a carico di chi invoca
+detta deroga. L'esenzione dall'IVA della cessione intracomunitaria di un
+bene diviene applicabile solo quando sono soddisfatte tre condizioni: il
+potere del fornitore di disporre di tale bene come proprietario è stato
+trasmesso all'acquirente, il fornitore prova che tale bene è stato spedito o
+trasportato in un altro Stato membro e, in seguito a tale spedizione o
+trasporto, il medesimo bene ha lasciato fisicamente il territorio dello Stato
+membro di cessione (cfr. CGUE 9 ottobre 2014, Traum; CGUE, 6
+settembre 2012, Mecsek-Gabona; CGUE, 27 settembre 2007, Teleos).
+3.6. Sempre con riferimento alle cessioni intracomunitarie, la Corte di
+giustizia ha precisato che gli obblighi spettanti a un soggetto passivo in
+materia di prova (segnatamente con riferimento al trasferimento della
+merce in altro Stato membro) devono essere determinati in funzione delle
+condizioni espressamente stabilite a tale riguardo dal diritto nazionale e
+dalla prassi abituale prevista per analoghe operazioni (CGUE in causa C-
+273/11, cit., punto 38; CGUE in causa C492/13, punto 30).
+3.7. La Direttiva 2006/112/CE e il suo Regolamento di attuazione, infatti,
+non forniscono alcuna indicazione in ordine alle prove necessarie per
+dimostrare l’effettivo trasferimento della merce da uno Stato membro
+all’altro, rinviando sul punto ai singoli ordinamenti nazionali. Neppure l’art.
+41 del d.l. n. 331 del 1993, applicabile ratione temporis, indica quali siano
+i documenti necessari per dimostrare la cessione comunitaria, sicché
+l'Amministrazione finanziaria è intervenuta diverse volte sull’argomento
+con le risoluzioni dell'Agenzia delle entrate, fra le quali vanno menzionate
+la n. 345 del 28 novembre 2007, la n. 477 del 15 dicembre 2008, la n.
+19/E del 25 marzo 2013 e la n. 71 del 24 luglio 2014. […]
+15
+
+--- Pagina 16 ---
+
+3.9. La questione sulla prova dell’effettività del trasporto della merce tra
+due operatori UE è stata affrontata anche dalla giurisprudenza unionale e
+di legittimità, essendosi affermato che, nel caso di cessione
+intracomunitaria, il cedente ha l'onere di dimostrare l'effettività del
+trasporto della merce nel territorio dello Stato in cui risiede il cessionario;
+in mancanza, deve emergere la sua buona fede, cioè che egli non sapesse
+o non avrebbe dovuto sapere che l'operazione effettuata rientrava in
+un'evasione posta in essere dall'acquirente e, ciò nonostante, non avesse
+adottato tutte le misure ragionevoli per evitare di parteciparvi (Cass. sez.
+5, n. 8477 del 2024; Cass. n. 29498 del 24/12/2020; Cass. n. 26062 del
+30/12/2015; Cass. n. 4636 del 26/02/2014; CGUE 6 settembre 2012, in
+C-273/11, Mecsek/Gabona; CGUE 17 ottobre 2019, in C653/18, Unitel). Si
+è anche precisato che «L'onere di provare l'esistenza dello scambio
+intracomunitario è a carico del contribuente, anche in ragione del principio
+generale secondo il quale l'onere di provare la sussistenza dei presupposti
+di fatto che legittimano la deroga al normale regime impositivo è sempre a
+carico di chi detta deroga invoca. Sicché, in presenza della disciplina che
+prevede in via ordinaria l'assoggettamento a Iva delle cessioni, incombe
+sul soggetto che intenda fruire del regime di non imponibilità, previsto per
+la cessione intracomunitaria, la prova della sussistenza dei requisiti, anche
+nel caso in cui non siano stati osservati gli obblighi formali relativi alle
+dichiarazioni Intrastat ed alle indicazioni del codice Iso» (Cass., 6 febbraio
+2023, n. 3565; Cass. sez. 5 n. 24005 del 2024). A tal fine il contribuente
+deve dimostrare di avere adottato la diligenza massima esigibile da un
+operatore accorto, valutata secondo criteri di ragionevolezza e di
+proporzionalità, in rapporto alle circostanze del caso concreto (Cass. n.
+4045 del 12/02/2019), per cui, in caso di vendita con clausola «franco
+fabbrica», ad esempio, dovrà fornire la prova documentale
+rappresentativa della effettiva dislocazione della merce nel territorio dello
+Stato membro di destinazione o di «fatti secondari», da cui desumere la
+16
+
+--- Pagina 17 ---
+
+presenza delle merci in un territorio diverso dallo Stato di residenza,
+ovvero, se la documentazione sia in possesso di terzi non collaboranti e
+non sia acquisibile da altri soggetti, di aver espressamente concordato, nei
+contratti stipulati con vettore, spedizioniere e cessionario, l'obbligo di
+consegna del documento e, a fronte dell'altrui inadempimento, di aver
+esperito ogni utile iniziativa giudiziaria (Cass. n. 26062 del 30/12/2015;
+Cass. n. 4045 del 12/02/2019). Sempre in tema di onere probatorio che
+incombe sul cedente, si è affermato altresì che “il documento di
+accompagnamento della merce è surrogabile anche con un documento
+commerciale contenente le stesse informazioni e la sua terza copia
+(l'esemplare che deve essere rinviato allo speditore per appuramento,
+cosiddetta copia di ritorno per il cedente) è idonea a comprovare, ai fini
+del beneficio dell’esenzione IVA, l’effettività del trasferimento della merce
+in altro Stato membro” (Cass. n. 28831 del 08/11/2019). Infine, è stato
+precisato che, nei casi in cui il cedente nazionale non abbia provveduto
+direttamente al trasporto delle merci e non sia in grado di esibire il
+predetto documento di trasporto, la prova in questione potrà essere
+fornita con qualsiasi altro documento idoneo a dimostrare che le merci
+sono state inviate in altro Stato membro (Cass. n. 2327 del 2/02/2021 e
+Cass. n. 25587 del 21/09/2021; Cass. n. 8477 del 2024)» (Cass. n.
+21617/2025, in motivazione; cfr. anche Cass. n. 29498/2020).
+Va infine considerato che al presente giudizio non trova applicazione l’art.
+45-bis del Regolamento UE di Esecuzione n. 282 del 2011 (recante
+“disposizioni di applicazione della direttiva 2006/112/CE relativa al
+sistema comune di imposta sul valore aggiunto”) inserito dal Regolamento
+di Esecuzione del 4 dicembre 2018, n. 2018/1912 UE, in quanto lo stesso
+disciplina, solo a decorrere dal 1° gennaio 2020, l’onere probatorio, sotto
+il profilo documentale, da assolvere relativamente alle cessioni
+intracomunitarie di beni ex art. 138 della Direttiva 2006/112/CE.
+17
+
+--- Pagina 18 ---
+
+6.3 Orbene, nel caso di specie, la CTR (pur affermando che l’onere
+probatorio gravava sull’Amministrazione) ha ritenuto che i CMR non
+fossero idonei a dimostrare l’effettivo trasporto della merce in un altro
+paese dell’Unione Europea, in quanto le risultanze di tali documenti erano
+contraddette da una serie di altri elementi riportati a pagina 7 della
+sentenza (le transazioni erano avvenute senza contatti diretti fra le parti
+nonostante l'entità delle cessioni; la società polacca non aveva alcuna
+sede agli indirizzi indicati nelle registrazioni ufficiali nello stato estero; il
+legale rappresentante risiedeva in Italia ed era titolare in Italia di altre
+società; i parziali pagamenti erano gestiti in Italia da soggetto italiano che
+non aveva alcun incarico; i documenti di trasporto erano irregolari). Si
+tratta di una valutazione di merito che non può essere sindacata nel
+giudizio di legittimità; peraltro, la ricorrente incidentale, neppure ha
+lamentato la violazione di norme che disciplinano la valutazione delle
+prove.
+6.4 Non appare infine rilevante la sentenza della Corte di Giusstizia UE
+nella causa C-409/2004 del 27/9/2007 invocata dalla ricorrente
+incidentale, in quanto nella stessa si stabilisce solo che «L’art. 28 quater,
+parte A, lett. a), primo comma, della sesta direttiva 77/388, come
+modificata dalla direttiva 2000/65, va interpretato nel senso che osta a
+che le autorità competenti dello Stato membro di cessione obblighino un
+fornitore, che ha agito in buona fede e ha presentato prove giustificanti
+prima facie il suo diritto all’esenzione di una cessione intracomunitaria di
+beni, ad assolvere successivamente l’IVA su tali beni, quando tali prove si
+rivelano essere false senza che risulti tuttavia provata la partecipazione
+del fornitore medesimo alla frode fiscale, purché quest’ultimo abbia
+adottato tutte le misure ragionevoli in suo potere al fine di assicurarsi che
+la cessione intracomunitaria effettuata non lo conducesse a partecipare ad
+una frode siffatta». Tale considerazione, tuttavia, non limita certo la
+possibilità di escludere l’esenzione quando, come nel caso di specie, il
+18
+
+--- Pagina 19 ---
+
+giudice ritenga dimostrato che «i beni non sono stati trasferiti in uno stato
+estero» e che il cedente ne fosse o avrebbe potuto, con l’impiego della
+necessaria diligenza, esserne consapevole.
+7. In definitiva va accolto il primo motivo del ricorso principale e va
+dichiarato assorbito il secondo mentre vanno dichiarati inammissibili i tre
+motivi di ricorso incidentale. La sentenza impugnata va quindi cassata in
+relazione al motivo accolto, con rinvio alla Corte di giustizia tributaria di
+secondo grado della Lombardia, in diversa composizione, che provvederà
+anche alla regolazione delle spese del presente giudizio di legittimità.
+P.Q.M.
+La Corte accoglie il primo motivo del ricorso principale, dichiara assorbito
+il secondo e rigetta il ricorso incidentale; cassa la sentenza impugnata in
+relazione al motivo accolto e rinvia alla Corte di giustizia tributaria di
+secondo grado della Lombardia, in diversa composizione, cui demanda di
+provvedere anche in ordine alle spese del presente giudizio di legittimità.
+Ai sensi dell’art. 13, comma 1-quater, del d.P.R. n. 115 del 2002, dà atto
+della sussistenza dei presupposti per il versamento, da parte della
+ricorrente incidentale, dell’ulteriore importo a titolo di contributo unificato
+pari a quello dovuto per il ricorso incidentale, a norma del comma 1-bis
+dello stesso articolo 13.
+Così deciso in Roma, nella camera di consiglio del 17/12/2025.
+La Presidente
+Tania Hmeljak
+19

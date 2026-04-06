@@ -1,0 +1,802 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+Iva – Operazioni esenti – Uso promiscuo - Detraibilità – Pro-rata
+SENTENZA
+Sul ricorso n. 19633-2023, proposto da:
+BANCO DI DESIO E DELLA BRIANZA s.p.a., cf. 01181770155, in persona
+del legale rappresentante p.t., elettivamente domiciliata in Roma, v.le
+Regina Margherita n. 294, presso lo studio dell’avv. Valerio Vallefuoco, dal
+quale è rappresentata e difesa -
+CONTRO
+AGENZIA DELLE ENTRATE, cf 06363391001, in persona del Direttore p.t.,
+elettivamente domiciliata in Roma, via dei Portoghesi n. 12, presso
+l’Avvocatura Generale dello Stato, che la rappresenta e difende -
+Controricorrente
+Avverso la sentenza n. 803/22/2023 della Corte di giustizia tributaria di II
+grado della Lombardia, depositata il 28.02.2023;
+udita la relazione della causa svolta nell’udienza pubblica dell’11 febbraio
+2025 dal Consigliere dott. Francesco Federici,
+
+--- Pagina 2 ---
+
+2
+sentito il Procuratore Generale presso la Corte di cassazione, nella persona
+del Sostituto procuratore generale dott. Mauro Vitiello, che ha concluso per
+l’accoglimento del primo motivo e assorbimento degli altri,
+Sentite le conclusioni delle parti presenti,
+FATTI DI CAUSA
+Dalla sentenza e dal ricorso si evince che l’Agenzia delle entrate notificò
+al Banco di Desio due avvisi d’accertamento con cui, relativamente agli anni
+d’imposta 2014 e 2015, l’ufficio pretese il recupero dell’iva ritenuta
+indebitamente detratta, rispettivamente per gli importi di € 144.666,00 e di
+€ 114.983,00, con applicazione delle conseguenti sanzioni. La questione era
+generata dalla detrazione dell’imposta che la società aveva assolto sugli
+acquisti di beni e servizi utilizzati promiscuamente, ossia tanto per l’esercizio
+dell’attività bancaria propriamente detta, le cui operazioni erano esenti,
+quanto per l’esercizio dell’attività di leasing, soggetta ad iva, attività
+entrambe condotte dalla società, ma con contabilità separata.
+L’ufficio, all’esito della verifica, contestò l’erronea applicazione del
+criterio di determinazione del “pro-rata” sulle spese destinate all’utilizzo
+promiscuo dei beni e servizi delle due attività. In particolare, a fronte del
+criterio del volume d’affari basato sul fatturato, applicato dalla società per la
+determinazione dell’Iva detraibile, l’Agenzia delle entrate ritenne più corretto
+quello dell’interesse attivo contabilizzato, ossia quello determinato dal
+rapporto tra il volume d’affari relativo all’attività di leasing, tenendo però
+conto dei soli interessi attivi (e non anche del rimborso della quota capitale
+del finanziamento), e il volume di affari complessivo di entrambe le attività,
+sempre circoscritto al monte interessi percepiti. Il criterio fu ritenuto più
+idoneo a rappresentare la quota di utilizzo dei beni o servizi ad utilizzo
+promiscuo nelle due attività esercitate.
+La banca, contestando gli accertamenti, adì la Commissione tributaria
+provinciale di Milano, che con sentenza n. 4138/13/2021 rigettò le ragioni
+della ricorrente. La Corte di giustizia lombarda di secondo grado respinse
+l’appello della contribuente.
+Il giudice regionale, con la pronuncia ora al vaglio della Corte, nel
+condividere le statuizioni di primo grado, ha evidenziato che il criterio
+adottato dalla società sbilanciava in senso a sé favorevole la determinazione
+del pro-rata. Nello specifico, ha ritenuto che il criterio del volume d’affari
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 3 ---
+
+3
+riferito al fatturato generava una sproporzione in favore dell’attività di
+leasing, ben meno remunerativa rispetto all’attività finanziaria svolta dal
+Banco, ma che, nel computo degli interessi e delle quote capitale da
+ammortizzare (relative al bene conferito in leasing ad ogni singolo cliente),
+esprimeva un fatturato molto elevato rispetto a quello dell’attività bancaria
+propriamente detta. Al contrario, il criterio dell’interesse attivo contabilizzato
+evidenziava più realisticamente il peso di ciascuna attività e l’esatta
+proporzione nell’utilizzo dei beni e servizi utilizzati dal Banco in modo
+promiscuo. Ha respinto inoltre le critiche sollevate dalla difesa della
+contribuente, sia in ordine alla denunciata violazione del legittimo
+affidamento, sia in ordine alla correttezza del metodo imposto dall’ufficio,
+evidenziando che quest’ultimo godeva di copertura interpretativa nella
+stessa giurisprudenza unionale per le ipotesi in cui il criterio del volume
+d’affari non garantisse equilibrio e, di contro, quello adottato assicurasse
+maggiore precisione.
+La società ha censurato la sentenza con nove motivi, ulteriormente
+illustrati da memoria, cui ha resistito con controricorso l’Agenzia delle
+entrate.
+All’esito della pubblica udienza dell’11 febbraio 2025 la causa è stata
+riservata per la decisione.
+RAGIONI DELLA DECISIONE
+Con il primo motivo la ricorrente denuncia la violazione dell’art. 36,
+comma 2, n. 4, del d.lgs. n. 546 del 1992, dell’art. 132, secondo comma, n.
+4, cod. proc. civ., e dell’art. 118 disp, att. cod. proc. civ., in relazione all’art.
+360, primo comma, n. 4, cod. proc. civ. La sentenza sarebbe affetta da grave
+vizio di nullità per motivazione apparente.
+Il motivo è infondato.
+Questa Corte ha chiarito che sussiste l’apparente motivazione della
+sentenza ogni qual volta il giudice di merito ometta di indicare su quali
+elementi abbia fondato il proprio convincimento, nonché quando, pur
+indicandoli, a tale elencazione ometta di far seguire una disamina almeno
+chiara e sufficiente, sul piano logico e giuridico, tale da permettere un
+adeguato controllo sulla correttezza del suo ragionamento (Sez. U, 3
+novembre 2016, n. 22232; cfr. anche 23 maggio 2019, n. 13977; 1 marzo
+2022, n. 6758). In sede di gravame, non è viziata la decisione quando
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 4 ---
+
+4
+motivata per relationem ove il giudice d'appello, facendo proprie le
+argomentazioni del primo giudice, esprima, sia pure in modo sintetico, le
+ragioni della conferma della pronuncia in relazione ai motivi di impugnazione
+proposti, sì da consentire, attraverso la parte motiva di entrambe le
+sentenze, di ricavare un percorso argomentativo adeguato e corretto, ovvero
+purché il rinvio sia operato così da rendere possibile ed agevole il controllo,
+dando conto delle argomentazioni delle parti e della loro identità con quelle
+esaminate nella pronuncia impugnata. Essa va invece cassata quando il
+giudice si sia limitato ad aderire alla pronuncia di primo grado senza che
+emerga, in alcun modo, che a tale risultato sia pervenuto attraverso l'esame
+e la valutazione di infondatezza dei motivi di gravame (cfr. Cass., 19 luglio
+2016, n. 14786; 7 aprile 2017, n. 9105). La motivazione del provvedimento
+impugnato con ricorso per cassazione è apparente anche quando, ancorché
+graficamente esistente ed eventualmente sovrabbondante nella descrizione
+astratta delle norme che regolano la fattispecie dedotta in giudizio, non
+consente alcun controllo sull'esattezza e la logicità del ragionamento
+decisorio, così da non attingere la soglia del "minimo costituzionale" richiesto
+dall'art. 111, sesto comma, Cost. (Cass., 1 marzo 2022, n. 6758; 30 giugno
+2020, n. 13248; cfr. anche 5 agosto 2019, n. 20921). È altrettanto
+apparente ogni qual volta evidenzi una obiettiva carenza nella indicazione
+del criterio logico che ha condotto il giudice alla formazione del proprio
+convincimento, come accade quando non vi sia alcuna esplicitazione sul
+quadro probatorio (Cass., 14 febbraio 2020, n. 3819), oppure quando
+carente nel giudizio di fatto, così che la motivazione si fondi su un giudizio
+generale e astratto (Cass., 15 febbraio 2024, n. 4166).
+È infine affetta da vizio di nullità anche quando si fondi su un contrasto
+irriducibile tra affermazioni inconciliabili, oppure risulti perplessa ed
+obiettivamente incomprensibile, così mancando della capacità di assolvere
+alla funzione specifica di esplicitare le ragioni della decisione, purché il vizio
+emerga dal testo della sentenza impugnata, a prescindere dal confronto con
+le risultanze processuali (cfr. Cass., 25 settembre 2018, n. 22598; 3 marzo
+2022, n. 7090; 6 novembre 2023, n. 30759; 3 gennaio 2024, n. 107; 23
+ottobre 2024, n. 27551).
+Nel caso di specie, dopo la ricostruzione del fatto e delle questioni
+sottoposte alla sua attenzione, la Commissione regionale ha inteso
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 5 ---
+
+5
+confermare le statuizioni della sentenza di primo grado, favorevoli all’erario,
+ribadendo le ragioni spiegate nella sentenza impugnata a sostegno della
+preferenza accordata al “criterio dell’interesse attivo contabilizzato”. Sotto
+tale profilo non ci si trova dinanzi ad un mero richiamo alla decisione
+impugnata, ma ad una adesione “ragionata” alle argomentazioni utilizzate
+dal giudice provinciale.
+A tal fine va opportunamente richiamato il principio secondo cui, nel
+processo civile ed in quello tributario, la sentenza la cui motivazione si limiti
+a riprodurre il contenuto di un atto di parte, o di altri atti processuali o
+provvedimenti giudiziari, senza niente aggiungervi, non è nulla qualora le
+ragioni della decisione siano, in ogni caso, attribuibili all'organo giudicante e
+risultino in modo chiaro, univoco ed esaustivo, atteso che, in base alle
+disposizioni costituzionali e processuali, tale tecnica di redazione non può
+ritenersi, di per sé, sintomatica di un difetto d'imparzialità del giudice, al
+quale non è imposta l'originalità né dei contenuti né delle modalità espositive
+(Sez. U, 16 gennaio 2015, n. 642; principio da ultimo ribadito in Cass., 6
+ottobre 2022, n. 29028). D’altronde, può aggiungersi, ribadire quelle stesse
+ragioni con un diverso giro di parole non apporterebbe alcun vantaggio alla
+chiarezza del ragionamento seguito, né arricchirebbe un ragionamento
+ritenuto, già di suo, esaustivo e completo mediante la mera riproduzione,
+integrale o per passaggi, di quel precedente.
+Il motivo è in conclusione da rigettare perché la sentenza supera
+ampiamente la sufficienza motivazionale ed il minimo costituzionale
+garantito.
+Con il secondo motivo la società si duole della violazione dei principi
+elaborati dalla giurisprudenza comunitaria, degli artt. 3, 53 e 97 Cost.,
+dell’art. 10, l. n. 212 del 2000, in relazione all’art. 360, primo comma, n. 3,
+c.p.c. La sentenza avrebbe violato le regole sul legittimo affidamento del
+contribuente, per la qual cosa, ove non condivisa la censura, sempre con lo
+stesso motivo è richiesto il rinvio pregiudiziale alla Corte di Giustizia UE.
+La doglianza sulla violazione del legittimo affidamento è formulata sotto
+un duplice aspetto, quello della ignorata valenza della risposta comunicata
+al Banco dall’allora Ministero delle Finanze – Secondo Ufficio IVA di Milano;
+quello del pluriennale riconoscimento dei rimborsi IVA ottenuti dalla società
+e liquidati nell’esatto ammontare richiesto, così come dell’assenza di
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 6 ---
+
+6
+contestazioni, per oltre quindici anni, circa l’utilizzo del criterio del fatturato
+ai fini della determinazione dell’IVA detraibile sulle spese ad uso promiscuo.
+Il motivo è da rigettare, perché non coglie nel segno.
+Intanto, ove si prenda in considerazione la disciplina interna, la tutela
+dell'affidamento incolpevole del contribuente, prevista dall’art. 10, comma
+2, della l. 27 luglio 2000, n. 212, afferisce alla disapplicazione di sanzioni ed
+interessi, non dell’imposta.
+In ogni caso l’area applicativa della tutela dell’affidamento resta
+totalmente estranea alla questione qui controversa.
+Si è intanto opportunamente affermato che anche le circolari ministeriali
+in materia tributaria non costituiscono fonte di diritti ed obblighi, non
+discendendo da esse vincoli neppure per la stessa Amministrazione
+finanziaria che le ha emanate, così che, ove il contribuente si sia conformato
+a un'interpretazione erronea fornita da quest'ultima, non gli è dato
+comunque invocare alcun legittimo affidamento al fine di andare esente dal
+pagamento del tributo dovuto. Assume infatti rilevanza quanto ai tributi il
+principio costituzionale della riserva di legge, nonché gli ulteriori principi di
+inderogabilità delle norme tributarie, di indisponibilità dell'obbligazione
+tributaria, di vincolo della funzione di imposizione e di irrinunciabilità del
+diritto di imposta, risultando ciò conforme al principio unionale secondo cui
+il legittimo affidamento non può basarsi su una prassi illegittima
+dell'Amministrazione (Cass., 30 settembre 2020, n. 20819; 11 luglio 2019,
+n. 18618).
+Nel caso concreto, inoltre, i giudici regionali hanno evidenziato che la
+risposta del Ministero, resa peraltro al di fuori di un interpello formale, non
+aveva affatto il senso preteso dalla società, e cioè non aveva riconosciuto
+come criterio più appropriato quello del fatturato. A tal fine nella medesima
+risposta era stata infatti richiamata la sentenza pronunciata dalla Corte di
+Giustizia Europea 10 luglio 2014, in causa C-183/13, che, proprio in tema di
+diritto alla detrazione dell’iva per i costi sostenuti per beni ad utilizzo misto,
+aveva ritenuto corretto l’utilizzo di criteri alternativi a quello del volume
+d’affari -nell’ipotesi che quest’ultimo si fosse rivelato non soddisfacente alla
+regolazione dello specifico rapporto, e a condizione della maggiore precisione
+del criterio alternativo-.
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 7 ---
+
+7
+A maggior ragione, priva di pregio è l’invocata assenza di contestazioni
+da parte dell’Amministrazione finanziaria -ancorché per più annualità- sulle
+richieste di detrazione iva, avanzate dal Banco secondo il criterio di
+determinazione dell’importo mediante il rapporto del volume d’affari delle
+due attività, una (la finanziaria) esente e l’altra (quella di leasing)
+assoggettata ad iva, cui erano strumentali i beni ad utilizzo promiscuo.
+E’ infatti evidente che l’assenza di accertamenti per gli anni precorsi a
+quelli oggetto di causa non può assumere alcun rilievo.
+Le considerazioni appena svolte ricevono puntale conforto da un recente
+arresto di questa Corte in tema di tutela dell’affidamento (Cass.,
+29886/2025).
+In essa si è infatti chiarita l’indiscutibile tutela del legittimo affidamento,
+che costituisce principio fondamentale dell’Unione, vincolante per qualsiasi
+autorità nazionale incaricata di applicare il diritto dell’Unione. Ne consegue
+il diritto di ogni individuo di avvalersi del legittimo affidamento ogni qual
+volta un’autorità amministrativa abbia fatto sorgere fondate aspettative a
+causa di assicurazioni precise che essa gli avrebbe fornito (cfr. CGUE, 1
+agosto 2025, Határ Diszkont, in causa C-427/23, punto 77 ss.; CGUE, 11
+luglio 2002, Marks à Spencer, in causa C-62/00, EU:C:2002:435, punto 44;
+CGUE 16 gennaio 2025, Baltic Container Terminal, in causa C-376/23,
+EU:C:2025:20, punto 64).
+Nell’attuazione delle disposizioni della direttiva IVA, le autorità nazionali
+sono pertanto tenute a rispettare tale principio (CGUE, 9 luglio 2015, Cabinet
+Medical Veterinar Dr. Tomoiagă Andrei, in causa C-144/14, punto 43; CGUE
+9 luglio 2015, Salomie e Oltean, in causa C-183/14, punto 44; CGUE 15
+aprile 2021, Administration de l’Enregistrement, des Domaines et de la TVA,
+in causa C-846/19, punto 90).
+Occorre tuttavia verificare se gli atti di un’autorità amministrativa
+abbiano effettivamente ingenerato ragionevoli aspettative in capo a un
+operatore economico prudente e accorto e, se ciò è avvenuto, è necessario
+accertare la legittimità di tali aspettative.
+Ebbene, con riferimento all’assenza di contestazione, in occasione di vari
+controlli fiscali, della qualificazione come operazioni esenti dall’IVA, la
+giurisprudenza unionale ha avvertito che la semplice accettazione, anche per
+diversi anni, da parte dell’amministrazione tributaria nazionale di
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 8 ---
+
+8
+dichiarazioni IVA che non includevano gli importi relativi a talune operazioni
+non vale come garanzia precisa fornita da tale amministrazione sulla
+mancata applicazione dell’IVA a tali operazioni e non può, pertanto, creare
+un legittimo affidamento al riguardo (CGUE, 15 aprile 2021, in C-846/19,
+cit., punto 92). Ciò, salvo circostanze del tutto particolari, atte a creare, in
+capo a un operatore economico normalmente prudente e accorto, un
+ragionevole affidamento nella non applicabilità di tale imposta a siffatte
+operazioni (CGUE, 1 agosto 2025, in causa C-427/23, cit. punto 83; cfr.
+anche CGUE, 9 luglio 2015, in causa C-144/14, cit., EU:C:2015:452, punto
+46, nonché CGUE 9 luglio 2015, in causa C-183/14, cit. EU:C:2015:454,
+punti 47 e 48). A tal fine devono infatti acquisirsi informazioni precise,
+incondizionate e concordanti che promanino da fonti autorizzate ed affidabili,
+idonee a far nascere fondate aspettative, a prescindere dalla forma in cui
+vengono comunicate (CGUE, 1 agosto 2025, in causa C-427/23, cit. punto
+84).
+Nessuno può invece invocare una violazione del principio di tutela del
+legittimo affidamento in assenza di precise garanzie fornitegli
+dall’amministrazione (cfr. CGUE 14 marzo 2013, Agrargenossenschaft
+Neuzelle, in causa C-545/11, punto 25; CGUE 16 gennaio 2025, in causa
+C-376/23, cit., punto 65).
+In assenza di specifici e rigorosi presupposti la tutela del legittimo
+affidamento non è dunque violata dalla condotta dell’amministrazione
+tributaria, che assoggetti a posteriori all’IVA talune prestazioni di servizi, nel
+caso in cui tale amministrazione abbia controllato e accettato per diversi anni
+le dichiarazioni IVA del soggetto passivo senza contestare la qualificazione
+di tali prestazioni come prestazioni esenti da IVA (ancora, CGUE, 1 agosto
+2025, in causa C-427/23, cit.).
+Ebbene, perimetrato l’alveo della rilevanza del legittimo affidamento, la
+sentenza per cui è causa risulta corretta. Come già chiarito, in essa i giudici
+regionali avevano evidenziato che la risposta del Ministero, resa peraltro al
+di fuori di un interpello formale, non aveva affatto il senso preteso dalla
+società e ciò risulta in linea con i precedenti, anche recentissimi, della
+giurisprudenza unionale.
+Il motivo va dunque rigettato.
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 9 ---
+
+9
+Le ragioni di rigetto, ragioni di fatto oltre che di diritto, escludono inoltre
+la rilevanza della richiesta, avanzata con il ricorso, di rimessione alla Corte
+di Giustizia della questione della lesione del principio d’affidamento.
+Con il terzo motivo la società denuncia la violazione degli artt. 167, 168
+e 173 VI direttiva Iva, n. 77/388/CEE, poi trasfusa nella Direttiva
+112/2006/CEE, vigente, in relazione all’art. 360, primo comma, n. 3, cod.
+proc. civ. La pronuncia sarebbe erronea laddove non ha rilevato la violazione
+del principio di neutralità dell’iva, che è garantito dal diritto alla detrazione
+dell’imposta. La presunta correttezza del criterio della "quota interessi" per
+determinare il pro-rata di detrazione sarebbe contraria al principio di
+neutralità.
+Con il quarto motivo lamenta la violazione dell’art. 173, par. 2, lett. c),
+della Direttiva Iva, nonché dell’art. 19 comma 4, d.P.R. 633/1972, in
+relazione all’art. 360, primo comma, n. 3 cod. proc. civ.
+La sentenza sarebbe erronea per non aver utilizzato un criterio coerente
+con la natura dei beni o servizi.
+Con il quinto motivo ci si duole della violazione dell’art. 36, d.P.R.
+633/1972, in relazione all’art. 360, primo comma, n. 3, cod. proc. civ. La
+decisione sarebbe in contrasto con la ratio della disciplina del pro-rata,
+tenendo conto che l’art. 36 cit. riconosce, per le ipotesi di opzione per il
+regime di separazione facoltativa delle attività, il diritto alla detrazione
+dell’imposta relativa ai beni e ai servizi utilizzati promiscuamente, nei limiti
+della parte imputabile all’esercizio dell’attività stessa.
+Con il sesto motivo denuncia la violazione degli artt. 3, 11 e 117 Cost.,
+20 e 21 Carta di Nizza, 2, 3 e 9 TUE, 10 TFUE, nonché degli artt. 14 CEDU e
+1, Prot. n. 12 CEDU, in combinato disposto con gli artt. 6 CEDU e 1, Prot. n.
+1 CEDU, in relazione all’art. 360, primo comma, n. 3, cod. proc, civ. La
+sentenza sarebbe viziata perché con la sua statuizione avvallerebbe
+l’ingiustificata disparità di trattamento, penalizzando il Banco nello
+svolgimento delle attività creditizia e di leasing, attività economicamente
+distinte ma tenute unite nell’alveo della medesima società. Tale trattamento
+sarebbe inoltre ingiustificatamente più sfavorevole rispetto a quello riservato
+a operatori economici che esercitano le stesse attività tramite entità
+separate.
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 10 ---
+
+10
+I quattro motivi possono essere trattati congiuntamente perché,
+ancorché le critiche indirizzate alla sentenza partono da profili diversi, esse
+sono accomunate dalla denuncia, diretta o indiretta, della violazione dei
+principi nazionali e unionali, posti a presidio delle operazioni sottoposte ad
+Iva, e in particolare al principale di essi, il principio di neutralità.
+È intanto opportuno precisare che, laddove nel terzo motivo è richiamata
+la VI Direttiva Iva, n. 77/388/CEE, le norme ad essa riferibili, per quanto qui
+di maggiore interesse, sono gli artt. 17 e 19 (i cui contenuti sono stati poi
+essenzialmente trasfusi negli artt. 168 e 173/175 della 112/2006/CEE).
+Considerati gli anni d’imposta oggetto di accertamento (2014 e 2015), il
+richiamo alla disciplina unionale va indirizzato agli artt. 173/175 della
+direttiva 112/2006/CEE, tenendo comunque conto che ai fini
+dell’interpretazione di tali norme resta d’ausilio la giurisprudenza unionale
+elaborata alla luce della disciplina previgente (ossia gli artt. 17 e 19 della VI
+direttiva).
+Ed infatti l’art. 173 della direttiva del 2006 riproduce quasi fedelmente
+le prescrizioni dell’art. 17, comma 5, della VI direttiva, così come l’art. 174
+riproduce, ampliandone il contenuto, quello dell’art. 19 della VI direttiva (per
+completezza, l’art. 17, comma 1 è richiamato, con ulteriori ampliamenti,
+dall’art. 168 della VI direttiva).
+Ciò chiarito, i motivi sono fondati nei termini appresso illustrati.
+Deve premettersi che il perimetro di indagine afferisce ad una ipotesi
+nella quale la società, nell’esercizio di due attività, una sottoposta ad Iva
+(attività di leasing), l’altra esente (attività finanziaria della banca), ha
+optato, a ciò autorizzata, per la tenuta di contabilità separata; la
+controversia riguarda la disciplina e la determinazione del diritto alla
+detrazione dell’Iva per costi relativi a beni utilizzati promiscuamente
+nell’esercizio di entrambe le attività.
+Infatti, l’uso promiscuo di beni, strumentali a distinte attività
+economiche, ora in regime di esenzione iva, ora assoggettate all’imposta, si
+riflette per conseguenza sulla detraibilità dell’imposta assolta sui costi
+sostenuti per l’esercizio stesso di quelle attività. Si tratta di un riflesso
+necessario dell’incombente principio di neutralità e a ciò è preposta la regola
+della rilevanza parziale, o se si vuole “frazionata” dell’operazione, secondo il
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 11 ---
+
+11
+meccanismo del pro-rata, che trova essenzialmente disciplina nell’art. 19 bis
+e 36 del d.P.R. n. 633 del 1972.
+La questione, dunque, non è quella dell’indetraibilità, o per contro della
+detraibilità dell’iva passiva sull’acquisto (o sulle spese di mantenimento) di
+beni utilizzati nell’esercizio di attività sottoposte a regimi iva differenti. La
+questione, invece, si traduce nella ricerca del criterio che regoli una
+fattispecie, ossia l’utilizzo promiscuo del bene, senza violare il principio di
+neutralità.
+Peraltro, se il criterio del volume d’affari sul fatturato di ciascuna delle
+diverse attività esercitate comunemente dall’operatore economico, persona
+fisica oppure struttura complessa, costituisce il criterio astrattamente più
+lineare e semplice per identificare gli elementi di valore da cui scaturisce il
+risultato del pro-rata, ciò non esclude difficoltà nella determinazione della
+detrazione.
+Di tale evenienza è ben consapevole proprio la giurisprudenza unionale,
+che infatti è intervenuta più volte in materia. Tra gli arresti della CGUE va
+certamente annoverata la decisione richiamata dalla pronuncia impugnata,
+che nel paragrafo 32, afferma che «[…] la sesta direttiva non osta a che gli
+Stati membri applichino, per una determinata operazione, un metodo o un
+criterio di ripartizione diverso dal metodo fondato sul fatturato,
+subordinatamente alla condizione che tale metodo garantisca una
+determinazione del pro rata di detrazione dell’IVA versata a monte più
+precisa di quella risultante dall’applicazione del metodo fondato sul
+fatturato.» (CGUE 10 luglio 2014, in causa C-183/13, cit.).
+Con maggiore ampiezza e puntualità la CGUE è peraltro intervenuta con
+sentenza 18 ottobre 2018, in causa C-153/17, nella quale è dato leggere
+che «56. – Tuttavia, dal ragionamento seguito dalla Corte per quanto
+riguarda le operazioni di leasing finanziario di cui trattasi nella causa che ha
+dato origine alla sentenza del 10 luglio 2014, Banco Mais (C-183/13,
+EU:C:2014:2056), non si può dedurre che l’articolo 173, paragrafo 2, lettera
+c), della direttiva IVA autorizzi gli Stati membri, in maniera generale, ad
+applicare a tutti i tipi di operazioni simili per il settore automobilistico, quali
+le operazioni di locazione con opzione d’acquisto di cui trattasi nella causa
+principale, un metodo di ripartizione che non tenga conto del valore del
+veicolo alla sua cessione. 57 - In particolare, alla luce del carattere
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 12 ---
+
+12
+fondamentale del diritto alla detrazione, ricordato al punto 39 della presente
+sentenza, quando le modalità di calcolo della detrazione non tengono conto
+di una destinazione effettiva e non trascurabile di una parte delle spese
+generali a operazioni che danno diritto alla detrazione, non si può
+considerare che tali modalità riflettano oggettivamente la parte reale delle
+spese generate dall’acquisto di beni e di servizi a uso misto che può essere
+imputata a tali operazioni. Di conseguenza, tali modalità non sono atte a
+garantire una ripartizione più precisa di quella che risulterebbe
+dall’applicazione del criterio di ripartizione secondo il volume d’affari.
+58 - Pertanto, nel caso di specie, per quanto riguarda il metodo di calcolo
+del pro-rata di detrazione dell’IVA applicato dall’amministrazione fiscale,
+spetta al giudice nazionale verificare che tale metodo tenga conto della
+destinazione effettiva e non trascurabile di una parte delle spese generali ai
+fini delle operazioni che danno diritto alla detrazione. 59 - Alla luce di tutte
+le precedenti considerazioni, occorre rispondere alle questioni poste
+dichiarando che l’articolo 168 e l’articolo 173, paragrafo 2, lettera c), della
+direttiva IVA devono essere interpretati nel senso che, da un lato, anche
+quando le spese generali relative a operazioni di locazione con opzione
+d’acquisto di beni mobili, come quelle di cui trattasi nel procedimento
+principale, non si riflettono nell’importo dovuto dal cliente a titolo della
+messa a disposizione del bene in questione, ossia la parte imponibile
+dell’operazione, ma nell’importo dell’interesse dovuto a titolo della parte
+«finanziamento» dell’operazione, ossia la parte esente della stessa, tali
+spese generali devono comunque essere considerate, ai fini dell’IVA, come
+un elemento costitutivo del prezzo di tale messa a disposizione e, dall’altro,
+gli Stati membri non possono applicare un metodo di ripartizione che non
+tenga conto del valore iniziale del bene in questione al momento della sua
+cessione, poiché tale metodo non è atto a garantire una ripartizione più
+precisa di quella che risulterebbe dall’applicazione del criterio di ripartizione
+secondo il volume d’affari».
+Le osservazioni sviluppate nella pronuncia unionale ora richiamata
+trovano a loro volta fondamento nelle regole generali della disciplina iva in
+merito al diritto alla detrazione dei costi. La stessa ultima pronuncia, infatti,
+nei paragrafi precedenti a quelli appena riportati, rammenta che «37 - Al
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 13 ---
+
+13
+fine di rispondere alle questioni sollevate, come riformulate al punto 27 della
+presente sentenza, occorre ricordare la giurisprudenza della Corte relativa
+all’origine e alla portata del diritto a detrazione dell’IVA. 38 -La Corte ha già
+statuito che dall’articolo 168 della direttiva IVA risulta che un soggetto
+passivo ha, in linea di principio, diritto alla detrazione dell’IVA assolta a
+monte quando è accertato che i beni o i servizi invocati a base di tale diritto
+sono utilizzati a valle da tale soggetto passivo ai fini delle proprie operazioni
+soggette ad imposta e che, a monte, detti beni o servizi sono forniti da un
+altro soggetto passivo (v., in tal senso, sentenza del 22 giugno 2016,
+Gemeente Woerden, C-267/15, EU:C:2016:466, punti 34 e 35). 39 -
+Secondo giurisprudenza costante della Corte, tale diritto dei soggetti passivi
+costituisce un principio fondamentale del sistema comune dell’IVA istituito
+dalla normativa dell’Unione europea, di modo che tale diritto costituisce
+parte integrante del meccanismo dell’IVA e, in linea di principio, non può
+essere soggetto a limitazioni (v., in tal senso, sentenza del 22 giugno 2016,
+Gemeente Woerden, C-267/15, EU:C:2016:466, punti 30 e 31 e
+giurisprudenza citata). 40 - Infatti, il regime delle detrazioni mira a sgravare
+interamente l’imprenditore dall’onere dell’IVA dovuta o pagata nell’ambito di
+tutte le sue attività economiche. Il sistema comune dell’IVA garantisce, di
+conseguenza, la perfetta neutralità dell’imposizione fiscale per tutte le
+attività economiche, indipendentemente dallo scopo o dai risultati di dette
+attività, purché queste siano di per sé soggette all’IVA (sentenza del 22
+giugno 2016, Gemeente Woerden, C-267/15, EU:C:2016:466, punto 32).
+41 - Risulta inoltre da una costante giurisprudenza della Corte che la
+sussistenza di un nesso diretto ed immediato tra una specifica operazione a
+monte ed una o più operazioni a valle, che conferiscono il diritto a
+detrazione, è necessaria, in via di principio, affinché il diritto a detrazione
+dell’IVA assolta a monte sia riconosciuto al soggetto passivo e al fine di
+determinare la portata di siffatto diritto. Il diritto a detrarre l’IVA gravante
+sull’acquisto di beni o servizi a monte presuppone che le spese sostenute
+per acquistare questi ultimi facciano parte degli elementi costitutivi del
+prezzo delle operazioni tassate a valle che conferiscono il diritto a detrazione
+(sentenza del 14 settembre 2017, Iberdrola Inmobiliaria Real Estate
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 14 ---
+
+14
+Investments, C-132/16, EU:C:2017:683, punto 28 e giurisprudenza citata).
+42 - Il diritto a detrazione è tuttavia ammesso a beneficio del soggetto
+passivo anche in mancanza di un nesso diretto e immediato tra una specifica
+operazione a monte e una o più operazioni a valle che conferiscono un diritto
+a detrazione, qualora i costi dei servizi in questione facciano parte delle
+spese generali del soggetto passivo e, in quanto tali, siano elementi
+costitutivi del prezzo dei beni o dei servizi che esso fornisce. Spese di tale
+genere presentano, infatti, un nesso diretto ed immediato con il complesso
+delle attività economiche del soggetto passivo (sentenza del 14 settembre
+2017, Iberdrola Inmobiliaria Real Estate Investments, C-132/16,
+EU:C:2017:683, punto 29 e giurisprudenza citata).».
+Gli approdi della giurisprudenza unionale sul metodo di determinazione
+del pro-rata, ancorato a criteri oggettivi, che possono superare il criterio del
+volume d’affari, purché provata la loro maggiore precisione, sono d’altronde
+confermati da ulteriori importanti arresti della CGUE, come la sentenza 30
+aprile 2020, in causa C-661/18, secondo la quale «36 - Per quel che riguarda
+poi il principio di neutralità fiscale, è vero che dalla giurisprudenza della
+Corte risulta che gli Stati membri possono, ai sensi dell’articolo 173,
+paragrafo 2, lettera c), della direttiva 2006/112, applicare, per una
+determinata operazione, un metodo o un criterio di ripartizione diverso dal
+metodo fondato sul volume d’affari, subordinatamente alla condizione che
+tale metodo garantisca una determinazione del pro-rata di detrazione
+dell’IVA versata a monte più precisa di quella risultante dall’applicazione del
+metodo fondato sul volume d’affari. Pertanto, ogni Stato membro che decida
+di autorizzare od obbligare il soggetto passivo a operare la detrazione
+secondo la destinazione della totalità o di una parte dei beni e dei servizi
+deve garantire che i metodi di calcolo del diritto a detrazione consentano di
+stabilire con la massima precisione la parte di IVA relativa ad operazioni che
+danno diritto alla detrazione. Il principio di neutralità fiscale, infatti, inerente
+al sistema comune dell’IVA, impone che le modalità di calcolo della
+detrazione riflettano oggettivamente la parte reale delle spese occasionate
+dall’acquisto di beni e di servizi a uso misto che può essere imputata a
+operazioni che danno diritto a detrazione [v., in tal senso, sentenza del 18
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 15 ---
+
+15
+ottobre 2018, Volkswagen Financial Services (UK), C-153/17,
+EU:C:2018:845, punti 51 e 52 e giurisprudenza citata]. 37 - La Corte ha
+tuttavia specificato che il metodo scelto non deve necessariamente essere il
+più preciso possibile, ma deve poter garantire un risultato più preciso di
+quello che deriverebbe dall’applicazione del criterio di ripartizione basato sul
+volume d’affari [v., in tal senso, sentenza del 18 ottobre 2018, Volkswagen
+Financial Services (UK), C-153/17, EU:C:2018:845, punto 53 e
+giurisprudenza citata].
+Parimenti incisiva e utile, peraltro, si rivela la sentenza 14 dicembre
+2016, in causa C-378/15, secondo la quale «[…] 50 - Dall’insieme delle
+considerazioni che precedono risulta che l’articolo 17, paragrafo 5, terzo
+comma, lettera d), e l’articolo 19 della sesta direttiva devono essere
+interpretati nel senso che non ostano a una normativa e a una prassi
+nazionali, come quelle di cui trattasi nel procedimento principale, che
+impongono a un soggetto passivo: – di applicare alla totalità dei beni e dei
+servizi da esso acquistati un pro-rata di detrazione basato sulla cifra d’affari,
+senza prevedere un metodo di calcolo che sia fondato sulla natura e sulla
+destinazione effettiva di ciascun bene e servizio acquistato e che rifletta
+oggettivamente la quota di imputazione reale delle spese sostenute a
+ciascuna delle attività tassate e non tassate; e – di riferirsi alla composizione
+della sua cifra d’affari per l’individuazione delle operazioni qualificabili come
+«accessorie», a condizione che la valutazione condotta a tal fine tenga conto
+altresì del rapporto tra dette operazioni e le attività imponibili di tale
+soggetto passivo nonché, eventualmente, dell’impiego che esse implicano
+dei beni e dei servizi per i quali l’IVA è dovuta». Con ciò la Corte EU ha
+riconosciuto la coerenza al sistema giuridico unionale della legislazione
+italiana, che ha assunto la regola del volume d’affari come criterio generale
+ai fini dell’applicazione del pro-rata, purché nel rispetto delle condizioni
+indicate nel secondo capo del principio affermato.
+Anche nella giurisprudenza nazionale si è affermato che in tema di IVA,
+nel caso di più attività svolte nell'ambito della stessa impresa, per una delle
+quali l'imposta assolta sia detraibile, l'imputazione dei costi promiscui perché
+riferibili a tutte le attività, esenti o assoggettate all’imposta, deve essere
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 16 ---
+
+16
+effettuata in base alla misura della concreta utilizzazione dei beni e servizi,
+da cui derivano detti costi, nell'ambito delle distinte attività, atteso quanto
+previsto dall'art. 36, commi 3 e 5, del d.P.R. 26 ottobre 1972, n. 633. Il
+relativo onere di provare l'imputazione dei costi incombe al contribuente e
+non può essere assolto invocando criteri di astratta ripartizione
+proporzionale (Cass., 20 aprile 2012, n. 6255, 5 agosto 2021, n. 22305).
+Si è peraltro sostenuto che il criterio ordinario per la determinazione del
+pro rata di detraibilità dell'imposta assolta, concernente i costi promiscui,
+prende in considerazione il volume d'affari annuo delle stesse attività,
+gravando sulla parte che contesta l'applicazione del criterio ordinario l'onere
+di fornire la prova che l'applicazione di un metodo differente può determinare
+un risultato più preciso e, quindi, più idoneo a rappresentare, in concreto, il
+rapporto esistente tra attività imponibili ed attività esenti (Cass., 13
+dicembre 2024, n. 32326).
+In questa prospettiva, se per un verso il criterio del volume d’affari viene
+riconosciuto come quello ordinario, salvo dimostrazione della maggiore
+precisione di una specifica modulazione dello stesso criterio, per altro verso,
+tuttavia, è la giurisprudenza unionale ad avvertire come, proprio nel segno
+della preservazione del principio di neutralità, l’articolo 173, paragrafo 2,
+lettera c), della direttiva IVA non autorizza gli Stati membri, in maniera
+generale, ad applicare un metodo di ripartizione che non tenga conto del
+valore del bene (nel caso di specie di un veicolo) al momento della sua
+cessione. Ciò perché, nel rispetto del fondamentale diritto alla detrazione del
+costo “quando le modalità di calcolo della detrazione non tengono conto di
+una destinazione effettiva e non trascurabile di una parte delle spese
+generali a operazioni che danno diritto alla detrazione, non si può
+considerare che tali modalità riflettano oggettivamente la parte reale delle
+spese generate dall’acquisto di beni e di servizi a uso misto che può essere
+imputata a tali operazioni e di conseguenza tali modalità non sono atte a
+garantire una ripartizione più precisa di quella che risulterebbe
+dall’applicazione del criterio di ripartizione secondo il volume d’affari” (CGUE,
+18 ottobre 2018, cit.).
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 17 ---
+
+17
+Nell’avviare a conclusione il percorso tracciato con i richiami alla
+disciplina e alla giurisprudenza unionale, deve tuttavia ancora tenersi conto
+che l’art. 174 della direttiva 112/2006, ai fini del calcolo del pro-rata fa
+riferimento al volume d’affari.  E per quanto qui di interesse al volume
+d’affari complessivo si richiama anche la disciplina nazionale con l’art. 36 del
+d.P.R. 633/1972, che disciplina proprio le ipotesi di esercizio di più attività,
+ma con contabilità separate (commi 3 e 5), e le regole di detrazione
+dell’imposta assolta sui costi relativi ai beni ad utilizzo promiscuo.
+Ebbene, è ancora la giurisprudenza della CGUE ad offrire ulteriori spunti
+con la sentenza del 22.03.2024, in causa C-674/22. Da essa si evince che
+«40 […] occorre osservare che, in forza dell’articolo 168 della direttiva IVA,
+l’IVA versata a monte è detraibile solo quando i beni o i servizi per i quali
+essa è stata versata sono utilizzati ai fini di operazioni soggette ad imposta.
+41 Orbene, gli importi IVA assolti a monte per le spese generali
+corrispondono all’acquisto di beni e servizi utilizzati per l’insieme delle
+attività del soggetto passivo. 42 Pertanto, occorre distinguere, da un lato, la
+ripartizione di tali importi IVA a seconda che le spese generali si riferiscano
+ad attività economiche o ad attività non economiche e, dall’altro, quando tali
+spese si riferiscono ad attività economiche, la loro ripartizione a seconda che
+si riferiscano ad operazioni soggette ad imposta, che danno diritto a
+detrazione o ad operazioni esenti, che non danno diritto a detrazione. 43 Per
+quanto riguarda la ripartizione degli importi IVA assolti a monte a seconda
+che le spese corrispondenti si riferiscano ad attività economiche o non
+economiche, va ricordato che l’IVA gravante a monte sull’acquisto di beni e
+servizi da parte di un soggetto passivo non può dare diritto a detrazione
+nella misura in cui tali beni e servizi siano stati utilizzati per attività che, data
+la loro natura non economica, non rientrano nell’ambito di applicazione della
+direttiva IVA (v., in tal senso, sentenza del 16 settembre 2021, Balgarska
+natsionalna televizia, C-21/20, EU:C:2021:743, punto 54 e giurisprudenza
+ivi citata). 44 Le disposizioni della direttiva IVA non contengono norme
+relative ai metodi o ai criteri che gli Stati membri sono tenuti ad applicare
+quando adottano disposizioni che consentano una ripartizione degli importi
+IVA assolti a monte a seconda che le spese corrispondenti si riferiscano ad
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 18 ---
+
+18
+attività economiche o ad attività non economiche (v., per analogia, sentenza
+del 13 marzo 2008, Securenta, C-437/06, EU:C:2008:166, punto 33).
+45 Ciò posto, e affinché i soggetti passivi possano effettuare i calcoli
+necessari, spetta agli Stati membri stabilire metodi e criteri appropriati a
+tale scopo, nel rispetto dei principi sottesi al sistema comune dell’IVA (v.,
+per analogia, sentenza del 13 marzo 2008, Securenta, C-437/06,
+EU:C:2008:166, punto 34). 46 Gli Stati membri devono pertanto esercitare
+il loro potere discrezionale in modo da garantire che la detrazione sia
+effettuata soltanto per il prorata dell’IVA relativo alle operazioni che danno
+diritto a detrazione. Essi devono perciò vigilare affinché il calcolo del prorata
+tra attività economiche e attività non economiche rifletta oggettivamente la
+quota di imputazione reale delle spese a monte a ciascuna di queste due
+attività (v., per analogia, sentenza del 13 marzo 2008, Securenta, C-437/06,
+EU:C:2008:166, punto 37). 47 Nell’esercizio del loro potere discrezionale,
+gli Stati membri sono autorizzati ad applicare, se del caso, ogni criterio di
+ripartizione appropriato (v., per analogia, sentenza del 13 marzo 2008,
+Securenta, C-437/06, EU:C:2008:166, punto 38). 48 Per quanto riguarda la
+ripartizione degli importi IVA assolti a monte a seconda che le spese
+corrispondenti si riferiscano ad operazioni che danno diritto a detrazione o
+ad operazioni che non danno tale diritto, dall’articolo 173, paragrafo 1, della
+direttiva IVA risulta che la detrazione è ammessa solo per il prorata dell’IVA
+relativo alle operazioni che danno diritto a detrazione. A norma dell’articolo
+173, paragrafo 2, lettera c), della suddetta direttiva, gli Stati membri
+possono autorizzare od obbligare il soggetto passivo ad operare la
+detrazione in base all’utilizzazione della totalità o di una parte dei beni e dei
+servizi. 49 Pertanto, a condizione che siano rispettati i requisiti indicati ai
+punti da 43 a 48 della presente sentenza, il diritto dell’Unione non osta a che
+uno Stato membro autorizzi o obblighi il soggetto passivo a stabilire,
+mediante un criterio di ripartizione elaborato sotto la propria responsabilità,
+le modalità di calcolo dell’IVA detraibile relativa alle sue spese generali».
+Dalla giurisprudenza unionale si evincono dunque i principi di cui tener
+conto nell’utilizzo del pro-rata, collegati all’oggettivo riflesso della quota di
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 19 ---
+
+19
+imputazione reale delle spese a monte, riferibili alle operazioni che danno
+diritto alla detrazione.
+Ciò trova rispondenza nella disciplina nazionale, quando si esamini l’art.
+36, comma 5, del d.P.R. n. 633/1972, secondo cui «[…] la detrazione di cui
+all’art. 19 […], se applicata forfettariamente, è ammessa per l’imposta
+relativa ai beni e ai servizi utilizzati promiscuamente, nei limiti della parte
+imputabile all’esercizio dell’attività stessa».
+Quello che allora emerge ai fini della detrazione dell’iva assolta sui costi
+relativi a beni o servizi promiscuamente utilizzati per più attività, sia
+imponibili che esenti, esercitate con contabilità separata, è che: 1) il criterio
+ordinario per la determinazione del pro-rata resta quello del volume di affari
+complessivo per ciascuna delle attività esercitate con contabilità separata,
+che sul piano generale si riporta al fatturato, nel significato più ampio ad
+esso attribuibile; 2) in considerazione della fattispecie sottoposta ad esame,
+è possibile che sia individuato un criterio di determinazione del volume
+d’affari più preciso; 3) spetta al giudice, investito dell’eventuale
+controversia, l’accertamento in concreto della alternativa proposta rispetto
+al criterio del volume d’affari complessivo per la determinazione del pro-
+rata; 4) in ogni caso non è possibile derogare al principio di neutralità
+dell’imposta, così come delineato dalla giurisprudenza unionale, secondo cui
+le modalità di calcolo devono comunque tener conto delle spese sostenute
+per l’acquisto o la manutenzione dei beni ad uso promiscuo, quando a loro
+volta già assoggettate ad iva.
+Fatte queste premesse di ordine ricostruttivo della disciplina e dei
+principi, unionali e nazionali applicabili, il caso qui al vaglio della Corte
+impone alcune considerazioni altrettanto generali.
+Intanto, premesso che si tratta di società che pacificamente esercita due
+attività con contabilità separata, una sottoposta ad Iva (l’attività di leasing),
+l’altra esente (l’attività finanziaria), non emerge con chiarezza come possa
+rappresentare un criterio oggettivo quello dell’interesse attivo contabilizzato,
+che l’amministrazione finanziaria ha preteso applicare al caso di specie, e
+che valorizza, ai fini della determinazione del pro-rata, la sola “quota
+interessi” del canone di leasing. La considerazione è necessaria pur quando
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 20 ---
+
+20
+voglia del tutto prescindersi da ogni valutazione concreta in ordine alla
+compatibilità con il principio di neutralità.
+Così come prospettato, e nei limiti di quanto emerge in sede di
+legittimità, con tale criterio si intende escludere l’Iva che la società versa
+sull’intero rateo, e dunque sulla quota (rilevante) dell’ammortamento del
+finanziamento concesso al cliente, ossia sulla quota capitale. Il criterio viola,
+dunque il principio di neutralità sotto il profilo giuridico nonché economico.
+Inoltre, prendendo in considerazione la sola remunerazione (perché in
+questo si tradurrebbe il criterio dell’interesse attivo contabilizzato), si può
+incorrere nel rischio di privilegiare l’utile dell’attività economica esercitata.
+In tal modo si avvalla una ricostruzione delle regole impositive esposte alla
+redditività dell’attività, e dunque, da ultimo, al rischio d’impresa, che non
+costituisce un criterio oggettivo e che, soprattutto, contrasta con il principio
+di neutralità, che non può essere subordinato alla remuneratività dell’attività
+economica esercitata.
+In ogni caso, proprio alla luce della ricostruzione dei principi enunciati
+dalla giurisprudenza unionale, il giudice regionale, al fine della
+determinazione del pro-rata, ha omesso ogni concreta verifica sulla maggior
+precisione del metodo applicato dall’Agenzia delle entrate rispetto a quello
+del volume d’affari complessivo. Ha inoltre omesso ogni verifica sulla
+idoneità di tale metodo a tener conto della destinazione effettiva e non
+trascurabile di una parte delle spese generali ai fini delle operazioni che
+danno diritto alla detrazione, con conseguente carenza di controllo della
+compatibilità di quel criterio con il principio di neutralità.
+In tal modo la decisione della Commissione tributaria regionale ha
+mostrato di non tener conto, oltre che della disciplina nazionale, delle norme
+unionali, come interpretate dalla giurisprudenza della Corte UE.
+Per le ragioni esposte i motivi dal terzo al sesto risultano fondati e
+trovano accoglimento, con il conseguente effetto della cassazione della
+sentenza.
+L’accoglimento dei motivi che precedono assorbe il settimo, con cui la
+società ha lamentato la violazione degli artt. 99 e 112 c.p.c., in relazione
+all’art. 360, primo comma, n. 4, c.p.c., nonché l’omessa pronuncia sulla
+legittimità dell’applicazione di sanzioni e interessi di cui al «settimo motivo
+di appello». Con esso si è dedotta la nullità assoluta della sentenza per error
+RGN 19633/2023 Consigliere est. Federici
+
+--- Pagina 21 ---
+
+21
+in procedendo, in violazione del principio di corrispondenza tra chiesto e
+pronunciato (art. 112 c.p.c.), a causa dell’omessa pronuncia da parte della
+Corte di giustizia tributaria di II grado della Lombardia su un’eccezione
+regolarmente introdotta e autonomamente apprezzabile.
+Assorbe l’ottavo motivo, con cui si è denunciata la violazione degli artt.
+5, d.lgs. 18 dicembre 1997, n. 472, 10, l. n. 212 del 2000 e 8, d.lgs. 31
+dicembre 1992, n. 546, in relazione all’art. 360, primo comma, n. 3, c.p.c.
+con esso la Corte Tributaria di II grado della Lombardia ha omesso di
+esaminare la doglianza relativa alla debenza di sanzioni e interessi.
+Assorbe infine il nono motivo, con cui la società si è doluta della
+violazione degli artt. 11 e 117 Cost., 17 e 49 della Carte di Nizza, 1, par. 1,
+Protoc. Add. n. 1 alla CEDU, in relazione all’art. 360, primo comma, n. 3,
+c.p.c., con richiesta di rinvio pregiudiziale alla Corte di Giustizia UE. La
+doglianza si incentra sulla conferma della pretesa sanzionatoria a carico del
+contribuente in buona fede, irrogata ai sensi degli artt. 5, comma 4, e 6,
+comma 6, del D.Lgs. n. 471/1997, in violazione dei principi di legalità,
+proporzionalità e tutela della proprietà privata sanciti da norme interne e
+sovranazionali.
+In conclusione, vanno accolti i motivi terzo, quarto, quinto e sesto del
+ricorso, rigettati il primo ed il secondo, assorbiti i restanti.
+La sentenza va cassata e il giudizio va rinviato alla Corte di Giustizia
+tributaria di II grado della Lombardia, che, in diversa composizione, oltre
+che liquidare le spese del giudizio di legittimità, provvederà al riesame
+dell’appello della società, tenendo conto dei principi di diritto enunciati.
+P.Q.M.
+La Corte accoglie il terzo, quarto, quinto e sesto motivo di ricorso, rigetta
+il primo e il secondo, assorbiti gli altri. Cassa la sentenza e rinvia alla Corte
+di Giustizia tributaria di II grado della Lombardia, cui demanda, in diversa
+composizione, anche la liquidazione delle spese del giudizio di legittimità.
+Così deciso in Roma, il giorno 11 febbraio 2025
+Il Consigliere est.                                                  La Presidente
+Francesco FEDERICI                                         Angelina-Maria PERRINO
+RGN 19633/2023 Consigliere est. Federici

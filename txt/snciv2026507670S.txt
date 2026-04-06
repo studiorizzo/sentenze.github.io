@@ -1,0 +1,575 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+SENTENZA
+sul ricorso iscritto al n. 20313/2024 R.G. proposto da:
+PIVA GIORGIO, ASSIRISK SRL, rappresentati e difesi dall'avvocato
+ALESSANDRA MILITERNO unitamente all’avvocato FRANCESCO
+NAPOLITANO
+- ricorrenti principali -
+contro
+AGENZIA DELLE ENTRATE, rappresentata e difesa ex lege dalla Avvocatura
+Generale dello Stato
+-controricorrente-
+nonché nei confronti di
+VENTURELLI MARCO, rappresentato e difeso dall'avvocato Mauro Arbosti
+-controricorrente e ricorrente incidentale-
+avverso la Sentenza della Corte di Giustizia Tributaria di Secondo Grado
+della Lombardia n. 1779/2024 depositata il 19/06/2024.
+Udita la relazione della causa svolta nella pubblica udienza del 21/01/2026
+dal Consigliere Gian Paolo Macagno.
+Udito il Procuratore generale, nella persona del Sostituto procuratore
+generale dott. Fulvio Troncone, che ha chiesto di rigettare il ricorso
+principale ed il ricorso incidentale.
+
+--- Pagina 2 ---
+
+Uditi l’Avvocato Francesco Napolitano per il ricorrente e l’Avvocato dello
+Stato Salvatore Adamo per la resistente Amministrazione finanziaria.
+FATTI DI CAUSA
+1. Nell’ambito del procedimento penale n. 3121/2017 R.G.N.R.,
+promosso presso la Procura della Repubblica di Mantova a seguito di
+denuncia-querela presentata in data 19/07/2017 dalla compagnia
+assicurativa Helvetia Vita S.p.A., la Guardia di Finanza accertava che, nel
+2015, la Assirisk S.r.l., mandataria della predetta società, aveva incassato
+ricavi non contabilizzati pari ad euro 920.000,00, a fronte di false polizze
+assicurative emesse dalla Nationale Suisse Vita S.p.A., poi incorporata dalla
+Helvetia Vita S.p.A., nei confronti di ignari clienti, a nome della altrettanto
+ignara querelante.
+1.1. L’attività illecita si era sostanziata attraverso l'incasso e la mancata
+rimessa alla compagnia mandante dei premi assicurativi accreditati sui conti
+correnti della Assirisk S.p.A. da parte da vari soggetti contraenti, indotti a
+ritenere di aver investito il proprio capitale nel prodotto finanziario “Sprint
+Cup”. I soggetti sottoscrivevano i moduli di proposta per la acquisizione del
+suddetto prodotto finanziario, che non venivano trasmessi alla compagnia
+mandante, e ricevevano dalla Assirisk documentazione non probante,
+costituita da artefatte lettere di ratifica dell’investimento e preventivi per il
+riscatto.
+1.2. Dal punto di vista contabile, al fine di celare la situazione debitoria
+che veniva ad originarsi nei confronti della Nationale Suisse Vita S.p.A., in
+corrispondenza e per effetto degli incassi, veniva movimentato il conto
+“cassa contanti” come contropartita dei vari conti “banca c/c”, evitando di
+utilizzare, come invece avrebbe dovuto accadere nelle ipotesi di polizze
+regolarmente sottoscritte, il sottoconto “debiti verso la compagnia”.
+2. Ricevuta la segnalazione del caso e svolta la necessaria istruttoria, il
+competente Ufficio dell’Agenzia delle Entrate di Brescia emetteva nei
+confronti della Assirisk S.r.l. l’avviso di accertamento n.
+2
+
+--- Pagina 3 ---
+
+T9H03B102185/2020, con il quale, ex art. 14, commi 4 e 4-bis della legge
+n. 537/1993, veniva contestato un maggior reddito di euro 920.000,00, pari
+agli importi incassati e non rimessi alla società mandante.
+2.1. Riscontrato inoltre che nel 2015 i soci Giorgio Piva e Marco
+Venturelli partecipavano al capitale della predetta società per il 50%
+ciascuno, e che la stessa aveva optato per il regime di trasparenza ai sensi
+dell’art. 116 del Tuir, con avvisi di accertamento rispettivamente n.
+T9H01B102195/2020 e n. T9H01B102200/2020, l’Ufficio provvedeva ad
+attribuire loro i corrispondenti redditi di partecipazione, pari ad euro
+460.000,00 cadauno.
+3. Con distinti ricorsi, la società e i soci impugnavano i relativi avvisi di
+accertamento avanti alla Corte di Giustizia Tributaria di Primo Grado di
+Brescia che, previa riunione, con sentenza n.78/2023 li accoglieva
+parzialmente nei seguenti termini: riteneva non raggiunta la prova che la
+società e gli amministratori avessero partecipato all’attività fraudolenta
+materialmente realizzata da un collaboratore infedele della Assirisk S.r.l.,
+tale Mario Marchini, che avrebbe agito all’insaputa di società e soci; tuttavia
+riteneva che i proventi dell’attività illecita effettivamente pervenuti sui conti
+aziendali dovessero qualificarsi quale reddito di impresa, ed in accoglimento
+della tesi subordinata dei ricorrenti affermava che la quantificazione del
+reddito imponibile dovesse rideterminarsi con riferimento non all’intero
+importo dei premi assicurativi non versati alla Compagnia mandante, bensì
+alle provvigioni lorde spettanti alla società mandataria, e per essa ai soci.
+4. Infine, la CGT di II grado della Lombardia, con la sentenza indicata
+in epigrafe, accogliendo l’appello dell’Agenzia delle entrate e rigettando gli
+appelli incidentali delle parti private, rigettava integralmente i ricorsi
+originari di società e soci, ritenendo tassabile l’intero importo sottratto.
+5. Avverso la predetta sentenza hanno proposto ricorso per cassazione,
+sorretto da sei motivi, la società Assirisk S.r.l. ed il socio Giorgio Piva.
+Resiste con controricorso l’Agenzia delle entrate.
+3
+
+--- Pagina 4 ---
+
+6. Ha proposto controricorso incidentale il socio Marco Venturelli,
+anch’esso contrastato da controricorso dell’Amministrazione finanziaria.
+7. In prossimità della pubblica udienza il Pubblico ministero, nella
+persona del Sostituto procuratore generale dott. Fulvio Troncone, ha
+depositato requisitoria scritta, chiedendo il rigetto del ricorso principale e
+del ricorso incidentale.
+I ricorrenti ed il ricorrente incidentale, infine, hanno depositato memoria
+illustrative ex art. 378 c.p.с.
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo di ricorso principale si deduce, in relazione all’art.
+360, primo comma, num. 4, c.p.с., la violazione e falsa applicazione dell’art.
+112 c.p.c., per non essersi la sentenza impugnata pronunciata sul motivo
+di inammissibilità dell’appello espressamente formulato dai ricorrenti.
+1.1. L’appello dell’Agenzia delle Entrate, osservano i ricorrenti, aveva
+censurato tale sentenza con riguardo alle conclusioni ivi raggiunte afferenti
+alla posizione soggettiva, in termini di colpevolezza, delle persone
+potenzialmente implicate nel fatto illecito descritto nel fatto e svolgimento
+del processo. Nelle controdeduzioni all’appello di controparte la società
+aveva eccepito l’inammissibilità del motivo di appello in quanto inconferente
+rispetto al  decisum in primo grado, che si era incentrato sulla natura e la
+qualifica del reddito ascrivibile, a suo giudizio, alla società, a prescindere
+dalla posizione soggettiva delle persone coinvolte nell’illecito, che veniva
+esaminata solo per incidens e ad abundantiam.
+1.2. Il motivo è infondato.
+1.3. Nessuna omessa pronuncia è ravvisabile, atteso che, come da
+risalente orientamento mai contrastato «ad integrare gli estremi del vizio di
+omessa pronuncia non basta la mancanza di un’espressa statuizione del
+giudice, ma è necessario che sia stato completamente omesso il
+provvedimento che si palesa indispensabile alla soluzione del caso concreto:
+ciò non si verifica quando la decisione adottata comporti la reiezione della
+4
+
+--- Pagina 5 ---
+
+pretesa fatta valere dalla parte, anche se manchi in proposito una specifica
+argomentazione, dovendo ravvisarsi una statuizione implicita di rigetto
+quando la pretesa avanzata col capo di domanda non espressamente
+esaminato risulti incompatibile con l’impostazione logico-giuridica della
+pronuncia» (Cass., 4 ottobre 2011, n. 20311; Cass., 10 maggio 2007, n.
+10696; Cass., 26 novembre 2013, n. 26397; Cass., 18 giugno 2018, n.
+15936)” (così Cass. 19 gennaio 2023, n. 1636; in senso analogo cfr., ex
+multis, Cass., 17 agosto 2023, n. 24717; Cass., 9 agosto 2023, n. 24292;
+Cass. 1° agosto 2023, n. 23468; Cass. 31 luglio 2023, n. 23311; Cass. 29
+gennaio 2021, n. 2083, che a sua volta richiama Cass., Sez. 5, 14/01/2015,
+n. 452; Cass., 11/10/2017, n. 24155; Cass., 13/08/2018, n. 20718 e
+ancora, più di recente, Cass., n. 25710 del 26/09/2024).
+1.4. E’ noto infatti che poiché il giudice – e segnatamente il giudice
+d’appello (Cass., 9/02/2021, n. 3126; Cass., 2/12/2014, n. 25509; Cass.,
+2/08/2001, n. 10569) – non è tenuto ad occuparsi espressamente e
+singolarmente di ogni allegazione, prospettazione ed argomentazione delle
+parti, risultando necessario e sufficiente, in base all’articolo 132, num. 4
+c.p.c., che esponga, in maniera concisa, gli elementi in fatto ed in diritto
+posti a fondamento della sua decisione, tutti gli argomenti, le tesi e i rilievi
+che, seppure non espressamente esaminati, siano incompatibili con la
+soluzione adottata e con l’iter argomentativo seguito devono ritenersi
+implicitamente disattesi. E questo perché, siccome il vizio di omessa
+pronuncia ricorre allorché risulti completamente omesso il provvedimento
+del giudice indispensabile per la soluzione del caso concreto, non è viziata,
+per la pretesa violazione dell’articolo 112 c.p.c., la decisione che, pur
+omettendo di adottare una specifica argomentazione circa le deduzioni
+operate dalle parti, sia pronunciata in contrasto con esse e ne comporti
+perciò implicitamente il rigetto (Cass., 20/11/2009, n. 24542; Cass., Sez.
+III, 12/01/2006, n. 407; Cass., 11/02/1998, n. 1390).
+5
+
+--- Pagina 6 ---
+
+2. Con il secondo motivo di ricorso si denuncia, in relazione all’art. 360,
+primo comma, num. 3, c.p.с., la violazione e falsa applicazione dell’art. 14,
+comma 4, della legge 24 dicembre 1993, n. 537 e della norma di
+interpretazione autentica di cui all’art. 36 bis, c. 4 bis, del d.l. 4 luglio 2006
+n. 223, convertito in legge 4 agosto 2006 n. 248.
+2.1. Deduce la ricorrente che l’art. 14, comma 4, della legge n.
+537/1993 sarebbe applicabile unicamente nei confronti di
+contribuenti/soggetti passivi che siano persone fisiche, e che tale
+conclusione risulterebbe avallata dal dettato dell’art. 36, comma 4-bis, del
+d.l. 4 luglio 2006, n. 223, convertito in legge 4 agosto 2006, n. 248.
+Osserva, inoltre, parte ricorrente che nessun illecito penale sarebbe
+stato nella fattispecie riscontrato in capo alla società, neppure ex lege n.
+231/2001, e dunque non sussiste alcun presupposto per la applicabilità della
+legge n. 537/1993, che appunto presuppone un illecito compiuto dal
+soggetto passivo.
+2.2. È opportuno procedere, preliminarmente, ad una ricognizione della
+disciplina normativa applicabile, ed evocata dalle parti.
+2.3. L’art. 1 del T.U.I.R. stabilisce che «presupposto dell’imposta sul
+reddito delle persone fisiche è il possesso di redditi in denaro o in natura
+rientranti nelle categorie indicate nell’art. 6».
+L’art. 14, comma 4, della legge n. 537 del 1993, nel testo, applicabile
+ratione temporis, vigente anteriormente alle modifiche apportate dal D. Lgs.
+n. 208 del 2015, con decorrenza dall’anno di imposta 2016, così recita:
+«Nelle categorie di reddito di cui all’articolo 6, comma 1, del testo unico
+delle imposte sui redditi, approvato con D.P.R. 22 dicembre 1986, n. 917,
+devono intendersi ricompresi, se in esse classificabili, i proventi derivanti da
+fatti, atti o attività qualificabili come illecito civile, penale o amministrativo
+se non già sottoposti a sequestro o confisca penale. I relativi redditi sono
+determinati secondo le disposizioni riguardanti ciascuna categoria».
+Infine,  l’art. 36, comma 34-bis, del d.l. n. 223 del 2006, convertito in
+6
+
+--- Pagina 7 ---
+
+legge n. 248 del 2006, nel dettare l’interpretazione autentica di tale ultima
+norma, ha precisato che, «in deroga all’articolo 3 della legge 27 luglio 2000,
+n. 212, la disposizione di cui al comma 4 dell’articolo 14 della legge 24
+dicembre 1993, n. 537 si interpreta nel senso che i proventi illeciti ivi
+indicati, qualora non siano classificabili nelle categorie di reddito di cui
+all’articolo 6, comma 1, del testo unico delle imposte sui redditi di cui al
+decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono
+comunque considerati come redditi diversi».
+2.4. Così ricostruito, in sintesi, il quadro normativo di riferimento, giova
+rammentare che, per giurisprudenza di questa Corte, il termine ”possesso“
+utilizzato dall’art. 1 del T.U.I.R., nel suo significato minimo comune, evoca
+la riferibilità a un soggetto di determinati redditi e la titolarità in capo a lui
+degli inerenti poteri di disposizione, dovendosi ribadire il dato, pacifico, della
+soggezione ad imposizione dei proventi derivanti da attività illecita,
+comunque percepiti dal contribuente.
+2.5. Come già chiarito da questa Corte, «In tema di imposte sui redditi,
+l'art. 14, quarto comma, della legge 24 dicembre 1993, n. 537, laddove
+stabilisce che nelle categorie di reddito di cui all'art. 6, primo comma, del
+d.P.R. 22 dicembre 1986, n. 917, devono intendersi ricompresi i proventi
+derivanti da fatti, atti o attività qualificabili come illecito civile, penale o
+amministrativo, costituisce non soltanto interpretazione autentica della
+normativa contenuta nel d.P.R. n. 917 del 1986, ma anche criterio
+ermeneutico decisivo per giungere ad identica conclusione con riguardo alla
+previgente disciplina degli artt. 1 e 6 del d.P.R. 29 settembre 1973, n. 597,
+attesa la sostanziale identità della disciplina in ordine alla determinazione
+dei presupposti della tassazione. Ne consegue che il c.d. "pretium sceleris"
+si deve considerare come reddito imponibile (anche nel vigore del d.P.R. n.
+597 del 1973), e ciò pure se il contribuente sia stato condannato alla
+restituzione delle somme illecitamente incassate ed al risarcimento dei
+danni cagionati». (Cass. Sez. 5, 09/11/2005, n. 21746, Rv. 584954 - 01)»
+7
+
+--- Pagina 8 ---
+
+2.6. Si è ancora, di recente, ribadito «In tema di imposte sui redditi,
+l'indebita percezione di emolumenti non fa venir meno l'obbligo di indicarli
+nella dichiarazione, stante il principio della tassabilità dei redditi per il fatto
+stesso della loro sussistenza, indipendentemente dalla loro provenienza,
+mentre l'avvenuta restituzione al soggetto erogatore può avere rilievo ove
+effettuata entro la fine del periodo d'imposta cui il provento si riferisce e
+non successivamente, restando fermi, in tale ultimo caso, i conseguenti
+obblighi di dichiarazione e di versamento, per i quali si pone solo una
+questione di diritto al rimborso dell'imposta versata (Cass. Sez. 5,
+17/07/2025, n. 19818, Rv. 676196 - 01)».
+2.7. Ancora si è precisato che con l'art. 36, comma 34-bis, d.l. 4 luglio
+2006 n. 223, conv., con modif., dalla legge 4 agosto 2006 n. 248 - il quale
+stabilisce che «In deroga all'articolo 3 della legge 27 luglio 2000, n. 212, la
+disposizione di cui al comma 4 dell'articolo 14 della legge 24 dicembre 1993,
+n. 537, si interpreta nel senso che i proventi illeciti ivi indicati, qualora non
+siano classificabili nelle categorie di reddito di cui all'articolo 6, comma 1,
+del testo unico delle imposte sui redditi, di cui al decreto del Presidente della
+Repubblica 22 dicembre 1986, n. 917, sono comunque considerati come
+redditi diversi», norma avente efficacia retroattiva, in quanto
+d'interpretazione autentica dell'art. 14, comma 4, legge n. 537/1993 (in
+termini, Cass. n. 37 del 2010) - è stato introdotto nell'ordinamento il
+principio, di carattere generale, della tassabilità dei redditi per il fatto stesso
+della loro sussistenza, a prescindere dalla loro provenienza, e, dunque, dalla
+sussumibilità della relativa fonte in una delle specifiche categorie reddituali
+di cui all'art. 6 t.u.i.r., essendo normativamente considerati, in via
+residuale, come redditi diversi (così Cass. Sez. 5, 28/12/2017, n. 31026, in
+motiv.)
+3. Quanto ora ricostruito deve essere, quindi, oggetto di verifica con
+specifico riferimento al sentiero interpretativo proposto in ricorso, inteso a
+circoscrivere l’applicabilità della disciplina normativa in esame alle persone
+8
+
+--- Pagina 9 ---
+
+fisiche. La tesi della società ricorrente si fonda, essenzialmente, sul rilievo
+per cui l’art. 6 richiamato nel disposto legislativo qui applicato è ricompreso,
+nell’ambito del T.U.I.R. nel Titolo I, avente ad oggetto e disciplinante
+l’imposta sul reddito delle persone fisiche.
+3.1. Tuttavia, il dato di topografia normativa, inteso a dettare le
+modalità della tassazione del reddito da provento illecito, che non
+costituisce un autonomo genus, ma deve essere declinata secondo le regole
+previste per le singole categorie reddituali, non può, tuttavia, ritenersi
+probante e decisivo al punto tale da condurre a esiti interpretativi che,
+peraltro, cozzerebbero con il dato costituzionale.
+3.2. Può essere di guida, a tale proposito, evidenziare che l'art. 14,
+comma 4, della legge 24 dicembre 1993, n. 537, era intervenuto a  fugare
+dubbi interpretativi, che trovavano riscontro anche in sede di legittimità,
+statuendo che nelle categorie di reddito di cui all'art. 6 del T.U.I.R. devono
+intendersi ricompresi, se in essi classificabili, i proventi derivanti da fatti,
+atti o attività qualificabili come illecito civile, penale o amministrativo, se
+non già sottoposti a sequestro o confisca penale, e precisando che i relativi
+redditi sono determinati secondo le disposizioni riguardanti ciascuna
+categoria. La norma de qua era stata illustrata con circolare ministeriale n.
+150/E del 10 agosto 1994, nella quale veniva precisato che si era inteso
+aderire a quanto affermato dalla Corte di Cassazione, nelle sentenze della
+Cass. sez. III penale, 24 gennaio 1992, n. 9405 e della Cass. sez. I civile,
+13 marzo 1993, n. 3028.
+3.3. La norma così formulata era intesa, pertanto, a far cadere le
+preclusioni e le obiezioni pregiudiziali alla tassabilità dei proventi di fonte
+illecita: il legislatore ha codificato il principio secondo il quale la liceità di un
+fatto produttivo di reddito non è un requisito della tassabilità, ben potendo,
+pertanto, un'attività illecita rientrare tra quelle tassabili. Dalla norma
+discende, inoltre, che un reddito di fonte illecita può ben essere oggetto di
+9
+
+--- Pagina 10 ---
+
+possesso nel senso in cui questa nozione è utilizzata nelle norme che
+definiscono i presupposti dei tributi sul reddito.
+3.4. E, se così è, in tale schema il riferimento all’art. all'art. 6 del T.U.I.R.
+disvela la sua finalità meramente catalogatrice, e non intesa a limitare ai
+soli redditi delle persone fisiche il principio generalmente affermato di
+tassabilità dei proventi da reato.
+3.5. In tal senso possono leggersi gli arresti, anche risalenti, di questa
+Corte, ove si è affermato che, anche se la norma in questione è riferita alla
+disciplina delle imposte sui redditi, essa è inequivocabilmente una norma di
+principio, in forza della quale non si può eccepire la esenzione tributaria per
+i proventi derivanti da attività illecite, e pertanto l’imponibilità dei proventi
+illeciti non deve quindi intendersi limitata alla sola Irpef, ma si estende,
+ricorrendone i presupposti, anche alle altre imposte, (così Cass. Sez. 5,
+12/03/2002, n. 3550, Rv. 552998 – 01, in tema di Iva, seguita da Cass.
+Sez. 5, 17/11/2006, n. 24471, Rv. 594953 – 01 e da Cass. Sez. 5,
+26/07/2017, n. 18495, Rv. 645026 – 01).
+3.6. L’art. 14, comma 4, della legge n. 537/1993 deve dunque ritenersi
+applicabile anche a soggetti passivi diversi dalle persone fisiche, e adeguato
+riscontro, a tale riguardo, può ravvisarsi nel principio di onnicomprensività
+attestato dall’art. 81 del T.U.I.R., ove si afferma che  «Il reddito
+complessivo  delle  società e degli enti commerciali di cui  alle lettere a) e
+b) del comma 1 dell'articolo  73, da qualsiasi fonte  provenga, è considerato
+reddito d'impresa ed è determinato secondo le  disposizioni di questa
+sezione» [enfasi aggiunta].
+3.7. In termini più generali, e per tenuta del sistema, può da ultimo
+rilevarsi che il principio di capacità contributiva, di cui all’art. 53 Cost., non
+consente di distinguere relativamente alla liceità della fonte del reddito e al
+soggetto che ne costituisce il titolare finale, né alla luce del dato
+costituzionale è possibile circoscrivere in negativo tale potestà impositiva,
+così escludendo dalla tassazione dei proventi derivanti da fatti, atti o attività
+10
+
+--- Pagina 11 ---
+
+illeciti (civili, penali o amministrativi) le società, affermando che essa
+riguardi unicamente le persone fisiche.
+3.8. Il motivo di ricorso formulato è pertanto infondato.
+4. Con il terzo motivo del ricorso principale si lamenta, in relazione
+all’art. 360, primo comma, num. 4, c.p.с., l’illegittimità della sentenza per
+aver ritenuto inammissibile il primo motivo del ricorso incidentale, con
+violazione e falsa applicazione dell’art. 24 del d.lgs. n. 546/1992.
+4.1. La censura è infondata, atteso che, correttamente, il giudice di
+appello ha rilevato come la doglianza fosse stata formulata in primo grado
+con semplice memoria illustrativa, anziché essere contenuta nel ricorso
+introduttivo.
+Il motivo di appello, come riportato nel ricorso (p. 24), risulta infatti
+essere stato meramente enunciato, senza alcuno svolgimento, e dunque
+solo con la successiva memoria, e quindi tardivamente, era stata in concreto
+delineata la doglianza sollevata.
+5. Con il quarto motivo si denuncia, in relazione all’art. 360, primo
+comma, num. 4, c.p.с., la  violazione e falsa applicazione dell’art. 112 c.p.c.
+per non essersi la sentenza impugnata pronunciata sul motivo di appello
+incidentale concernente la violazione e falsa applicazione dei principi
+generali in materia di imposte sui redditi ed in particolare degli artt. 1 e 72
+del Tuir, per inesistenza nella fattispecie di un “reddito” in capo alla società,
+in quanto gli importi correlati alle polizze “false”, in realtà, non sarebbero
+mai stati dalla predetta società percepiti e trattenuti, poiché in realtà
+distratti e prelevati con il descritto artificio contabile ad opera di soggetti
+terzi”.
+6. Con il quinto strumento di impugnazione principale, la società
+contribuente deduce, in via subordinata, in relazione all’art. 360, primo
+comma, num. 4, c.p.с., la violazione e falsa applicazione degli artt. 36 del
+d. lgs. n. 546/1972 e dell’art. 132 c.p.c.
+11
+
+--- Pagina 12 ---
+
+7. Con il sesto motivo di ricorso si deduce, infine, ancora in via
+subordinata, in relazione all’art. 360, primo comma, num. 3, c.p.с., la
+violazione e falsa applicazione dei principi generali in materia di imposte sui
+redditi ed in particolare degli artt. 1 e 72 del Tuir per inesistenza di un
+maggior “reddito” in capo alla società. Allega la ricorrente che la CGT di
+Secondo Grado avrebbe errato nel non dichiarare l’atto impositivo emesso
+nei confronti della società (e poi nei confronti dei soci per “trasparenza” ai
+sensi dell’art. 116 Tuir) illegittimo in quanto, anche sulla base dei fatti stessi
+presi in considerazione dall’ente impositore, non sarebbe configurabile alcun
+possesso di reddito in capo al soggetto passivo società, che si sarebbe
+trovata a subire una sottrazione di denaro contante ad opera di soggetto o
+di soggetti tuttora non individuati dai giudici competenti.
+8. I motivi quarto, quinto e sesto, da esaminarsi congiuntamente, stante
+la intima connessione, devono essere rigettati.
+8.1. In primo luogo, la censura di omessa pronuncia è inammissibile,
+dovendosi richiamare a tale proposito i principi già evocati in relazione al
+primo motivo del ricorso.
+8.2. In aggiunta, non di omessa pronuncia si tratta, bensì di espresso
+rigetto, avendo la CGT-2 statuito che «Il secondo e terzo motivo sono
+infondati per le medesime ragioni per cui è fondato l’appello principale».
+8.3. Con riguardo alla censura di apparenza delle motivazione, è noto,
+inoltre, che l’assenza della motivazione, la sua mera apparenza, o ancora la
+sua intrinseca illogicità, implicano una violazione di legge
+costituzionalmente rilevante e, pertanto, danno luogo ad un error in
+procedendo, la cui denuncia è ammissibile dinanzi al giudice di legittimità
+ai sensi del n. 4 dell’art. 360, ponendosi come violazione delle norme poste
+a presidio dell’obbligo motivazionale (Cass. S.U. sentenze 7 aprile 2014, nn.
+8053 e 8054). In sostanza, il vizio di motivazione che solo può dar luogo
+alla cassazione della sentenza è quello che attinge il nucleo fondamentale
+12
+
+--- Pagina 13 ---
+
+della sentenza, il cosiddetto minimo costituzionale di esplicitazione delle
+ragioni poste a base della sentenza.
+8.4. Ora, l’accoglimento dell’appello principale, come evidenziato dai
+giudici territoriali, ha reso impossibile l’accoglimento dell’appello
+incidentale, contenendo le due impugnazioni prospettazioni tra di loro
+incompatibili e inconciliabili.
+8.5. È quindi evidente l’insussistenza del vizio denunciato, avendo la
+CGT di secondo grado ampiamente motivato sull’accoglimento dell’appello
+principale, rinviando al capo della sentenza ove è stata esposta l’analitica
+ricostruzione degli elementi da cui i giudici di appello hanno tratto il
+convincimento per cui «La tesi della responsabilità esclusiva del dipendente
+Marchini e della estraneità alla condotta illecita degli amministratori della
+società, oltre che illogica è smentita da una pluralità di risultanze probatorie
+emerse nei giudizi civili intentati dai clienti truffati», così ben mettendo in
+risalto che la società aveva incassato, per effetto di condotte in relazione
+alle quali è stata esercitata l’azione penale dalla Procura della Repubblica di
+Mantova per il reato di cui all’art. 640 c.p., la somma di euro 920.000,00,
+che non è mai confluita nella corrispondente dichiarazione dei redditi.
+8.6. Con specifico riguardo alle contestazioni di parte ricorrente, si
+osserva che i giudici di appello non si sono limitati a dare atto del fatto che
+la somma fosse transitata sul conto deputato alla società per il
+trasferimento al mandante, e che non se ne conosceva l’effettiva
+destinazione.
+8.7. La CTR ha, al contrario, osteso una motivata valutazione degli
+elementi di fatto esaminati, osservando che «Se vi è la prova che gli incassi
+delle false polizze sono certamente pervenuti sui conti della società Assirisk,
+mentre non vi è prova di ulteriori destinazioni, è del tutto illogico concludere
+che il meccanismo fraudolento sia opera esclusiva del dipende[nte]
+Marchini, il quale, anziché appropriarsi di persona dei proventi della truffa
+13
+
+--- Pagina 14 ---
+
+da lui commessa “in solitario”, li avrebbe dirottati sui conti correnti della
+società “all’insaputa” degli amministratori».
+8.8. Ed ancora, la Commissione territoriale, nell’esercizio del proprio
+potere di libera e critica valutazione, ha dato conto dei riscontri ravvisati
+nelle risultanze dei giudizi civili e penali paralleli, in particolare osservando
+che «La tesi della responsabilità esclusiva del dipendente Marchini e della
+estraneità alla condotta illecita degli amministratori della società, oltre che
+illogica è smentita da una pluralità di risultanze probatorie emerse nei
+giudizi civili intentati dai clienti truffati. Il Tribunale civile di Mantova con
+sentenza del 18.1.2021 (all.7) afferma che “ la responsabilità dei i fatti
+oggetto di causa è sicuramente riconducibile ai terzi chiamati Assirisk, Piva
+Giorgio e Venturelli Marco”; la sentenza del Tribunale civile di Mantova del
+19.4.2021 (all.8) ha ritenuto non provata la responsabilità del dipendente
+Marchini, mentre ha ritenuto provato in via documentale che gli assegni
+sono stati sottoscritti per il deposito da Piva Giorgio, che altro assegno è
+stato versato presso lo sportello Unicredit su conto bancario intestato a
+Assirisk; la dipendente Ketti Magri ha dichiarato che i soggetti legittimati ad
+operare sui conti di Assirisk erano i soli Piva e Venturelli; dalla sentenza
+risulta inoltre che la denuncia presentata da Piva e Venturelli contro il
+dipendente Marchini è stata archiviata dal Giudice per le indagini
+preliminari; di uguale contenuto è la sentenza del Tribunale civile n.166 del
+2018 (all.9)».
+8.9. E, pertanto, la circostanza che la società abbia incassato, a fronte
+dell’emissione di false polizze assicurative, la somma di € 920.000,00,
+somma pacificamente non confluita nella corrispondente dichiarazione dei
+redditi, costituisce accertamento in fatto operato  dal giudice del merito,
+privo di vizi logici, e dunque non sindacabile in questa sede di legittimità.
+Le censure a tale riguardo sollevate rivestono natura meritale,
+profilandosi con tutta evidenza preordinate ad un nuovo esame delle
+risultanze istruttorie, in quanto la ricorrente propone elementi già addotti
+14
+
+--- Pagina 15 ---
+
+nei gradi di  merito;  la  prospettazione si palesa  finalizzata  ad  ottenere
+una valutazione delle prove, e quindi un accertamento fattuale, di segno
+opposto a quello espresso dalla CGT-2.
+8.10. Da ultimo, giova evidenziare come la genericità dei motivi di
+ricorso non consenta di scrutinare se la CTR abbia correttamente applicato
+la disciplina in materia di – limitata – indeducibilità dei costi applicabile alla
+peculiare fattispecie, ai sensi dell'art. 14, comma 4-bis, della l. n. 537 del
+1993, nella formulazione introdotta dall'art. 8, comma 1, del d.l. n. 16 del
+2012, conv. dalla l. n. 44 del 2012.
+9. Il ricorso incidentale proposto da Marco Venturelli è, come da
+eccezione della Difesa erariale, inammissibile.
+9.1. Risulta in atti che l’ultima notifica del ricorso principale è stata
+effettuata in data 30/09/2024.
+Il controricorso, contenente il ricorso incidentale spiegato da Marco
+Venturelli, è stato notificato in data 11/11/2024, e depositato in data
+21/11/2024, quindi oltre il quarantesimo giorno dalla notifica.
+9.2. Ora, il d.lgs. n. 149/2022 ha modificato l’art. 370 c.p.c., eliminando
+l’obbligo della notificazione del controricorso, che, per i procedimenti
+introdotti con ricorso notificato dal 1° gennaio 2023, come per l’appunto il
+presente, deve essere depositato - esclusivamente con modalità
+telematiche - entro il termine di 40 giorni dalla notificazione del ricorso,
+come per l’appunto è avvenuto nel caso di specie.
+9.3. E, quanto alla proposizione di un ricorso incidentale, la norma
+novellata dell’art. 371 c.p.c. consente appunto al controricorrente di
+procedervi articolandola nel controricorso, per la ritualità del quale resta
+sufficiente – e necessario - il mero deposito agli atti (Cass. Sez. 3,
+02/04/2025, n. 8678, Rv. 674242 – 01).
+9.4. Le finalità della modifica dell’art. 370 c.p.c. sono esposte nella
+Relazione illustrativa alla riforma, dove si legge, a p. 40, che l’obbligo di
+notifica del controricorso e di altri atti è stato eliminato, in quanto si tratta
+15
+
+--- Pagina 16 ---
+
+di «incombenti che non si rendono più necessari una volta che tali atti,
+depositati telematicamente e quindi inseriti nel fascicolo informatico, si
+rendono, per l’appunto, consultabili dalle altre parti».
+9.5. Una volta che è divenuto obbligatorio il deposito telematico di tutti
+gli atti processuali anche in cassazione (nuovo art. 196-quater disp. att.
+c.p.c.), la previa notifica del controricorso ha perso la sua ragion d’essere,
+poiché il ricorrente, dopo essersi costituito telematicamente avanti alla
+Corte di cassazione, può avere immediata conoscenza del deposito e del
+contenuto del controricorso avversario tramite una semplice consultazione
+on line del fascicolo elettronico del processo. Sottoporre lo stesso atto a due
+differenti formalità andrebbe contro la palesata esigenza di semplificazione.
+9.6. Inoltre, l’art. 371 c.p.c. recita: «La parte di cui all'articolo
+precedente deve proporre con l'atto contenente il controricorso l'eventuale
+ricorso incidentale contro la stessa sentenza. La parte alla quale è stato
+notificato il ricorso per integrazione a norma degli articoli 331 e 332 deve
+proporre l'eventuale ricorso incidentale con atto depositato nel termine di
+quaranta giorni dalla notificazione…». Quindi viene espressamente stabilito
+che il ricorso incidentale avverso ricorso per integrazione si propone con
+atto depositato e non notificato.
+9.7. Sostiene il ricorrente incidentale che tale disciplina non dovrebbe
+applicarsi se la parte contro cui è proposto il ricorso incidentale non è ancora
+costituita, ovvero non risulti ancora costituita, e che in tal caso il ricorso
+incidentale necessiterebbe di essere notificato insieme al controricorso
+entro il termine di 40 giorni dalla notifica del ricorso principale.
+9.8. Ora, di tale assunto non è dato cogliere il fondamento normativo,
+in quanto la norma richiamata detta chiare ed univoche modalità, senza
+distinguere il caso del ricorrente non ancora costituito. Inoltre, trattasi di
+norma non irragionevole, ed anzi è una norma di favore per il ricorrente
+incidentale, che viene esonerato dall’obbligo di notifica.
+9.9. E dunque il deposito è stato tardivo.
+16
+
+--- Pagina 17 ---
+
+10. Deve quindi essere ribadito, ed opportunamente precisato, il
+principio di diritto secondo cui a seguito dell’entrata in vigore della Riforma
+di cui al d.lgs. 149/2022, il ricorso incidentale, che la parte, ai sensi dell’art.
+371 c.p.c., deve proporre con l’atto contenente il controricorso, deve essere
+soltanto depositato e non anche notificato, con la conseguenza che
+l’adempimento rilevante per non incorrere nella decadenza è ormai il
+deposito dell’impugnazione incidentale e non più la sua notificazione, non
+più richiesta (arg. da Cass. Sez. 1, 09/07/2024, n. 18683, Rv. 671673 –
+01).
+11. In conclusione, il ricorso principale deve essere rigettato, con
+conseguente condanna della ricorrente al rimborso, in favore della
+controricorrente, delle spese del giudizio di legittimità, che si liquidano come
+in dispositivo, ed il ricorso incidentale deve essere dichiarato inammissibile,
+con conseguente condanna della ricorrente al rimborso, in favore della
+controricorrente, delle spese del giudizio di legittimità, che si liquidano come
+in dispositivo.
+P.Q.M.
+La Corte rigetta il ricorso principale e dichiara inammissibile il ricorso
+incidentale.
+Condanna i ricorrenti principali al pagamento in solido, in favore della
+controricorrente, delle spese del giudizio di legittimità che liquida in euro
+10.000,00 per compensi, oltre spese prenotate a debito.
+Condanna il ricorrente incidentale al pagamento, in favore della
+controricorrente, delle spese del giudizio di legittimità che liquida in euro
+10.000,00 per compensi, oltre spese prenotate a debito.
+Ai sensi dell’art. 13, comma 1-quater, del d.P.R. n. 115/2002, dà atto della
+sussistenza dei presupposti per il versamento, da parte dei ricorrenti
+principali e del ricorrente incidentale, dell’ulteriore importo a titolo di
+contributo unificato pari a quello previsto per i rispettivi ricorsi, a norma del
+comma 1-bis dello stesso articolo 13, se dovuto.
+17
+
+--- Pagina 18 ---
+
+Così deciso in Roma, nella camera di consiglio del 21/01/2026.
+Il Consigliere est.
+Il Presidente
+Gian Paolo Macagno
+Lucio Napolitano
+18

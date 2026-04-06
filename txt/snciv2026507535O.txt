@@ -1,0 +1,383 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 3772/2022 R.G. proposto da:
+AGENZIA DELLE ENTRATE (c.f. 06363391001), costituitasi in persona del
+Direttore pro tempore, rappresentata e difesa dall'Avvocatura Generale
+dello Stato (c.f. 80224030587);
+contro
+FALLIMENTO della ITALY TRADING S.R.L.
+avverso la sentenza della Commissione Tributaria Regionale di Milano n.
+2410/2021 depositata il 29/06/2021.
+Udita la relazione svolta nella camera di consiglio del 17/12/2025 dal
+Consigliere Giovanni Galasso.
+FATTI DI CAUSA
+
+--- Pagina 2 ---
+
+1. Dalla sentenza impugnata risulta che, con ricorso alla Commissione
+tributaria provinciale di Milano, la Italy Trading S.r.l. impugnava l’avviso di
+accertamento n. T9D032A03970/2017 relativo all’anno di imposta 2012
+(integrativo di altro avviso relativo al 2012 n. T9D032A00953), avente ad
+oggetto una ripresa per IVA in relazione ai seguenti motivi:
+- acquisti per € 325.867 effettuati dalla Italy Trading S.r.l. nel 2012 senza
+pagamento dell’IVA pari ad € 68.432 con utilizzo del plafond ex l. 28/1997
+maturato nell’anno precedente (denominato nell’avviso, nonché nelle
+sentenze di primo e secondo grado, rilievo n. 1);
+- cessioni effettuate nel 2012 dalla Italy Trading S.r.l. alla società polacca
+Brelko Poland riqualificate come cessioni interne con IVA per € 22.742
+(denominato nell’avviso, nonché nelle sentenze di primo e secondo grado,
+rilievo n. 2);
+- indetraibilità dell’IVA derivante da fatture emesse dalla Universal Trading
+S.r.l. in relazione ad acquisti di merce ritenuti soggettivamente inesistenti
+(denominato nell’avviso, nonché nelle sentenze di primo e secondo grado,
+rilievo n. 3);
+Con sentenza n. 3697/2019, la CTP di Milano annullava l’avviso
+limitatamente alla pretesa oggetto del rilievo n. 3, ritenendo che
+mancasse la prova dei fatti contestati.
+2. Proponeva appello l’Agenzia delle Entrate, chiedendo la riforma della
+sentenza di primo grado in relazione al terzo rilievo.
+Si costituiva la Italy Trading S.r.l. che proponeva altresì appello
+incidentale, chiedendo l’annullamento dell’avviso anche con riguardo ai
+primi due rilievi.
+Con sentenza n. 2410/2021, la Commissione tributaria regionale della
+Lombardia rigettava l’appello principale, condividendo le conclusioni del
+giudice di prime cure in ordine alla carenza di prove sia sul piano
+oggettivo che su quello soggettivo, non essendovi a suo avviso “fatti e
+indizi” da cui dedurre la consapevolezza della frode da parte
+2
+
+--- Pagina 3 ---
+
+dell’acquirente. Osservava poi che «il rigetto dell’appello principale
+comporta l’accoglimento di quello incidentale»; nel dispositivo così
+provvedeva: «respinge l’appello principale, accoglie quello incidentale e
+per l’effetto, in riforma della sentenza impugnata annulla anche il 3
+dell’avviso di accertamento, oggetto del contendere».
+3. Avverso tale sentenza l’Agenzia delle Entrate ha proposto ricorso per
+cassazione affidato a quattro motivi.
+Non ha resistito la società (fallita dopo l’udienza in cui è stato deciso il
+giudizio d’appello) che è rimasta intimata, sebbene il ricorso sia stato
+notificato sia alla curatela che al difensore della società costituito nel
+giudizio d’appello.
+RAGIONI DELLA DECISIONE
+1.1 Con il primo motivo di ricorso l’Amministrazione lamenta il vizio di cui
+all’art. 360, comma 1°, n. 4) c.p.c. per violazione e falsa applicazione
+dell’art. 36, comma 1°, n. 4) del d.lgs. 546/1992, ravvisando
+un’omissione totale di motivazione derivante dal contrasto tra motivazione
+e dispositivo; la CTR, infatti, ha accolto l’appello incidentale che
+riguardava i primi due rilievi, ma poi ha annullato l’avviso in relazione al
+rilievo n. 3 come aveva già fatto la CTP.
+1.2 Il motivo è infondato.
+Ed infatti, questa Corte ha affermato che «il contrasto tra motivazione e
+dispositivo che determina la nullità della sentenza ricorre solo se ed in
+quanto esso incida sulla idoneità del provvedimento, nel suo complesso, a
+rendere conoscibile il contenuto della statuizione giudiziale ricorrendo nelle
+altre ipotesi un mero errore materiale.(Nella specie, la S.C., ha cassato la
+decisione impugnata che in motivazione aveva aderito alle prospettazioni
+dell'appellante Ader per poi, nel dispositivo, respingerne l'appello)» (Cass.
+n. 17275/2025, emessa in merito ad un caso analogo a quello in esame;
+nello stesso senso, cfr. Cass. n. 26074/2018).
+3
+
+--- Pagina 4 ---
+
+Orbene, risulta evidente nel caso di specie che la volontà della Corte di
+secondo grado era quella di rigettare l’appello principale proposto
+dall’Agenzia delle Entrate (come si evince dalla motivazione relativa
+all’insussistenza dei presupposti oggettivi e soggettivi per escludere la
+detraibilità dell’IVA relativa ad operazioni soggettivamente inesistenti,
+oggetto del rilievo n. 3) e di accogliere quello incidentale, proposto dal
+contribuente, riguardante i rilievi denominati 1 e 2; del resto il dispositivo,
+per la prima parte (nella quale la CTR «respinge l’appello principale,
+accoglie quello incidentale»), è coerente con la motivazione, così che il
+riferimento all’annullamento dell’avviso anche con riguardo al rilievo n. 3
+può ritenersi un mero lapsus calami, essendo chiara la volontà di
+annullarlo (anche) con riguardo ai primi due rilievi che costituivano
+oggetto dell’appello incidentale accolto.
+2.1 Con il secondo motivo la ricorrente ha denunciato il vizio di cui all’art.
+360, comma 1°, n. 4) c.p.c. per violazione e falsa applicazione degli artt.
+23 e 54 d.lgs. 546/1992.
+Ad avviso dell’Amministrazione, la CTR avrebbe dovuto dichiarare
+l’inammissibilità dell’appello incidentale in quanto tardivamente proposto;
+il ricorso in appello era infatti stato notificato alla società il 5/3/2019, ma
+quest’ultima si era costituita solo il 16/9/2019 e dunque ben oltre il
+termine di cui all’art. 23 d.lgs. 546/1992, richiamato dal successivo art. 54
+anche per la proposizione dell’appello incidentale.
+2.2 Il motivo è infondato, in quanto al giudizio d’appello trovava
+applicazione l’art. 6 d.l. 23/10/2018 n. 119 conv. in l. 136/2018 che
+disciplinava la definizione agevolata delle «controversie attribuite alla
+giurisdizione tributaria in cui è parte l'Agenzia delle entrate, aventi ad
+oggetto atti impositivi, pendenti in ogni stato e grado del giudizio,
+compreso quello in Cassazione e anche a seguito di rinvio»; tale norma, al
+comma 11, prevedeva che «Per le controversie definibili sono sospesi per
+nove mesi i termini di impugnazione, anche incidentale, delle pronunce
+4
+
+--- Pagina 5 ---
+
+giurisdizionali e di riassunzione, nonché per la proposizione del
+controricorso in Cassazione che scadono tra la data di entrata in vigore del
+presente decreto e il 31 luglio 2019».
+Pertanto, l’appello incidentale è stato tempestivamente proposto.
+3.1 Con il terzo motivo di ricorso è stato denunciato il vizio di cui all’art.
+360, comma 1°, n. 4) c.p.c. per violazione dell’art. 36, comma 2°, n. 4)
+d.lgs. 546/1992.
+Ad avviso della ricorrente, la pronuncia sull’appello incidentale sarebbe
+nulla per difetto di motivazione, in quanto la CTR si è limitata ad
+affermare che «il rigetto dell’appello principale comporta l’accoglimento di
+quello incidentale», sebbene i due appelli riguardassero rilievi relativi ad
+operazioni differenti e non connesse l’una con l’altra.
+3.2 Il motivo è fondato.
+Va osservato che il vizio di mancanza di motivazione o di motivazione
+apparente (che comporta la nullità della sentenza), dopo la riforma
+dell’art. 360 c.p.c. ad opera del d.l. 83/2012 conv. in l. 134/2012, ricorre
+solo quando la motivazione sia del tutto mancante sotto il profilo grafico o
+meramente apparente oppure quando sia caratterizzata da un «contrasto
+irriducibile tra affermazioni inconciliabili» o da affermazioni incomprensibili
+(così Cass. Sez. U. n. 8053/2014).
+In particolare, «la motivazione è solo apparente, e la sentenza è nulla
+perchè affetta da "error in procedendo", quando, benchè graficamente
+esistente, non renda, tuttavia, percepibile il fondamento della decisione,
+perché recante argomentazioni obbiettivamente inidonee a far conoscere il
+ragionamento seguito dal giudice per la formazione del proprio
+convincimento, non potendosi lasciare all'interprete il compito di integrarla
+con le più varie, ipotetiche congetture» (Cass. Sez. U. n. 22232/2016;
+nello stesso senso Cass. n. 22598/2018).
+È evidente come nel caso di specie ricorra il vizio lamentato, in quanto
+l’avviso di accertamento è stato annullato in relazione alla contestazione
+5
+
+--- Pagina 6 ---
+
+per le operazioni soggettivamente inesistenti perché si è ritenuto che tale
+fattispecie non fosse stata adeguatamente provata; ciò non comporta
+però, quale necessaria conseguenza, la carenza di prova anche in ordine
+ai fatti che hanno dato origine alle altre due autonome contestazioni,
+sicché sarebbe stato necessario indicare le ragioni per le quali l’appello
+incidentale doveva essere accolto o quanto meno spiegare per quale
+motivo, ad avviso della Corte di secondo grado, dal rigetto dell’appello
+principale derivasse quale conseguenza l’accoglimento di quello
+incidentale.
+Non è quindi possibile comprendere il ragionamento che ha condotto
+all’accoglimento dell’appello incidentale.
+4.1 Con il quarto motivo di ricorso l’Amministrazione lamenta il vizio di cui
+all’art. 360, comma 1°, n. 3) c.p.c. per violazione e falsa applicazione
+degli artt. 2709, 2710, 2697, 2729 c.c., 54 comma 5 d.P.R. 633/1972 e
+115 c.p.c..
+La ricorrente, dopo aver riportato il contenuto dell’avviso di accertamento,
+dell’originario ricorso del contribuente alla CTP, delle controdeduzioni in
+appello della società e del proprio atto di appello, ha osservato che, nel
+ritenere non provati i fatti posti a fondamento del rilievo in ordine alle
+operazioni soggettivamente inesistenti, la CTR aveva violato i principi
+elaborati da questa Corte in ordine alla ripartizione dell’onere probatorio
+ed alla prova per presunzioni con riguardo alla materia in esame. Ha poi
+dedotto che la CTR avrebbe altresì violato gli artt. 115 c.p.c., 2709 e 2710
+c.c. nella parte della sentenza in cui si è soffermata sulle scritture contabili
+della società; ha aggiunto ancora che non sarebbero stati correttamente
+applicati neppure gli artt. 2729 c.c. e 54, comma 2, d.P.R. 633/1972,
+secondo i quali le risultanze contabili del contribuente possono costituire
+prova solo contro l’imprenditore e comunque possono essere disattese in
+presenza di presunzioni gravi precise e concordanti da cui desumere la
+6
+
+--- Pagina 7 ---
+
+loro inattendibilità; ciò era avvenuto nel caso di specie in cui era stato
+dimostrato che la Universal Trading S.r.l. era una società cartiera.
+4.2 Il motivo è fondato e deve essere accolto.
+Va rilevato che, nel caso di operazioni soggettivamente inesistenti, l’IVA
+non è, in linea di principio, detraibile, perché è stata versata ad un
+soggetto non legittimato alla rivalsa e non assoggettato all’obbligo di
+pagamento dell'imposta, in quanto la fattura è emessa da un soggetto che
+non è stato controparte nel rapporto relativo alle operazioni fatturate, da
+ritenersi “inesistenti” (Cass. n. 24426/2013; per la specifica descrizione
+dei principi e delle norme che escludono la detrazione, cfr. Cass. n.
+9851/2018).
+Il diniego del diritto di detrazione costituisce tuttavia un’eccezione al
+principio di neutralità dell'IVA e per tale ragione «l'Amministrazione
+finanziaria, se contesta che la fatturazione attenga ad operazioni
+soggettivamente inesistenti, inserite o meno nell'ambito di una frode
+carosello, ha l'onere di provare, non solo l'oggettiva fittizietà del fornitore,
+ma anche la consapevolezza del destinatario che l'operazione si inseriva in
+una evasione dell'imposta, dimostrando, anche in via presuntiva, in base
+ad elementi oggettivi e specifici, che il contribuente era a conoscenza, o
+avrebbe dovuto esserlo, usando l'ordinaria diligenza in ragione della
+qualità professionale ricoperta, della sostanziale inesistenza del
+contraente; ove l'Amministrazione assolva a detto onere istruttorio, grava
+sul contribuente la prova contraria di avere adoperato, per non essere
+coinvolto in un'operazione volta ad evadere l'imposta, la diligenza
+massima esigibile da un operatore accorto, secondo criteri di
+ragionevolezza e di proporzionalità in rapporto alle circostanze del caso
+concreto, non assumendo rilievo, a tal fine, né la regolarità della
+contabilità e dei pagamenti, né la mancanza di benefici dalla rivendita
+delle merci o dei servizi” (Cass. n. 9851/2018; cfr. nello stesso senso,
+Cass. n. 11873/2018; Cass. n. 17818/2016).
+7
+
+--- Pagina 8 ---
+
+Anche la Corte di Giustizia UE ha precisato, in ordine alla ripartizione
+dell’onere probatorio, che la direttiva 2006/112 deve essere interpretata
+«nel senso che essa osta, qualora l’autorità tributaria intenda negare ad
+un soggetto passivo il beneficio del diritto alla detrazione dell’imposta sul
+valore aggiunto (IVA) assolta a monte per il motivo che tale soggetto
+passivo ha partecipato ad una frode dell’IVA di tipo carosello, a che tale
+autorità tributaria si limiti a stabilire che tale operazione fa parte di una
+catena di fatturazione circolare; spetta a detta autorità tributaria, da un
+lato, individuare con precisione gli elementi costitutivi della frode e
+dimostrare le condotte fraudolente e, dall’altro, dimostrare che il soggetto
+passivo ha partecipato attivamente a tale frode o che sapeva o avrebbe
+dovuto sapere che l’operazione invocata a fondamento di tale diritto si
+iscriveva in detta frode, il che non implica necessariamente
+l’identificazione di tutti i soggetti che hanno partecipato alla frode nonché
+dei loro rispettivi comportamenti;
+- la direttiva n. 2006/112 deve essere interpretata nel senso che essa non
+osta, qualora l’autorità tributaria attesti una partecipazione attiva del
+soggetto passivo a una frode dell’imposta sul valore aggiunto per negare il
+diritto alla detrazione, a che tale autorità tributaria fondi tale diniego, in
+via complementare o subordinata, su elementi di prova che dimostrino
+non una siffatta partecipazione, bensì il fatto che tale soggetto passivo,
+dando prova di tutta la diligenza richiesta, avrebbe potuto sapere che
+l’operazione di cui trattasi si iscriveva in una siffatta frode; la mera
+circostanza che i membri della catena di cessioni, di cui fa parte tale
+operazione, si conoscessero non costituisce un elemento sufficiente per
+dimostrare la partecipazione del soggetto passivo alla frode;
+- la direttiva 2006/112, in combinato disposto con il principio di
+proporzionalità, deve essere interpretata nel senso che essa non osta,
+qualora sussistano indizi che consentano di sospettare l’esistenza di
+irregolarità o di una frode, a che sia richiesto al soggetto passivo di dar
+8
+
+--- Pagina 9 ---
+
+prova di una maggiore diligenza per assicurarsi che l’operazione effettuata
+non lo conduca a partecipare a una frode; non si può tuttavia pretendere
+che esso proceda a verifiche complesse e approfondite come quelle che
+possono essere effettuate dall’amministrazione finanziaria; spetta al
+giudice nazionale valutare se, alla luce di tutte le circostanze del caso di
+specie, il soggetto passivo abbia dato prova di sufficiente diligenza e abbia
+adottato le misure che gli si possono ragionevolmente richiedere in tali
+circostanze; […]» (sentenza 1/12/2022, nella causa C-512/21; nello
+stesso senso, sentenza 22/10/2015, nella causa C-277/14).
+Quanto alle modalità della prova della natura fittizia dell’operazione, posta
+a carico dell’Amministrazione, è stato poi condivisibilmente affermato che
+può trattarsi sia di prova logica (o indiretta) sia di prova storica (o
+diretta), consistente anche in indizi integranti una presunzione semplice
+(Cass. n. 10336/2025; Cass. n. 28628/2021; Cass. n. 28246/2020),
+potendo essere valorizzati, quali elementi sintomatici della mancata
+esecuzione dell’operazione da parte del fatturante, l’assenza della minima
+dotazione personale e strumentale adeguata alla predetta esecuzione,
+l’immediatezza dei rapporti fra cedente/prestatore fatturante interposto e
+cessionario/committente, la conclamata inidoneità allo svolgimento
+dell’attività economica e la non corrispondenza tra i cedenti e la società
+coinvolta nell’operazione (Cass. n. 5339/2020).
+Qualora l’Amministrazione abbia offerto la prova, anche presuntiva di tali
+circostanze, grava sul contribuente l’onere di dimostrare che la natura
+fraudolenta delle operazioni non era a lui nota e non era conoscibile
+neppure con l’impiego della diligenza richiesta in considerazione
+dell’attività professionale svolta.
+Si ritengono elementi idonei a dimostrare la buona fede dell’acquirente i
+contatti e le trattative intercorse con l’apparente venditrice, gli accessi
+presso la sua sede ed in ogni caso tutti quei fatti che possono condurre a
+ritenere che effettivamente il contribuente riteneva di acquistare le merci
+9
+
+--- Pagina 10 ---
+
+da un soggetto realmente esistente. Non rilevano invece i documenti
+relativi ai pagamenti o più in generale la regolare tenuta della contabilità
+dell’acquirente; infatti, «non è […] sufficiente dedurre, da parte del
+contribuente, che la merce sia stata consegnata e la fattura, IVA
+compresa, sia stata effettivamente pagata, trattandosi di circostanze
+pienamente compatibili con il modello di frode fiscale, posto in essere
+mediante un'operazione soggettivamente inesistente (Cass. nn.
+17377/2009; 230744/2012)» (cfr. Cass. n. 18767/2014, in motivazione;
+cfr. anche, ex multis, Cass. n. 24472/2022).
+Va altresì ricordato, in materia di prova per presunzioni, che «la denuncia,
+in cassazione, di violazione o falsa applicazione del citato art. 2729 c.c., ai
+sensi dell'art. 360, comma 1, n. 3, c.p.c., può prospettarsi quando il
+giudice di merito affermi che il ragionamento presuntivo può basarsi su
+presunzioni non gravi, precise e concordanti ovvero fondi la presunzione
+su un fatto storico privo di gravità o precisione o concordanza ai fini
+dell'inferenza dal fatto noto della conseguenza ignota e non anche quando
+la critica si concreti nella diversa ricostruzione delle circostanze fattuali o
+nella mera prospettazione di una inferenza probabilistica diversa da quella
+ritenuta applicata dal giudice di merito o senza spiegare i motivi della
+violazione dei paradigmi della norma» (Cass. n. 9054/2022); resta invece
+«escluso che la sola mancata valutazione di un elemento indiziario possa
+dare luogo al vizio di omesso esame di un punto decisivo, e neppure
+occorre che tra il fatto noto e quello ignoto sussista un legame di assoluta
+ed esclusiva necessità causale, essendo sufficiente che il fatto da provare
+sia desumibile dal fatto noto come conseguenza ragionevolmente
+possibile, secondo criterio di normalità, visto che la deduzione logica è una
+valutazione che, in quanto tale, deve essere probabilmente convincente,
+non oggettivamente inconfutabile» (Cass. n. 22366/2021).
+Sulla base di tali principi si è quindi ritenuto che possa essere censurata
+per violazione di legge, con ricorso per cassazione, una sentenza in cui il
+10
+
+--- Pagina 11 ---
+
+giudice si sia limitato ad escludere la rilevanza probatoria dei singoli
+elementi indiziari valutati atomisticamente, senza però verificare se,
+considerati nel loro complesso, avessero tale rilevanza (Cass. n.
+8115/2025; Cass. n. 9059/2018).
+4.3 Orbene, nel caso di specie, la CTR non ha rispettato i predetti principi.
+Ed infatti, non ha valutato - prima singolarmente e poi nel loro complesso
+- numerosi elementi dedotti dall’Amministrazione dai quali potrebbe
+desumersi la sostanziale inesistenza della fornitrice (assenza di sede,
+collocata presso un’altra società, assenza di locali aziendali e personale,
+omesso versamento di IVA per l’anno 2012), nonché la conoscibilità di tale
+circostanza (la cedente non svolgeva in proprio alcuna attività di trasporto
+e magazzinaggio, aveva compiuto acquisti da altre società cartiere pure
+note alla Italy Trading S.r.l.); si è limitata invece ad evidenziare, per
+escludere la natura fittizia delle operazioni, che l’Amministrazione non
+avevano riportato «la mancanza di comunicazioni tra le parti che sono
+facilmente reperibili presso i gestori di telecomunicazioni». Ha poi
+aggiunto, con espressioni non facilmente comprensibili, che la contabilità
+ed i pagamenti sarebbero regolari; tuttavia, in base ai principi esposti, tali
+elementi sono del tutto irrilevanti in quanto la regolarità contabile è
+funzionale alla frode. Infine, quanto alla consapevolezza della
+partecipazione alla frode da parte dell’acquirente, ha osservato soltanto
+che «non si riportano fatti e indizi che possano rilevarne nel
+comportamento della Società ricorrente».
+La CTR ha quindi violato i principi in materia di prova sopra riportati, in
+quanto avrebbe dovuto prima valutare singolarmente e poi nel loro
+insieme gli elementi forniti dall’Amministrazione – dal momento che
+singoli fatti possono assumere maggior valore indiziario se considerati
+unitamente ad altri - dai quali desumere la natura fittizia sotto il profilo
+soggettivo delle operazioni e la conoscibilità della stessa da parte
+dell’acquirente e poi verificare se gli elementi dedotti dalla contribuente
+11
+
+--- Pagina 12 ---
+
+(escludendo, per quanto esposto, la regolarità contabile e l’esecuzione dei
+pagamenti con mezzi tracciabili) fossero idonei a dimostrare che
+quest’ultima non potesse conoscere, con l’impiego dell’ordinaria diligenza,
+la sostanziale inesistenza dei fornitori.
+5. In definitiva, vanno accolti il terzo ed il quarto motivo di ricorso, mentre
+vanno rigettati i primi due. La sentenza impugnata va quindi cassata in
+relazione ai motivi accolti con rinvio alla Corte di giustizia tributaria di
+secondo grado della Lombardia, in diversa composizione, che dovrà
+provvedere anche alla regolazione delle spese del presente giudizio di
+legittimità.
+P.Q.M.
+La Corte accoglie il terzo ed il quarto motivo di ricorso e rigetta i primi
+due; cassa la sentenza impugnata in relazione ai motivi accolti e rinvia alla
+Corte di giustizia tributaria di secondo grado della Lombardia, in diversa
+composizione, cui demanda di provvedere anche in ordine alle spese del
+presente giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio del 17/12/2025.
+La Presidente
+Tania Hmeljak
+12

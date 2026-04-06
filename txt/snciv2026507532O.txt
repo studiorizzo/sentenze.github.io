@@ -1,0 +1,280 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+Registro: n. 12952/2018 R.G. | Cron. | Rep. | A.C. 8 luglio 2025
+Oggetto: IVA, IRPEF e IRAP - Reddito d'impresa - Studi di settore.
+
+ORDINANZA
+sul ricorso iscritto al n. 10797/2020 R.G. proposto da:
+AGENZIA DELLE ENTRATE (c.f. 06363391001) costituitasi in persona del
+Direttore pro tempore, rappresentata e difesa dall'Avvocatura Generale
+dello Stato;
+contro
+ITALY TRADING S.R.L.
+avverso la sentenza della Commissione tributaria regionale della
+Lombardia n. 5444/2018 depositata il 12/12/2018.
+Udita la relazione svolta nella camera di consiglio del 17/12/2025 dal
+Consigliere Giovanni Galasso.
+FATTI DI CAUSA
+
+--- Pagina 2 ---
+
+1. Dalla sentenza impugnata emerge che, con ricorso alla Commissione
+tributaria provinciale di Milano, la Italy Trading S.r.l. impugnava tre avvisi
+di accertamento relativi agli anni di imposta 2008, 2009 e 2010 con i quali
+l’Agenzia delle Entrate aveva contestato l’illegittima detrazione,
+rispettivamente, di € 362.292, € 1.174.287 ed € 596.894 in relazione a
+fatture per operazioni soggettivamente inesistenti (acquisti di materiali
+elettronici) emesse dalla Rams S.r.l., dalla Gemax S.r.l. e dalla Universal
+Trading S.r.l..
+Con il ricorso si deducevano vizi formali, nonché l’infondatezza nel merito
+delle pretese.
+La CTP rigettava il ricorso.
+2. La Commissione tributaria regionale della Lombardia, con sentenza n.
+5444/2018, accoglieva invece l’appello della società contribuente,
+ritenendo che non fosse dimostrata la conoscenza o la conoscibilità,
+mediante l’impiego dell’ordinaria diligenza, della frode, dal momento che
+l’acquirente aveva verificato l’esistenza e l’operatività dei fornitori con cui
+operava e che la stessa Agenzia delle Entrate aveva dato atto
+dell’esistenza delle loro partite IVA. Ad avviso della CTR, non poteva
+pretendersi dai contribuenti controlli analoghi a quelli che può compiere
+l’Amministrazione; peraltro, la buona fede dell’acquirente poteva
+desumersi anche dalla natura stessa dell’attività (intermediazione nel
+commercio di materiali elettronici) che veniva svolta esclusivamente
+tramite internet e con comunicazioni attraverso messaggi di posta
+elettronica.
+3. Avverso tale sentenza l’Amministrazione ha proposto ricorso per
+cassazione affidato a due motivi.
+Non ha resistito la società che è rimasta intimata.
+RAGIONI DELLA DECISIONE
+2
+
+--- Pagina 3 ---
+
+1. Preliminarmente deve osservarsi che il ricorso, notificato il 12/3/2020 è
+tempestivo, benché la sentenza impugnata sia stata pubblicata il
+12/12/2018, operando la sospensione di cui all’art. 6 comma 11 d.l.
+119/2018 conv. in l. 136/2018.
+2.1 Con il primo motivo di ricorso l’Amministrazione lamenta il vizio di cui
+all’art. 360, comma 1°, n. 3) c.p.c. per violazione e falsa applicazione
+degli artt. 2729 e 2697 c.c., nonché dell’art. 19 d.P.R. 633/1972. Ad
+avviso della ricorrente, la CTR ha violato i principi in tema di onere della
+prova e di prova presuntiva in quanto, a fronte dell’allegazione di elementi
+dai quali si desume che le fornitrici fossero società cartiere, aveva ritenuto
+sufficiente, quale prova della non conoscibilità della natura fittizia sotto il
+profilo soggettivo delle operazioni, il fatto che le merci erano state
+consegnate e pagate e che le fornitrici erano dotate di partita IVA, mentre
+costituisce principio pacifico quello per il quale la regolarità contabile delle
+operazioni è funzionale alla frode.
+2.2 Il motivo è fondato.
+Va rilevato che, nel caso di operazioni soggettivamente inesistenti, l’IVA
+non è, in linea di principio, detraibile, perché è stata versata ad un
+soggetto non legittimato alla rivalsa e non assoggettato all'obbligo di
+pagamento dell'imposta, in quanto la fattura è emessa da un soggetto che
+non è stato controparte nel rapporto relativo alle operazioni fatturate, da
+ritenersi “inesistenti” (Cass. n. 24426/2013; per la specifica descrizione
+dei principi e delle norme che comportano l’esclusione della detrazione,
+cfr. Cass. n. 9851/2018).
+Il diniego del diritto di detrazione costituisce tuttavia un’eccezione al
+principio di neutralità dell’IVA e, per tale ragione, «l'Amministrazione
+finanziaria, se contesta che la fatturazione attenga ad operazioni
+soggettivamente inesistenti, inserite o meno nell'ambito di una frode
+carosello, ha l'onere di provare, non solo l'oggettiva fittizietà del fornitore,
+ma anche la consapevolezza del destinatario che l'operazione si inseriva in
+3
+
+--- Pagina 4 ---
+
+una evasione dell'imposta, dimostrando, anche in via presuntiva, in base
+ad elementi oggettivi e specifici, che il contribuente era a conoscenza, o
+avrebbe dovuto esserlo, usando l'ordinaria diligenza in ragione della
+qualità professionale ricoperta, della sostanziale inesistenza del
+contraente; ove l'Amministrazione assolva a detto onere istruttorio, grava
+sul contribuente la prova contraria di avere adoperato, per non essere
+coinvolto in un'operazione volta ad evadere l'imposta, la diligenza
+massima esigibile da un operatore accorto, secondo criteri di
+ragionevolezza e di proporzionalità in rapporto alle circostanze del caso
+concreto, non assumendo rilievo, a tal fine, né la regolarità della
+contabilità e dei pagamenti, né la mancanza di benefici dalla rivendita
+delle merci o dei servizi» (Cass. n. 9851/2018; cfr. nello stesso senso,
+Cass. n. 11873/2018; Cass. n. 17818/2016).
+Anche la Corte di Giustizia UE (cfr., ad esempio, sentenza 1 dicembre
+2022, causa C-512/21) ha precisato, in ordine alla ripartizione dell’onere
+probatorio, che la direttiva 2006/112 deve essere interpretata «nel senso
+che essa osta, qualora l’autorità tributaria intenda negare ad un soggetto
+passivo il beneficio del diritto alla detrazione dell’imposta sul valore
+aggiunto (IVA) assolta a monte per il motivo che tale soggetto passivo ha
+partecipato ad una frode dell’IVA di tipo carosello, a che tale autorità
+tributaria si limiti a stabilire che tale operazione fa parte di una catena di
+fatturazione circolare; spetta a detta autorità tributaria, da un lato,
+individuare con precisione gli elementi costitutivi della frode e dimostrare
+le condotte fraudolente e, dall’altro, dimostrare che il soggetto passivo ha
+partecipato attivamente a tale frode o che sapeva o avrebbe dovuto
+sapere che l’operazione invocata a fondamento di tale diritto si iscriveva in
+detta frode, il che non implica necessariamente l’identificazione di tutti i
+soggetti che hanno partecipato alla frode nonché dei loro rispettivi
+comportamenti;
+4
+
+--- Pagina 5 ---
+
+- la direttiva n. 2006/112 deve essere interpretata nel senso che essa non
+osta, qualora l’autorità tributaria attesti una partecipazione attiva del
+soggetto passivo a una frode dell’imposta sul valore aggiunto per negare il
+diritto alla detrazione, a che tale autorità tributaria fondi tale diniego, in
+via complementare o subordinata, su elementi di prova che dimostrino
+non una siffatta partecipazione, bensì il fatto che tale soggetto passivo,
+dando prova di tutta la diligenza richiesta, avrebbe potuto sapere che
+l’operazione di cui trattasi si iscriveva in una siffatta frode; la mera
+circostanza che i membri della catena di cessioni, di cui fa parte tale
+operazione, si conoscessero non costituisce un elemento sufficiente per
+dimostrare la partecipazione del soggetto passivo alla frode;
+- la direttiva 2006/112, in combinato disposto con il principio di
+proporzionalità, deve essere interpretata nel senso che essa non osta,
+qualora sussistano indizi che consentano di sospettare l’esistenza di
+irregolarità o di una frode, a che sia richiesto al soggetto passivo di dar
+prova di una maggiore diligenza per assicurarsi che l’operazione effettuata
+non lo conduca a partecipare a una frode; non si può tuttavia pretendere
+che esso proceda a verifiche complesse e approfondite come quelle che
+possono essere effettuate dall’amministrazione finanziaria; spetta al
+giudice nazionale valutare se, alla luce di tutte le circostanze del caso di
+specie, il soggetto passivo abbia dato prova di sufficiente diligenza e abbia
+adottato le misure che gli si possono ragionevolmente richiedere in tali
+circostanze; […]»
+Quanto alle modalità della prova della natura fittizia dell’operazione, posta
+a carico dell’Amministrazione, è stato poi condivisibilmente affermato che
+può trattarsi sia di prova logica (o indiretta) sia di prova storica (o
+diretta), consistente anche in indizi integranti una presunzione semplice
+(Cass. n. 10336/2025; Cass. n. 28628/2021; Cass. n. 28246/2020),
+potendo essere valorizzati, quali elementi sintomatici della mancata
+esecuzione dell’operazione da parte del fatturante, l’assenza della minima
+5
+
+--- Pagina 6 ---
+
+dotazione personale e strumentale adeguata alla predetta esecuzione,
+l’immediatezza dei rapporti fra cedente/prestatore fatturante interposto e
+cessionario/committente, la conclamata inidoneità allo svolgimento
+dell’attività economica e la non corrispondenza tra i cedenti e la società
+coinvolta nell’operazione (Cass. n. 5339/2020).
+Qualora l’Amministrazione abbia offerto la prova, anche presuntiva (ai
+sensi dell’art. 54, comma 2°, d.P.R. 633/1972) di tali circostanze, grava
+sul contribuente l’onere di dimostrare che la natura fraudolenta delle
+operazioni non era a lui nota e non era conoscibile neppure con l’impiego
+della diligenza richiesta in considerazione dell’attività professionale svolta.
+Si ritengono elementi idonei a dimostrare la buona fede dell’acquirente i
+contatti e le trattative intercorse con l’apparente venditrice, gli accessi
+presso la sua sede ed in ogni caso tutti quei fatti che possono condurre a
+ritenere che effettivamente il contribuente credesse di acquistare le merci
+da un soggetto realmente esistente. Non rilevano invece i documenti
+relativi ai pagamenti o più in generale la regolare tenuta della contabilità
+dell’acquirente; infatti, «non è […] sufficiente dedurre, da parte del
+contribuente, che la merce sia stata consegnata e la fattura, IVA
+compresa, sia stata effettivamente pagata, trattandosi di circostanze
+pienamente compatibili con il modello di frode fiscale, posto in essere
+mediante un'operazione soggettivamente inesistente (Cass. nn.
+17377/2009; 230744/2012)» (cfr. Cass. 18767/2014, in motivazione; cfr.
+anche, ex multis, Cass. 24472/2022).
+Va altresì ricordato, in materia di prova per presunzioni, che «la denuncia,
+in cassazione, di violazione o falsa applicazione del citato art. 2729 c.c., ai
+sensi dell'art. 360, comma 1, n. 3, c.p.c., può prospettarsi quando il
+giudice di merito affermi che il ragionamento presuntivo può basarsi su
+presunzioni non gravi, precise e concordanti ovvero fondi la presunzione
+su un fatto storico privo di gravità o precisione o concordanza ai fini
+dell'inferenza dal fatto noto della conseguenza ignota e non anche quando
+6
+
+--- Pagina 7 ---
+
+la critica si concreti nella diversa ricostruzione delle circostanze fattuali o
+nella mera prospettazione di una inferenza probabilistica diversa da quella
+ritenuta applicata dal giudice di merito o senza spiegare i motivi della
+violazione dei paradigmi della norma» (Cass. n. 9054/2022); resta invece
+«escluso che la sola mancata valutazione di un elemento indiziario possa
+dare luogo al vizio di omesso esame di un punto decisivo, e neppure
+occorre che tra il fatto noto e quello ignoto sussista un legame di assoluta
+ed esclusiva necessità causale, essendo sufficiente che il fatto da provare
+sia desumibile dal fatto noto come conseguenza ragionevolmente
+possibile, secondo criterio di normalità, visto che la deduzione logica è una
+valutazione che, in quanto tale, deve essere probabilmente convincente,
+non oggettivamente inconfutabile» (Cass. n. 22366/2021).
+Sulla base di tali principi si è quindi ritenuto che possa essere censurata
+per violazione di legge, con ricorso per cassazione, una sentenza in cui il
+giudice si sia limitato ad escludere la rilevanza probatoria dei singoli
+elementi indiziari valutati atomisticamente, senza però verificare se,
+considerati nel loro complesso, avessero tale rilevanza (Cass. n.
+8115/2025; Cass. n. 9059/2018).
+2.3 Orbene, nel caso di specie, la CTR ha violato i principi esposti.
+Ed infatti, non ha valutato – né singolarmente né nel loro insieme -
+numerosi elementi dedotti dall’Amministrazione dai quali potrebbe
+desumersi la sostanziale inesistenza delle fornitrici (assenza di sede,
+assenza di utenze, omissione di versamenti di imposte), nonché la
+conoscibilità di tale circostanza (le fornitrici, sebbene dedite al commercio
+online, non erano titolari di siti web, l’amministratore di fatto della Italy
+Trading S.r.l. non conosceva i nomi ed i recapiti delle persone che
+operavano per conto delle fornitrici); si è limitata, invece, ad evidenziare,
+per escludere la conoscibilità della frode, che la merce è stata
+effettivamente consegnata e pagata e che le fornitrici erano titolari di
+partite IVA. Tali elementi, tuttavia, in base ai principi esposti, sono del
+7
+
+--- Pagina 8 ---
+
+tutto irrilevanti in quanto la regolarità contabile è funzionale alla frode e le
+operazioni sono solo soggettivamente inesistenti, sicché la ricezione della
+merce è scontata. Infine, l’ulteriore aspetto posto in rilievo dalla CTR per
+escludere la conoscibilità, cioè lo svolgimento da parte della contribuente
+dell’attività di commercio esclusivamente tramite internet, non è stato
+posto a confronto con quanto dedotto, in senso contrario,
+dall’Amministrazione in ordine all’inesistenza di siti web delle fornitrici ed
+alle dichiarazioni generiche dell’amministratore di fatto circa la conoscenza
+ed i rapporti con i fornitori.
+La CTR ha quindi violato i principi in materia di prova sopra esposti, in
+quanto avrebbe dovuto prima valutare singolarmente e poi nel loro
+insieme – dal momento che singoli fatti possono assumere maggior valore
+indiziario se valutati unitamente ad altri - gli elementi forniti
+dall’Amministrazione dai quali desumere la natura fittizia sotto il profilo
+soggettivo delle operazioni e la conoscibilità della stessa da parte
+dell’acquirente e poi verificare se gli elementi dedotti dalla contribuente
+fossero idonei a dimostrare che quest’ultima non potesse conoscere con
+l’impiego dell’ordinaria diligenza la sostanziale inesistenza dei fornitori; a
+tal fine però la stessa non avrebbe dovuto tener conto, per quanto
+esposto, della regolarità contabile, della ricezione della merce e
+dell’esecuzione dei pagamenti con mezzi tracciabili (cioè proprio degli
+elementi dalla stessa valorizzati) che sono funzionali alla frode.
+3. Con il secondo motivo, l’Amministrazione denuncia il vizio di cui all’art.
+360, comma 1°, n. 5) c.p.c. per «omesso esame di punti di fatto decisivi e
+controversi». Il fatto decisivo sarebbe da individuare nella
+«consapevolezza o meno» o nella «negligente non consapevolezza o
+meno, in capo alla società di intrattenere relazioni commerciali con
+soggetti fittizi»; ad avviso della ricorrente la CTR avrebbe trascurato i
+numerosi fatti secondari indicati dall’Amministrazione da cui doveva
+desumersi la natura di cartiere delle venditrici e la mala fede o quanto
+8
+
+--- Pagina 9 ---
+
+meno l’inescusabile negligenza della società, per soffermarsi
+esclusivamente sugli elementi forniti dalla Italy Trading e cioè
+sull’effettività dei pagamenti e sulla regolarità delle consegne.
+Il motivo resta assorbito per effetto dell’accoglimento del primo,
+riguardando, sotto un diverso profilo le medesime questioni.
+4. In definitiva, va accolto il primo motivo di ricorso, mentre va dichiarato
+assorbito il secondo; la sentenza impugnata va quindi cassata con rinvio
+alla Corte di giustizia tributaria di secondo grado della Lombardia, in
+diversa composizione, che dovrà provvedere ad una nuova valutazione
+alla luce dei principi esposti, nonché alla regolazione delle spese del
+presente giudizio di legittimità.
+P.Q.M.
+La Corte accoglie il primo motivo di ricorso e dichiara assorbito il secondo;
+cassa la sentenza impugnata e rinvia alla Corte di giustizia tributaria di
+secondo grado della Lombardia, in diversa composizione, cui demanda di
+provvedere anche in ordine alle spese del presente giudizio di legittimità.
+Così deciso in Roma, nella camera di consiglio del 17/12/2025.
+La Presidente
+Tania Hmeljak
+9

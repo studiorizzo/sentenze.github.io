@@ -1,0 +1,314 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 20533/2016 R.G. proposto da:
+AGENZIA DELLE ENTRATE in persona del Direttore
+rappresentante pro tempore, rappresentata e difesa
+dall'AVVOCATURA GENERALE DELLO STATO
+-ricorrente-
+contro
+LECO ITALY s.r.l. in persona del legale rappresentante pro
+tempore, rappresentata e difesa dall'avvocato MARIO VALENTINI
+unitamente agli avvocati GIAN LUCA GROSSI ed ERMANNO
+VAGLIO
+-controricorrente-
+
+--- Pagina 2 ---
+
+avverso la sentenza della COMMISSIONE TRIBUTARIA
+REGIONALE della LOMBARDIA n. 3271/2016 depositata il 31/05/2016
+udita la relazione svolta nella camera di consiglio del 30/01/2026
+dalla Consigliera RAFFAELLA BROGI
+FATTI DI CAUSA
+1. L’Agenzia delle Entrate, con due avvisi di accertamento, ha
+rettificato, ai sensi dell’art. 54 d.P.R. n. 633 del 1972, le dichiarazioni
+ai fini IVA presentate dalla Leco Italy s.r.l. (hinc: la contribuente) in
+relazione agli anni d’imposta 2007 e 2008. Tali rettifiche traevano
+origine dall’esame della relazione commerciale che intercorreva tra la
+contribuente e altre due società del gruppo (dedito alla produzione,
+distribuzione e commercializzazione di apparecchiature per analisi
+chimiche), secondo la seguente ripartizione dei ruoli:
+- Leco-Corporation U.S.A. (casa madre) si occupava della produzione;
+- Leco Europe BV – Olanda (holding europea) si occupava della
+logistica;
+- Leco Italy s.r.l. (filiale territoriale in Italia) si occupava della
+commercializzazione.
+Solitamente, la casa madre statunitense esportava i beni verso la
+società olandese che riforniva le varie filiali europee (compresa quella
+italiana) attraverso operazioni di cessione intracomunitaria. In alcuni
+casi, tuttavia, la casa madre, pur effettuando cessioni nei confronti del
+soggetto olandese che rifatturava alla filiale italiana) spediva i beni
+direttamente in Italia, dando vita a operazioni triangolari con un
+soggetto extracomunitario. L’immissione in libera pratica avveniva
+materialmente ad opera di uno spedizioniere doganale che anticipava i
+dazi all’importazione. Per tale operazione veniva presentata in dogana
+sia la fattura di vendita statunitense (a dimostrazione della provenienza
+della merce) che quella olandese (a dimostrazione del valore della
+merce).
+2
+
+--- Pagina 3 ---
+
+La contribuente (filiale italiana) provvedeva ad annotare la fattura
+olandese in contabilità generale per documentare l’esistenza di un
+costo inerente all’attività di impresa e a registrare la bolletta doganale
+nel registro degli acquisti per esercitare il diritto alla detrazione
+dell’IVA. Il tutto, senza compilare il modello Intrastat.
+Ad avviso dell’Amministrazione finanziaria la contribuente non
+effettuava, tuttavia, un acquisto intracomunitario, poiché la merce non
+partiva da uno Stato UE. Non era neppure possibile qualificare
+l’operazione come importazione diretta, dal momento che il titolo usato
+per l’immissione in libera pratica era intestato a un soggetto unionale
+e non all’acquirente nazionale. Era, pertanto, applicabile la risoluzione
+30/03/1999, n. 60 del Ministro delle Finanze, secondo la quale la
+detrazione dell’imposta assolta all’importazione spettava all’operatore
+comunitario intestatario del titolo. Il rapporto tra cedente comunitario
+e l’acquirente nazionale concretizzava, invece, un’operazione interna
+da assoggettare a IVA. Sempre secondo la risoluzione ministeriale il
+soggetto comunitario non poteva recuperare l’IVA assolta all’atto
+dell’importazione mediante la procedura ex art. 38 d.P.R. n. 633 del
+1972, ma solo mediante un rappresentante fiscale in Italia, da
+nominare ai sensi dell’art. 17, comma 2, d.P.R. n. 633 del 1972 ed era,
+inoltre, tenuto a emettere fattura nei confronti del cessionario
+nazionale. Il soggetto comunitario non poteva neppure designare come
+debitore finale l’acquirente dei beni ai sensi degli artt. 38 e 44 d.L. n.
+331 del 1993, dal momento che nel caso in esame non veniva in rilievo
+una triangolazione unionale. In assenza della nomina di un
+rappresentante fiscale in Italia da parte del soggetto comunitario
+l’operazione finale doveva essere, pertanto, regolarizzata mediante
+emissione di autofattura ex art. 17, comma 3, d.P.R. n. 633 del 1972,
+che prevede il meccanismo del reverse charge, che neutralizza l’IVA in
+relazione all’operazione di acquisto.
+3
+
+--- Pagina 4 ---
+
+2. L’Agenzia delle Entrate ha, quindi, ritenuto che la detrazione
+dell’IVA sull’acquisto operata dalla Leco Italy s.r.l. (attuata mediante
+registrazione delle bollette doganali con IVA a credito) non fosse
+corretta, emettendo i due atti di rettifica ex art. 54 d.P.R. n. 633 del
+1972, impugnati dalla contribuente davanti alla Commissione tributaria
+di Milano, che rigettava i ricorsi con sentenza n. 10818/2014; tale
+pronuncia era riformata dalla Commissione tributaria regionale di
+Milano, con la sentenza n. 3271/2016, con la quale venivano annullati
+gli avvisi di accertamento.
+3. Ad avviso del giudice di seconde cure Leco Italy ha provveduto,
+tramite spedizioniere, a sdoganare la merce, immettendola in libera
+pratica, attraverso la presentazione delle fatture emesse dalla casa
+madre nei confronti del distributore olandese. In tali fatture risulta che
+l’acquirente è Leco BV, ma il destinatario è Leco Italy. In dogana sono
+state, poi, presentate le fatture emesse da Leco BV (distributore) nei
+confronti di Leco Italy. Su tali fatture è stata versata l’IVA dallo
+spedizioniere che l’ha poi addebitata alla contribuente. Se è pacifico
+che siano configurabili due rapporti (casa madre statunitense-
+distributore olandese e distributore olandese-società italiana) è
+altrettanto vero che il primo di questi rapporti è fuori campo IVA e che
+il primo ingresso della merce è avvenuto in Italia (tanto è vero che le
+fatture spedite dalla casa madre indicano come luogo di consegna
+l’Italia).
+3.1. La CTR non ha, quindi, condiviso la ricostruzione dell’Agenzia
+delle Dogane, secondo cui il distributore olandese avrebbe dovuto
+nominare un rappresentante fiscale in Italia e poi rimborsare alla
+contribuente l’IVA versata in dogana. Difatti, uno solo è l’imprenditore
+che, avendo pagato l’IVA e immesso la merce al consumo, può
+chiederne il rimborso.
+4
+
+--- Pagina 5 ---
+
+4. Contro la sentenza della CTR l’Agenzia delle Entrate ha proposto
+ricorso in cassazione con due motivi.
+5. La contribuente ha resistito con controricorso.
+RAGIONI DELLA DECISIONE
+1. Con il primo motivo di ricorso è stata denunciata, in relazione
+all’art. 360, primo comma, n. 4, cod. proc. civ., la violazione e/o falsa
+applicazione degli artt. 132, comma 2, n. 4, cod. proc. civ., 118 disp.
+att. cod. proc. civ., 36, comma 2, n. 4, e 61 d.lgs. n. 546 del 1992.
+1.1. Con tale motivo la ricorrente rileva che le affermazioni
+contenute nella sentenza impugnata sono palesemente contraddittorie,
+in quanto la CTR, pur riconoscendo che nella specie sussistevano due
+distinti rapporti giuridici tra la società statunitense e quella olandese e
+tra quest’ultima e la società italiana, attribuisce alla contribuente la
+qualifica di importatore e, conseguentemente, di acquirente dei beni di
+provenienza comunitaria e, quindi, di parte del contratto concluso con
+la società americana. Inoltre, pur evidenziando che l’operazione
+passiva è avvenuta all’estero e non Italia ritiene che il recupero a
+tassazione sarebbe illegittimo, in quanto l’importazione si è realizzata
+al momento dell’immissione in libera pratica, cioè con riferimento al
+segmento negoziale svoltosi in Italia.
+1.2. Ad avviso di parte ricorrente sono apodittiche le affermazioni
+che attribuiscono alla contribuente la qualifica di importatore per aver
+preso in consegna la merce in dogana e aver curato le operazioni
+necessarie per l’immissione dei beni in libera a pratica e laddove
+negano che sia la società olandese ad aver importato le merci.
+1.3. Il motivo è infondato. Le Sezioni Unite di questa Corte hanno,
+infatti, precisato che è denunciabile in cassazione solo l'anomalia
+motivazionale che si tramuta in violazione di legge costituzionalmente
+rilevante, in quanto attinente all'esistenza della motivazione in sé,
+purché il vizio risulti dal testo della sentenza impugnata, a prescindere
+5
+
+--- Pagina 6 ---
+
+dal confronto con le risultanze processuali. Tale anomalia si esaurisce
+nella "mancanza assoluta di motivi sotto l'aspetto materiale e grafico",
+nella "motivazione apparente", nel "contrasto irriducibile tra
+affermazioni inconciliabili" e nella "motivazione perplessa ed
+obiettivamente incomprensibile", esclusa qualunque rilevanza del
+semplice difetto di "sufficienza" della motivazione (Cass., Sez. U,
+07/04/2014, n. 8053; in senso conforme v. Cass., 12/10/2017, n.
+23940). Nel caso di specie è individuabile il percorso argomentativo
+seguito dal giudice di seconde cure che, partendo dalla ricostruzione
+dei rapporti negoziali tra società madre americana e distributore
+olandese e tra quest’ultimo e la contribuente, ha ritenuto dirimente la
+circostanza che le merci fossero state immesse in libera pratica in
+Italia.
+2. Con il secondo motivo di ricorso è stata denunciata, in relazione
+all’art. 360, primo comma, n. 3, cod. proc. civ., la violazione e/o falsa
+applicazione degli artt. 3, 23, 53 e 111 Cost., 113 e 114 cod. proc. civ.,
+1, comma 2, d.lgs. n. 546 del 1992, 1, 6, 7, 17, 19, 38-ter, 54 e 67
+d.P.R. n. 633 del 1972, 79 Reg. (CEE) n. 2913 del 1992, 2, 14, 30, 31,
+32, 193 e 201, Direttiva 2006/112/CE del 28/11/2006 (hinc: Direttiva
+IVA), 6, comma 6, e 9 d.lgs. n. 471 del 1997.
+2.1. Con tale motivo la ricorrente rileva – contrariamente a quanto
+argomentato nella sentenza impugnata – che le cessioni rilevanti nel
+caso in esame (i.e. quella dalla società statunitense alla società
+olandese e quella di quest’ultima alla società contribuente) sono
+entrambe rilevanti, ai fini IVA, e tassabili nello Stato italiano, in quanto:
+- la cessione dalla società statunitense a quella olandese integra
+un’importazione, imponibile ai fini IVA, ai sensi dell’art. 67, comma 1,
+d.P.R. n. 633 del 1972 e degli artt. 2 e 201 Direttiva IVA, trattandosi
+di «beni introdotti nel territorio dello Stato, che siano originari da Paesi
+o territori non compresi nel territorio della Comunità e che non siano
+6
+
+--- Pagina 7 ---
+
+stati già immessi in libera pratica in altro Paese membro della Comunità
+medesima»;
+- la (seconda) cessione della società olandese alla società
+(contribuente) italiana rileva come cessione imponibile, ai fini IVA, ai
+sensi degli artt. 2, 6 e 7, comma 2, d.P.R. n. 633 del 1972, 2, 13 e 32
+Direttiva IVA, trattandosi di cessione di beni non di origine comunitaria,
+ma immessi in libera pratica in Italia e, contestualmente, trasferiti alla
+società italiana.
+In entrambi i casi l’IVA grava sulla società olandese: nel primo caso
+in qualità di importatore e nel secondo caso in qualità di cedente, ai
+sensi dell’art. 17 d.P.R. n. 633 del 1972, nella versione applicabile
+ratione temporis.
+Nel caso di specie, tuttavia, era la società italiana – ricevute e
+contabilizzate le fatture provenienti dalla società olandese senza IVA –
+a sdoganare la merce e a versare l’IVA tramite uno spedizioniere
+doganale appositamente incaricato, detraendo, successivamente,
+l’imposta assolta. Da qui il recupero a tassazione dell’Ufficio, fondato
+sulla constatazione che la condotta realizzata dalla contribuente aveva
+determinato un pregiudizio per l’erario, considerata la minore IVA
+incassata per effetto dell’illegittima detrazione da parte di Leco Italy
+s.r.l. e del mancato versamento dell’IVA relativa alla cessione dei beni
+da parte della società olandese in favore di quella italiana. L’error iuris
+è tanto più grave, se si considera che, oltre all’obbligo di pagamento
+dell’IVA alle importazioni, il meccanismo del cd. reverse charge –
+pacificamente applicabile alla cessione della società olandese in favore
+di quella italiana – avrebbe escluso qualsiasi pregiudizio per l’erario,
+salvaguardando, al contempo, il principio di neutralità dell’IVA.
+2.2. La ricorrente censura, poi, l’affermazione della sentenza
+impugnata secondo cui: «… in ogni caso risulta poco comprensibile
+perché si dovrebbe imporre ad un soggetto che, oltre a non avere
+7
+
+--- Pagina 8 ---
+
+compiuto in Italia operazioni passive (quantomeno con riferimento a
+questo rapporto) neppure ha versato l’IVA, né ha immesso la merce in
+libera pratica, di accollarsi l’imposta attraverso una complessa
+operazione di rimborsi per poi chiederne, a sua volta, il rimborso …»
+Ad avviso della contribuente l’equità sostitutiva è consentita nei soli
+casi previsti dalla legge. Inoltre, i principi di uguaglianza, legalità e
+riserva di legge in materia tributaria, nonché di capacità contributiva
+(artt. 3, 23 e 53 Cost.), nonché i principi di buon andamento e
+imparzialità dell’azione amministrativa e dell’indisponibilità
+dell’obbligazione tributaria inducono a ritenere che la cd. equità
+sostitutiva non possa mai venire in rilievo nelle controversie tributarie.
+3. Il secondo motivo di ricorso è infondato.
+3.1 Come rilevato più volte, è incontestato che la vicenda tragga
+origine dalle vendite eseguite dalla casa madre statunitense in favore
+della società distributrice olandese, che ha poi ceduto i beni alla
+contribuente.
+I beni sono stati immessi non solo in libera pratica, ma anche in
+consumo (mediante il pagamento dell’IVA) in Italia. Nel caso di specie
+i beni sono interessati da una triangolazione unionale impropria, in
+quanto caratterizzata dalla presenza di un operatore extraunionale
+(nella specie la casa madre statunitense). Tale triangolazione si
+realizza attraverso una duplice cessione, la prima delle quali avviene
+tra un operatore extra UE (USA) e un operatore che risiede in uno Stato
+membro dell’Unione europea (Olanda) e la seconda interviene tra
+quest’ultimo e un altro operatore con sede in un altro Stato membro
+(Italia).
+3.1. La questione dirimente, per stabilire se il comportamento della
+società contribuente italiana sia corretto (e quindi se l’IVA sia stata
+applicata correttamente), è costituita dalla qualificazione della prima
+cessione (USA-Olanda), che è da ritenere avvenuta fuori campo IVA,
+8
+
+--- Pagina 9 ---
+
+dato che i beni non sono stati introdotti in Olanda, ma sono entrati nel
+territorio unionale solo al momento in cui sono stati presentati alla
+dogana in Italia e immessi in libera pratica nello Stato in cui risiedeva
+l’acquirente della seconda cessione (Olanda-Italia), odierna
+controricorrente. La cessione tra la casa madre statunitense e la
+società olandese non può essere, quindi, qualificata come
+importazione, dal momento che i beni sono stati presentati alla dogana
+italiana ed è da qui che sono entrati nel territorio unionale essendo in
+tal momento assoggettati – correttamente – all’iva sulle importazioni.
+4. Sul punto deve essere, quindi, data continuità – non essendo
+stata contestata dall’Amministrazione finanziaria alcuna forma di
+elusione o di abuso del diritto da parte della controricorrente - a un
+risalente precedente di questa Corte, secondo il quale, in materia di
+IVA sulle importazioni, in base all’art. 1 d.P.R. 26 ottobre 1972 n. 633,
+che prescrive che la imposta sul valore aggiunto si applica sulle
+importazioni da chiunque effettuate, devono ritenersi indifferenti, ai fini
+della identificazione dell'importatore, le attività realizzate fuori del
+territorio dello Stato dovendosi avere riguardo a chi risultando tale
+abbia provveduto allo sdoganamento. Conseguentemente è illegittimo
+presumere la diversa identità dell'importatore dal rilievo che fuori del
+territorio dello Stato l'oggetto della importazione può essere stato
+acquistato da soggetto non in nome e per conto dell'importatore, ma
+in nome e per conto proprio come "provvista" di una cessione realizzata
+all'estero in favore di colui che ha, poi, provveduto alla importazione,
+assolvendo la imposta relativa (Cass.16/11/1992, n. 12263).
+5. Deve, quindi, affermarsi, quale principio di diritto che: «in
+materia di IVA, salvo che l’amministrazione finanziaria contesti il
+ricorrere di un’ipotesi di elusione o di abuso del diritto, in caso di
+triangolazioni unionali improprie, nelle quali un operatore avente sede
+fuori dall’Unione europea esegua una cessione in favore di un operatore
+9
+
+--- Pagina 10 ---
+
+avente sede in uno Stato membro europea che ceda, a sua volta, i beni
+acquistati a un altro operatore che risieda o abbia sede in un diverso
+Stato membro e i beni siano presentati alla dogana, all’interno del
+territorio di quest’ultimo, deve ritenersi che la prima cessione sia
+avvenuta fuori campo IVA (in quanto priva del requisito della
+territorialità, non essendo i beni entrati nel paese in cui risiede il primo
+cessionario), mentre solamente la seconda cessione integra
+un’importazione rendendo, così, esigibile il pagamento dell’IVA e
+corretta la detrazione dell’imposta da parte del secondo cessionario.»
+6. Alla luce di quanto sin qui evidenziato il ricorso è infondato e
+deve essere rigettato, con la condanna della ricorrente al pagamento
+delle spese di lite del presente giudizio
+P.Q.M.
+rigetta il ricorso; condanna la ricorrente a pagare in favore della
+controricorrente le spese processuali del presente giudizio, liquidate in
+Euro 8.200,00 per compensi ed Euro 200,00 per esborsi, oltre 15%
+spese generali, CPE e I.V.A. come per legge.
+Così deciso in Roma, nella camera di consiglio del 30/01/2026.
+Il Presidente
+Roberto Succio
+10

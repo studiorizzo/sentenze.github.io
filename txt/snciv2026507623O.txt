@@ -1,0 +1,140 @@
+======================================================================
+Civile Ord. Sez. 5   Num. 30039  Anno 2025
+Presidente: FUOCHI TINARELLI GIUSEPPE
+Relatore: GRAZIANO FRANCESCO
+Data pubblicazione: 13/11/2025
+======================================================================
+
+ORDINANZA
+sul ricorso iscritto al n. 36601/2018 R.G. proposto da:
+Agenzia Delle Entrate in persona del legale rappresentante pro tempore,
+rappresentata e difesa dall'Avvocatura Generale Dello Stato
+-ricorrente-
+contro
+Lbm Italia Srl In Liquidazione in persona del legale rappresentante pro
+tempore
+-intimata-
+avverso la sentenza della Commissione Tributaria Regionale del Lazio n.
+3796/2018 depositata il 06/06/2018.
+Udita la relazione svolta nella camera di consiglio del 17/12/2025 dal
+Consigliere Salvatore Leuzzi.
+FATTI DI CAUSA
+Con processo verbale di constatazione relativo agli anni d’imposta 2009 e
+2010, l’Agenzia delle Entrate accertava la partecipazione della società
+
+--- Pagina 2 ---
+
+contribuente LMB a una frode carosello avente ad oggetto la
+compravendita di materiale elettronico.
+La società acquistava i prodotti tramite l’interposizione di società nazionali,
+le quali, a loro volta, si approvvigionavano da fornitori comunitari
+omettendo di versare l’IVA e rivendendo alla contribuente con un ricarico
+negativo.
+I fornitori della contribuente presentavano i caratteri tipici delle società
+cartiere o filtro, operanti in una frode IVA transnazionale, risultando privi
+di personale e mezzi proporzionati al volume d’affari realizzato. I soggetti
+interposti erano Phone Technology s.r.l., Emmebi s.r.l. e Global Com di
+Cesarini Andrea.
+Su tali basi veniva notificato alla contribuente un avviso di accertamento,
+con il quale si procedeva al recupero delle imposte dovute. La società
+impugnava l’atto dinanzi alla CTP di Roma, che respingeva il ricorso. In
+grado di appello, la CTR del Lazio annullava invece l’avviso di
+accertamento.
+Avverso tale decisione l’Agenzia delle Entrate propone ricorso per
+cassazione, affidato a un unico motivo. La società contribuente è rimasta
+intimata.
+MOTIVI DELLA DECISIONE
+Con l’unico motivo di ricorso si deduce la violazione degli artt. 19 e 54 del
+D.P.R. n. 633 del 1972 e dell’art. 2697 c.c., in relazione all’art. 360,
+comma 1, n. 3, c.p.c. La contribuente censura la sentenza impugnata per
+aver la CTR erroneamente fondato la decisione su tre assunti: che l’Ufficio
+avrebbe dovuto individuare il fornitore comunitario occulto; che la merce
+sarebbe stata realmente trasportata dalle sedi dei fornitori alla società
+contribuente; che i fornitori sarebbero effettivi in quanto iscritti al sistema
+VIES ancora nel marzo 2016 e titolari di partita IVA.
+2
+
+--- Pagina 3 ---
+
+La CTR ha osservato testualmente: “La sentenza impugnata, senza alcuna
+specifica motivazione, fa propria la tesi dell’ufficio... secondo cui le società
+fornitrici... sarebbero tutte interposte e prive di reale organizzazione,
+malgrado la contribuente abbia potuto provare, con dovizia di particolari,
+l’effettivo trasporto e successiva consegna di varie migliaia di prodotti
+telefonici venduti all’appellante”.
+Il giudice d’appello ha aggiunto: “Per spiegare la sussistenza di operazioni
+inesistenti, l’amministrazione ha allegato degli schemi esemplificativi... in
+cui si echeggia un fantomatico ‘fornitore comunitario’, quale reale fornitore
+della merce, mai identificato, almeno tratteggiato, teorizzando quindi delle
+‘triangolazioni prive di un terzo lato’”.
+La CTR ha inoltre evidenziato che l’Agenzia “avrebbe... dovuto
+quantomeno individuare il fornitore reale dei cellulari arrivati sul mercato”,
+mentre “non è stata in grado di individuare tale fornitore”. Ancora, ha
+rilevato che “l’effettività delle transazioni è confermata dai resoconti delle
+società di logistica; Roma Service è la società consortile che ha fornito
+prova certa dell’origine e della provenienza della merce. A tale riguardo,
+basterà fare riferimento ai numerosi documenti di trasporto che
+dimostrano la provenienza dei beni”.
+Infine, la CTR ha osservato che, per dimostrare l’esistenza dei fornitori
+operativi, la contribuente “ha fatto riferimento al sistema VIES”, il quale
+“consente agli operatori commerciali, titolari di una partita IVA, che
+effettuano cessioni intracomunitarie, di verificare la validità del numero di
+identificazione IVA dei loro clienti attraverso il collegamento con i sistemi
+fiscali degli Stati membri dell’Unione Europea”. In tal modo, la
+contribuente avrebbe dimostrato di trovarsi in una situazione giuridica
+oggettiva di non conoscibilità delle operazioni fraudolente.
+Orbene, l’Agenzia ha contestato l’utilizzo di fatture per operazioni
+soggettivamente inesistenti, allegando elementi specifici quali la
+3
+
+--- Pagina 4 ---
+
+mancanza di mezzi e personale da parte dei fornitori nazionali apparenti,
+nonché l’omesso pagamento dell’IVA da parte di questi ultimi.
+Gli assunti su cui si fonda la sentenza d’appello – la necessità di
+individuare il fornitore comunitario occulto, l’effettivo trasporto della
+merce presso la sede della contribuente e l’iscrizione al sistema VIES delle
+società coinvolte – non reggono alla luce dei principi fissati da questa
+Corte in tema di operazioni soggettivamente inesistenti.
+Secondo consolidato orientamento, qualora l’Amministrazione finanziaria
+contesti che la fatturazione attiene a operazioni soggettivamente
+inesistenti, inserite o meno nell’ambito di una frode carosello, incombe
+sulla stessa l’onere di provare la consapevolezza del destinatario che
+l’operazione si inseriva in un’evasione dell’imposta, dimostrando, anche in
+via presuntiva, in base a elementi oggettivi specifici, che il contribuente
+fosse a conoscenza – o avrebbe dovuto esserlo, usando l’ordinaria
+diligenza in ragione della qualità professionale ricoperta – della sostanziale
+inesistenza del contraente; ove l’Amministrazione assolva a detto
+incombente istruttorio, grava sul contribuente la prova contraria di avere
+adoperato, per non essere coinvolto in un’operazione volta a evadere
+l’imposta, la diligenza massima esigibile da un operatore accorto, secondo
+criteri di ragionevolezza e proporzionalità in rapporto alle circostanze del
+caso concreto (Cass., 31 gennaio 2022, n. 2922; Cass., 20 luglio 2020, n.
+15369; Cass., 28 febbraio 2019, n. 5873; Cass., 20 aprile 2018, n. 9851).
+In sintesi, l’identificazione del fornitore reale è irrilevante rispetto alla
+contestazione dell’inesistenza soggettiva delle operazioni. Analogamente,
+l’effettività del trasporto e della consegna delle merci non muta la natura
+fittizia dell’interlocutore. Ciò che viene contestato non è l’esistenza
+materiale delle operazioni, bensì la dinamica sottesa, caratterizzata dal
+coinvolgimento di un soggetto privo di reale operatività.
+Parimenti, l’iscrizione al VIES si rivela ininfluente. La giurisprudenza
+unionale ha infatti chiarito che tale iscrizione costituisce un requisito
+4
+
+--- Pagina 5 ---
+
+meramente formale, non rilevante ai fini della qualificazione della cessione
+intracomunitaria, la quale richiede esclusivamente le condizioni sostanziali
+previste dall’art. 138, par. 1, della direttiva 2006/112/CE (Corte di
+Giustizia dell’Unione Europea, 9 febbraio 2017, causa C-21/16).
+Il motivo va, in ultima analisi, accolto. La sentenza d’appello va cassata e
+la causa rinviata per un nuovo esame e per la regolazione delle spese del
+giudizio di legittimità alla Corte di Giustizia Tributaria di II Grado del Lazio.
+P.Q.M.
+Accoglie il ricorso. Cassa la sentenza impugnata. Rinvia la causa per un
+nuovo esame e per la regolazione delle spese del giudizio alla Corte di
+Giustizia Tributaria di II Grado del Lazio.
+Così deciso in Roma, nella camera di consiglio del 17/12/2025.
+La Presidente
+Tania Hmeljak
+5
